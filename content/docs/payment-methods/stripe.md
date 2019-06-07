@@ -1,5 +1,5 @@
 ---
-path: "/payment-methods/Stripe"
+path: "/payment-methods/stripe"
 updated: "2019-06-06"
 title: "Stripe"
 description: "Learn how to set up Stripe payments in your site."
@@ -11,8 +11,8 @@ category: "payment methods"
 
 This plugin integrates the Stripe Payment gateway with J2Store. It works and compatible with the latest Stripe API : 2014-01-31 (latest) 
 
-```NOTE: If you are using Stripe's in built form, Please make sure that you have enabled SSL.
-If not, this might cause issues in the Stripe's Javasript from loading on the site, thus blocking the checkout process.```
+***NOTE: If you are using Stripe's in built form, Please make sure that you have enabled SSL.
+If not, this might cause issues in the Stripe's Javasript from loading on the site, thus blocking the checkout process.***
 
 #### Installation
 
@@ -128,13 +128,13 @@ The text entered here will be displayed when customer selects this payment metho
 
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the tips below.
 
-```Tip - ONLY FOR MULTI-LINGUAL SITES
+        Tip - ONLY FOR MULTI-LINGUAL SITES
 
-For example, enter a language constant:
+        For example, enter a language constant:
 
-J2STORE_TEXT_TO_DISPLAY_ON_SELECTION
+        J2STORE_TEXT_TO_DISPLAY_ON_SELECTION
 
-Now you can go to Joomla admin-> Language Manager->Overrides and create overrides for the language constant in all your languages.```
+        Now you can go to Joomla admin-> Language Manager->Overrides and create overrides for the language constant in all your languages.
 
 #### Display Text before Payment
 

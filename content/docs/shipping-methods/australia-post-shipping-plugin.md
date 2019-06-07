@@ -1,5 +1,5 @@
 ---
-path: "/shipping-methods/Australia-post-shipping-plugin"
+path: "/shipping-methods/australia-post-shipping-plugin"
 updated: "2019-06-06"
 title: "Australia post shipping plugin"
 description: "Here is how you could configure the Australia post shipping plugin."

@@ -1,11 +1,12 @@
 ---
-path: "/tax-configuration/recommended-tax-configuration-for-US-stores"
+path: "/tax-configuration/recommended-tax-configuration-for-us-stores"
 updated: "2019-06-06"
 title: "Tax configuration"
 description: "Here is a recommended tax configuration for the US stores"
 author: "Sowbagya lakshmi"
 category: "Tax configuration"
 ---
+
 # Recommended Tax configuration for US Stores
 
 This is an example setting for stores in United States. This also applies to many other countries that follow a US style of tax system. For detailed information on tax, please consult an expert.

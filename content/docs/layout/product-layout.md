@@ -1,5 +1,5 @@
 ---
-path: "/Layout/product-layout"
+path: "/layout/product-layout"
 updated: "2019-06-03"
 title: "Product layout"
 description: "Learn how to create a menu for your products page."

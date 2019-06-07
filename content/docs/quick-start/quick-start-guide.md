@@ -1,5 +1,5 @@
 ---
-path: "/quickstart/quickstart-guide"
+path: "/quick-start/quick-start-guide"
 updated: "2019-02-28"
 title: "Quickstart guide"
 description: " A quickstart guide to configure your online store"

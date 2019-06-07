@@ -1,5 +1,5 @@
 ---
-path: "/reporting/Report-sales"
+path: "/reporting/report-sales"
 updated: "2019-06-06"
 title: "Report-sales"
 description: "Here is how you could generate reports of sales."

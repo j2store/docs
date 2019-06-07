@@ -1,5 +1,5 @@
 ---
-path: "/docs/getting-started/migrate-from-2x-to-3x"
+path: "/getting-started/migrating-from-2x-to-3x"
 updated: "2019-05-31"
 title: "Migrating from 2.x to3.x"
 description: "Here is a guide on how to migrate from 2.x to 3.x"
@@ -17,8 +17,6 @@ Version 3 is re-written from scratch using the FOF Framework for Joomla. It come
 We have created a tool, which simplifies the migration of your 2.x store to the latest 3.x version.
 
     Please read the documentation carefully before you attempt the migration.
-
-
 #### **Actions to be taken before migration**
 
 Please install Akeeba Backup, which is one of the best backup apps available for Joomla (and it is free! ) and take a **FULL BACKUP** of your site.
@@ -27,10 +25,11 @@ Please install Akeeba Backup, which is one of the best backup apps available for
     If you proceed without taking a BACKUP and if you wanted to revert back to old version, you will end up going in the toughest route. So please take a FULL BACKUP of your site before proceeding with the migration
 
 Also
-*   Make sure your J2Store version is 2.8.x or later
-*   If you are using an old 2.x version, first update it to 2.8.x
-*   Set your site offline
-*   Set Error Reporting to None in the Global Configuration
+
+* Make sure your J2Store version is 2.8.x or later
+* If you are using an old 2.x version, first update it to 2.8.x
+* Set your site offline
+* Set Error Reporting to None in the Global Configuration
 
 
 #### **Pre-requisites**

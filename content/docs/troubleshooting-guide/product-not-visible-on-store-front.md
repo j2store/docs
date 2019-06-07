@@ -1,5 +1,5 @@
 ---
-path: "/troubleshooting-guide/products-not-visible-on-store-front"
+path: "/troubleshooting-guide/product-not-visible-on-store-front"
 updated: "2019-05-30"
 title: "Products not visible on storefront"
 description: "Basic troubelshooting steps for most commonly faced issues."

@@ -1,5 +1,5 @@
 ---
-path: "/docs/getting-started/upgrade-from-free-version-to-PRO-version"
+path: "/docs/getting-started/upgrade-from-free-version-to-pro-version"
 updated: "2019-05-31"
 title: "Upgrade from FREE version to PRO version of J2Store"
 description: "Upgrade from the FREE version of J2Store to the PRO version"
