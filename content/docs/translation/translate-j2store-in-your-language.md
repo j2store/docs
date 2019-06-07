@@ -1,5 +1,5 @@
 ---
-path: "/translation/translate-j2store-into-your-language"
+path: "/translation/translate-j2store-in-your-language"
 updated: "2019-06-06"
 title: "Translate J2Store into your language"
 description: "Know how to contribute to Transifex translations to translate J2Store part of your store."

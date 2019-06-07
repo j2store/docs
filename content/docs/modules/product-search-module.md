@@ -1,5 +1,5 @@
 ---
-path: "/modules/Product-search-module"
+path: "/modules/product-search-module"
 updated: "2019-06-06"
 title: "Product search module"
 description: "Learn how to configure the product search module"
