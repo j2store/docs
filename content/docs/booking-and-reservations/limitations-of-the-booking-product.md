@@ -17,7 +17,8 @@ Screenshot:
 ![Minutes-hourly-blocks-not-allowed](../../images/booking-and-reservations/Limitations-of-the-booking-product/minutes-hours-blocks.png)
 - Though you could set up person type based booking products, it is not possible to maintain or manage inventory based on the number of persons chosen by the user on the storefront.
 
-** Instance **
+**Instance**
+
 For example: Person types allowed are as follows:
  1) Adult
  2) Children

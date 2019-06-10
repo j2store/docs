@@ -28,11 +28,11 @@ You can install this shipping plugin, using joomla installer.
 
 The installation procedure is illustrated in the image below:
 
-![Australia post installation](../../images/shipping-methods/Australia post/aus-ship-plg-install.png)
+![Australia post installation](../../images/shipping-methods/AustraliaPost/aus-ship-plg-install.png)
 
-![Australia post navigation](../../images/shipping-methods/Australia post/aus-ship-dashboard-nav.png)
+![Australia post navigation](../../images/shipping-methods/AustraliaPost/aus-ship-dashboard-nav.png)
 
-![Australia post methods list](../../images/shipping-methods/Australia post/aus-post-ship-method-list.png)
+![Australia post methods list](../../images/shipping-methods/AustraliaPost/aus-post-ship-method-list.png)
 
 ## Parameters 
 
