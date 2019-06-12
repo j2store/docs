@@ -2,7 +2,7 @@
 path: "/frequently-asked-questions/products-not-aligned-properly-on-list-view"
 updated: "2019-05-30"
 title: "Products not aligned properly on list view"
-description: " A quickstart guide to configure your online store"
+description: " Reasons for products not being aligned properly on the storefront"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
