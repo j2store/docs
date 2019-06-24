@@ -1,5 +1,5 @@
 ---
-path: "/docs/apps/ask-quote"
+path: "/docs/apps/ask-question-quote"
 updated: "2019-06-20"
 title: "Ask quote"
 description: "Know how to allow customers to request a quote, by emailing their desired products."
@@ -81,23 +81,25 @@ Enter the label of  custom field which you wish include the email
     - **Email Body**
 
 Enter the body of the email here. You can use the below shortcodes in the text editor:
-[SITENAME]
-[FIRST_NAME]
-[LAST_NAME]
-[PHONE_1]
-[PHONE_2]
-[EMAIL]
-[COMPANY]
-[TAX_NUMBER]
-[ADDRESS_1]
-[ADDRESS_2]
-[CITY]
-[ZIP]
-[COUNTRY_NAME]
-[ZONE_NAME]
-[PRODUCT_NAME]
-[PRODUCT_SKU]
-[PRODUCT_PRICE]
+
+[SITENAME]<br>
+[FIRST_NAME]<br>
+[LAST_NAME]<br>
+[PHONE_1]<br>
+[PHONE_2]<br>
+[EMAIL]<br>
+[COMPANY]<br>
+[TAX_NUMBER]<br>
+[ADDRESS_1]<br>
+[ADDRESS_2]<br>
+[CITY]<br>
+[ZIP]<br> 
+[COUNTRY_NAME]<br>
+[ZONE_NAME]<br>
+[PRODUCT_NAME]<br>
+[PRODUCT_SKU]<br> 
+[PRODUCT_PRICE]<br>
+
 
 To display the custom field information enterd by the user when filling form in an email the customer and admin receive, it is possible by adding the shortcode of respective custom field in the Email body editor. For example, if you are having text area as a custom field in your product quote form, then copy the field name(you can get it in custom field section J2Store > Setup > Custom fields) and paste it in Email body editor. The custom field shortcode should be enclosed with square braces. For example, [message].
 

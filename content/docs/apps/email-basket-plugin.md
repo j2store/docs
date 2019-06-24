@@ -1,7 +1,7 @@
 ---
-path: "/docs/apps/email-basket"
+path: "/docs/apps/email-basket-plugin"
 updated: "2019-06-20"
-title: "Email basket"
+title: "Email basket Plugin"
 description: "Know how to allow customers to request a quote, by emailling their cart."
 author: "Sowbagya lakshmi"
 category: "apps"

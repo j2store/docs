@@ -1,11 +1,12 @@
 ---
-path: "/docs/apps/gift-card"
+path: "/apps/gift-cards"
 updated: "2019-06-20"
 title: "Gift cards"
 description: "Sell vouchers and gift cards on your site."
 author: "Sowbagya lakshmi"
 category: "apps"
 ---
+
 # Gift Cards
 
 Offer Gift Card purchase to your customers. Providing Gift cards widens your window of sales. With this plugin, Store Owners will be able to create and sell Gift cards. A gift card or cash card is automatically generated and sent as email.
