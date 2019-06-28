@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/payfast-payment-plugin"
 updated: "2019-06-25"
-title: "Payfast Payment plugin¨
+title: "Payfast Payment plugin"
 description: "Learn how to set up Payfast Payment plugin in your site."
 author: "Varsha"
 category: "payment methods"

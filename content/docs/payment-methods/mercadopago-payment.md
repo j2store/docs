@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/mercadopago-payment"
 updated: "2019-06-25"
-title: "Mercadopago Payment ¨
+title: "Mercadopago Payment ¨"
 description: "Learn how to set up Mercadopago Payment  in your site."
 author: "Varsha"
 category: "payment methods"

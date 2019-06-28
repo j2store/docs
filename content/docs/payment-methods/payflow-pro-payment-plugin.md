@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/payflow-pro-payment-plugin"
 updated: "2019-06-25"
-title: "Payflow Pro Payment plugin¨
+title: "Payflow Pro Payment plugin¨"
 description: "Learn how to set up Payflow Pro Payment plugin in your site."
 author: "Varsha"
 category: "payment methods"

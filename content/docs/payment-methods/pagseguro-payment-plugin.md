@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/pagseguro-payment-plugin"
 updated: "2019-06-25"
-title: "Pagseguro Payment plugin¨
+title: "Pagseguro Payment plugin"
 description: "Learn how to set up Pagseguro Payment plugin in your site."
 author: "Varsha"
 category: "payment methods"

@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/paygate-payment"
 updated: "2019-06-25"
-title: "Paygate Payment¨
+title: "Paygate Payment¨"
 description: "Learn how to set up Paygate Payment in your site."
 author: "Varsha"
 category: "payment methods"

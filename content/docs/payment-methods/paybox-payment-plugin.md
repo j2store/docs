@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/paybox-payment-plugin"
 updated: "2019-06-25"
-title: "Paybox Payment plugin¨
+title: "Paybox Payment plugin¨"
 description: "Learn how to set up Paybox Payment plugin in your site."
 author: "Varsha"
 category: "payment methods"

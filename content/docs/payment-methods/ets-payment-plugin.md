@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/ets-payment-plugin"
 updated: "2019-06-25"
-title: "ETS Payment Plugin¨
+title: "ETS Payment Plugin¨"
 description: "Learn how to set up ETS Payment Plugin in your site."
 author: "Varsha"
 category: "payment methods"

@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/ogone-payment-plugin"
 updated: "2019-06-25"
-title: "Ogone Payment plugin¨
+title: "Ogone Payment plugin¨"
 description: "Learn how to set up Ogone Payment plugin in your site."
 author: "Varsha"
 category: "payment methods"

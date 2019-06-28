@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/paypal-advanced-payment-plugin"
 updated: "2019-06-25"
-title: "Paypal Adavnced Payment plugin¨
+title: "Paypal Adavnced Payment plugin¨"
 description: "Learn how to set up Paypal Advanced Payment plugin in your site."
 author: "Varsha"
 category: "payment methods"

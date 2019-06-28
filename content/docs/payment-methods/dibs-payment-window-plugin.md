@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/dibs-payment-window-plugin"
 updated: "2019-06-25"
-title: "DIBS Payment Window Plugin¨
+title: "DIBS Payment Window Plugin¨"
 description: "Learn how to set up DIBS Payment Window Plugin in your site."
 author: "Varsha"
 category: "payment methods"

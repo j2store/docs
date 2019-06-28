@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/money-order"
 updated: "2019-06-25"
-title: "Money Order¨
+title: "Money Order¨"
 description: "Learn how to set up Money Order in your site."
 author: "Varsha"
 category: "payment methods"

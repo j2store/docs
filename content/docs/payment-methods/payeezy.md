@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/payeezy"
 updated: "2019-06-25"
-title: "Payeezy¨
+title: "Payeezy¨"
 description: "Learn how to set up Payeezyin your site."
 author: "Varsha"
 category: "payment methods"

@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/nmi-payment-gateway"
 updated: "2019-06-25"
-title: "NMI Payment Gateway¨
+title: "NMI Payment Gateway¨"
 description: "Learn how to set up NMI Payment Gateway in your site."
 author: "Varsha"
 category: "payment methods"

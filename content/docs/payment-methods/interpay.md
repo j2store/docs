@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/interpay"
 updated: "2019-06-25"
-title: "Interpay¨
+title: "Interpay¨"
 description: "Learn how to set up Interpay in your site."
 author: "Varsha"
 category: "payment methods"

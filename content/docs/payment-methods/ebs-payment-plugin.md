@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/ebs-payment-plugin"
 updated: "2019-06-25"
-title: "EBS Payment Plugin¨
+title: "EBS Payment Plugin¨"
 description: "Learn how to set up EBS Payment Plugin in your site."
 author: "Varsha"
 category: "payment methods"

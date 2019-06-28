@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/paypal-sandbox"
 updated: "2019-06-25"
-title: "Paypal Sandbox¨
+title: "Paypal Sandbox¨"
 description: "Learn how to set up Paypal Sandbox in your site."
 author: "Varsha"
 category: "payment methods"

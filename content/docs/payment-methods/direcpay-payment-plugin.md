@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/direcpay-payment-plugin"
 updated: "2019-06-25"
-title: "Direcpay Payment Plugin¨
+title: "Direcpay Payment Plugin¨"
 description: "Learn how to set up Direcpay Payment Plugin in your site."
 author: "Varsha"
 category: "payment methods"

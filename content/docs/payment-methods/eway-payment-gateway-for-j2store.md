@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/eway-payment-gateway-for-j2store"
 updated: "2019-06-25"
-title: "Eway Payment Gateway for j2store¨
+title: "Eway Payment Gateway for j2store¨"
 description: "Learn how to set up Eway payment gateway for j2store in your site."
 author: "Varsha"
 category: "payment methods"

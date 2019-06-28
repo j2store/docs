@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/checkout-fi"
 updated: "2019-06-25"
-title: "Checkout fi¨
+title: "Checkout fi¨"
 description: "Learn how to set up Checkout.fi in your site."
 author: "Varsha"
 category: "payment methods"

@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/paymill-payment-plugin"
 updated: "2019-06-25"
-title: "Paymill Payment plugin¨
+title: "Paymill Payment plugin¨"
 description: "Learn how to set up Paymill Payment plugin in your site."
 author: "Varsha"
 category: "payment methods"

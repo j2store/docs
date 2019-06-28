@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/culqi-payment"
 updated: "2019-06-25"
-title: "Culqi Payment¨
+title: "Culqi Payment¨"
 description: "Learn how to set up Culqi Payment in your site."
 author: "Varsha"
 category: "payment methods"

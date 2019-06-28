@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/icepay-payment-plugin"
 updated: "2019-06-25"
-title: "Icepay Payment Plugin¨
+title: "Icepay Payment Plugin¨"
 description: "Learn how to set up Icepay Payment Plugin in your site."
 author: "Varsha"
 category: "payment methods"

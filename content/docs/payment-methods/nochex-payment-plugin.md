@@ -1,7 +1,7 @@
 ---
 path: "/payment-methods/nochex-payment-plugin"
 updated: "2019-06-25"
-title: "Nochex Payment Plugin¨
+title: "Nochex Payment Plugin¨"
 description: "Learn how to set up Nochex Payment Plugin in your site."
 author: "Varsha"
 category: "payment methods"
