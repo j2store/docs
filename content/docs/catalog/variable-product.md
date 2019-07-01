@@ -225,4 +225,57 @@ You can see the blue link, 'Set Values' adjacent to the option 'Color'. Click th
 ![Set values](../../images/catalog/variable-product/create_variable_cart_variants_setvalues.png)
 
 If you select the value for the option and click the create button, you will get the resulting screen like this.
+![Set option values](../../images/catalog/variable-product/create_variable_cart_variants_setvalues_1.png)
 
+Close the window using the X in the top right corner and return to the tabs.
+![Generate variants](../../images/catalog/variable-product/create_variable_cart_generate_variants.png)
+
+Now, as shown in the image, click on the 'Generate Variants', a green colored button, to generate variants for the products.
+
+![Generating variants](../../images/catalog/variable-product/create_variable_cart_genrating_variants.png)
+
+As you click the buttons to generate variants, the buttons adjusts itself to display the message 'Generating variants... please wait'. Now its done. See the variants listed below, as shown in the image.
+
+![Generated variants list](../../images/catalog/variable-product/create_variable_cart_variants_generated.png)
+
+Once the variants are generated, you can edit the variants and add necessary details to the variant. When you edit a variant, you will have all the tabs in cart except variant tab. Fill in the required details for the product variant.
+
+![Editing variants](../../images/catalog/variable-product/editing_variants.png)
+
+Having completed variants tab, now move on to filtes tab.
+
+**Filters**
+
+Here, you can set the filters to narrow product search. When you set filter value as 'Mens', all mens T-Shirts will be displayed. Likewise, women and kids. See the illustration below:
+
+![Filters](../../images/catalog/variable-product/create_variable_cart_variants_filters.png)
+
+**Relations**
+
+![Relations](../../images/catalog/variable-product/create_variable_cart_relations.png)
+
+The next tab is Relations. Here, you can add products of higher value than the one being viewed by the customer and recommend the customer to buy that product, citing its advantages and additional features. This is an upsell.
+
+Also, you can add some other products to convince the customer to buy theses products additionally. This is cross sell.
+
+For more detailed explanation, refer to the **Relations** section of the **Variable Product**.
+
+**Apps**
+
+![Apps section](../../images/catalog/variable-product/create_variable_cart_apps.png)
+
+In this tab, you can add third party tools or plugins, that are available, to enhance the J2Store functionality, like adding additional fields, applications, functions or features.
+
+Now, lets have a look on how your product is viewed in your online store. Check the image below:
+
+![Frontend view](../../images/catalog/variable-product/poloshirt_on_cart.png)
+
+**Video Tutorial:**
+
+Here is a video that could help you create a product with variants:
+[![Selling products with variants](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/etsNdfUYrgw "Selling products with variants")
+
+To know how to manage inventory for variable products, follow the instructions given here:
+[![Managing inventory for variants](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/8givojFFolM "Managing inventory for variants")
+
+[![Changing product images when variants are chosen](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/ipfyi2EtyMo "Changing images when variants are chosen")
