@@ -225,7 +225,6 @@ In this tab, you can add third party tools or plugins, that are available, to en
 Now, lets have a look on how your product is viewed in your online store. Check the image below:
 
 ![Frontend](../../images/catalog/downloadable-product/down_product_on_cart.png)
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 **How to sell files that are stored externally?**
 
