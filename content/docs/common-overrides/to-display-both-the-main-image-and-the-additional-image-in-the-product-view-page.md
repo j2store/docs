@@ -1,6 +1,6 @@
 ---
 path: "/docs/Common-Overrides/to-display-both-the-main-image-and-the-additional-image-in-the-product-view-page"
-updated: "2019-0-12"
+updated: "2019-06-12"
 title: "/to-display-both-the-main-image-and-the-additional-image-in-the-product-view-page"
 description: ""
 author: "Kiruthigha"

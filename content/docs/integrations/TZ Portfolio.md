@@ -1,12 +1,10 @@
 ---
-
 path: "/docs/integrations/tz-portfolio"
 updated: "2019-06-24"
 title: "sobipro"
 description: ""
 author: "Kiruthigha"
 category: "Integrations"
-
 ---
 
 Now J2Store integrates with TZ Portfolio Content Management System. Lets start creating portfolio as J2Store Products.

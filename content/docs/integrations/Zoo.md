@@ -1,12 +1,10 @@
 ---
-
 path: "/docs/integrations/zoo"
 updated: "2019-06-24"
 title: "Zoo"
 description: ""
 author: "Kiruthigha"
 category: "Integrations"
-
 ---
 
 **Introduction**

@@ -1,12 +1,10 @@
 ---
-
-path: "/docs/Common-overrides/moving-additional-image-list-to-the-left-of-the-main-image-in-product-view-page "
+path: "/docs/Common-overrides/moving-additional-image-list-to-the-left-of-the-main-image-in-product-view-page"
 updated: "2019-06-12"
 title: "Moving-additional-image-list-to-the-left-of-the-main-image-in-product-view-page"
 description: ""
 author: "Kiruthigha"
 category: "Common-overrides"
-
 ---
 
 If you are trying to move the additional images to the left side of the main image in the product item view page, then it is possible by creating an override as follows:

@@ -1,5 +1,4 @@
 ---
-
 path: "/docs/easy-checkout/troubleshooting-easy-checkout"
 updated: "2019-06-27"
 title: "Trouble shooting issues"

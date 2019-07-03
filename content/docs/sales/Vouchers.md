@@ -1,7 +1,7 @@
 ---
 path: "/docs/sales/vouchers"
 updated: "2019-06-27"
-title: ""
+title: "vouchers"
 description: ""
 author: "Kiruthigha"
 category: "Sales"

@@ -1,10 +1,10 @@
 ---
-path: "/docs/Developer-Guide/Getting-Started/Queue-System
+path: "/docs/developer-guide/getting-started/queue-system"
 updated: "2019-06-12"
-title: "Queue-System"
+title: "Queue System"
 description: ""
 author: "Kiruthigha"
-category: "Developer-Guide/Getting-started"
+category: "Developer Guide"
 ---
 
 Starting from J2Store 3.2.20, we are supporting a queue system. The queue system, at the moment, is not used by the J2Store core functions.However a few apps are using it.

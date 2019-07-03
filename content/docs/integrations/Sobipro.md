@@ -1,12 +1,10 @@
 ---
-
 path: "/docs/integrations/sobipro"
 updated: "2019-06-24"
 title: "sobipro"
 description: ""
 author: "Kiruthigha"
 category: "Integartions"
-
 ---
 
 **Introduction**

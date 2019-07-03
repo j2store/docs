@@ -1,15 +1,11 @@
 ---
 path: "/docs/sales/Orders"
 updated: "2019-06-27"
-title: ""
+title: "Orders"
 description: ""
 author: "Kiruthigha"
 category: "Orders"
-
 ---
-
-
-
 
 A customer views the product and completes the checkout process, it is transformed into an order.
 

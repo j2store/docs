@@ -1,5 +1,4 @@
 ---
-
 path: "/docs/general/How to create an FTP account and super user account in Joomla"
 updated: "2019-06-24"
 title: "How to create an FTP account and super user account in Joomla"

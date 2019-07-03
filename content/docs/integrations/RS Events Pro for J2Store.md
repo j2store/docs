@@ -1,12 +1,10 @@
 ---
-
 path: "/docs/integrations/rs-events-pro-for-j2store"
 updated: "2019-06-24"
 title: "RS-events-pro-for-j2store"
 description: ""
 author: "Kiruthigha"
 category: "Integartions"
-
 ---
 
 This plugin integrates RS Events PRO with J2Store. With this plugin, you can treat your events as products.

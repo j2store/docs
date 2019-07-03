@@ -3,7 +3,7 @@ path: "/set-up/introduction-to-subscriptions-and-memberships-in-j2store"
 updated: "2019-02-20"
 title: "Introduction to Subscriptions and Memberships in J2Store"
 description: ""
-author: ""
+author: "Kiruthiga"
 category: "setup"
 ---
 # Introduction
