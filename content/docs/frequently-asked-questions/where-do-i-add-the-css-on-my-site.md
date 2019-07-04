@@ -6,7 +6,6 @@ description: "Know where to add the CSS on your site to make layout changes"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# Where do I add the CSS on my site
 
 When you wish to customize your site's layout, this could be done with the help of CSS.
 Sometimes, you might wonder where to add the CSS code that we suggest.

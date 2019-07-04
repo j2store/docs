@@ -6,7 +6,6 @@ description: "Commonly found errors and messages"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# Commonly found issues
 
 **On update to 3.3.6**
 

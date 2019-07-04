@@ -6,11 +6,10 @@ description: "Learn how to install J2Store"
 author: "Sowbagya Lakshmi"
 category: "Getting-started"
 ---
-# **Installation**
 
 To install J2Store, you need j2store archive downloaded or purchased from[ <link-text url=”http://www.j2store.org/download.html” target=”_blank” rel=”noopener”>www.j2store.org](http://www.j2store.org/download.htm).</link-text>
 
-#### **J2Store Versions**
+**J2Store Versions**
 There are four plans available in j2store shopping cart extension.
 
 *   Basic
@@ -30,7 +29,7 @@ To install J2Store, you need j2store archive downloaded or purchased from <link-
 Remaining are for-a-fee plans which gives access to J2Store PRO version. You can choose any of the four and get a copy of the extension.
 
 
-#### **Installation**
+**Installation**
 
 In your Joomla control panel top menu, go to Extensions -> Extension Manager, as illustrated below.
 

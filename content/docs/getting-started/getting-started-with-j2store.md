@@ -7,9 +7,7 @@ author: "Sowbagya Lakshmi"
 category: "campaigns"
 ---
 
-# Getting started with J2Store
-
-### Building an online store? It's easy as 1-2-3
+**Building an online store? It's easy as 1-2-3**
 
 J2Store turns your native Joomla articles into products beautifully. Just create articles, treat them as products and launch your online store. It is really that simple.
 We have put together a list of resources to get you started with your store quickly:
