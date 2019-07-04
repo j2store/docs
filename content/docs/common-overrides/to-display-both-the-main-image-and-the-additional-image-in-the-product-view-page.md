@@ -1,7 +1,7 @@
 ---
 path: "/docs/Common-Overrides/to-display-both-the-main-image-and-the-additional-image-in-the-product-view-page"
 updated: "2019-06-12"
-title: "/to-display-both-the-main-image-and-the-additional-image-in-the-product-view-page"
+title: "To Display Both the main Image and the additional image in the product view page"
 description: ""
 author: "Kiruthigha"
 category: "Common-overrides"
@@ -15,15 +15,18 @@ Copy the above file and paste it under "/templates/your template/html/com_j2stor
 
 Now edit the file under the overridden path and around line 39, you would find this:
 
-`<?php elseif(!empty($this->product->main_image)):?>
+```
+<?php elseif(!empty($this->product->main_image)):?>
 <?php echo J2Store::product()->displayImage($this->product,array('type'=>'ViewMain','params' => $this->params)); ?>
 <?php endif; ?>
 </div>
-<?php endif; ?>`
+<?php endif; ?>
+```
 
 Change it to:
 
-`<?php elseif(!empty($this->product->main_image)):?>
+```
+<?php elseif(!empty($this->product->main_image)):?>
 <?php echo J2Store::product()->displayImage($this->product,array('type'=>'ViewMain','params' => $this->params)); ?>
  <?php endif; ?>
  </div>
@@ -35,8 +38,8 @@ Change it to:
 <?php elseif(!empty($this->product->thumb_image)):?>
 <?php echo J2Store::product()->displayImage($this->product,array('type'=>'Thumb','params' => $this->params)); ?>
 <?php endif; ?>
-</div>`
-
+</div>
+```
 
 Save.
 

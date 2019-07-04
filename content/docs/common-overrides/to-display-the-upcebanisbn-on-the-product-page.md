@@ -10,7 +10,8 @@ category: "Common-overrides"
 
 Navigate to **"/templates/your template/html/com_j2store/templates/your site's sub-template/",** create a file called "**default_sku.php**" and paste the following content there:
 
-`<?php
+```
+<?php
 /**
  * @package J2Store
  * `@copyright Copyright (c)2014-17 Ramesh Elamathi / J2Store.org
@@ -33,11 +34,13 @@ defined('_JEXEC') or die;
 <?php echo $this->product->variant->upc; ?>
 </span>
 </div>
-<?php endif; ?>`
+<?php endif; ?>
+```
 
 Create another file called "**view_sku.php**" and paste the following content there:
 
-`<?php
+```
+<?php
 /**
  * @package J2Store
  * `@copyright Copyright (c)2014-17 Ramesh Elamathi / J2Store.org
@@ -60,7 +63,8 @@ defined('_JEXEC') or die;
 <?php echo $this->product->variant->upc; ?>
 </span>
 </div>
-<?php endif; ?>`
+<?php endif; ?>
+```
 
 
  This would display the EBAN in the list view and item view pages.
