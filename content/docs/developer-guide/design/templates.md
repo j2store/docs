@@ -1,12 +1,11 @@
-----
+---
 path: "docs/developer-guide/design/templates"
 updated: "2019-06-20"
 title: "Templates"
 description: ""
 author: "Kiruthigha"
 category: "Design"
-
-----
+---
 
 
 **Introduction**

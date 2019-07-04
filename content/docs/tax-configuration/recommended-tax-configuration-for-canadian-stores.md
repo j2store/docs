@@ -1,7 +1,7 @@
 ---
-path: "/docs/tax-configuration/recommended-tax-configuration-for-Canadian-stores"
+path: "/docs/tax-configuration/recommended-tax-configuration-for-canadian-stores"
 updated: "2019-06-27"
-title: "Recommended-Tax-Configuration-for-Canadian-Stores"
+title: "Recommended Tax Configuration for Canadian stores"
 description: ""
 author: "Kiruthigha"
 category: "tax-configuration"

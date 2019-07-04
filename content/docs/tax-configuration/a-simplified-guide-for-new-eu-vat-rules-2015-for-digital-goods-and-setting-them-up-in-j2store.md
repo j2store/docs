@@ -1,11 +1,10 @@
 ---
-path: "/docs/tax-configuration/A simplified guide for New EU VAT rules 2015 for digital goods and setting them up in J2Store"
+path: "tax-configuration/a-simplified-guide-for-new-eu-vat-rules-2015-for-digital-goods-and-setting-them-up-in-j2store"
 updated: "2019-06-27"
-title: "Recommended-Tax-Configuration-for-US-Stores"
+title: "A simplified guide for New EU VAT rules 2015 for digital goods and setting them up in J2Store"
 description: ""
 author: "Kiruthigha"
 category: "campaigns"
-
 ---
 
 If you are a seller of digital goods and services, you would probably wondering about the new European VAT rules that came into effect from January 1, 2015.

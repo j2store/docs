@@ -1,15 +1,11 @@
 ---
 path: "/docs/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store"
 updated: "2019-06-27"
-title: "setting-up-european-vat-rules-for-selling-physical-goods-with-j2store"
+title: "Setting up European VAT Rules for selling Physical Goods with J2store"
 description: ""
 author: "Kiruthigha"
 category: "campaigns"
-
 ---
-
-
-
 
 Setting up the European VAT system in J2Store is relatively easy. We have created a plugin that automatically validates the VAT number and helps you apply the rules.
 
