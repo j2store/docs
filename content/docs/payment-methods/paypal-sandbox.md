@@ -11,14 +11,14 @@ Using the PayPal Sandbox is not even half as intuitive as you might think. Since
 
 **A. Signing up for Sandbox access**
 
-1. Go to the PayPal Sandbox site <link-text url =¨developer.paypal.com¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+1. Go to the PayPal Sandbox site <link-text url=¨"developer.paypal.com¨" target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
 2. Click on Sign Up. Important: do not use your regular PayPal email address to subscribe!
 3. You get an email. Click on the link to activate your Sandbox access.
 4. Log in to the Sandbox using the email and password you created
 
 **A.1. Create a seller account**
 
-1. Go to the main Sandbox page <link-text url =¨ developer.paypal.com/cgi-bin/devscr?cmd=home/main¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+1. Go to the main Sandbox page <link-text url=¨"developer.paypal.com/cgi-bin/devscr?cmd=home/main¨" target = ¨_blank¨  rel = ¨noopener¨> click here </link-text>
 2. Click on Create a preconfigured account. Warning: MAJOR SUPER DUPER IMPORTANT PITFALL WARNING!!! Choose a country with the same currency as your site. For example United States for transactions in USD.
 3. Set the account type to Seller
 4. Optional: set the login email to "seller". It will make it easier for you to remember what you're doing

@@ -6,6 +6,7 @@ description: "Get started with J2Store"
 author: "Sowbagya Lakshmi"
 category: "campaigns"
 ---
+
 # Getting started with J2Store
 
 ### Building an online store? It's easy as 1-2-3
