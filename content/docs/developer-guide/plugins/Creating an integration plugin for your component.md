@@ -1,12 +1,10 @@
 ---
-
 path: "docs/Developer-Guide/Plugins/Creating an integration plugin for your component"
 updated: "2019-02-20"
 title: "Creating an integration plugin for your component"
 description: ""
 author: "Kiruthigha"
 category: "Plugins"
-
 ---
 
 This topic is split into the following sections to make it easier for you to understand: 
@@ -61,39 +59,39 @@ The first and foremost task is to get the J2Store's Product form fields to displ
 
 If your component fire's an event after displaying the form, then the task is pretty easy. You can create a system plugin with the event and call the following lines
 
-`$app = JFactory::getApplication();
-   //the id of your item. This will be `treated as the product_source_id
-	 	$id = $app->input->getInt('cid');
+      $app = JFactory::getApplication();
+         //the id of your item. This will be `treated as the product_source_id
+      	 	$id = $app->input->getInt('cid');
 
-	 	$productTable = F0FTable::getAnInstance('Product' ,'J2StoreTable');
-			
-`		$productTable->load(array('product_source'=>'com_foo', 'product_source_id' =>$id));``
-``
-		$product_id = (isset($productTable->j2store_product_id)) ? $productTable->j2store_product_id : '';
+      	 	$productTable = F0FTable::getAnInstance('Product' ,'J2StoreTable');
+      			
+      	$productTable->load(array('product_source'=>'com_foo', 'product_source_id' =>$id));
+      	
+      		$product_id = (isset($productTable->j2store_product_id)) ? $productTable->j2store_product_id : '';
 
-	 	$inputvars = array(
-	 			'task' =>'edit',
-	 			'render_toolbar'        => '0',
-	 			'product_source_id'=>$id,
-	 			'id' =>$product_id,
-	 			'product_source'=>'com_foo',
-	 			'form_prefix'=>''
-	 	);
-	 	$input = new F0FInput($inputvars);
+      	 	$inputvars = array(
+      	 			'task' =>'edit',
+      	 			'render_toolbar'        => '0',
+      	 			'product_source_id'=>$id,
+      	 			'id' =>$product_id,
+      	 			'product_source'=>'com_foo',
+      	 			'form_prefix'=>''
+      	 	);
+      	 	$input = new F0FInput($inputvars);
 
-	 	@ob_start();
-		F0FDispatcher::getTmpInstance('com_j2store', 'product', array('layout'=>'form', 'tmpl'=>'component', 'input' => $input))->dispatch();
-		$html = ob_get_contents();
-		ob_end_clean();
-		return $html;
-`
+      	 	@ob_start();
+      		F0FDispatcher::getTmpInstance('com_j2store', 'product', array('layout'=>'form', 'tmpl'=>'component', 'input' => $input))->dispatch();
+      		$html = ob_get_contents();
+      		ob_end_clean();
+      		return $html;
+
 
 
 **Save the product data**
 
 Saving the data is also very simple. Just capture the filled-in form data (Usually in your After Save event)Then just pass the data (can be either an array or an object) to
 
-`F0FModel::getTmpInstance('Products', 'J2StoreModel')->save($data);`
+	`F0FModel::getTmpInstance('Products', 'J2StoreModel')->save($data);`
 
 
 IMPORTANT: The array or object should have the product_source and product_source_id . Otherwise, J2Store will not be able to process your item as product.
@@ -107,19 +105,19 @@ Supply product data
 
 You will have to supply a few important information to J2Store. Example, the product name, its url etc. J2Store has an event called: onJ2StoreAfterGetProduct(&$product) NOTE: If your Integration plugin is specific to your component, then you should create a system plugin with this event. Refer the K2 integration plugin for example.
 
-`function onJ2StoreAfterGetProduct(&$product) {	if(isset($product->product_source) && $product->product_source == 'com_foo' ) {		//assign		$product->product_name = $name;	`	//supply a url to edit the item. 
+	`function onJ2StoreAfterGetProduct(&$product) {	if(isset($product->product_source) && $product->product_source == 'com_foo' ) {		//assign		$product->product_name = $name;	`	//supply a url to edit the item. 
 This is essential. Because j2store will use this to link
 
 **Display the cart block**
 
 Time to get the add to cart block for your item.Here are the three lines that will get you the entire cart block.
 
-`    $html = '';
-$product = F0FTable::getAnInstance ( 'Product', 'J2StoreTable' )->getClone ();
-if ($product->get_product_by_source ( 'com_foo', $id )) {
-		$html = $product->get_product_html();
-	}
-	echo $html;`
+      $html = '';
+      $product = F0FTable::getAnInstance ( 'Product', 'J2StoreTable' )->getClone ();
+      if ($product->get_product_by_source ( 'com_foo', $id )) {
+      		$html = $product->get_product_html();
+      	}
+      	echo $html;`
 
 You have a number of methods in the product object.
 
