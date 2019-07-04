@@ -1,7 +1,7 @@
 ---
 path: "/general/how-to-set-cron-job-on-your-server"
 updated: "2019-06-03"
-title: "how-to-set-cron-job-on-your-server"
+title: "How to set cron job on your server"
 description: ""
 author: "Kiruthigha"
 category: "general"
