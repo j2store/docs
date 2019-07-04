@@ -6,7 +6,6 @@ description: "Manage the checkout fields by creating custom fields."
 author: "Sowbagya lakshmi"
 category: "setup"
 ---
-# Custom Fields
 
 These are created for additional details to be used in checkout processes that involves billing, payment, shipping etc. For instance, 'last name' of a customer is not required for billing but it is required for shipment. So, it is created as a custom field and made to be displayed in shipping address.
 
@@ -106,7 +105,7 @@ Adding the custom field at the J2Store->Setup->Configuration->Checkout layout pa
 
 And if you wish to send the chosen custom fields in the email notifications, this can be done by adding the shortcode of the custom field in the email template.
 
-#### How to add custom fields inside email template ?
+**How to add custom fields inside email template ?**
 
 Also, you can add custom fields you have created in the editor. To add a custom field in the editor for display, you need to follow the format given below:
 

@@ -6,8 +6,7 @@ description: "Create multiple currencies on your store."
 author: "Sowbagya lakshmi"
 category: "setup"
 ---
-# Setup Multi currency
-#### J2Store Multi Currency
+**J2Store Multi Currency**
 
 J2Store multi currency feature allows store owner to setup multiple currencies. For example, if the location of store is United States and the store owner wants his store to be accessed by customers from Japan and European countries, then he / she will have to create one primary currency (for united states) and two secondary currencies (one for Japan and other for European countries).
 
