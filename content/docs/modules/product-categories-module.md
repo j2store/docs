@@ -1,7 +1,7 @@
 ---
-path: "/docs/modules/j2store-detailed-cart"
+path: "/modules/product-categories-module"
 updated: "2019-06-27"
-title: "J2store Detailed Cart"
+title: "Product categories module"
 description: ""
 author: "Kiruthigha"
 category: "modules"

@@ -1,7 +1,7 @@
 ---
 path: "/docs/Common-overrides/moving-additional-image-list-to-the-left-of-the-main-image-in-product-view-page"
 updated: "2019-06-12"
-title: "Moving-additional-image-list-to-the-left-of-the-main-image-in-product-view-page"
+title: "Moving additional image list to the left of the main image in product view page"
 description: ""
 author: "Kiruthigha"
 category: "Common-overrides"

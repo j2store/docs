@@ -1,8 +1,8 @@
 ---
 
-path: "/docs/Developer-Guide/Plugins/app-for-j2store"
+path: "/docs/developer-guide/plugins/app-for-j2store"
 updated: "2019-06-12"
-title: "App-for-j2store"
+title: "App for J2store"
 description: ""
 author: "Kiruthigha"
 category: "App-for-j2store"
@@ -30,7 +30,7 @@ There is a folder structure and a few naming conventions, that should be followe
 
 A typical app should look like this:
 
-
+```
 ├── app_example/
 │   ├── app_example.php
 │   ├── app_example.xml
@@ -43,17 +43,7 @@ A typical app should look like this:
 │   │   ├── controller.php
 │   │   ├── models/
 │   │   │   ├── appexample.php
-
-
-Naming Conventions
-
-The name of the app folder should start with the prefix "app_". Otherwise, J2Store will not recognise your app. So our example app is named as:app_example
-
-Make sure that the name of the file and folder is in lower case and there are no spaces or any other characters in the name.
-
-Manifest
-
-An example manifest should look like this:
+```
 
 Naming Conventions
 
@@ -65,7 +55,18 @@ Manifest
 
 An example manifest should look like this:
 
-`<?xml version="1.0" encoding="utf-8"?>
+Naming Conventions
+
+The name of the app folder should start with the prefix "app_". Otherwise, J2Store will not recognise your app. So our example app is named as:app_example
+
+Make sure that the name of the file and folder is in lower case and there are no spaces or any other characters in the name.
+
+Manifest
+
+An example manifest should look like this:
+
+```
+<?xml version="1.0" encoding="utf-8"?>
 <extension version="3.0" type="plugin" group="j2store" method="upgrade">
 	<name>Example</name>
 	<version>1.0</version>
@@ -133,3 +134,4 @@ class J2StoreControllerAppexample extends J2StoreAppController{
 	var $_element   = 'app_example';
 
 }
+```

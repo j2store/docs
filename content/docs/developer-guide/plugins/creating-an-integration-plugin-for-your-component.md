@@ -1,5 +1,5 @@
 ---
-path: "docs/Developer-Guide/Plugins/Creating an integration plugin for your component"
+path: "docs/developer-guide/plugins/creating-an-integration-plugin-for-your-component"
 updated: "2019-02-20"
 title: "Creating an integration plugin for your component"
 description: ""

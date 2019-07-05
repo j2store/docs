@@ -1,5 +1,5 @@
 ---
-path: "/docs/sales/Customers"
+path: "/docs/sales/customers"
 updated: "2019-06-27"
 title: "Customers"
 description: ""

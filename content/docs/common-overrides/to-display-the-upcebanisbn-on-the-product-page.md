@@ -1,8 +1,8 @@
 ---
 
-path: "/docs/Common-overrides/to-display-the-upcebanisbn-on-the-product-page"
+path: "/Common-overrides/to-display-the-upcebanisbn-on-the-product-page"
 updated: "2019-06-12"
-title: "to-display-the-upcebanisbn-on-the-product-page"
+title: "To display the UPC/EBAN/ISBN on the product page"
 description: ""
 author: "Kiruthigha"
 category: "Common-overrides"

@@ -399,6 +399,7 @@ const SIDENAV_LINKS = [
         TITLE: 'General',
         LINKS: [
             { URL: '/general/how-to-set-cron-job-on-your-server', TEXTNODE: 'How to set cron job on your server?' },
+            { URL: '/general/how-to-create-an-ftp-account-and-super-user-account-in-joomla', TEXTNODE: 'How to create an FTP account and super user account in Joomla' },
         ],
         BUTTON_LINK: '/general/how-to-set-cron-job-on-your-server',
     },

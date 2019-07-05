@@ -1,5 +1,5 @@
 ---
-path: "/docs/modules/j2store-detailed-cart"
+path: "/modules/j2store-detailed-cart"
 updated: "2019-06-27"
 title: "J2store Detailed Cart"
 description: ""

@@ -1,7 +1,7 @@
 ---
 path: "canonical-url-plugin/canonical-url-plugin"
 updated: "2019-05-30"
-title: "canonical-url-plugin"
+title: "Canonical URL Plugin"
 description: ""
 author: "Kiruthigha"
 category: "canonical-url-plugin"
