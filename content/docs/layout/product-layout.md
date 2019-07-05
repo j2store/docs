@@ -66,7 +66,8 @@ CAUTION: SKU Show/Hide setting can be done in two places, i.e., in configuration
 
 Next image shows the filters.
 ![Layout-item-view-in-category-list-filters](../../images/layout/product-layout/pro-layout-item-view-cat-list-filters.png)
-![Layout-item-view-category-listing-filters-second](../../images/layout/product-layout/pro-layout-item-view-cat-list-filters- second.png)
+
+![Layout-item-view-category-listing-filters-second](../../images/layout/product-layout/pro-layout-item-view-cat-list-filters-%20second.png)
 
 Filters help narrow the search for a particular product. There are many filters available for the search.
 
@@ -123,7 +124,7 @@ In this image, you can see that the new menu item created is listed in the top w
 
 In this page, you can see the product layout features. The filters are positioned in the right side as per the selected choice. You have the option to filter by price, brand, vendor etc. The regular and special prices are also displayed along with discount percentage variation.
 
-`[![Creating a product layout](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://www.youtube.com/watch?v=HramUPmnTZ4 "Creating a product layout")`
+[![Creating a product layout](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://www.youtube.com/watch?v=HramUPmnTZ4 "Creating a product layout")
 
 Let us see how images are added in the backend and how they are displayed in frontend view.
 Consider the image below:
@@ -191,7 +192,7 @@ to
 Open the file and on around line no 22 find the below code:
 
 ```
-<span class="<?php echo $class; ?>" id="j2store-item-main-image-<?php echo $this->product->j2store_product_id; ?>"><br>		 &nbsp;	 <img itemprop="image"<br>		 &nbsp;	 alt="<?php echo $this->product->product_name ;?>"<br>		 &nbsp;	 class="j2store-product-main-image j2store-img-responsive" src="/<?php echo $image_path.$main_image;?>"<br>		 &nbsp;	 width="<?php echo intval($main_image_width); ?>"<br>		 &nbsp;	 /><br>		 &nbsp;	 </span>
+<span class="<?php echo $class; ?>"     id="j2store-item-main-image-<?php echo $this->product->j2store_product_id; ?>"><br>		 &nbsp;	 <img itemprop="image"<br>		 &nbsp;	 alt="<?php echo $this->product->product_name ;?>"<br>		 &nbsp;	 class="j2store-product-main-image j2store-img-responsive" src="/<?php echo $image_path.$main_image;?>"<br>		 &nbsp;	 width="<?php echo intval($main_image_width); ?>"<br>		 &nbsp;	 /><br>		 &nbsp;	 </span>
 ```
 
 Change this with
