@@ -1,7 +1,7 @@
 ---
 path: "/docs/apps/acymailing-integration-app"
 updated: "2019-06-24"
-title: "acymailing-integration-app"
+title: "AcyMailing Integration App"
 description: ""
 author: "Kiruthigha"
 category: "apps"

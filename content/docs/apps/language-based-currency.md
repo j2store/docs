@@ -1,7 +1,7 @@
 ---
 path: "/docs/apps/language-based-currency"
 updated: "2019-06-24"
-title: "language-based-currency"
+title: "Language based currency"
 description: ""
 author: "Kiruthigha"
 category: "apps"

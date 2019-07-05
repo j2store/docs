@@ -1,12 +1,10 @@
 ---
-
-path: "/docs/apps/invoice-prefix-generator"
+path: "/apps/invoice-prefix-generator"
 updated: "2019-06-25"
 title: "Invoice-prefix-generator"
 description: ""
 author: "Kiruthigha"
 category: "Apps"
-
 ---
 
 

@@ -1,12 +1,10 @@
 ---
-
-path: "/docs/apps/group-products"
+path: "/docs/apps/image-popup"
 updated: "2019-06-25"
-title: "group-products"
+title: "Image Popup"
 description: ""
 author: "Kiruthigha"
 category: "Apps"
-
 ---
 
 
