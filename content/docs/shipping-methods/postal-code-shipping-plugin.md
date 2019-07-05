@@ -19,16 +19,16 @@ The plugin integrates a postal code based shipping method for J2Store. It will c
 * Once installed, go to J2Store > Setup > Shipping method and enable Postal code based shipping plugin.
 
 
-![enable](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-enable.png)
+![enable](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-enable.png)
 
 *   After enabling this plugin, open the plugin and configure the basic settings and    create a shipping method.
 
-![open](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-open.png)
+![open](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-open.png)
 
 **Creating Shipping method**
 Open the plugin and click NEW to create new shipping method.
 
-![open](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-new.png)
+![open](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-new.png)
 **Shipping Name**
 Enter a name for this shipping method. This is what your customers will see at the checkout.
 
@@ -63,13 +63,13 @@ Quite a few commonwealth countries including UK, follow a different post code sy
 If you are not sure about post code, do not select any format here. 
 
 
-![method](../../images/shipping-methods/postal-code-shipping-plugin/postal-creating_method.png)
+![method](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-creating_method.png)
 Now, Save&Close the method.
 
 **Set Rates**
 To Set Rates click on the link "set rates" of the postcode Shipping method
 
-![setrates](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-setrates.png)
+![setrates](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-setrates.png)
 **Postcode From**
 Enter the starting range of the zip code. For example, 90001.
 
@@ -97,7 +97,7 @@ It is bit tricky. Leave this as 1 if you do not understand.
 The cost entered per item can be 1. If the cost is for 2 items (2 nos ) , you can enter 2 here. The cost will be divided by two.
 > Example: Shipping cost is 50 USD for 2 items. 50 / 2 = 25
 > 
-![rates](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-rates.png)
+![rates](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-rates.png)
 
 **Examples**
 
@@ -148,7 +148,7 @@ You can also use import / export feature to add shipping rates easily.
 
 Click Export to download the sample csv file and see how the csv file must be.
 
-![export](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-rates-export.png)
+![export](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-rates-export.png)
 
 The below three columns are the mandatory for the csv file.
 
@@ -156,23 +156,23 @@ The below three columns are the mandatory for the csv file.
 
 **shipping_postcode_method_id** - It is nothing but Shipping method ID. You must enter shipping method ID otherwise the rates will not be imported correctly into the corresponding shipping method and errors will be trigerred.
 
-![methodid](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-methodid.png)
+![methodid](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-methodid.png)
 **shipping_postcode_from and shipping_postcode_to** - Enter the postcode range between which the shipping charge should apply.
 
 Then, enter the weigh trange, quantity range, price range and shipping cost as your wish and import the csv file.
 
 For example, the above image has the shipping method named "Shipping cost". Already this shipping method has one rate with postal range 90001 to 90005.
 
-![rates1](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-rates (1).png)
+![rates1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-rates (1).png)
 
 Now if you would like to add two more rates using csv file, import the csv file like below image
 
-![csv](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-csv.png)
+![csv](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-csv.png)
 
-![import](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-import.png)
+![import](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-import.png)
 Now the resulting rates are
 
-![results](../../images/shipping-methods/postal-code-shipping-plugin/postal-plugin-import-results.png)
+![results](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/postal-code-shipping-plugin/postal-plugin-import-results.png)
 **Debug**
 If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory.
 

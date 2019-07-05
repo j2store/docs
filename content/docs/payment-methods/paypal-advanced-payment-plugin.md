@@ -28,7 +28,7 @@ Go to Service Settings -> Hosted Checkout Pages -> Set Up, and make the followin
 
 1 - Set Transaction Process mode to TEST or LIVE depending on your requirement.
 
-![paypaladv](../../images/payment-methods/paypal-advanced-payment-plugin/setup_paypal_advanced.png)
+![paypaladv](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-advanced-payment-plugin/setup_paypal_advanced.png)
 
 2 - Under the Billing Information
 
@@ -37,17 +37,17 @@ Go to Service Settings -> Hosted Checkout Pages -> Set Up, and make the followin
 
 See the picture below
 
-![billing](../../images/payment-methods/paypal-advanced-payment-plugin/billing_information_paypal_advanced.png)
+![billing](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-advanced-payment-plugin/billing_information_paypal_advanced.png)
 
 3 - Under the Payment Confirmation, set
 Show confirmation page: On my website
 
 Return URL Method: POST  (This is very IMPORTANT)
 
-![paymentconfirm](../../images/payment-methods/paypal-advanced-payment-plugin/payment_confirmation_paypal_advanced.png)
+![paymentconfirm](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-advanced-payment-plugin/payment_confirmation_paypal_advanced.png)
 4 - Under Security options, set
 
-![securityoptions](../../images/payment-methods/paypal-advanced-payment-plugin/security_options_paypal_advanced.png)
+![securityoptions](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-advanced-payment-plugin/security_options_paypal_advanced.png)
 • AVS: No• CSC: No• Enable Secure Token: Yes
 
 Save the settings.
@@ -59,13 +59,13 @@ In Paypal manager, go to Service Settings > Hosted Checkout Pages> Customize. Ch
 
 See the screenshot below
 
-![custom layout](../../images/payment-methods/paypal-advanced-payment-plugin/custom_layout_paypal_advanced.png)
+![custom layout](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-advanced-payment-plugin/custom_layout_paypal_advanced.png)
 
 If you chose, payment window type as Redirect :
 
 In Paypal manager, go to Service Settings > Hosted Checkout Pages> Customize. Choose the Layout B
 
-![custom](../../images/payment-methods/paypal-advanced-payment-plugin/custom_layout_b_paypal_advanced.png)
+![custom](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-advanced-payment-plugin/custom_layout_b_paypal_advanced.png)
 Click Save and publish.
 
 **Step 3 (Optional): Create a user**
@@ -76,7 +76,7 @@ PayPal recommends that you set up an additional user on your account. To set up 
 3. set "Select a Predefined Role:" as "FULL_TRANSACTIONS"
 4. Save the changes.
 
-![accountadmin](../../images/payment-methods/paypal-advanced-payment-plugin/account_admin_paypal_advanced.png)
+![accountadmin](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-advanced-payment-plugin/account_admin_paypal_advanced.png)
 
 **Configuring the Plugin**
 Go to Joomla admin → Extensions → Plugin Manager → Paypal Payments Advanced plugin.

@@ -32,9 +32,9 @@ Let us suppose your site sells Tea cups, Tea pots and Serving plate. Let us supp
 
 **Screenshots:**
 
-![Adding related products to Product](../../images/catalog/adding-related-products/addingrelatedproducts-to-pro.png)
-![Menu settings](../../images/catalog/adding-related-products/addingrelatedproducts-menu-settings.png)
-![Frontend view](../../images/catalog/adding-related-products/frontendrelatedproducts.png)
+![Adding related products to Product](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/addingrelatedproducts-to-pro.png)
+![Menu settings](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/addingrelatedproducts-menu-settings.png)
+![Frontend view](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/frontendrelatedproducts.png)
 
 **Video Tutorial:**
 
@@ -63,13 +63,13 @@ Once you have added related products to your parent products, all you have to do
 
 The module has a number of options that allow you to customize the view of the module on the storefront.
 
-![Related product module settings](../../images/catalog/adding-related-products/rel-pro-mod-settings.png)
+![Related product module settings](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/rel-pro-mod-settings.png)
 
 Once the layout configuration is done, now navigate to the Menu assignment tab on the module and choose the pages where the module should be published:
-![Module assignment](../../images/catalog/adding-related-products/module-assignment.png)
+![Module assignment](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/module-assignment.png)
 
-![Position assignment](../../images/catalog/adding-related-products/position-assignment.png)
-![Related product module frontend](../../images/catalog/adding-related-products/rel-pro-mod-frontend.png)
+![Position assignment](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/position-assignment.png)
+![Related product module frontend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/rel-pro-mod-frontend.png)
 
 **Adding related product in the Joomla article view:**
 
@@ -84,26 +84,26 @@ The product Net has to be added as a related product to the product Basket ball.
 - Navigate to the product article of Basket ball->J2Store cart tab->Copy the shortcode**	{j2store}17\|cart{/j2store}	**
 - Paste it in the content part and copy the shortcode for displaying the crosssell and upsell product and paste it in the content part of the parent product. The shortcode to be copied is **{j2store}17\|upsells\|crosssells{/j2store}**
 
-![Shortcodes](../../images/catalog/adding-related-products/rel-pro-addding-content.png)
+![Shortcodes](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/rel-pro-addding-content.png)
 - Navigate to the article of the related product->J2Store cart tab->copy the shortcode to display the product's add to cart
  **	{j2store}18\|cart{/j2store}**
 - Paste the shortcode at the content tab
 
-![Cart shortcode](../../images/catalog/adding-related-products/cart-shortcode.png)- 
+![Cart shortcode](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/cart-shortcode.png)- 
 - Navigate to J2Store->Setup->configuration->cart->Add to cart placement->Using tag
-![Configuration setting to display products using shortcode](../../images/catalog/adding-related-products/shortcode-configuration.png)
+![Configuration setting to display products using shortcode](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/shortcode-configuration.png)
 
 - Navigate to Extensions->Plugins->Content-J2Store->Category view and set the option ** Product block position** to **After display content**
-![Content plugin settings](../../images/catalog/adding-related-products/content-plugin-config.png)
+![Content plugin settings](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/content-plugin-config.png)
 - Navigate to the Item view of the plugin and choose the Product block position there as well
-![Item view settings](../../images/catalog/adding-related-products/content-plugin-item-view.png)
+![Item view settings](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/content-plugin-item-view.png)
 ** Frontend display**
 
-![Parent product on frontend](../../images/catalog/adding-related-products/frontend-parent-pro.png)
+![Parent product on frontend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/frontend-parent-pro.png)
 
 **Related product view**
 
-![Front view](../../images/catalog/adding-related-products/rel-pro-view-front.png)
+![Front view](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/rel-pro-view-front.png)
 
 **VERY IMPORTANT NOTE: The above approach would work only if you have all of your products displayed in the Joomla article view and not in the J2Store list or tag view layout.**
 

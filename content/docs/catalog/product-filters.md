@@ -21,7 +21,7 @@ NOTE: If you are adding a large number of filters (1000+), make sure "max_input_
 
 This is illustrated in the image below:
 
-![Adding a new filter](../../images/catalog/product-filters/product_filters_add_new.png)
+![Adding a new filter](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/product-filters/product_filters_add_new.png)
 
 **Adding filters to product**
 
@@ -31,13 +31,13 @@ This is illustrated in the image below:
 - Type the first few letters of the unique name of the product filters in the search box.
 - It will display the search results in dropdown. Choose the filters from dropdown and save the product.
 
-![Adding a filter to the product](../../images/catalog/product-filters/product_filter_add_in_pro.png)
+![Adding a filter to the product](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/product-filters/product_filter_add_in_pro.png)
 
-![Adding product filters](../../images/catalog/product-filters/product_filter_add_in_pro_search.png)
+![Adding product filters](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/product-filters/product_filter_add_in_pro_search.png)
 
 **Frontend**
 
-![Frontend](../../images/catalog/product-filters/product_filter_front.png)
+![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/product-filters/product_filter_front.png)
 
 **Video tutorial**
 

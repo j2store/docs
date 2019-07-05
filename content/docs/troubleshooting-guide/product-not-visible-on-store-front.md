@@ -20,32 +20,32 @@ This is one among the most commonly reported issues. There might be a number of 
 **Is this product treated as a product :**
 
 Navigate to J2store Cart.Check if the "Treat as a product" is to  Yes.
-![Treat as product](../../images/troubleshooting-guide/products-not-visible/product-not-vis-treatproduct.png)
+![Treat as product](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/products-not-visible/product-not-vis-treatproduct.png)
 
 
 **Product Status:**
 
 Check your product status.Make sure you have the status as Published .
-![Publish product](../../images/troubleshooting-guide/products-not-visible/product-not-vis-publish-product.png)
+![Publish product](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/products-not-visible/product-not-vis-publish-product.png)
 
 **Choose a category in menu** :
 
 Make note of the category which you have set for the Article. Navigate to Menu ->All menu items ->Your product menu ->Details ->Choose a category. Check if the category to which the article belongs is chosen.
-![Choose category](../../images/troubleshooting-guide/products-not-visible/product-not-visi-choose-cat.png)
+![Choose category](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/products-not-visible/product-not-visi-choose-cat.png)
 
 
-![Choose category in menu](../../images/troubleshooting-guide/products-not-visible/product-not-visi-choose-cat-menu.png)
+![Choose category in menu](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/products-not-visible/product-not-visi-choose-cat-menu.png)
 
 **Category published : **
 
 Make note of the category which you have set for the Article.Navigate to Content ->Article->category and check whether the category to which the article belongs is published.
-![Is category published](../../images/troubleshooting-guide/products-not-visible/product-not-visi-cat-publi.png)
-![Category published](../../images/troubleshooting-guide/products-not-visible/product-not-visi-cat-publ-cat.png)
+![Is category published](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/products-not-visible/product-not-visi-cat-publi.png)
+![Category published](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/products-not-visible/product-not-visi-cat-publ-cat.png)
 
 **Menu Published:**
 
 Navigate to Menu ->All menu items -> your required menu . Check whether the menu containing the category of the article is published .
-![Is menu published](../../images/troubleshooting-guide/products-not-visible/product-not-visi-menu-publ-menu.png)
+![Is menu published](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/products-not-visible/product-not-visi-menu-publ-menu.png)
 
 
 

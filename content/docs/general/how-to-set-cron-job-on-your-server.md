@@ -16,7 +16,7 @@ You can find the cron security key in your store settings.
 
 Go to J2Store > Setup > Configuration > Store tabYou can see the security key for running cron jobs. Click on Regenerate button to generate new key. Please see the below image
 
-![intro](../../images/general/advanced.png)
+![intro](https://raw.githubusercontent.com/j2store/doc-images/master//general/advanced.png)
 
 This security key can be used for execution of cron jobs required by apps and plugins. This will ensure only legitimate requests are allowed and executed. The cron requests without this key will be denied access.
 
@@ -24,7 +24,7 @@ This security key can be used for execution of cron jobs required by apps and pl
 
 * Go and login into your cPanel
 * In the Advanced section of the cPanel, Click Cron Jobs
-![Intro](../../images/general/advanced.png)
+![Intro](https://raw.githubusercontent.com/j2store/doc-images/master//general/advanced.png)
 * Under Cron Email, type the e-mail address that you want to receive notifications, and then click Update Email. Every time the cron job runs, the e-mail account will receive a message.
 * Under Add New Cron Job, enter the interval for the command that you want.
 If you select an interval option under Common Settings, cPanel fills in the values automatically.
@@ -37,7 +37,9 @@ If you select an interval option under Common Settings, cPanel fills in the valu
 * Weekday — Select the days of the week on which you wish to run the cron job.
 In the Command text box, type the command that you want to run. For example if you wants to run a cron job request for renewing / expire subscriptions in our Subscription and Memberships app, enter like below
 
-`wget -O /dev/null "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null`
+```
+wget -O /dev/null "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null
+```
 
 
 
@@ -48,19 +50,27 @@ Where XXXXX is your cron secret key. Replace www.example.com with your domain na
 
 **Linux System****
 
-`lynx -source "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null`
+```
+lynx -source "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null
+```
 
 Or
 
-`wget -O /dev/null "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null`
+```
+wget -O /dev/null "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null
+```
 
 If you access your website using an **httpS protocol**, you may want to use this command instead:
 
-`wget --no-check-certificate -O /dev/null "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null`
+```
+wget --no-check-certificate -O /dev/null "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null
+```
 
 Some hosting company block the lynx and wget command in which case you should use the curl one
 
-`curl --silent --compressed "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null 2>&1`
+```
+curl --silent --compressed "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null 2>&1
+```
 
 You can also contact your hosting provider and ask them to guide you to set cron job.
 

@@ -17,7 +17,7 @@ Step 1: Go to Joomla admin->Extensions Manager->Language Manager->Overrides.
 
 Before creating the override, set the Filter to ADMINISTRATOR (of the language that you wanted to create override. Say, your language is German. Then you should select the German (de-DE) Administrator in the filter)
 
-![location filter](../../images/translation/language-override-in-joomla-with-examples/location_filter.png)
+![location filter](https://raw.githubusercontent.com/j2store/doc-images/master//translation/language-override-in-joomla-with-examples/location_filter.png)
 Step 2: Click new to create a override
 
 **VERY IMPORTANT**
@@ -25,7 +25,7 @@ Step 2: Click new to create a override
 1. Make sure you have checked the For both locations
 2. Make sure the location points to ADMINISTRATOR
 
-![override screen](../../images/translation/language-override-in-joomla-with-examples/override_screen.png)
+![override screen](https://raw.githubusercontent.com/j2store/doc-images/master//translation/language-override-in-joomla-with-examples/override_screen.png)
 Step 3: You can either search or directly enter the constant (if you knew already) to create the override.
 
 **Method 1: Searching**

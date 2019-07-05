@@ -24,7 +24,7 @@ Not sure where to find your Access key ? Read the documentation below <link-text
 
 Refer the image below:
 
-![ups1](../../images/shipping-methods/ups-shipping-plugin/UPS1.png)
+![ups1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/ups-shipping-plugin/UPS1.png)
 
 **Access Key**
 Enter the access key provided by the UPS.Not sure where to find your Access key ? Read the documentation below
@@ -149,5 +149,5 @@ If you set this to yes, then debug messages will be logged and saved in the cach
 
 Refer the below image
 
-![ups2](../../images/shipping-methods/ups-shipping-plugin/UPS2.png)
+![ups2](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/ups-shipping-plugin/UPS2.png)
 

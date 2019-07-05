@@ -35,7 +35,7 @@ Only for template developers. Read further on only if you are a template develop
 3. Choose and select your file.
 4. Click Upload & Install.
  
- ![](../../../images/developer-guide/design/j2store_install1.png)
+ ![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_install1.png)
 
  
  
@@ -44,7 +44,7 @@ Only for template developers. Read further on only if you are a template develop
 1.Once installed, you will get J2store in the Joomla component list and also separate J2store tab in Joomla backend.
 
 
-![](../../../images/developer-guide/design/j2store_component2.png)
+![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_component2.png)
 
 2. Now, Go to J2store > Dashboard.
 
@@ -53,7 +53,7 @@ Only for template developers. Read further on only if you are a template develop
 3. Fill all the fields in the basic settings and click Save & Proceed.
 
 
-![](../../../images/developer-guide/design/j2store_basic_settings3.png)
+![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_basic_settings3.png)
 
 **Choose Layout to display  products**
 
@@ -77,7 +77,7 @@ It is very easy and flexible to display the product in frontend using J2Store La
 1.Go to Menu manager -> Main menu and create a new menu item.
 2.Give the menu title and choose the menu type as J2store > Product List View
 
-![](../../../images/developer-guide/design/j2store_layout4.png)
+![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_layout4.png)
 
 
 4.Choose the Category which have chosen when creating product. The category added in the product and the category added in the menu should be same.
@@ -102,16 +102,16 @@ This is the another method / way / layout to display your products. By using thi
 1. Since J2Store uses the default Joomla articles as its products, it lets you use native content as product.
 2. Go to Content > Articles > Add new article. Now, new article page will open.
 3. Give the title of the product, add your description about the product in the content tab and choose the category in which you want to display the product(category chosen here and category chosen in the menu should be same).
-![](../../../images/developer-guide/design/j2store_menu5.png)
+![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_menu5.png)
 
 4. Now, go to J2store Cart tab, choose YES to treat article as a product then choose your Product Type from the list(Simple, Variable, Configurable, Downloadable) and then click Save and Continue.
 
-![product](../../../images/developer-guide/design/j2store_create_product6.png)
+![product](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_create_product6.png)
 
 
 5. After saving, again go to J2store cart tab. Now you can see the options to add image for product, set prices, add filters / Tax / Shipping.
 
-![product](../../../images/developer-guide/design/j2store_create_product6.png)
+![product](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_create_product6.png)
 
 **J2Store File Location and override procedure**
 
@@ -127,14 +127,14 @@ If you choose default as sub-template then you have to go with default folder.
 
 Open your sub-template folder(/components/com_j2store/templates/YOUR-SUB-TEMPLATE) where you can find the files with name started with default_(for example, default_simple.php, default_images.php, etc). Those files controls all the features displaying in the category listing page.
 
-![product_type](../../../images/developer-guide/design/j2store_product_type7.png)
+![product_type](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_product_type7.png)
 
 **OVERRIDE PATH**templates/YOUR-TEMPLATE/html/com_j2store/templates/YOUR-SUB-TEMPLATE/
 
 **Product view**
 
 Open your sub-template folder where you can find the files with name started with view_(for example, view_simple.php, view_images.php, view_options.php, view_notabs.php, etc). Those files controlled all the features displaying in the Product view page.
-![productview](../../../images/developer-guide/designs/template_guide_product_view.png)
+![productview](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/designs/template_guide_product_view.png)
 
 
 
@@ -156,7 +156,7 @@ Following files controls filter section,
 
 Cart page is controlled by the files located in the follwing path /components/com_j2store/views/carts/tmpl
 
-![](../../../images/developer-guide/designs/template_guide_cart.png)
+![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/designs/template_guide_cart.png)
 
 **OVERRIDE PATH** templates/YOUR-TEMPLATE/html/com_j2store/carts/
 
@@ -164,7 +164,7 @@ Cart page is controlled by the files located in the follwing path /components/co
 
 Checkout is controlled by the files located in the follwing path /components/com_j2store/views/checkout/tmpl
 
-![](../../../images/developer-guide/designs/template_guide_checkout.png)
+![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/designs/template_guide_checkout.png)
 
 
 **OVERRIDE PATH** templates/YOUR-TEMPLATE/html/com_j2store/checkout/
@@ -175,7 +175,7 @@ Order history page is controlled by the files located in the follwing path/compo
 
 
 
-![](../../../images/developer-guide/designs/template_guide_myprofile.png)
+![](../https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/designs/template_guide_myprofile.png)
 
 **OVERRIDE PATH** templates/YOUR-TEMPLATE/html/com_j2store/myprofile/
 

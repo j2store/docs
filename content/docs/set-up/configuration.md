@@ -99,7 +99,7 @@ The address and city of the store is not mandatory. You can enter an address or 
 Enter a valid postal code for the store. This field can not be empty.
 Check the image below to understand how to enter emails, store name and address etc.
         
-![Configuration-storesettings](../../images/set-up/Configuration/configuration-storesetttings.png)
+![Configuration-storesettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-storesetttings.png)
 
 #### Country Name
 Name of the country in which the store exists. To be selected from the given list.
@@ -123,7 +123,7 @@ Select the default length measurement in use for any country from the available 
 ## Product
 These are global parameters for product display. You can override some of these parameters if you are using the J2Store's product layout.
 
-![Configuration-productsettings](../../images/set-up/Configuration/configuration-productsettings.png)
+![Configuration-productsettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-productsettings.png)
 
 
 **Catalog Mode**
@@ -192,7 +192,7 @@ $ 250.00 (This is the advanced price)
         The global setting for this field is empty and it can be overwritten for the user's desired quantity. And when the stock goes beyond the preset level it will be notified. Check the image below for a clear understanding.
 
         
-![Configuration-inventorysettings](../../images/set-up/Configuration/configuration-inventorysettings.png)
+![Configuration-inventorysettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-inventorysettings.png)
 
 ## Tax
 
@@ -221,7 +221,7 @@ Set this to YES will display (Incl.19% tax) or (excl.19% tax) to product pages.
  **Display prices during cart / checkout Excluding tax**
         Choose how do you want to display the prices(including tax or excluding tax) during the checkout. One of these options can be selected here. Check the image below for a visual aid:
 
-![Configuration-taxsettings](../../images/set-up/Configuration/configuration-taxsettings.png)
+![Configuration-taxsettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-taxsettings.png)
 
 ## Discount
 
@@ -235,7 +235,7 @@ This is for discounts that are offered to customers.
         By enabling this option with a 'Yes', the customers can be offered gift vouchers with fixed value, say $ 25.00, which in turn, can be applied during the checkout.
 
 
-![Configuration-discount-settings](../../images/set-up/Configuration/configuration-discountsettings.png)
+![Configuration-discount-settings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-discountsettings.png)
 
 ## Cart
 
@@ -271,7 +271,7 @@ If this option is set to Yes, tax will be levied for each item in the cart.
 **Allow quick new user registration**
   Enabling this option would display a registration option at the checkout like this:
           
-   ![Configuration-cartsettings-guest-regsiter-form](../../images/set-up/Configuration/configuration-cartsettings-registration-guest-login.png)
+   ![Configuration-cartsettings-guest-regsiter-form](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-cartsettings-registration-guest-login.png)
 
 **Joomla password validation**
        If set to yes, Password will be validated based on Joomla User manager > Options settings for password rules.
@@ -314,7 +314,7 @@ The method chosen here would be the one that is selected by default at the check
 *   **Clear Cart data Older than**
         The duration mentioned here would determine the number of days the cart is left uncleared. Options available or 1 week, 2 weeks,1 month, 2 months, 3 months.
 
-![Configuration-cartsettings](../../images/set-up/Configuration/configuration-cartsettings.png)
+![Configuration-cartsettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-cartsettings.png)
 
 
 ### Checkout Layout
@@ -334,18 +334,18 @@ The layout of the checkout address fields.** NOTE:** Removing a field here will 
 **Pre-populate / Restore**
        This is a button, that restores the default setting of all the three options given above, when clicked.
 
-![Configuration-](../../images/set-up/Configuration/configuration-checkoutsetttings.png)
+![Configuration-](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-checkoutsetttings.png)
 
 
 #### Example to add a custom field
 Assume that it would be better to add a **Title** field before the **First Name**. To achieve that, create a custom field with _title_ as its name, as shown in the image:
 
 
-![Configuration-checkout-customfield](../../images/set-up/Configuration/configuration-checkout-customfield.png)
+![Configuration-checkout-customfield](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-checkout-customfield.png)
 
 Now, in the checkout process, the added custom field **Title** will be displayed before the **First Name** field, as illustrated in the following image:
 
-![Configuration-checkout-customfieldfrontend](../../images/set-up/Configuration/configuration-checkout-customfield-frontend.png)
+![Configuration-checkout-customfieldfrontend](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-checkout-customfield-frontend.png)
 
 In this way, new custom fields can be added according to the needs of the user.
 
@@ -378,7 +378,7 @@ Now the system generated invoice number, say 1, will be appended with this prefi
    **Show Logout button in Myprofile**
         This option is used to show / hide logout button in myprofile.
 
-![Configuration-ordersettings](../../images/set-up/Configuration/configuration-ordersettings.png)
+![Configuration-ordersettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-ordersettings.png)
 
 #### **Update**
 
@@ -386,7 +386,7 @@ _Applies only for J2Store PRO users_
 
 This tab has a text input to enter the **Download ID** provided by[ <link-text url=”https://www.j2store.org/](http://j2store.org)” target=”_blank” rel=”noopener”>**J2Store**</link-text>, which is a requirement for updating the j2store component's PRO version. Without this ID, <link-text url=”[https://www.j2store.org/my-account/my-downloads.html](https://www.j2store.org/my-account/my-downloads.html)” target=”_blank rel=”noopener”>j2store PRO</link-text> cannot be downloaded. This ID will be available in the Invoice as well as in **My Download** of j2store.org
 
-![Configuration-updatesettings](../../images/set-up/Configuration/configuration-updatesetting.png)
+![Configuration-updatesettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-updatesetting.png)
 
 #### **Mail Template**
 
@@ -395,7 +395,7 @@ In somecases, you will be like to send email template only to customers or vice 
 
 To avoid this, please choose **No. Do not use the default template to send a mail when no template matches my email template conditions (Not recommended)**
 
-![Configuration-mailtemplatesettings](../../images/set-up/Configuration/configuration-mailtemplatesettings.png)
+![Configuration-mailtemplatesettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-mailtemplatesettings.png)
 
 #### Others
 Misc. options for the store
@@ -417,4 +417,4 @@ This option provides support for SEF URLs used in Falang translation component. 
 Check the image below for a better idea.
 
 configuration-othersettings.png
-![Configuration-othersettings](../../images/set-up/Configuration/configuration-othersettings.png)
+![Configuration-othersettings](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/Configuration/configuration-othersettings.png)

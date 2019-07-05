@@ -34,7 +34,7 @@ Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominicana, Ecuador, Hond
 * Step 1Access the Market credentials page  and log in. If you do not have an account yet, create a new one .
 * Step 2After loggin in you will see your Client ID and Client Secret.
 
-![credentials](../../images/payment-methods/mercadopago-payment/mercado-keys.png)
+![credentials](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mercadopago-payment/mercado-keys.png)
 
 **Configuration**
 
@@ -69,7 +69,7 @@ Choose the payment methods from available payment methods you have in your Merca
 By selecting a geozone here, you can restrict this payment method to only customers of that geo-region. Choose All geozones to show this method to all customers.
 
 
-![configuration](../../images/payment-methods/mercadopago-payment/mercado-config.png)
+![configuration](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mercadopago-payment/mercado-config.png)
 
 
 **Thank you message Article**

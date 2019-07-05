@@ -65,7 +65,7 @@ As the name suggests, it is very flexible and is based on the cartesian set algo
 
 **General**
 
-![General tab](../../images/catalog/variable-product/var-pro-gen-tab.png)
+![General tab](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-gen-tab.png)
 
 - Visible in Storefront - First select whether the product is to be displayed in front of the store. If it is, set the option to 'Yes'
 - Brand or Manufacturer - Select the brand or manufacturer of the product from the available list
@@ -75,7 +75,7 @@ As the name suggests, it is very flexible and is based on the cartesian set algo
 
 **Images**
 
-![Adding images](../../images/catalog/variable-product/var-pro-images.png)
+![Adding images](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-images.png)
 
 This feature is available for native Joomla articles and in J2Store Product Layouts
 
@@ -112,19 +112,19 @@ For both the items, brand and model name may be same, but the attributes like co
 
 Lets discuss it with some image illustrations:
 
-![Adding variants](../../images/catalog/variable-product/var-pro-adding-variants.png)
+![Adding variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-adding-variants.png)
 
 If you select 'Size' from the list, your screen will look like this:
 
-![Saving variants](../../images/catalog/variable-product/var-pro-save-var.png)
+![Saving variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-save-var.png)
 
 You can see the option you have selected from the list added down there. Now, save the form to proceed.
 
-![Click on set option values](../../images/catalog/variable-product/var-pro-click-set-opt-val.png)
+![Click on set option values](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-click-set-opt-val.png)
 
 You can see '**Set Values**' near the option name **Size** and click it. You will get a pop-up window to add attributes as illustrated below:
 
-![Setting option values](../../images/catalog/variable-product/var-pro-set-opt-val.png)
+![Setting option values](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-set-opt-val.png)
 
 Once you are done, save changes and close the pop-up window to get back to the main window. Now you have set the values for the variants to be generated. Why wait, just go and generate the variants like this:
 
@@ -132,11 +132,11 @@ The button you have clicked for variant generation will adjust itself to show yo
 
 And that's it. You have your variants generated! Wonder how? Just check the image below for a surprise...
 
-![List of variants](../../images/catalog/variable-product/var-pro-var-list.png)
+![List of variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-var-list.png)
 
 If you want to edit the properties of the variants, click the open all button and you will get the screen like below:
 
-![Open all variants](../../images/catalog/variable-product/var-pro-open-all-var.png)
+![Open all variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-open-all-var.png)
 
 Now you know how to deal with variants, options, attributes, properties and how to edit them.
 
@@ -146,13 +146,13 @@ Filters are certain attributes that help narrow the search of a particular produ
 
 For e.g., assume that a customer searches for purple t-shirts in the store. Now, the productfilter is set as colour > purple, to narrow the search. See the image below:
 
-![Filters](../../images/catalog/variable-product/var-pro-filters.png)
+![Filters](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-filters.png)
 
 Now the cart will display only the purple t-shirts.
 
 **Relations**
 
-![Relations](../../images/catalog/variable-product/var-pro-relations.png)
+![Relations](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-relations.png)
 
 - In this tab page, relations are set for Upsells and Cross sells
 - An upsell is to get the customer to spend more money – buy a more expensive model of the same type of product considered for purchase.
@@ -171,11 +171,11 @@ So, lets create an article.
 
 Have a look at the image below:
 
-![Article  manager](../../images/catalog/variable-product/var-pro-article-manager.png)
+![Article  manager](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-article-manager.png)
 
 As given in the above illustration, click in the top menu or in the left pane of the control panel. You will get a new screen like this.
 
-![Choosing product type](../../images/catalog/variable-product/var-pro-choose-pro-type.png)
+![Choosing product type](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-choose-pro-type.png)
 
 - Enter the name for your product.
 - Since you are creating article, you need to tell that the article be treated as product. So, select 'Yes'.
@@ -184,13 +184,13 @@ As given in the above illustration, click in the top menu or in the left pane of
 
 Your product is successfully created and a message will be displayed like this.
 
-![success message for creating variable product](../../images/catalog/variable-product/var-pro-create-success.png)
+![success message for creating variable product](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-create-success.png)
 
 **General**
 
 Now you need to configure your product with necessary details. Begin with general tab.
 
-![General tab](../../images/catalog/variable-product/var-pro-create-var-general.png)
+![General tab](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/var-pro-create-var-general.png)
 
 - If you select 'Yes' in the first option, your product will be displayed in the storefront
 - Select the brand or manufacturer of the product from the list
@@ -201,46 +201,46 @@ Now switch to Images tab.
 
 **Images**
 
-![Images](../../images/catalog/variable-product/create_variable_cart_images.png)
+![Images](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_images.png)
 
 You can add main, thumbnail and additional images relevant to your product in this tab. Click the 'select an image' button to get a pop-up window to select the image.
 
-![Select images](../../images/catalog/variable-product/create_variable_cart_images_select.png)
+![Select images](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_images_select.png)
 
 Move on to variants tab.
 
 **Variants**
 
-![Variants](../../images/catalog/variable-product/create_variable_cart_variants_1.png)
+![Variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_variants_1.png)
 
 If you select the option, then you need to set values for the option.
 
-![Variants of product](../../images/catalog/variable-product/create_variable_cart_variants_2.png)
+![Variants of product](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_variants_2.png)
 
 In the image, as you can see, you have added the option color. Now, save the configuration by clicking ONLY the green coloured button 'Save'. DO NOT press any other button. Now, see the changes in the screen.
 
-![Variants creation](../../images/catalog/variable-product/create_variable_cart_variants_3.png)
+![Variants creation](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_variants_3.png)
 
 You can see the blue link, 'Set Values' adjacent to the option 'Color'. Click this link to set some values for the option 'Color'. Then only you can generate variants. Go ahead with setting values and see what happens...
-![Set values](../../images/catalog/variable-product/create_variable_cart_variants_setvalues.png)
+![Set values](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_variants_setvalues.png)
 
 If you select the value for the option and click the create button, you will get the resulting screen like this.
-![Set option values](../../images/catalog/variable-product/create_variable_cart_variants_setvalues_1.png)
+![Set option values](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_variants_setvalues_1.png)
 
 Close the window using the X in the top right corner and return to the tabs.
-![Generate variants](../../images/catalog/variable-product/create_variable_cart_generate_variants.png)
+![Generate variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_generate_variants.png)
 
 Now, as shown in the image, click on the 'Generate Variants', a green colored button, to generate variants for the products.
 
-![Generating variants](../../images/catalog/variable-product/create_variable_cart_genrating_variants.png)
+![Generating variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_genrating_variants.png)
 
 As you click the buttons to generate variants, the buttons adjusts itself to display the message 'Generating variants... please wait'. Now its done. See the variants listed below, as shown in the image.
 
-![Generated variants list](../../images/catalog/variable-product/create_variable_cart_variants_generated.png)
+![Generated variants list](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_variants_generated.png)
 
 Once the variants are generated, you can edit the variants and add necessary details to the variant. When you edit a variant, you will have all the tabs in cart except variant tab. Fill in the required details for the product variant.
 
-![Editing variants](../../images/catalog/variable-product/editing_variants.png)
+![Editing variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/editing_variants.png)
 
 Having completed variants tab, now move on to filtes tab.
 
@@ -248,11 +248,11 @@ Having completed variants tab, now move on to filtes tab.
 
 Here, you can set the filters to narrow product search. When you set filter value as 'Mens', all mens T-Shirts will be displayed. Likewise, women and kids. See the illustration below:
 
-![Filters](../../images/catalog/variable-product/create_variable_cart_variants_filters.png)
+![Filters](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_variants_filters.png)
 
 **Relations**
 
-![Relations](../../images/catalog/variable-product/create_variable_cart_relations.png)
+![Relations](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_relations.png)
 
 The next tab is Relations. Here, you can add products of higher value than the one being viewed by the customer and recommend the customer to buy that product, citing its advantages and additional features. This is an upsell.
 
@@ -262,13 +262,13 @@ For more detailed explanation, refer to the **Relations** section of the **Varia
 
 **Apps**
 
-![Apps section](../../images/catalog/variable-product/create_variable_cart_apps.png)
+![Apps section](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/create_variable_cart_apps.png)
 
 In this tab, you can add third party tools or plugins, that are available, to enhance the J2Store functionality, like adding additional fields, applications, functions or features.
 
 Now, lets have a look on how your product is viewed in your online store. Check the image below:
 
-![Frontend view](../../images/catalog/variable-product/poloshirt_on_cart.png)
+![Frontend view](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/variable-product/poloshirt_on_cart.png)
 
 **Video Tutorial:**
 

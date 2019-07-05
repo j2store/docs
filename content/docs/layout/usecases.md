@@ -36,16 +36,16 @@ Likewise, we can assign products to as many categories as we wish.
 
 Relevant Screenshots:
 
-![usecase1](../../images/layout/usecases/producttagusecase1.png)
-![usecase2](../../images/layout/usecases/producttagusecase2.png)
+![usecase1](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecase1.png)
+![usecase2](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecase2.png)
 
-![useacse3](../../images/layout/usecases/producttagusecase3.png)
-![usecase4](../../images/layout/usecases/producttagusecase4.png)
+![useacse3](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecase3.png)
+![usecase4](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecase4.png)
 The front end view is like this:
 
-![usecase5](../../images/layout/usecases/producttagusecase5.png)
+![usecase5](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecase5.png)
 
-![usecase6](../../images/layout/usecases/producttagusecase6.png)
+![usecase6](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecase6.png)
 
 **Displaying products brand-wise**
 If you own a multi-brand store, then this feature might help you the most.You could display your products brand-wise. All you have to do is this:
@@ -69,16 +69,16 @@ Our goal is to list the shirts in the store according to their brand.We have fol
 
 **Relevant Screenshots**
 
-![producttag1](../../images/layout/usecases/producttagusecasetwo1.png)
-![producttag2](../../images/layout/usecases/producttagusecasetwo2a.png)
+![producttag1](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecasetwo1.png)
+![producttag2](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecasetwo2a.png)
 
-![producttag3](../../images/layout/usecases/producttagusecasetwo2b.png)
-![usecasetwo3](../../images/layout/usecases/producttagusecasetwo3.png)
-![usecasetwo4](../../images/layout/usecases/producttagusecasetwo4.png)
+![producttag3](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecasetwo2b.png)
+![usecasetwo3](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecasetwo3.png)
+![usecasetwo4](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecasetwo4.png)
 
-![useacsetwo4a](../../images/layout/usecases/producttagusecasetwo4a.png)
+![useacsetwo4a](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecasetwo4a.png)
 
-![usecasetwo4b](../../images/layout/usecases/producttagusecasetwo4b.png)
+![usecasetwo4b](https://raw.githubusercontent.com/j2store/doc-images/master//layout/usecases/producttagusecasetwo4b.png)
 
 **Video tutorial:**
   

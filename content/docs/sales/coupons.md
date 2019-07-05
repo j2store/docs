@@ -13,15 +13,15 @@ This is J2Store PRO exclusive feature
 
 Coupons are vouchers preloaded with specific values and discount credentials that enable customers to shop online with extra privileges.
 
-![](../../images/sales/Coupons/coupon_01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Coupons/coupon_01.png)
 
 The above image shows how to create a coupon and add the details for a coupon. See the images below for a complete information on creating a coupon.
 
-![](../../images/sales/Coupons/coupon_02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Coupons/coupon_02.png)
 
-![](../../images/sales/Coupons/coupon_03.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Coupons/coupon_03.png)
 
-![](../../images/sales/Coupons/coupon_04.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Coupons/coupon_04.png)
 
 Coupons hold the following information required for a successful process of purchase.
 

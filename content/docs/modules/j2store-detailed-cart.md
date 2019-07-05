@@ -32,7 +32,7 @@ Once you install the app, the next step is to Navigate to Extensions->Modules->	
 **Cartitem total** When this option is enabled, the total of the order would be displayed in the module.
 **Cartitem remove option** Setting this option to Yes would show the option(trash icon) to remove items that have been added to the cart in the module.
 
-![](../../images/modules/j2store-detailed-cart/jdc01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/j2store-detailed-cart/jdc01.png)
 
 **Shipping and checkout settings** 
 
@@ -49,4 +49,4 @@ Once you install the app, the next step is to Navigate to Extensions->Modules->	
 **View cart button** Setting this option to Show would display a link to the cart view.
 
 
-![](../../images/modules/j2store-detailed-cart/jdc02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/j2store-detailed-cart/jdc02.png)

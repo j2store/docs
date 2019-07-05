@@ -1,5 +1,4 @@
 ---
-
 path: "/docs/developer-guide/plugins/app-for-j2store"
 updated: "2019-06-12"
 title: "App for J2store"
@@ -94,7 +93,8 @@ An example manifest should look like this:
 			</fieldset>
 		</fields>
 	</config>		
-</extension>`
+</extension>
+```
 
 
 Creating app class
@@ -113,7 +113,8 @@ The above line will call the template layout for the app_example from /app_examp
 
 App's model should have file named with appexample.php and it should be like below
 
-`defined('_JEXEC') or die('Restricted access');
+```
+defined('_JEXEC') or die('Restricted access');
 require_once (JPATH_ADMINISTRATOR . '/components/com_j2store/library/appmodel.php');
 class J2StoreModelAppExample extends J2StoreAppModel
 {
@@ -121,11 +122,12 @@ class J2StoreModelAppExample extends J2StoreAppModel
 	public $_element = 'app_example';
 
 }
+```
 
-**`App controller**
+**App controller**
 
 Controller.php file should be located in /app_donation/app_donation/controller.php and you must include the J2Store's library appcontroller and it should be written like below
-``
+```
 defined('_JEXEC') or die('Restricted access');
 require_once(JPATH_ADMINISTRATOR.'/components/com_j2store/library/appcontroller.php');
 

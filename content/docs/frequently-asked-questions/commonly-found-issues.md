@@ -11,7 +11,7 @@ category: "Frequently asked questions"
 **On update to 3.3.6**
 
 Starting from the release 3.3.6, when you install the latest version of J2Store on your site over an existing version, you might find a warning that looks like this:
-![PHP error](../../images/frequently-asked-questions/commonly-found-issues/error-j2store-exists.png)
+![PHP error](https://raw.githubusercontent.com/j2store/doc-images/master//frequently-asked-questions/commonly-found-issues/error-j2store-exists.png)
 
 
 **Why it occurs?** 
@@ -25,7 +25,7 @@ No, this warning wouldn't affect the site in any way. As mentioned before, this 
 **Due to the backward compatibility to earlier versions of PHP**
 
 Sometimes, you could find a warning like this on your site:
-![PHP backward compatibility](../../images/frequently-asked-questions/commonly-found-issues/warning-php.png)
+![PHP backward compatibility](https://raw.githubusercontent.com/j2store/doc-images/master//frequently-asked-questions/commonly-found-issues/warning-php.png)
 **Why it occurs?** 
 
 This warning occurs when you turn on Error reporting on your site's global configuration under System->Global configuration->Server tab.
@@ -55,7 +55,7 @@ This might be because of two prominent reasons.
 - **Database type**
 
 The **database type** should be set to **MySQLi** (the one that is supported by J2Store) under System->Global configuration->Server tab.
-![Database-type](../../images/frequently-asked-questions/commonly-found-issues/database-type.png)
+![Database-type](https://raw.githubusercontent.com/j2store/doc-images/master//frequently-asked-questions/commonly-found-issues/database-type.png)
 
 - **Caching**
 

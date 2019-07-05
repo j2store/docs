@@ -27,7 +27,7 @@ The example given below, assumes you have a store and selling hosting service an
 5. Choose your usergroups and save.
 
 
-![quick start](../../images/subscriptions-and-memberships/quick-start/recurring.png)
+![quick start](https://raw.githubusercontent.com/j2store/doc-images/master//subscriptions-and-memberships/quick-start/recurring.png)
 **How to create a non-recurring (one term) subscription plan?**
 
 Non recurring is a single term subscription in which the subscription will be terminated at the specific period and does not allow for auto renewal. Subscriber will have to subscribe for the plan next time manually.
@@ -50,7 +50,7 @@ Lets see an example for single term subscription. For example, consider you are 
 5. Choose your usergroups and save.
 
 
-![non recurring](../../images/subscriptions-and-memberships/quick-start/non-recurring.png)
+![non recurring](https://raw.githubusercontent.com/j2store/doc-images/master//subscriptions-and-memberships/quick-start/non-recurring.png)
 Watch the video here:
 
 [![quick start](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg](https://youtu.be/D7-7EOzovqM "quick start")
@@ -61,11 +61,11 @@ Refer below screen shots for setting non-recurring 3 months subscription plan
 
 Choosing duration
 
-![3 months duration](../../images/subscriptions-and-memberships/quick-start/3-months-subs-duration.png)
+![3 months duration](https://raw.githubusercontent.com/j2store/doc-images/master//subscriptions-and-memberships/quick-start/3-months-subs-duration.png)
 
 
 On Frontend
 
-![subscription plan](../../images/subscriptions-and-memberships/quick-start/3-months-subs-plan.png)
+![subscription plan](https://raw.githubusercontent.com/j2store/doc-images/master//subscriptions-and-memberships/quick-start/3-months-subs-plan.png)
 Watch the video
 

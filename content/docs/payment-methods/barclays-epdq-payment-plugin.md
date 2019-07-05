@@ -33,14 +33,14 @@ NOTE: If you are selling digital goods, it is advised to use SALE as operation c
 
 Check the image below for a clear understanding.
 
-![epdq](../../images/payment-methods/barclays-payment-plugin/epdq_plugin_1.png)
+![epdq](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/barclays-payment-plugin/epdq_plugin_1.png)
 
 The following parameters for technical information in your ePDQ account should be set as instructed below.
 
 **Hashing method (Tab: Security)**
 This should be set to SHA-1, as the plugin will not function with other methods. Check the image on how to do this.
 
-![hashing method](../../images/payment-methods/barclays-payment-plugin/hashing_method.png)
+![hashing method](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/barclays-payment-plugin/hashing_method.png)
 
 **Checks for E-Commerce (Tab: Data and origin verification)**
 URL of the merchant page containing the payment form that will call the page: orderstandard.asp - This should be set to <link-text url =¨http://www.yourdomain.com¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
@@ -48,7 +48,7 @@ URL of the merchant page containing the payment form that will call the page: or
 Also enter a SHA-IN pass pharse here. The same should be entered in the plugin as well.
 
 
-![verification](../../images/payment-methods/barclays-payment-plugin/tech_info.png)
+![verification](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/barclays-payment-plugin/tech_info.png)
 
 **Post sale configuration : (Tab: Transaction feedback)**
 This is required to update our database after the payment is done.
@@ -58,9 +58,9 @@ Under the heading “Direct HTTP server-to-server request”, set both the URLs 
 **Request method: POST**
 (see the picture below with example urls)
 
-![post1](../../images/payment-methods/barclays-payment-plugin/server_request_1.png)
+![post1](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/barclays-payment-plugin/server_request_1.png)
 
-![serverreqst](../../images/payment-methods/barclays-payment-plugin/server_request_2.png)
+![serverreqst](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/barclays-payment-plugin/server_request_2.png)
 
 **Installation Instructions**
 * Use the Joomla installer to install the plugin.

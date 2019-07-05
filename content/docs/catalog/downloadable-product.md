@@ -24,13 +24,13 @@ But there is unique option **Files** for this product type. Have a look over tha
 
 There are three options here to set before further action.
 
-![Files](../../images/catalog/downloadable-product/down-pro-files.png)
+![Files](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-files.png)
 
 **Product Files**
 
 First there is a button to select the downloadable files to set for the customer to view. When clicked, it will direct to a popup window in which the display name and the path of the downloadable file are set.
 
-![Specifying files](../../images/catalog/downloadable-product/down-pro-files-spec.png)
+![Specifying files](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-files-spec.png)
 
 VERY IMPORTANT: In configuration -> basic settings, the File attachment path field should point to an existing directory inside your website root.
 
@@ -64,11 +64,11 @@ So, lets create an article.
 
 Have a look at the image below:
 
-![Article manager](../../images/catalog/downloadable-product/down-pro-article-manager.png)
+![Article manager](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-article-manager.png)
 
 As given in the above illustration, click in the top menu or in the left pane of the control panel. You will get a new screen like this.
 
-![Choosing product type](../../images/catalog/downloadable-product/down-pro-pro-type.png)
+![Choosing product type](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-pro-type.png)
 
 A downloadable product is one that has no physical existence. It can be downloaded as per the terms and conditions of the seller. It can be a book, a video, a music album or even a software extension like joomla extension. To create a downloadable product, follow the steps:
 
@@ -79,10 +79,10 @@ A downloadable product is one that has no physical existence. It can be download
 
 Your product is successfully created and a message will be displayed like this.
 
-![Success message](../../images/catalog/downloadable-product/down-pro-create-success.png)
+![Success message](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-create-success.png)
 
 Add a description for the product, as illustrated below.
-![Adding content](../../images/catalog/downloadable-product/down-pro-add-content.png)
+![Adding content](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-add-content.png)
 
 The Configuration process follows:
 
@@ -90,35 +90,35 @@ The Configuration process follows:
 
 Enter the details as required by the fields in the tab, like, SKU, UPC/EAN, brand, vendor, tax profile and the caption for the cart button. Once you enter them, you can navigate to the next tab, pricing.
 
-![General tab](../../images/catalog/downloadable-product/down-pro-general.png)
+![General tab](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-general.png)
 
 **Pricing**
 
 In Pricing you can set the price for your product. You have the option to set up advanced prices, like discount offers, as shown in the following images.
 
-![Pricing](../../images/catalog/downloadable-product/down-pro-pricing.png)
+![Pricing](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-pricing.png)
 
 In the above image you set up the regular price for the E-Book. Click the set prices button to set advanced/special prices. It will pop-up a window to set the special prices, like this.
 
-![Advanced pricing](../../images/catalog/downloadable-product/down-pro-adv-pricing.png)
+![Advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-adv-pricing.png)
 
 In the above image, you can set a date range for the special price, otherwise, you can leave it empty for the special price to be applied always. For example, if a customer buys 2 or more copies of the E-Book, you can offer a discount in price, throughout the year. Now, you have entered the values, and click the blue 'Create' button and you will get the special price listed below, as shown in the image.
 
-![Success message for advanced pricing](../../images/catalog/downloadable-product/down-pro-adv-price-success.png)
+![Success message for advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-adv-price-success.png)
 
 **Images**
 
 When you select the images tab, you will get a screen like this.
 
-![Images](../../images/catalog/downloadable-product/down-pro-images.png)
+![Images](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-images.png)
 
 Click on the select an image button. You will get a pop-up window, where you can select suitable image for your ebook, as shown below:
 
-![Image select](../../images/catalog/downloadable-product/down-pro-image-select.png)
+![Image select](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-image-select.png)
 
 Once you finish the selection, your tab will be like this.
 
-![Image selected](../../images/catalog/downloadable-product/down-pro-images-selected.png)
+![Image selected](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-images-selected.png)
 
 **Files**
 
@@ -155,7 +155,7 @@ In File attachment path field, enter the name of the folder that contains your f
 
 Check the image below:
 
-![File path specification in configuration](../../images/catalog/downloadable-product/down-pro-file-path-config.png)
+![File path specification in configuration](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-file-path-config.png)
 
 Finally, save the configuration. You have created a folder to upload your digital products like ebook, pdf files, image files etc., set up protection mechanism from unauthorized access and configured the folder in your configuration page.
 
@@ -167,14 +167,14 @@ The tab will look like this:
 
 When you click the set files button, you will get a pop-window to select the file to be downloaded. See the picture.
 
-![Download create files](../../images/catalog/downloadable-product/down-pro-create-files.png)
+![Download create files](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-create-files.png)
 
 And select the file and click the create button, and you will get the product listed below as shown in the picture. You can add as many files as you can to the folder. When a customer purchases the product, all the files associated with the product will be available for download.
 
-![Download files list](../../images/catalog/downloadable-product/down-pro-files-list.png)
+![Download files list](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down-pro-files-list.png)
 
 Set the download limit (0 for unlimited downloads) and expiry of the download, in days, as shown in the picture below:
-![Limit for download](../../images/catalog/downloadable-product/down_files_limit.png)
+![Limit for download](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_files_limit.png)
 
 Let us create a Downloads Area for the customers
 
@@ -187,31 +187,31 @@ Let us create a Downloads Area for the customers
 
 Check the image below.
 
-![My profile menu](../../images/catalog/downloadable-product/down_my_profile.png)
+![My profile menu](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_my_profile.png)
 
 You just have to tell the customers to visit this menu to get their files after the purchase.
 
 When the customer purchases the downloadable product, and finishes the checkout process, the order is completed and the status become 'Confirmed'. If My Profile is clicked, the orders will be listed as shown below:
 
-![Frontend my profile](../../images/catalog/downloadable-product/down_my_profile_front_end.png)
+![Frontend my profile](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_my_profile_front_end.png)
 
 And when 'Downloads' tab is clicked, it will show the download link like this:
 
-![Download link](../../images/catalog/downloadable-product/down_downloads_front_end-link.png)
+![Download link](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_downloads_front_end-link.png)
 
 **Filters**
 
 The filters will help to narrow the product search, for specific products. For e.g., if you add filter with value 'music', the search will display only music files.
 
 See the image below:
-![Files](../../images/catalog/downloadable-product/down_filters.png)
+![Files](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_filters.png)
 
 **Relations**
 
 The next tab is Relations. Here, you can add products of higher value than the one being viewed by the customer and recommend the customer to buy that product, citing its advantages and additional features. This is an upsell.
 
 Refer the image below:
-![Relations](../../images/catalog/downloadable-product/down_relations.png)
+![Relations](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_relations.png)
 
 Also, you can add some other products to convince the customer to buy theses products additionally. This is cross sell.
 
@@ -220,11 +220,11 @@ For more detailed explanation, refer to the **Relations** section of the **Downl
 **Apps**
 
 In this tab, you can add third party tools or plugins, that are available, to enhance the J2Store functionality, like adding additional fields, applications, functions or features.
-![Apps](../../images/catalog/downloadable-product/down_apps.png)
+![Apps](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_apps.png)
 
 Now, lets have a look on how your product is viewed in your online store. Check the image below:
 
-![Frontend](../../images/catalog/downloadable-product/down_product_on_cart.png)
+![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/down_product_on_cart.png)
 
 **How to sell files that are stored externally?**
 
@@ -248,7 +248,7 @@ Please navigate to J2store->Sales->Orders-> Order of the downloadable product.
 
 Click on the checkboxes mentioned in the below screenshot and click save.
 
-![Granting permission from backend](../../images/catalog/downloadable-product/download-grant-perm.png)
+![Granting permission from backend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/downloadable-product/download-grant-perm.png)
 This would reset the download limit and expiry date only for that particular user.
 
 He would be able to login to his my profile page and download it once again the number of times you have allowed on the product.

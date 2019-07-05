@@ -19,11 +19,11 @@ For e.g., if US $ is been set the value 1, it will be the default currency and t
 
 To make the currency value auto update, go to **J2Store > Configuration > Store tab** and choose **YES** to Auto Update Currency.
 
-![Autoupdate currency](../../images/set-up/set-up-multi-currency/multi-currency_autoupdatecurrency.png)
+![Autoupdate currency](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/set-up-multi-currency/multi-currency_autoupdatecurrency.png)
 Choose the Default Currency as **USD** in your store configuration.
 
 After choosing Auto update currency to YES, when you are going to create secondary currency, the value of the currency will be updated automatically. See the below picture,
-![Value of available currencies](../../images/set-up/set-up-multi-currency/multi-currency_value.png)
+![Value of available currencies](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/set-up-multi-currency/multi-currency_value.png)
 
 **J2Store Currency Switcher**
 
@@ -35,10 +35,10 @@ Open the module, set the module position to any one of your template's positions
 
 Assign it to the All pages or to the particular menu and Save it.
 
-![Currency setup](../../images/set-up/set-up-multi-currency/multicurrency_currency.png)
+![Currency setup](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/set-up-multi-currency/multicurrency_currency.png)
 
 **Frontend**
-![Frontend view](../../images/set-up/set-up-multi-currency/multi-currency_frontend.png)
+![Frontend view](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/set-up-multi-currency/multi-currency_frontend.png)
 
 **Video Tutorial:
 **Here is a video that would assist you on setting up multi-currency on your site:

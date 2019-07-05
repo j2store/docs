@@ -33,7 +33,7 @@ This image will be displayed while payment options are listed in the checkout pa
 Enter the valid API key associated with your Payeezy account. 
 You could get the API keys by logging in to the Payeezy dashboard and navigating to the API menu:
  
-![pay](../../images/payment-methods/payeezy/payeezy.png)
+![pay](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/payeezy/payeezy.png)
  
  **Secret key**
 Enter the valid secret key associated with your payeezy account.
@@ -44,7 +44,7 @@ Enter the valid merchant token associated with your payeezy account.
 **Use Payeezy sandbox**
 Test your store using sandbox feature of Payeezy. Set YES to use the Payeezy in test mode.
 
-![payeezypay](../../images/payment-methods/payeezy/payeezy_01.png)
+![payeezypay](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/payeezy/payeezy_01.png)
 
 **Test API key**
 Enter the valid API key associated with your payeezy's sandbox account.
@@ -68,7 +68,7 @@ Now you can go to Joomla admin-> Language Manager->Overrides and create override
 **Display text before payment**
 The text entered here will be displayed to the customer at the order summary screen before he makes the payment. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the Display text on selection parameter.
 
-![payeezyplugin](../../images/payment-methods/payeezy/payeezy_02.png)
+![payeezyplugin](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/payeezy/payeezy_02.png)
 **Display text on after payment**
 The text entered here will be displayed when customer completes the payment.
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the Display text on selection parameter.
@@ -87,7 +87,7 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 Text entered here will be added as the name of the payment button.
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override.
 
-![payeezy3](../../images/payment-methods/payeezy/payeezy_03.png)
+![payeezy3](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/payeezy/payeezy_03.png)
 
 **Support**
 sStill have questions? You can refer our support forum: http://j2store.org/forum/index.html

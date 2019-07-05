@@ -47,7 +47,7 @@ Create Hosted Paypage configuration:
 
 To create a new Hosted Paypage configuration, click on “Generate a New Configuration”.
 
-![eselectplus](../../images/payment-methods/moneris-hosted-paypage/eselectplus.png)
+![eselectplus](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/moneris-hosted-paypage/eselectplus.png)
 You will be assigned a Hosted Paypage ID (ps_store_id ).
 
 This is the identifier for this unique configuration. You will also be assigned a Hosted Paypage Key (hpp_key). Note down the ps_store_id (hpp_id for US) and hpp_key . You will need these while setting up the plugin.
@@ -68,7 +68,7 @@ Set Approved URL and Declined URL to:
 https://YOUR_HOST/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_moneris&paction=process
 See the screenshot below
 
-![response](../../images/payment-methods/moneris-hosted-paypage/response_method.png)
+![response](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/moneris-hosted-paypage/response_method.png)
 
 **Step 4.1:** 
 Choose "Use Enhanced Cancel"if you want to return a full response to decline url. Click the Save Changes button.
@@ -93,17 +93,17 @@ Enter the following url in the Response URL field:
 https://YOUR_DOMAIN/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_moneris&paction=verify
 See the screenshot below
 
-![security](../../images/payment-methods/moneris-hosted-paypage/configure_security.png)
+![security](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/moneris-hosted-paypage/configure_security.png)
 In the above image, click Save Verification Settings and then return to Main Configuration.
 
-![mainconfig](../../images/payment-methods/moneris-hosted-paypage/monerics1.png)
+![mainconfig](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/moneris-hosted-paypage/monerics1.png)
 
 Set the cancel URL to 
 
 https://YOUR_HOST/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_moneris&paction=cancel
 
 
-![canceltransaction](../../images/payment-methods/moneris-hosted-paypage/monerics2.png)
+![canceltransaction](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/moneris-hosted-paypage/monerics2.png)
 **Plugin Configuration**
 Go to Joomla admin → Plugin Manager and open the Moneris Payment plugin.
 

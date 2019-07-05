@@ -35,6 +35,6 @@ Vendors are listed with the following details:
 
 See the image below on adding a new vendor.
 
-![Vendors](../../images/catalog/vendors/vendor_add_new.png)
+![Vendors](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/vendors/vendor_add_new.png)
 
 

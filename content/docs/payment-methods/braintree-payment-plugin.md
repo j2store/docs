@@ -24,7 +24,7 @@ Enter a name that will be shown in the payment methods selection during the chec
 
 Select the image of the plugin that you wish display at the front end.
 
-![plugin](../../images/payment-methods/braintree-payment-plugin/braintree-plugin.png)
+![plugin](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/braintree-payment-plugin/braintree-plugin.png)
 
 **Live Merchant id :**
 
@@ -65,7 +65,7 @@ The merchant details will be displayed after entering the Test merchant key, Tes
 Choose the desired payment type according to the requirement.
 
 
-![payment](../../images/payment-methods/braintree-payment-plugin/bt-payment-method.png)
+![payment](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/braintree-payment-plugin/bt-payment-method.png)
 **Display text on selection**
 
 The text entered here will be displayed when customer selects this payment method. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the tips below

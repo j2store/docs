@@ -54,14 +54,14 @@ Bookable = No
 
 Here are the screenshots that demonstrate the workflow of the above conditions:
 
-![usecase1](../../images/booking-and-reservations/usecases/booking-app-usecase1.png)
+![usecase1](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase1.png)
 
 
-![usecase2](../../images/booking-and-reservations/usecases/booking-app-usecase2.png)
+![usecase2](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase2.png)
 
-![usecase3](../../images/booking-and-reservations/usecases/booking-app-usecase3.png)
+![usecase3](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase3.png)
 
-![useacse4](../../images/booking-and-reservations/usecases/booking-app-usecase4.png)
+![useacse4](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase4.png)
 **Service Booking**
 
 **Scenario:**
@@ -80,7 +80,7 @@ After creating the product, navigate to general tab.
 **Booking duration**
 Set this parameter to Fixed blocks of 3 Hour(s) to make the block available with custom time range.
 
-![useacse5](../../images/booking-and-reservations/usecases/booking-app-usecase5.png)
+![useacse5](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase5.png)
 
 **Pricing tab**
 Set the pricing accordingly and navigate to the availabilitytab.
@@ -94,14 +94,14 @@ Range type = Time range(all weeks)
 Range = 06:00 to 23:00
 Bookable = Yes
 
-![usecase7](../../images/booking-and-reservations/usecases/booking-app-usecase7.png)
+![usecase7](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase7.png)
 
 
 The above settings will implement the following changes in the  frontend.
 
-![usecase6](../../images/booking-and-reservations/usecases/booking-app-usecase6.png)
+![usecase6](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase6.png)
 
-![usecase8](../../images/booking-and-reservations/usecases/booking-app-usecase8.png)
+![usecase8](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/booking-app-usecase8.png)
 
 **Book for a boat ride**
 
@@ -127,7 +127,7 @@ Set YES to Enable person types and click on Add person types button to add perso
 
 Take a look at below demo screen shot to see how the parameters under person tab are configured.
 
-![booking person](../../images/booking-and-reservations/usecases/usecase3-booking-person.png)
+![booking person](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/usecase3-booking-person.png)
 
 
 **Availability**
@@ -137,9 +137,9 @@ All dates are = not available by default
 
 Add time range for boat ride by referring to the below picture
 
-![booking availablity](../../images/booking-and-reservations/usecases/usecase3-booking-availability.png)
+![booking availablity](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/usecase3-booking-availability.png)
 
 **Frontend**
 
-![booking frontend](../../images/booking-and-reservations/usecases/usecase3-booking-frontend.png)
+![booking frontend](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/usecases/usecase3-booking-frontend.png)
 

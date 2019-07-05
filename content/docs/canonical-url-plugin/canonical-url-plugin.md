@@ -31,29 +31,29 @@ The setting found in the plugin would allow you to choose the canonical tag. The
                 **1.)Menu canonical tag
                    2.)Current URL **
                    
-  ![Introduction](../../images/canonical-url-plugin/options in settings.png)
+  ![Introduction](https://raw.githubusercontent.com/j2store/doc-images/master//canonical-url-plugin/options in settings.png)
 
 When the menu canonical tag option is chosen, the tag that is associated on the Item view canonical tab would be taken into account and the URL for the tag associated with the canonical menu option in the menu settings would be displayed as the URL while indexing happens.
             
 Let us consider that Summer is the tag associated with the canonical menu option in the menu settings, then the indexing would have the URL associated with that tag.
 
-![indexing](../../images/canonical-url-plugin/screenshot-localhost-2018-07-25-18-09-34.png)
+![indexing](https://raw.githubusercontent.com/j2store/doc-images/master//canonical-url-plugin/screenshot-localhost-2018-07-25-18-09-34.png)
 
 The canonical URLs would **NOT**  be visible for naked human eye. They would only be available on the meta tags of the head section of the page and would be used while indexing happens. The URL found in the frontend meta tag would be as follows:
 
-![Frontend meta](../../images/canonical-url-plugin/Selection_078.png)
+![Frontend meta](https://raw.githubusercontent.com/j2store/doc-images/master//canonical-url-plugin/Selection_078.png)
  
 
 When there are no tags associated to the canonical menu option in the Item view canonical tab of the tag view menu, and there is a main tag set on the product, and the canonical type option in the plugin setting is set to Menu canonical tag, then the main tag would  be associated with the index URL.
 
-![No tags](../../images/canonical-url-plugin/screenshot-localhost-2018-07-25-17-50-17.png)
+![No tags](https://raw.githubusercontent.com/j2store/doc-images/master//canonical-url-plugin/screenshot-localhost-2018-07-25-17-50-17.png)
 
 The main tag chosen in the product article is as follows:
 
-![](../../images/canonical-url-plugin/screenshot-localhost-2018-07-25-18-27-58.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//canonical-url-plugin/screenshot-localhost-2018-07-25-18-27-58.png)
 
 Now the tag displayed on the meta tag of the frontend would be as follows:
-![meta tag](../../images/canonical-url-plugin/Selection_079.png)
+![meta tag](https://raw.githubusercontent.com/j2store/doc-images/master//canonical-url-plugin/Selection_079.png)
 
 When the canonical type is chosen as Current URL on the plugin parameters, a validation would be done if there are any tags associated on the menu parameters.
 If so, then the tag associated with the menu parameter would take effect.

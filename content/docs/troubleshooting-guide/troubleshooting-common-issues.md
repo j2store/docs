@@ -59,12 +59,12 @@ Login to Joomla administration and open the menu that links your product list.
 
 Under the Common Options tab, you can find Article Order parameter. There you can choose the ordering method.
 
-![order products](../../images/troubleshooting-guide/troubleshooting-common-issues/troubleshoot_orderproducts.png)
+![order products](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/troubleshoot_orderproducts.png)
 
 **[HOWTO] Options from dropdown cannot be selected**
 This issue occurs when your site has two instances of the Jquery UI library.
 
-![dropdown](../../images/troubleshooting-guide/troubleshooting-common-issues/options_dropdown.png)
+![dropdown](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/options_dropdown.png)
 
 
 **In Version 3:**
@@ -178,10 +178,10 @@ All the files uploaded to this folder is now protected.
 3. Go to J2Store cart tab and set all the fields and Save.
 4. Now go to files tab in the navigation you can see Set product files button.
 
-![product down files](../../images/troubleshooting-guide/troubleshooting-common-issues/product_down_files_1.png)
+![product down files](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/product_down_files_1.png)
 
 
-![product down files2](../../images/troubleshooting-guide/troubleshooting-common-issues/product_down_files_2.png)
+![product down files2](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/product_down_files_2.png)
 
 **Solving the missing currency symbol in your store**
 
@@ -216,7 +216,7 @@ Store owners sometimes want to hide the + (PLUS) and the - (MINUS) prefix that i
 2. Set Product option price prefix to HIDE
 3. Save
 
-![priceprefix1](../../images/troubleshooting-guide/troubleshooting-common-issues/priceprefix_1.png)
+![priceprefix1](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/priceprefix_1.png)
 
 **Product list layout:**
 
@@ -225,7 +225,7 @@ If you use the J2Store's product list layout, then you will find a similar switc
 * Set Product option price prefix to HIDE
 * Save
 
-![priceprefix2](../../images/troubleshooting-guide/troubleshooting-common-issues/priceprefix_2.png)
+![priceprefix2](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/priceprefix_2.png)
 
 
 **HOW To Translate the Address Field Labels**
@@ -245,7 +245,7 @@ if you are running multi-lingual site, you can enter a language constant in the 
 * Check the For Both locations
 * Save.
 
-![language override](../../images/troubleshooting-guide/troubleshooting-common-issues/translation_addres_fields.png)
+![language override](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/translation_addres_fields.png)
 
 You can repeat this steps for your second, third, and other languages.
 
@@ -454,7 +454,7 @@ OVERRIDE PATHtemplates/YOUR-TEMPLATE/html/com_j2store/templates/YOUR-SUB-TEMPLAT
 
 Open your sub-template folder where you can find the files with name started with view_(for example, view_simple.php, view_images.php, view_options.php, view_notabs.php, etc). Those files controlled all the features displaying in the Product view page.
     
-![product guide](../../images/troubleshooting-guide/troubleshooting-common-issues/template_guide_product_view.png)
+![product guide](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-common-issues/template_guide_product_view.png)
     
     
     

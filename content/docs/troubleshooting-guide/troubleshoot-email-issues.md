@@ -11,7 +11,7 @@ category: "troubleshooting guide"
 
 Mail delivery is a bit tricky process and it primarily depends on your hosting service. Yes. You read it right. Neither Joomla or J2Store cannot send an email. They can only prepare the email and pass it to the mail server of your hosting service (or an SMTP service)
 
-```The role of J2Store in the mail notification is just to prepare the email message and the subject and pass on to Joomla’s mail handler ( JMail class )
+The role of J2Store in the mail notification is just to prepare the email message and the subject and pass on to Joomla’s mail handler ( JMail class )
 Even Joomla cannot send emails. Yes. That is correct. The email sending has to be handled by a mail server (your Hosting service). So even Joomla passes on the message to your mail server.
 
 It is your mail server (hosting server) that sends out the mail. Similarly, at the receiving end, another mail server receives it.
@@ -20,7 +20,7 @@ Applications like J2Store or Joomla have very little control over the mail deliv
 There could be hundreds of reasons why an email was not received by a person. The receiving mail server might have anti-spam filters (like GoDaddy), firewall, and other processing rules.
 And there is no way of checking whether mail deliver got failed (called bounce) by the application. However, if a mail bounces, a mail delivery failure message is sent to the inbox of the From email (the from email you set in the Joomla -> Global configuration - Server settings -> Mail settings)
 
-Here is a simple explanation how Joomla extensions including J2Store uses the Joomla’s mailing capability <link-text url ="https://www.ostraining.com/blog/how-tos/development/how-to-send-email-from-your-joomla-extension/" target = "_blank" rel = "noopener"> click here </link-text>```
+Here is a simple explanation how Joomla extensions including J2Store uses the Joomla’s mailing capability <link-text url ="https://www.ostraining.com/blog/how-tos/development/how-to-send-email-from-your-joomla-extension/" target = "_blank" rel = "noopener"> click here </link-text>
 
 
 J2Store uses the Joomla's default mail wrapper (JMail) class for sending the order notifications to the store administrator and the customers.

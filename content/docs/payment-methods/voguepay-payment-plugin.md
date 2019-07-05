@@ -63,7 +63,7 @@ Set  Yes to enable to debugging. NEVER AND EVER set this in Live site.
 
 Relevant Screen Shot
 
-![voguepay](../../images/payment-methods/voguepay-payment-plugin/paymenvoguepay.png)
+![voguepay](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/voguepay-payment-plugin/paymenvoguepay.png)
 
 This is Screen shot Will help you to Enable Test Mode, To test Your Store before going live.
 

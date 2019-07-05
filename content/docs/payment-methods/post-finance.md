@@ -41,14 +41,14 @@ Hashing method (Tab: Global security parameters)
 
 Should be set to SHA-1. The plugin will not work with the other methods. Refer the image below.
 
-![hashing method](../../images/payment-methods/post-finance/hashing_method_ogone.png)
+![hashing method](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/post-finance/hashing_method_ogone.png)
 
 **Checks for E-Commerce (Tab: Data and origin verification)**
 
 URL of the merchant page containing the payment form that will call the page: orderstandard.asp:
 Leave the data origin url empty
 
-![check post finance](../../images/payment-methods/post-finance/ecommerce_check_postfinance.png)
+![check post finance](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/post-finance/ecommerce_check_postfinance.png)
 
 Post sale configuration : (Tab: Transaction feedback)
 
@@ -60,7 +60,7 @@ Request method: POST
 
 (see the picture below with example urls.)
 
-![feedback](../../images/payment-methods/post-finance/transaction_feedback_ogone.png)
+![feedback](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/post-finance/transaction_feedback_ogone.png)
 
 
 **Plugin Configuration**

@@ -26,12 +26,12 @@ Process secure iDEAL, credit card, bank transfer, SOFORT payments, paysafecard, 
 3. In the resulting page, you will have to look at your website profile details or to create a new website profile if you don't have any existing web profiles. Click on Create new website profile.
 
 
-![](../../images/payment-methods/mollie payment plugin/website-profiles.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mollie payment plugin/website-profiles.png)
 4. If you are creating a new website profile enter your store's details including your website URL and company name and select your payments and click save.
 
 5. Your website profile page has all the information needed to integrate your mollie account with J2Store's Mollie payment plugin. Copy your live or Test API key (depending on the environment you are using) and paste it in plugin's settings.
 
-![api](../../images/payment-methods/mollie payment plugin/mollie-api.png)
+![api](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mollie payment plugin/mollie-api.png)
 
 **Webhook url **
 
@@ -120,13 +120,13 @@ You can enter a language constant as a value here if you are using a multi-lingu
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
 
-![mollie settings](../../images/payment-methods/mollie payment plugin/mollie-settings.png)
+![mollie settings](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mollie payment plugin/mollie-settings.png)
 
 **Frontend screen shots**
 
-![](../../images/payment-methods/mollie payment plugin/frontend-mollie.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mollie payment plugin/frontend-mollie.png)
 
 
-![](../../images/payment-methods/mollie payment plugin/mollie-order.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mollie payment plugin/mollie-order.png)
 
-![](../../images/payment-methods/mollie payment plugin/mollie-payment.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/mollie payment plugin/mollie-payment.png)

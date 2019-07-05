@@ -40,11 +40,11 @@ With the product categories module, you could display an overview of the categor
 **Image width** Set the width of the image in this option.
 
 The settings of the module are as shown below:
-![](../../images/modules/product-categories-module/pcm01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-categories-module/pcm01.png)
 
 The front end view of the module would be like this:
 
-![](../../images/modules/product-categories-module/pcm02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-categories-module/pcm02.png)
 
 
 Video Tutorial:

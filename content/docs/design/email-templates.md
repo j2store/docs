@@ -33,11 +33,11 @@ In Pro version, you have the ability to create the email template from the backe
 
 To create an email template, follow the steps as shown with the help of images.
 
-![Creating a new email template](../../images/design/Email templates/email-template-create-new.png)
+![Creating a new email template](https://raw.githubusercontent.com/j2store/doc-images/master//design/Email templates/email-template-create-new.png)
 
 From the resulting page, click on **New** in the top left corner.
 
-![Creating a new template using new button](../../images/design/Email templates/Email-template-new-button.png)
+![Creating a new template using new button](https://raw.githubusercontent.com/j2store/doc-images/master//design/Email templates/Email-template-new-button.png)
 
 
 #### How to create email template?
@@ -104,7 +104,7 @@ In **Template List**, you can have a list of templates in the form of .php files
 
 If you have selected **Simple Editor** in the **Basic Tab**, then the **Advanced Tab** will look like the below image.
 
-![Advanced settings adding shortcodes](../../images/design/Email templates/email-template-advanced-settings.png)
+![Advanced settings adding shortcodes](https://raw.githubusercontent.com/j2store/doc-images/master//design/Email templates/email-template-advanced-settings.png)
 
 There are a number of tags listed in the extreme right of the editor from where they can be added to the editor content.
 
@@ -124,7 +124,7 @@ Keep in mind, the following, when you add a custom field to the editor:
 
 Refer the image below for more clear understanding.
 
-![Supported shortcodes for custom fields](../../images/design/Email templates/email-template-shortcodes-for-custom-fields.png)
+![Supported shortcodes for custom fields](https://raw.githubusercontent.com/j2store/doc-images/master//design/Email templates/email-template-shortcodes-for-custom-fields.png)
 
 #### How to create template override for items table showing in the order email ?
 
@@ -148,7 +148,7 @@ Make your changes and save.
 
 #### How to add logo in your Email Template ?
 
-![Adding a logo in email templates](../../images/design/Email templates/Email-template-logo-for-emails.gif)
+![Adding a logo in email templates](https://raw.githubusercontent.com/j2store/doc-images/master//design/Email templates/Email-template-logo-for-emails.gif)
 
 #### Short codes
 

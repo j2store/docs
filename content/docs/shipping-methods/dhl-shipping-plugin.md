@@ -25,12 +25,12 @@ This plugin integrates DHL Shipping Rate API with J2Store.
 **Store Profile**
 To add the details of your store, you need to enter the values in the fields as shown in the image below:
 
-![dhl1](../../images/design/dhl-shipping-plugin/dhl_new_02.png)
+![dhl1](https://raw.githubusercontent.com/j2store/doc-images/master//design/dhl-shipping-plugin/dhl_new_02.png)
 
 **Params :**
 With the help of the below image, you can set the parameters for the DHL Shipping Plugin:
 
-![dhl2](../../images/design/dhl-shipping-plugin/dhl_new_04.png)
+![dhl2](https://raw.githubusercontent.com/j2store/doc-images/master//design/dhl-shipping-plugin/dhl_new_04.png)
 
 **Site ID:** 
 This is your DHL Site Id associated with your DHL accout.
@@ -70,11 +70,11 @@ Enable/Disable Log file to Debug DHL Shipping Plugin.Set this to NO in Live Site
 
 If you dont want to use the shipping address for billing but want to create a new address, you can do so as shown in the image:
 
-![dhl shipping](../../images/design/dhl-shipping-plugin/dhl3.png)
+![dhl shipping](https://raw.githubusercontent.com/j2store/doc-images/master//design/dhl-shipping-plugin/dhl3.png)
 
 You can select a shipping method of your choice from the given methods:
 
-![shipping method](../../images/design/dhl-shipping-plugin/dhl4.png)
+![shipping method](https://raw.githubusercontent.com/j2store/doc-images/master//design/dhl-shipping-plugin/dhl4.png)
 **Support**
 Still have questions? You can reach us in support@j2store.org
 

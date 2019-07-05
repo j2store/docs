@@ -21,13 +21,13 @@ To do so,follow the steps given below:
 
 **Relevant Screenshot**
 
-![partial payment paln](../../images/partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentplan.png)
+![partial payment paln](https://raw.githubusercontent.com/j2store/doc-images/master//partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentplan.png)
 
 **Creating plans- an example:**
 
 You could wish to receive payment in 2 fragments for instance,you could set it up like this:
 
-![plan setup](../../images/partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentplansetup.png)
+![plan setup](https://raw.githubusercontent.com/j2store/doc-images/master//partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentplansetup.png)
 
 Here as the screenshot explains, the payment is split into two parts,the first one being 25 % of the total amount and the second half being the remaining amount.
 
@@ -50,5 +50,5 @@ With product-level partial payment settings, you could allow the users to buy al
 
 **Relevant Screenshot**
 
-![payment product](../../images/partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentproduct.png)
+![payment product](https://raw.githubusercontent.com/j2store/doc-images/master//partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentproduct.png)
 

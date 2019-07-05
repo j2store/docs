@@ -15,30 +15,30 @@ First thing, you have to find the language string for the text which you want to
 
 For example, if you are using Sagepay payment plugin in your site and wants to translate the error message, please open the downloaded plugin file.
 
-![lang override](../../images/translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_01.png)
+![lang override](https://raw.githubusercontent.com/j2store/doc-images/master//translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_01.png)
 
 Open the language folder and edit the .INI file.
 
 Find the language constant for the text which you want to translate.
 
-![plugin langoverride 2](../../images/translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_02.png)
+![plugin langoverride 2](https://raw.githubusercontent.com/j2store/doc-images/master//translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_02.png)
 
 Once find the language constant, go to Extensions > Language > Overrides
 
 Before creating the override, set the Filter to ADMINISTRATOR (of the language that you wanted to create override. Say, your language is French. Then you should select the German (fr-FR) Administrator in the filter)
 
-![plugin langoverride 5](../../images/translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_05.png)
+![plugin langoverride 5](https://raw.githubusercontent.com/j2store/doc-images/master//translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_05.png)
 
 
 
 Click NEW button.
 
-![plugin langoverride](../../images/translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_04.png)
+![plugin langoverride](https://raw.githubusercontent.com/j2store/doc-images/master//translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_04.png)
 Enter your language constant in the language constant text box and enter the value in the Text box.
 
 Check For both locations and save.
 
-![plugin langoverride3](../../images/translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_03.png)
+![plugin langoverride3](https://raw.githubusercontent.com/j2store/doc-images/master//translation/how-to-write-language-override-for-plugin-multilingual-site/plugin_lang_override_03.png)
 
 
 

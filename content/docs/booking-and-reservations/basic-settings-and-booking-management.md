@@ -22,11 +22,11 @@ This option would help manage the abandoned bookings. There might be situations 
 Setting the cart expire minutes would make the items in the cart disappear after the specified time limit if the user does not proceed to the checkout process.
 
 
-![bsbkm](../../images/booking-and-reservations/basic-settings-and-booking-management/app_bookingbasicsettings.png)
+![bsbkm](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/basic-settings-and-booking-management/app_bookingbasicsettings.png)
 **Manage bookings**
 
 Clicking on the manage bookings option will allow you to manage the bookings that have been made by the users.
 
 Here is a screenshot that depicts the booking management:
 
-![booking](../../images/booking-and-reservations/basic-settings-and-booking-management/app_bookingmanagebooking.png)
+![booking](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/basic-settings-and-booking-management/app_bookingmanagebooking.png)
