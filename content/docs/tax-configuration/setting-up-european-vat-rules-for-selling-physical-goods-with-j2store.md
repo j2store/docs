@@ -99,7 +99,7 @@ First, we should define the geozone and tax rates for the home country, that is 
 
 - 2\.1 Define Geozone
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_01.png)
 `
 ``Go to Joomla admin – J2Store – Localization – Geozones – New        
 Geozone Name: Home VAT Zone ( It can be anything. It is used just as reference )    
@@ -127,11 +127,11 @@ NOTE: A few countries might have same VAT rate for the digital goods. You can gr
 
 - 3.1. Define Geozone`
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_02.png)
 
 - **3.2. Define Tax rate:**
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_03.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_03.png)
 
 
 
@@ -147,7 +147,7 @@ Save and close`
 **4\. Setting up the tax profile**
 
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_04.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_04.png)
 
 It is sufficient to set up ONE tax profile for digital goods, in which we can associate many tax rates.
 
@@ -166,7 +166,7 @@ Save.
 
 **5\. Applying tax profile to a product**
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_05.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_05.png)
 
 J2Store uses native Joomla articles as products. So go ahead and create a product.
 
@@ -178,7 +178,7 @@ Example 1:
 
 Buyer ( can be an INDIVIDUAL or company ) from the same country (Home country )
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_06.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_06.png)
 
 Our shop is located in United Kingdom. And the buyer is from the same country. So local tax of 21 percent applies.
 
@@ -186,7 +186,7 @@ Example 2:
 
 Buyer ( INDIVIDUAL ) from a different EU country (Germany )
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_07.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_07.png)
 
 The buyer is from Germany and he is an Individual customer. So we are charging him the Germany's VAT rate of 25 %
 
@@ -194,7 +194,7 @@ Example 3:
 
 Buyer ( COMPANY ) from a different EU country WITHOUT a valid VAT Number
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_08.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_08.png)
 
 The customer is from Germany. He has entered a company name. But his VAT number is INVALID. So we apply the Germany's VAT rate of 25 %.
 
@@ -204,7 +204,7 @@ Example 4:
 
 Buyer ( COMPANY ) from a different EU country WITH a valid VAT Number
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_09.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/setting-up-european-vat-rules-for-selling-physical-goods-with-j2store/vat_09.png)
 
 The customer is from Germany.&nbsp;His VAT number is VALID.&nbsp;So NO tax is applied.
 

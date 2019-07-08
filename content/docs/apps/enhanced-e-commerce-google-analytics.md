@@ -36,7 +36,7 @@ Step 2 :
 
 If you have not already sign up, click Sign up button on right side of the page.
 
-![eega01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega01.png)
+![eega01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega01.png)
 
 Step 3 :
 
@@ -44,7 +44,7 @@ Enter your Account Name, Website Name, Website URL and choose industry category 
 
 Finally click Get Tracking ID.
 
-![eega02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega02.png)
+![eega02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega02.png)
 
 
 
@@ -75,13 +75,13 @@ This feature adds Universal Analytics Tracking Code to your Store. You don't nee
 This feature sets Impression threshold for category page. It sends hit after these many numbers of products impressions.
 
 
-![eega03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega03.png)
+![eega03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega03.png)
 
 **Behavior Analysis in Google Analytics**
 
 1. After login into Google Analytics, move to ADMIN tab and navigate to the Ecommerce Settings menu. 
 
-![eega04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega04.png)
+![eega04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega04.png)
 
 
 
@@ -89,7 +89,7 @@ This feature sets Impression threshold for category page. It sends hit after the
 
 3. Then, Turn on the Enable Enhanced Ecommerce Reporting.
 
-![eega05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega05.png)
+![eega05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega05.png)
 
 
 4. After that, it is mandatory to create following checkout lables:
@@ -108,7 +108,7 @@ f. Payment method
 
 g. Confirm order
 
-![eega06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega06.png)
+![eega06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega06.png)
 
 
 5. Once finished configuring our E-commerce Google Analytics app and enabling enhanced eCommerce reporting in your Google Analytics account, go to your site frontend and place the order.
@@ -117,13 +117,13 @@ g. Confirm order
 
 7. In the reporting page, click Conversions > Ecommerce > Shopping Analysis > Shopping Behavior in the left panel to see the behavior analysis of your eCommerce store.
 
-![eega07](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega07.png)
+![eega07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega07.png)
 
-![eega08](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega08.png)
+![eega08](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega08.png)
 
 8. Click Conversions > Ecommerce > Shopping Analysis > Checkout Behavior to see the behavior analysis of checkout process. 
 
-![eega09](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Enhanced E-commerce Google Analytics/eega09.png)
+![eega09](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Enhanced E-commerce Google Analytics/eega09.png)
 
 
 **Support**

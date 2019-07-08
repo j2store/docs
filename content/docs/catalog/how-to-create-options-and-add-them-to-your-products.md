@@ -24,18 +24,18 @@ Now that we know the requirements, let us get into the process of setting the op
 
 - Navigate to **J2Store->Catalog->Options. **Click on the New option.
 
-![Adding new options](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/options-add-new.png)
+![Adding new options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/options-add-new.png)
 
 
 - Enter the unique name, display or presentation(in our case, let us create color of the type radio and size of the type checkbox first).
 - Choose the type and set the published status.
 - Add option values, images(they would be displayed only if the option type is radio) and specify the ordering(the order in which they would be listed in the product part).
 
-![Adding new values](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/options-add-option-values.png)
-![Choosing option types](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/options-choose-option-type.png)
+![Adding new values](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/options-add-option-values.png)
+![Choosing option types](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/options-choose-option-type.png)
 - Create a text area type option for collecting the text to be displayed on the shirt. 
 
-![Adding text type options](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/options-text-type.png)
+![Adding text type options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/options-text-type.png)
 
 **Adding the options to your product **
 
@@ -45,17 +45,17 @@ Now, its time to add them to your product, the t-shirt.
 -  Edit your product article, click on the J2Store cart tab.
 - Select the options tab at the left pane.
 
-![Adding options to products](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/options-add-opt-to-products.png)
+![Adding options to products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/options-add-opt-to-products.png)
 
 
 -  Add all the three options and save the article once.
 - Click on the Set option values next to the size and color options, one at a time.
 
-![Adding option values to products](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/options-add-option-val-inpro.png)
-![Option ordering](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/option-ordering.png)
+![Adding option values to products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/options-add-option-val-inpro.png)
+![Option ordering](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/option-ordering.png)
 
 - Save the product once again.
-![Options frontend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/creating-options-and-adding-them-to-products/option-frontend.png)
+![Options frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/option-frontend.png)
 
 
 

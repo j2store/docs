@@ -37,20 +37,20 @@ This app allows customer to view the product images (main image and additional i
 * Light Gallery: This type of popup method display the image in gallery type and it has the feature of slideshow, zoom in and zoom out.
 * Fancy Box: This type of popup method display the image in small fancy box.
 
-![ip01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/image-pop-up/image_popup_01.png)
+![ip01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/image-pop-up/image_popup_01.png)
 
 **Popup image width** (Photo Swipe): Set the width of the image to be displayed in Photo swipe method.
 
 **Popup image height** (Photo Swipe): Set the height of the image to displayed in Photo swipe method.
 
-![ip02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/image-pop-up/image_popup_02.png)
+![ip02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/image-pop-up/image_popup_02.png)
 
 **Frontend Demo**
 
-![ip03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/image-pop-up/image_popup_03.png)
+![ip03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/image-pop-up/image_popup_03.png)
 
-![ip04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/image-pop-up/image_popup_04.png)
+![ip04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/image-pop-up/image_popup_04.png)
 
-![ip05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/image-pop-up/image_popup_05.png)
+![ip05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/image-pop-up/image_popup_05.png)
 
 ![ip06](/home/flycart/Desktop/j2dc/content/images/apps/image-pop-up/image_popup_06.png)

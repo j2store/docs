@@ -36,7 +36,7 @@ MBString extension: provides internationalization support. This extension is not
 4. Click Enable in the PDF Invoices.
 5. Once the app is enabled, click on Open to set the configuration for the app.
 
-![pdf01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Pdf-invoices/pdfinvoice_01.png)
+![pdf01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Pdf-invoices/pdfinvoice_01.png)
 
 **Parameters**
 
@@ -81,7 +81,7 @@ Enter your custom CSS code to be used for items under this menu
 Set this YES will display the download PDF invoice link in order history page in frontend.
 
 
-![pdf02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Pdf-invoices/pdfinvoice_02.png)
+![pdf02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Pdf-invoices/pdfinvoice_02.png)
 
 [![Pdf invoice app](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg
 https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg

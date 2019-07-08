@@ -34,14 +34,14 @@ Cart Item Limit could be downloaded from our site and installed using the defaul
 
 
 
-![cil01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/cart_item_limit/cartitemlimit01.png)
+![cil01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/cart_item_limit/cartitemlimit01.png)
 
 For the above settings,the cart behaviour will be like this if the item limit exceeds the specified count:
 
-![cli02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/cart_item_limit/cartitemlimititmfront02.png)
+![cli02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/cart_item_limit/cartitemlimititmfront02.png)
 
 For the above settings,if the quantity of any of the products exceeds the provided limit, the following error will occur:
 
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/cart_item_limit/cartitemlimitqtyfront03.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/cart_item_limit/cartitemlimitqtyfront03.png)
 

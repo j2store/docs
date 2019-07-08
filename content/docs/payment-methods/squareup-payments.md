@@ -32,11 +32,11 @@ The plugin ONLY implements the payments API of Square. That means it does not sy
 1. Log into Squareup application dashboard <link-text url =¨https://connect.squareup.com/apps¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
 2. If you don't have any existing application, click on New Application to create new application.
 
-![appalication](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/square-create-app.png)
+![appalication](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/square-create-app.png)
 
 3. If applications exists, Click the application you want sandbox credentials for, then refer to the Sandbox section at the bottom.
 
-![squ credentials](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/square-credentials.png)
+![squ credentials](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/square-credentials.png)
 
 4. Copy the application ID and access token and paste them in our Squareup payments plugin configuration page.
 
@@ -58,7 +58,7 @@ Once entered Applicaton ID and Access Token, save. After saving, the Location pa
 **Locations**
 Choose your desired location from the availble list and save.
 
-![square1](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/square-01.png)
+![square1](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/square-01.png)
 
 **Sandbox / Test mode**
 Squareup payment offers you the sandbox feature to test your store in test mode. Choose YES to use Squareup payments in test mode.
@@ -86,7 +86,7 @@ J2STORE_TEXT_TO_DISPLAY_ON_SELECTION.
 Now you can go to Joomla admin-> Language Manager->Overrides and create overrides for the language constant in all your languages.
 
 
-![square2](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/square-02.png)
+![square2](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/square-02.png)
 **Display text before payment**
 The text entered here will be displayed to the customer at the order summary screen before he makes the payment. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the Display text on selection parameter.
 
@@ -105,14 +105,14 @@ You can enter a language constant as a value here if you are using a multi-lingu
 **Debug**
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![square3](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/square-03.png)
+![square3](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/square-03.png)
 
 
-![step1](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/squareup-step-1.png)
+![step1](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/squareup-step-1.png)
 
 
 
-![test](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/squareup-step-2.png)
+![test](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/squareup-step-2.png)
 
 
-![step3](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/squareup-payments/squareup-step-3.png)
+![step3](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/squareup-payments/squareup-step-3.png)

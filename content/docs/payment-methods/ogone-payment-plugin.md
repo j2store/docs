@@ -71,7 +71,7 @@ The following parameters in your Ogone account (Technical Information) should be
 
 Should be set to SHA-1. The plugin will not work with the other methods. Refer the image below.
 
-![hashingogone](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ogone-payment-plugin/hashing_method_ogone.png)
+![hashingogone](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ogone-payment-plugin/hashing_method_ogone.png)
 
 **Checks for E-Commerce (Tab: Data and origin verification)**
 
@@ -79,11 +79,11 @@ URL of the merchant page containing the payment form that will call the page: or
 
 This should be set to <link-text url =¨ http://www.yourdomain.com¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
 
-![data and origin](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ogone-payment-plugin/ecommerce_check_ogone.png)
+![data and origin](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ogone-payment-plugin/ecommerce_check_ogone.png)
 
 **Post sale configuration : (Tab: Transaction feedback)**
 
-This is required to update our database after the payment is done. Under the heading “Direct HTTP server to server request”, set both the URLs of the merchant's post payment page as below:
+This is required to update our database after the payment is done. Under the heading “Direct HTTP server to server request", set both the URLs of the merchant's post payment page as below:
 
 <link-text url =¨http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_ogone&paction=process&tmpl=component¨ target =¨_blank¨ rel = ¨noopener¨> click here </link-text>
 
@@ -91,7 +91,7 @@ This is required to update our database after the payment is done. Under the hea
 
 (see the picture below with example urls.)
 
-![feedback](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ogone-payment-plugin/transaction_feedback_ogone.png)
+![feedback](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ogone-payment-plugin/transaction_feedback_ogone.png)
 
 **Support**
 

@@ -34,7 +34,7 @@ If you wants to use sef url, then create atleast one menu item with type J2Store
 
 You can sort out the arrangement of product by using this option. For example, if you would like to display the products based on SKU, then you can choose either SKU (A_Z) or SKU (Z_A).
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-dispaly-module/pdm01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-dispaly-module/pdm01.png)
 
 **Product source**
 
@@ -43,7 +43,7 @@ There are three sources from where you could fetch and dislay the products. For 
 Select based on Product Tags
 
 If you have chosen Product tags as your product source, then you will have to select the tags here. Products under the selected tags here will be displayed on frontend.
-![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-dispaly-module/pdm02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-dispaly-module/pdm02.png)
 
 **Select based on categories**
 
@@ -58,7 +58,7 @@ If you wants to include sub categories of the above selected categories, then se
 **Subcategory level**
 
 If you have enabled include sub categories, then you must have to choose the level of subcategories to include. For example, 3.
-![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-dispaly-module/pdm02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-dispaly-module/pdm02.png)
 
 **Select based on product Ids**
 
@@ -69,13 +69,13 @@ This option will be used only if you have chosen **Selected products** as your p
 3. After selecting the products, click on set values button and close the popup window.
 4. The products will be added. Save.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-dispaly-module/pdm04.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-dispaly-module/pdm04.png)
 
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-dispaly-module/pdm05.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-dispaly-module/pdm05.png)
 
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-dispaly-module/pdm06.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-dispaly-module/pdm06.png)
 
 
 **Layout settings**
@@ -84,7 +84,7 @@ The tab, where you could define the number of rows and columns in which the prod
 
 This tab has options to show/hide the several things displaying on module as per your wish. Refer the screen shot below:
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//modules/product-dispaly-module/pdm07.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-dispaly-module/pdm07.png)
 
 **Video Tutorial:**
  To configure the products display module, follow the below video:

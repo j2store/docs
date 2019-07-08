@@ -21,7 +21,7 @@ This plugin integrates Purolator shipping API with J2Store Joomla eCommerce solu
 * In Joomla backend, go to J2Store > Setup > Shipping methods
 * Enable and open the Purolator shipping plugin to configure the basic settings.
 
-![purlt](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/purolator/purolator_04.png)
+![purlt](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/purolator/purolator_04.png)
 
 
 **Basic Settings**
@@ -35,7 +35,7 @@ This plugin integrates Purolator shipping API with J2Store Joomla eCommerce solu
 **Origin zip code:** Enter the postal code from where the shipping is actually made.
 
 
-![purolator](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/purolator/purolator_01.jpg)
+![purolator](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/purolator/purolator_01.jpg)
 
 
 **Sandbox:** Purolator shipping offers sandbox feature to use the shipping in test mode. Choose YES will enable the sandbox feature.
@@ -60,7 +60,7 @@ This plugin integrates Purolator shipping API with J2Store Joomla eCommerce solu
 
 **Debug:** If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory.
 
-![purolator2](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/purolator/purolator_02.jpg)
+![purolator2](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/purolator/purolator_02.jpg)
 
 
-![purolator3](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/purolator/purolator_03.jpg)
+![purolator3](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/purolator/purolator_03.jpg)

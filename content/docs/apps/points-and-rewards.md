@@ -26,10 +26,10 @@ This app used to give rewards points to user.User can use that points for purcha
 
 3.Click **Enable** in the Point and Rewards plugin. (type=j2store).
 
-![pr_01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Points and rewards/pointsandrewards_01.png)
+![pr_01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Points and rewards/pointsandrewards_01.png)
 
 4.After the app is enabled, click on **Open** to set the configuration for the app.
-![pr_02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Points and rewards/pointsandrewards_02.png)
+![pr_02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Points and rewards/pointsandrewards_02.png)
 5.Enter the parameters (read the explanation about each parameter given below)
 
 6.Save and close it.
@@ -45,7 +45,7 @@ The below image illustrates the settings of parameters:
 * **Redeem points conversion rate** Enter the amount to be granted for the points earned by the customer. For example, 100 points = $10. The customer will be granted $10 for the points he earned(100 points).
 * **Maximum Discount(Per order)** Enter the redeem points for the discounts based on the order.
 * **Points suffix** The text entered here will be added as suffix to the points. For example, 14 credits.
-![pr_03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Points and rewards/pointsandrewards_03.png)
+![pr_03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Points and rewards/pointsandrewards_03.png)
 
 * **Round points** Set this to YES will round the points. For example, if point is in decimal(0.60), it will change the decimal to whole number.
 * **Rounding decimal place** The value entered here will be used to display point with decimal place. 
@@ -62,14 +62,14 @@ The below image illustrates the settings of parameters:
 * **Cart page:** **Message showing how much points the customer could earn for the current cart** You can enter custom message you want to display in the cart page about earning of reward points when customer complete the order.
 * **Cart page: Message for existing users having points and how much he could redeem for the current cart** You can enter the redeem points message, so that customer can apply their points to get discount.
 
-![pr_04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Points and rewards/pointsandrewards_04.png)
+![pr_04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Points and rewards/pointsandrewards_04.png)
 
 **Award points for certain actions**
 
 **Account Sign up** Enter the number of rewards for the new customer registration.
 **Product Page Message** Set this YES will display the reward points information message in the category list view.
 
-![pr_05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Points and rewards/pointsandrewards_05.png)
+![pr_05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Points and rewards/pointsandrewards_05.png)
 
 **Custom Tags**
 
@@ -81,7 +81,7 @@ The below image illustrates the settings of parameters:
 **Front page**
 
 Go to J2store Product Shop, you can see the information displayed about the rewards and points.
-![pr_06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Points and rewards/pointsandrewards_06.png)
+![pr_06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Points and rewards/pointsandrewards_06.png)
 
 **My Profile**
 

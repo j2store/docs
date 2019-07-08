@@ -34,4 +34,4 @@ There is no complex in configuring this app. If you open the app, you would see 
 
 Enter your tracking id in the text box and save.
 
-![fp01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/fb-pixel-id.png)
+![fp01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/fb-pixel-id.png)

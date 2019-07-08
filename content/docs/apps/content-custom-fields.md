@@ -37,7 +37,7 @@ Joomla custom fields can be created by carrying out the following steps:
 
 
 **Screenshot**
-![cc01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/content-custom-field/contentcustomfields01.png)
+![cc01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/content-custom-field/contentcustomfields01.png)
 
 #### Download and install the app Content Custom Fields
 
@@ -70,7 +70,7 @@ Select the fields that have to be visible in the item view or the product view.
 
 **Screenshots**
 
-![cc02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/content-custom-field/contentcustomfields02.png)
+![cc02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/content-custom-field/contentcustomfields02.png)
 
 
 
@@ -79,11 +79,11 @@ Select the fields that have to be visible in the item view or the product view.
 - Edit the product article. Navigate to the fields section and mention the content that has to be displayed in the product page.
 - Move to the content tab of the article and click on the field option and choose the field that has been created for this.
 
-![cc03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/content-custom-field/contentcustomfields03.png)
+![cc03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/content-custom-field/contentcustomfields03.png)
 
-![cc04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/content-custom-field/contentcustomfields04.png)
+![cc04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/content-custom-field/contentcustomfields04.png)
 
 
-![cc05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/content-custom-field/contentcustomfields05.png)
+![cc05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/content-custom-field/contentcustomfields05.png)
 
 

@@ -36,11 +36,11 @@ Answer required ok:(Respuesta requerida OK:) set to Yes (SI)
 3. You can switch between real and testing environment on top left box. If you would like to use testing environment, click on Cambiar a datos de pruebas (change to test data) and the page will change from a blue to red which indicates that we are in a test environment.
 
 
-![ceca](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ceca-payment/ceca-switch-envi.png)
+![ceca](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ceca-payment/ceca-switch-envi.png)
 
 4. Once switched to testing environment, you will have to configure to get the data required. Click on Configuration.
 
-![config](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ceca-payment/ceca-config.png)
+![config](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ceca-payment/ceca-config.png)
 
 5. Once we are in configuration page, you can get all the following required data
 
@@ -49,7 +49,7 @@ Answer required ok:(Respuesta requerida OK:) set to Yes (SI)
 * Terminal ID
 * Encryption key
 
-![ceca data](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ceca-payment/ceca-req-data.png)
+![ceca data](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ceca-payment/ceca-req-data.png)
 6. Now you must enter the following data in the configuration.Must set IPN url (URL online OK:) in CECA payment dashboard.Online communication ok:(Comunicación on-line OK:) set to Yes (SI)Answer required ok:(Respuesta requerida OK:) set to Yes (SI)
 
 **Comunicación on-line OK:  SI**
@@ -60,7 +60,7 @@ URL online OK: <link-text url = ¨ http://yoursite.com/index.php?option=com_j2st
 
 **Respuesta requerida OK: SI**
 
-![cecaonline](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ceca-payment/ceca-url-online.png)
+![cecaonline](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ceca-payment/ceca-url-online.png)
 
 
 7. Save.
@@ -151,5 +151,5 @@ You can enter a language constant as a value here if you are using a multi-lingu
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
 
-![payment](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ceca-payment/ceca-payment-01.png)
-![pay](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/ceca-payment/ceca-payment-02.png)
+![payment](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ceca-payment/ceca-payment-01.png)
+![pay](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ceca-payment/ceca-payment-02.png)

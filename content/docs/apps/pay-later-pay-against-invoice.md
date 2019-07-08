@@ -26,11 +26,11 @@ PHP version 5.4 or higher
 
 3. Click Enable to activate Pay Later / Pay against Invoice app. 
 
-![plpa01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/pay-later-pay-against-invoice/plpa01.png)
+![plpa01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/pay-later-pay-against-invoice/plpa01.png)
 
 4. Click Open to get started with app. 
 
-![plpa02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/pay-later-pay-against-invoice/plpa02.png)
+![plpa02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/pay-later-pay-against-invoice/plpa02.png)
 
 **Basic settings**
 
@@ -42,7 +42,7 @@ It is very simple and easier to get started with this app. There is no complex s
 
 **Pay button text :** Text entered here will be displayed in order history page. If you are using multilingual site, enter value as language string.
 
-![plpa03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/pay-later-pay-against-invoice/plpa03.png)
+![plpa03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/pay-later-pay-against-invoice/plpa03.png)
 
 **Order status for showing pay now button :** Choose order status for which the Pay button should be displayed.
 
@@ -66,12 +66,12 @@ Sometimes, customers abandon the order and leave your site without making paymen
 
 **Re-order link appears**
 
-![plpa04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/pay-later-pay-against-invoice/plpa04.png)
+![plpa04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/pay-later-pay-against-invoice/plpa04.png)
 
 **After clicking on Re-order link,**
 
-![plpa05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/pay-later-pay-against-invoice/plpa05.png)
+![plpa05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/pay-later-pay-against-invoice/plpa05.png)
 
 **Order summary**
 
-![plpa06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/pay-later-pay-against-invoice/plpa06.png)
+![plpa06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/pay-later-pay-against-invoice/plpa06.png)

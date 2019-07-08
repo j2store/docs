@@ -9,10 +9,10 @@ category: "payment methods"
 
 In this payment method, the customer can directly transfer the money to the sellers account, by adding the account details to his bank account and add the sellers account as a beneficiary account.
 
-![bank transfer](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/bank- transfer/bank-transfer.png)
+![bank transfer](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/bank- transfer/bank-transfer.png)
 
 
-![payment](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/bank- transfer/bank-payment.png)
+![payment](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/bank- transfer/bank-payment.png)
 
 
 Like this for every payment method, there are some unique options set separately.

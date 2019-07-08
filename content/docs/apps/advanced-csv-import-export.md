@@ -41,18 +41,18 @@ Use this tab to update existing options and import new option to **J2Store > Cat
 1. Click on Export button to export the options from J2Store > Catalog > Options. Exported file contains following 5 columns :option\_unique\_name - The unique name of your new option should be entered here.option\_name - This is the place to add option name (Display / Presentation)type - Enter the type of option here (for example: select, radio, etc)ordering - You can leave this column by entering 0.option values - The structure of optionvalues field must be optionvalue\_name:optionvalue\_image:ordering, you can add multiple option value using pipe(\|) symbols.For example : Red::0\|Yellow::0
 2. Save the .csv file.
 3. Now go inside the Options tab and choose the file, set the delimiter, set character encoding and click Import button.
-![export-import](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-opt-export.png)
-![Option file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-option-file.png)
-![Confirmation during import](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-option-import-confirmation.png)
+![export-import](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-opt-export.png)
+![Option file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-option-file.png)
+![Confirmation during import](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-option-import-confirmation.png)
 #### How to import category ?
 
 1. Click on Export button to export the categories from Content > Categories in .csv format or .xls format or .xlsx format.
 2. In the categories exported file, the following columns should be filled when importing new category.Id - This is the category id. You can leave this column empty when you add new category via csv file. After importing, the category id will be updated.Parent\_id - This is the place to choose category level. Enter 1 to create a category at root.Title - Enter the name of the category hereAlias - Enter the alias name of the categoryPublished - Enter 1 to set the status of the category to Published. Otherwise it will be unpublished after importing.Access - Enter the Access level ID hereLanguage - Choose your language here. Enter '\*' for all langauge
 3. Save the .csv file. Now go inside the app > Category tab and choose the file / set the delimiter / set character encoding and click Next
 4. Click Import button.
-![Category exported file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-category-file.png)
-![Adding file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-category-add-file.png)
-![Import confirmation](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-category-import-confirmation.png)
+![Category exported file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-category-file.png)
+![Adding file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-category-add-file.png)
+![Import confirmation](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-category-import-confirmation.png)
 
 #### How to import new Products?
 
@@ -62,9 +62,9 @@ Import / Update **Simple, Configurable, Downloadable** product types using this 
 2. When importing new products via csv, you need minimum visibility, product source, sku, price, title, catid, product\_type otherwise you can't create new products.j2store\_product\_id - For creating new product, you can leave this column empty. The product id will be updated automatically, after importing.product\_source - Choose your content source here. For example : com\_content, com\_k2.Visibility - This is place to enable visible in storefront. Enter 1 to make this product visible in store front.SKU - It is most required field. Without this the product cannot be imported or updated properly.Price - Enter the price of the product.Title - Enter the product title.Cat ID - Enter the ID of the category to which the product should be assigned.product type - It is one of most important required field. You must enter the type of product here. For example : simple, configurable, downloadable.
 3. Save the .csv file. Now go inside the app > Products tab and choose the file / set the delimiter / set character encoding and click Next.
 4. Click Import button.
-![Product file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-product-file.png)
-![Adding product file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-product-addfile.png)
-![Product-confirmation while import](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-product-import-confirmation.png)
+![Product file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-product-file.png)
+![Adding product file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-product-addfile.png)
+![Product-confirmation while import](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-product-import-confirmation.png)
 
 #### How to import product options ?
 
@@ -82,9 +82,9 @@ optionvalue_name:price prefix:price:weight prefix:weight:default value:ordering:
 1. You can add multiple product option value using pipe(\|) symbol Example: Black:+:2.00000000:+:0.00000000:0:0:{}\|Blue:+:3.00000000:+:0.00000000:0:0:{}
 2. Save the .csv file. Now go inside the app > Products tab and choose the file / set the delimiter / set character encoding and click Next.
 3. Click Import button.
-![Product options file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-prodopt-file.png)
-![Product file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-prodopt-addfile.png)
-![Product options import](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-prodopt-import.png)
+![Product options file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-prodopt-file.png)
+![Product file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-prodopt-addfile.png)
+![Product options import](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-prodopt-import.png)
 
 #### How to import downloadable product files ?
 
@@ -97,7 +97,7 @@ To update downloadable files or to import new downloadable files, you should kno
 - SKU - SKU of the downloadable product
 - Product file display name - Enter the name of the file
 - File path - Enter the valid path of your file.
-![Digital file](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-digital-file.png)
+![Digital file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-digital-file.png)
 
 #### How to import variable product ?
 
@@ -123,8 +123,8 @@ After creating variable product, you should add variants to the product. Use thi
 3. Save the .csv file. Now go inside the app > variable product options tab and choose the file / set the delimiter / set character encoding and click Next.
 4. Click Import button.
 5. After importing successfully, the regenerate button will be shown to generate variants for the options imported. See below image.
-![Variable product options](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-add-variants-file.png)
-![variants import](https://raw.githubusercontent.com/j2store/doc-images/master//apps/advanced-csv-import-export/csv-variants-import.png)
+![Variable product options](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-add-variants-file.png)
+![variants import](https://raw.githubusercontent.com/j2store/doc-images/master/apps/advanced-csv-import-export/csv-variants-import.png)
 #### Variable variant
 
 1. After generaing variants, use this tab to update SKU, price, stock, dimensions, image, etc for variants. New variant cannot be created here.

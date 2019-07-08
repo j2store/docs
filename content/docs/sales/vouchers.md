@@ -27,4 +27,4 @@ Vouchers contain Basic and advanced information entries.
 * Voucher email body - the text body of the email sent along with voucher to the customer. A rich text editor is available to add the text with necessary formatting.
 
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Voucher/voucher_01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Voucher/voucher_01.png)

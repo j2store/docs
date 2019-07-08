@@ -28,7 +28,7 @@ The store owner can download it from the app's backend and manage all the upload
 3. Click Enable in the Upload file in checkout app.
 4. Once the app is enabled, open the app to configure the settings.
 
-![fu01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/upload file in checkout/file_upload_01.png)
+![fu01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/upload file in checkout/file_upload_01.png)
 
 ## Configuration
 
@@ -40,7 +40,7 @@ Enter the number of fields to be displayed in the checkout.
 
 Choose the place where the upload field should be displayed. You can choose either**Billing** or **Shipping**.
 
-![fu02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/upload file in checkout/file_upload_02.png)
+![fu02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/upload file in checkout/file_upload_02.png)
 
 **Display upload file field after?**
 
@@ -54,7 +54,7 @@ Add your file format types here. If you don't have any file formats added here, 
 
 By clicking Order File List button on top of the app's settings page, you can find all the files uploaded by the customer. It displays the file name with the path where the file locates.
 
-![fu03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/upload file in checkout/file_upload_03.png)
+![fu03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/upload file in checkout/file_upload_03.png)
 
 **Shortcodes**
 
@@ -67,4 +67,4 @@ Below shortcodes helps you to notify customer that he / she has attached file in
 
 **Frontend**
 
-![fu04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/upload file in checkout/file_upload_04.png)
+![fu04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/upload file in checkout/file_upload_04.png)

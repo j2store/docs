@@ -29,11 +29,11 @@ For example, if you are having 3 shipping methods and would like to show only on
 
 This would apply only if the selected method is available for at least one product in the order. If this was not an available shipping option for any of the products in the cart/order, then no forcing will be implemented. Available shipping options would be shown.
 
-![rs01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Restrict shipping/restrict-shipping01.png)
+![rs01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Restrict shipping/restrict-shipping01.png)
 
 **How to choose allowed shipping methods for items?**
 
 1. Open / edit your product by going to J2Store > Catalog > Products or Article Manager.
 2. J2Store cart tab > General > Apps, where you will see the option "Allowed Shipping Methods". Choose your shipping method and save.
 
-![rs02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Restrict shipping/restrict-shipping02.png)
+![rs02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Restrict shipping/restrict-shipping02.png)

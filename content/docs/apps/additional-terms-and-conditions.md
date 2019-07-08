@@ -58,12 +58,12 @@ Click save to finish configuration.
 **Relavent screenshot:**
 
 
-![atac01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Additional Terms and Conditions/atac01.png)
+![atac01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Additional Terms and Conditions/atac01.png)
 
 * The  additional terms and conditions will be displayed like this in the front end of your site:
 
-![atac02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Additional Terms and Conditions/atac02.png)
+![atac02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Additional Terms and Conditions/atac02.png)
 
 * This is the article that has the additional terms and conditions.
 
-![atac03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Additional Terms and Conditions/atac03.png)
+![atac03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Additional Terms and Conditions/atac03.png)

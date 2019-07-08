@@ -50,9 +50,9 @@ Enter the password that you gave at the time you created Zoho CRM account.
 **Zoho Token:**
 
 If you already know the token, enter it here. You can also auto generate the token by clicking on Connect button. 
-![zh01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Zoho/zoho_01.png)
+![zh01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Zoho/zoho_01.png)
 
-![zh02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Zoho/zoho_02.png)
+![zh02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Zoho/zoho_02.png)
 
 **Order Settings**
 
@@ -76,7 +76,7 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 
 You could automate the synchronization process by adding the cron job in your server for below cron url
 
-![zh03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Zoho/zoho_03.png)
+![zh03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Zoho/zoho_03.png)
 
 **Synchronize existing Customer/Order**
 
@@ -90,7 +90,7 @@ After installing this app, only the newly added customers will synchronize to th
 **Synchronize existing Invoice/Sales:**
 
 After installing this app, only the newly created orders will synchronize to the Zoho CRM. To synchronize the existing orders, click on Invoice/Sales Customers button. 
-![zh04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Zoho/zoho_04.png)
+![zh04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Zoho/zoho_04.png)
 **Contact Settings**
 
 **Enable Contact Synchronization for Customers:**
@@ -105,7 +105,7 @@ If you would like to trigger the workflow rules for contact, set this option to 
 **Contact Fields:**
 Map the Zoho CRM fields to the J2Store fields. You could also enter the default value for each zoho CRM fields if there are no J2Store fields to map. 
 
-![zh05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Zoho/zoho_05.png)
+![zh05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Zoho/zoho_05.png)
 
 **Lead Settings**
 
@@ -121,4 +121,4 @@ If you would like to trigger the workflow rules for lead record, set this option
 **Lead Fields:**
 Map the Zoho CRM fields to the J2Store fields. You could also enter the default value for each zoho CRM fields if there are no J2Store fields to map. 
 
-![zh06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Zoho/zoho_06.png)
+![zh06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Zoho/zoho_06.png)

@@ -42,18 +42,18 @@ To get the API keys for the integration, it is necessary to create an account wi
 The below screenshots are for reference:
 
 **Creating an account with Shipstation**
-![ss01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation01.png)
+![ss01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation01.png)
 
 **Generating API keys**
-![ss02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation02.png)
+![ss02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation02.png)
 
 
-![ss03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation03.png)
+![ss03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation03.png)
 
 
-![ss04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation04.png)
+![ss04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation04.png)
 
-![ss05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation05.png)
+![ss05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation05.png)
 
 **Webhook URL**
 
@@ -66,13 +66,13 @@ This has to be done in order to receive notifications of the changes that occur 
 Webhook notifications can be set up by following the steps given below:
 
 * The URL for webhook can be fetched from the app's settings.
-![ss06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation06.png)
+![ss06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation06.png)
 
 * Now login to your Shipstation account.
 * Go to Settings->Integrations->Integration partner->Webhook.
 * Specify the URL in the field Webhook URL and save.
 
-![ss07](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation07.png)
+![ss07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation07.png)
 **App settings**
 
 The following are the parameters that have to be filled for the integration to  work:
@@ -84,4 +84,4 @@ The following are the parameters that have to be filled for the integration to  
 * **Debug** This option has to be set to Yes if the activity of shipstation has to be logged.
 
 
-![ss08](https://raw.githubusercontent.com/j2store/doc-images/master//apps/shipstation/shipstation08.png)
+![ss08](https://raw.githubusercontent.com/j2store/doc-images/master/apps/shipstation/shipstation08.png)

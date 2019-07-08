@@ -13,7 +13,7 @@ category: "catalog"
 A most common product type. It suits the requirements of most of the store owners.
 
 You can create a simple product with or without product options. The inventory for this product type is managed for the primary product (Not for the options). All option types can be associated with the simple product.
-![Simple product dashboard](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-dashboard.png)
+![Simple product dashboard](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-dashboard.png)
 
 **Creating a simple product**
 
@@ -25,7 +25,7 @@ The general tab has several fields, in which we need to enter the necessary and 
 
 Have a look at the image below:
 
-![Simple-product-general tab](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-general.png)
+![Simple-product-general tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-general.png)
 
 - Visible in Storefront - IMPORTANT: Set this to YES if you want this product to be shown in the storefront.
 - SKU - Enter the SKU number of the product
@@ -45,12 +45,12 @@ Have a look at the image below:
 Add the price of your product. Depending on your requirement, you can also choose to configure an advanced pricing from here.
 
 Now, check the image below:
-![Pricing tab](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-pricing.png)
+![Pricing tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-pricing.png)
 
 As illustrated in the image, you can set the regular price by entering the value in the text box. If you want advanced pricing, click the '**Set Prices**' button and it will open up a pop-up window to allow you to set an advanced price setting.
 
 Let us see how it happens. Check the image below:
-![Advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-advanced-pricing.png)
+![Advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-advanced-pricing.png)
 - Select the dates (optional), between which you wish to set the advanced price. This option is not mandatory. For instance, you can offer a special price throughout the year, for a bulk purchase.
 - Quantity range for this price to apply. This is also optional and if there is no minimum quantity required, just leave it as empty.
 - Select the customer group to which you offer this special price. Default: Public
@@ -63,7 +63,7 @@ If you want to remove that, you can do it by clicking the **Remove** button.
 **Inventory**\* This is J2Store PRO exclusive feature \*
 
 This tab has the configuration setup facility for inventory management. Here you can set the following details with respect to inventory. Check the image below:
-![Simple product inventory](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-inventory.png)
+![Simple product inventory](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-inventory.png)
 
 From the image you can understand the following:
 
@@ -97,7 +97,7 @@ In this tab you can add images that can help the customer to understand more cle
 
 See the image below:
 
-![Images](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-images.png)
+![Images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-images.png)
 
 Let us understand this with an example.
 
@@ -113,7 +113,7 @@ Lets assume that a customer would like to purchase a car. Now, car images need t
 This tab has the configuration setting for shipping. Any product that has been purchased, has to be shipped to the customer, if the product is physically deliverable.
 
 Consider the image below:
-![Shipping](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-shipping.png)
+![Shipping](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-shipping.png)
 
 As shown in the image, you need to do the following activities to configure shipping:
 
@@ -129,11 +129,11 @@ In this tab, you can set your preferred options for a particular product like, c
 
 See the image on how to set the option for a product.
 
-![Options](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-options.png)
+![Options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-options.png)
 
 Once you select the option from the dropdown list, it will be added as you can see in the image below.
 
-![Adding options to product](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-add-options.png)
+![Adding options to product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-add-options.png)
 
 In the image, you have a text field to enter the option name like color, size etc. Just enter that in the text field. It will be set as preferred option.
 
@@ -145,7 +145,7 @@ Filters are certain attributes that help narrow the search of a particular produ
 
 For e.g., assume that a customer searches for purple t-shirts in the store. Now, the productfilter is set as colour > purple, to narrow the search. See the image below:
 
-![Filters](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-filters.png)
+![Filters](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-filters.png)
 
 Now the cart will display only the purple t-shirts.
 
@@ -153,7 +153,7 @@ Now the cart will display only the purple t-shirts.
 
 Relations are used to promote sales by suggesting the customer with higher value products than the one being looked and additional products to be bought with a particular product.
 
-![Relations](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-relations.png)
+![Relations](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-relations.png)
 
 - In this tab page, relations are set for Upsells and Cross sells
 - An upsell is to get the customer to spend more money – buy a more expensive model of the same type of product considered for purchase.
@@ -182,11 +182,11 @@ Creating an article / product
 
 Have a look at the image below:
 
-![Adding a new article](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-add-new-article.png)
+![Adding a new article](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-add-new-article.png)
 
 As given in the above illustration, click in the top menu or in the left pane of the control panel. You will get a new screen like this.
 
-![Save and proceed](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-save.png)
+![Save and proceed](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-save.png)
 
 - Enter a name for the product you want to create.
 - Select the 'J2Store Cart' tab below.
@@ -195,64 +195,64 @@ As given in the above illustration, click in the top menu or in the left pane of
 - Now click the button, 'save and continue'.
 
 Your product will be saved, and it will continue to configure the product. See the image below:
-![Adding a content](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-add-content.png)
+![Adding a content](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-add-content.png)
 
 Now, add a description to your product in the editor. Lets add the other primary details of the product. See the image below.
-![General tab](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-articlegeneral.png)
+![General tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-articlegeneral.png)
 
 In general tab of the simple product, you can set up the basic information about the product like SKU, Universal Product Identifier, Brand etc and you can decide whether the product is to be displayed in store front. Next is pricing tab.
-![Adding a pricing](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-articlepricing.png)
+![Adding a pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-articlepricing.png)
 
 Here, enter the price of the product. If you want to set advanced prices, like special discounts, click the 'Set Prices' button ant you will get a pop-up window, where you can set the special prices. See image below to understand how it is done.
 
-![Adding an advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simplepro-add-adv-pricing.png)
+![Adding an advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simplepro-add-adv-pricing.png)
 
 Enter the dates between which the special price is offered, the minimum quantity to avail the special price, the user group eligible, the special price and click 'Create'. Now, the new price is listed as a row below. You can further edit and save or delete if you want. Lets move to Inventory, to understand stock management.
 
-![Inventory](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-add-inventory.png)
+![Inventory](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-add-inventory.png)
 
 *This is a J2Store PRO exclusive feature*
 
 Select 'Yes' if you want inventory management. Enter all the fields as required. They are fairly self explanatory, still assisted in the image. And move on to images.
 
-![Adding images](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-add-images.png)
+![Adding images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-add-images.png)
 
 Here, you can add the images for your product. The main product image, thumbnail image, and additional images for the product are added here. To add an image, click the green button, 'Select an image', which will bring up a pop-up window, where you can select the product image. See the image below:
-![Image upload](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-image-upload.png)
+![Image upload](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-image-upload.png)
 
 You need to load the image in the top window to select an image. To load an image, select the source by the browse button, up load it and insert it.
 Now, shipping. Check the image below:
 
-![Shipping is enabled](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-enabling-shipping.png)
+![Shipping is enabled](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-enabling-shipping.png)
 
 Enter the options with details according to your needs to enable shipping, the dimensions and weight of the product, classes for length and weight. Next is options.
 
-![Options configuration](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-options-config.png)
+![Options configuration](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-options-config.png)
 
 You can add options for your product, as illustrated in the image. If you have already set an option for some other product, and wish to import the same option to this product, you can do so by clicking the import product options button, which will bring out a popup window, like this.
 
-![Importing options on a simple product](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-options-import.png)
+![Importing options on a simple product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-options-import.png)
 
 Next comes filters. You can filter the products, with their name or type to narrow the search. For e.g., if give 'Electronics' as filter, only electronics goods will be searched for your product, thus saving time. You can set filters as shown in the image.
 
-![Adding filters to simple products](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-adding-filters.png)
+![Adding filters to simple products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-adding-filters.png)
 
 The next tab is Relations. Here, you can add products of higher value than the one being viewed by the customer and recommend the customer to buy that product, citing its advantages and additional features. This is an upsell.
 
 Refer the image below:
 
-![Adding relations](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-adding-relations.png)
+![Adding relations](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-adding-relations.png)
 
 Also, you can add some other products to convince the customer to buy theses products additionally. This is cross sell.
 For more detailed explanation, refer to the **Relations** section of the **Simple Product**.
 The next tab is Apps.
-![Apps section](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simple-pro-apps.png)
+![Apps section](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-apps.png)
 
 In this tab, you can add third party tools or plugins, that are available, to enhance the J2Store functionality, like adding additional fields, applications, functions or features.
 
 Now, lets have a look on how your product is viewed in your online store. Check the image below:
 
-![Simple product on frontend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/simple-product/simpl-epro-frontend.png)
+![Simple product on frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simpl-epro-frontend.png)
 
 **Video Tutorials:**
 

@@ -23,11 +23,11 @@ Requirements
 
 Click Enable in the Nexmo SMS app as shown in the image below.
 
-![nm01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/nexmo-sms/nexmo_01.png)
+![nm01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/nexmo-sms/nexmo_01.png)
 
 Once app is enabled, click open to setup the Basic settings of the app
 
-![nm02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/nexmo-sms/nexmo_02.png)
+![nm02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/nexmo-sms/nexmo_02.png)
 
 **Basic Settings**
 
@@ -49,5 +49,5 @@ Once app is enabled, click open to setup the Basic settings of the app
 
 **User Message:** The value entered here will be displayed as body of the message when user / customer receives. You can use the shortcodes mention in the top of the backend app settings.
 
-![nm03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/nexmo-sms/nexmo_03.png)
-![nm04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/nexmo-sms/nexmo_04.png)
+![nm03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/nexmo-sms/nexmo_03.png)
+![nm04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/nexmo-sms/nexmo_04.png)

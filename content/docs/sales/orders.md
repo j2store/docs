@@ -53,13 +53,13 @@ Every order will possess some important information that explains about it. They
 
 Check the image below to understand clearly.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_01.png)
 
 You could also create custom order statuses by clicking on the New button under J2Store-&gt;Localisation-&gt;order statuses-&gt;New as indicated in the screenshot below:
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_02.png)
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_03.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_03.png)
 
 
 ## Creating order from backend
@@ -68,19 +68,19 @@ J2Store allows you to send a invoice first and then collect the payment from cus
 
 Go to J2Store > Sales > Orders and click new on top left of the page.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_04.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_04.png)
 
 From the resulted page, select date, user and language and then click on Save &amp; Next at bottom of the page.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_05.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_05.png)
 
 Now you are in Billing Address tab. Under this tab, choose the billing address of the customer or create a new one and then click on Save &amp; Next.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_06.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_06.png)
 
 Under the Shipping address tab, click on Choose alternate address if you customer's shipping address is different from billing address.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_07.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_07.png)
 
 
 Now you are in Items tab. Here type two or three characters of the Product's SKU. It will show you the available products. From the available products, choose your desired product and click on "Add item to order".
@@ -88,11 +88,11 @@ Now you are in Items tab. Here type two or three characters of the Product's SKU
 
 The popup screen will be displayed where you should click on Add to cart button to add an item into the basket. Then, close the popup and click on Save &amp; Next.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_08.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_08.png)
 
 Choose your payment method and shipping charge under Payment &amp; Shipping method tab and click Save &amp; Next.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//sales/Orders/order_07.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/sales/Orders/order_07.png)
 
 At last, the order summary will be displayed. At the bottom of the page, you will see calculate tax button. On clicking this button will cacluate the text for this order.
 

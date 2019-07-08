@@ -21,7 +21,7 @@ Enter a name that will be shown in the payment methodsselection during the check
 Your 2Checkout Account Number.
 
 **Secret Word**
-The secrete word you set up in your 2Checkout Account.To set up the secret word please log in to your 2Checkout account, click on the “Account” tab, then click on “Site Management” subcategory. On the “Site Management” page you canenter the Secret Word in the field provided under Direct Return. After you have entered your Secret Word click the blue “Save Changes” button at the bottom of the page.
+The secrete word you set up in your 2Checkout Account.To set up the secret word please log in to your 2Checkout account, click on the “Account" tab, then click on “Site Management" subcategory. On the “Site Management" page you canenter the Secret Word in the field provided under Direct Return. After you have entered your Secret Word click the blue “Save Changes" button at the bottom of the page.
 
 Demo modeSet to Yes, to work with your demo mode. Your 2Checout Account should be set in Demo mode. Set this to No for live sales. Consult 2Checkout documentation for more info.
 

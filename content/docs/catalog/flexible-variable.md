@@ -18,7 +18,7 @@ The only different is that this product type does not generate variants automati
 Since adding / removing a single variant will be possible with this product type, it will be more easy for you manage variants which are out of stock.
 
 **General**
-![Flexivariable product type](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-product-type.png)
+![Flexivariable product type](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-product-type.png)
 
 - Visible in Storefront - First select whether the product is to be displayed in front of the store. If it is, set the option to 'Yes'
 - Brand or Manufacturer - Select the brand or manufacturer of the product from the available list
@@ -26,7 +26,7 @@ Since adding / removing a single variant will be possible with this product type
 - Tax Profile - Specify whether the product is taxable and if it is, select the taxprofile relevant to the product
 - Cart button text - It allows you to define the custom text to be displayed in the add to cart button
 
-![Choosing images](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-images.png)
+![Choosing images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-images.png)
 
 This feature is available for native Joomla articles and in J2Store Product Layouts
 
@@ -69,46 +69,46 @@ Select size option from the dropdown list and then click on Add option. The size
 
 And then choose the color option and add it to the variant options list in same way.
 
-![Adding options](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-options.png)
+![Adding options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-options.png)
 
 After adding size and color, your screen will look like below:
-![Options list](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-option-list.png)
+![Options list](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-option-list.png)
 
 Now you will get options to add variants to the product. Choose size from the drop down "All size" and then choose the color and click on **Add variant** button.
 
 For example, select **L** from size and select **Black** from color and click on **Add variant** button.Likewise, add all the variants you want.
 
-![Adding options](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-adding-options.png)
+![Adding options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-adding-options.png)
 
 Now the screen will look like below:
 
-![Variant list](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-vari-list.png)
+![Variant list](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-vari-list.png)
 
 If you want to edit the properties of the variants, open each variant by clicking on small down arrow given next to the variant name. You will get the screen like below:
 
-![Editing variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-editing-variants.png)
+![Editing variants](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-editing-variants.png)
 
 
 If any one of your variants comes **out of stock** and you wants to hide that variant displaying in front end, you could do so by clicking on delete icon.
 
-![Delete option for variants](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-deleting-variants.png)
+![Delete option for variants](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-deleting-variants.png)
 
 Below is the screenshot of how flexivariable product shows in site's frontend.
 
-![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-frontend.png)
+![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-frontend.png)
 **Filters**
 
 Filters are certain attributes that help narrow the search of a particular product.
 
 For e.g., assume that a customer searches for purple t-shirts in the store. Now, the product filter is set as color > Black, to narrow the search. See the image below:
 
-![Filters and specifications](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-specs.png)
+![Filters and specifications](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-specs.png)
 
 Now the cart will display only the Black t-shirts.
 
 **Relations**
 
-![Relations](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/flexible-variable/flexi-var-relations.png)
+![Relations](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-relations.png)
 
 - In this tab page, relations are set for Upsells and Cross sells
 - An upsell is to get the customer to spend more money – buy a more expensive model of the same type of product considered for purchase.

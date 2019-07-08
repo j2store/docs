@@ -43,7 +43,7 @@ Post running a cron, a Pay Now button would appear in the My Profile  page under
 
 **Relevant Screenshot**
 
-![basic settings](https://raw.githubusercontent.com/j2store/doc-images/master//partial-payments/basic-settings/app_partialpaymentbasicsettings.png)
+![basic settings](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/basic-settings/app_partialpaymentbasicsettings.png)
 
 **Mail Settings**
 
@@ -54,5 +54,5 @@ Post running a cron, a Pay Now button would appear in the My Profile  page under
 
 **Relevant Screenshot**
 
-![mail settings](https://raw.githubusercontent.com/j2store/doc-images/master//partial-payments/basic-settings/app_partialpaymentmailsettings.png)
+![mail settings](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/basic-settings/app_partialpaymentmailsettings.png)
 

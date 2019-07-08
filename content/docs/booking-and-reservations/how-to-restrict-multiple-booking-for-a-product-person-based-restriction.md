@@ -33,7 +33,7 @@ The minimum and maximum children allowed per booking is 1 and 2 respectively.
 
 **Setup:**
  
-![persons](https://raw.githubusercontent.com/j2store/doc-images/master//booking-and-reservations/how-to-restrict-multiple-bookings/persons.png)
+![persons](https://raw.githubusercontent.com/j2store/doc-images/master/booking-and-reservations/how-to-restrict-multiple-bookings/persons.png)
 
 
 When the set up is as mentioned in the above screenshot, the minimum adults allowed would be 1 and maximum adults allowed per booking would be 8.

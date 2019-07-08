@@ -39,9 +39,9 @@ The prefix entered here will be used for the sequence invoice number generated.
 
 This option allows you to add zeros to be displayed after the invoice prefix and before the invoice number. If you have invoice prefix (for example **INV-**) and leading zeros as 4, then the invoice number would like **INV-0001, INV-2,...,INV-0010**. See the image below shows the leading zeros is set to 3 so the invoice numbers are **INVG-001, INVG-002**,..
 
-![ipg01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Invoice-prefix-generator/ipg01.png)
+![ipg01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Invoice-prefix-generator/ipg01.png)
 
-![ipg02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Invoice-prefix-generator/ipg02.png)
+![ipg02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Invoice-prefix-generator/ipg02.png)
 
 **Automatically generate invoice number**
 
@@ -53,9 +53,9 @@ Choosing YES will generate the invoice number only when the order status matches
 
 The invoice number will be generated only for the orders with the statuses selected here. For example, if you choose the status "Confirmed", then the invoice number will be generated only for **Confirmed** order status. See the image below
 
-![ipg03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Invoice-prefix-generator/ipg03.png)
+![ipg03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Invoice-prefix-generator/ipg03.png)
 
 **Allow editing invoice numbers manually**
 
 Choosing this option YES will allow store owner to edit the invoice number by going to J2Store > Sales > Orders > Edit order. For example sometimes you may need to change the invoice number for particular order status. In this case, you can use this option to edit the invoice number manually. See the image below
-![ipg04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Invoice-prefix-generator/ipg04.png)
+![ipg04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Invoice-prefix-generator/ipg04.png)

@@ -37,7 +37,7 @@ If you run virtuemart in a Joomla 2.5 then you may copy all the virtuemart table
 
 The below image illustrates the settings of parameters:
 
-![vm01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Vm migration app/app_vmmig_01.png)
+![vm01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Vm migration app/app_vmmig_01.png)
 
 **Language**: Select your primary language from the list. This language is selected from the current Joomla installtion. If you do not find your preferred language, then configure the language in the currenct site.
 
@@ -59,7 +59,7 @@ Copy the virtuemart tables to the current DB and then reload this script so it c
 
 Please make sure you select the setting 3 (table list) and save the changes. Then you could find a dropdown listing all the preferred currencies. Refer below screen,
 
-![vm02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Vm migration app/app_vmmig_02.png)
+![vm02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Vm migration app/app_vmmig_02.png)
 
 **Terms and Conditions:
 
@@ -70,4 +70,4 @@ This plugin should not be used in live sites They must only be used in Test site
 Click the launch migration button to start the migration and follow the on screen instructions.
 
 ![vm03](/home/flycart/Desktop/j2dc/content/images/apps/Vm migration app/app_vmmig_03.png)
-![vmm04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Vm migration app/app_vmmig_04.png)
+![vmm04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Vm migration app/app_vmmig_04.png)

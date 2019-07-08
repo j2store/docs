@@ -23,7 +23,7 @@ This app lets you add the re-captcha for registration in the chackout page. It i
 3. Click Enable in the Recaptcha for J2Store Register app.
 4. Once the app is enabled, click on Open to set the configuration for the app.
 
-![re01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/re-captcha-for-j2store-register/recaptcha_01.png)
+![re01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/re-captcha-for-j2store-register/recaptcha_01.png)
 
 **Configuration**
 
@@ -34,25 +34,25 @@ You can get the site key and secret key from http://www.google.com/recaptcha
 **Theme**
 
 You can choose either Dark or Light. ReCaptcha will be displayed with the style of theme chosen here.
-![re02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/re-captcha-for-j2store-register/recaptcha_02.png)
+![re02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/re-captcha-for-j2store-register/recaptcha_02.png)
 **How to get Site Key and Secret Key ?**
 
 To get the site key and secret key, Login into your google account and go to http://www.google.com/recaptcha
 
 Click on Get reCAPTCHA button.
-![re03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/re-captcha-for-j2store-register/recaptcha_03.png)
+![re03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/re-captcha-for-j2store-register/recaptcha_03.png)
 
 Once clicked on the GetreCAPTCHA button, you have to choose the site. Choose the site as like the image given below
-![re04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/re-captcha-for-j2store-register/recaptcha_04.png)
+![re04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/re-captcha-for-j2store-register/recaptcha_04.png)
 Move to the section Adding reCAPTCHA to your site and click / expand on keys to view the site key and secret key. Please refer the image below.
-![re05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/re-captcha-for-j2store-register/recaptcha_05.png)
+![re05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/re-captcha-for-j2store-register/recaptcha_05.png)
 
 
-![re06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/re-captcha-for-j2store-register/recaptcha_06.png)
+![re06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/re-captcha-for-j2store-register/recaptcha_06.png)
 
 **Front End Display:**
 
-![re07](https://raw.githubusercontent.com/j2store/doc-images/master//apps/re-captcha-for-j2store-register/recaptcha_07.png)
+![re07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/re-captcha-for-j2store-register/recaptcha_07.png)
 
 **Support**
 

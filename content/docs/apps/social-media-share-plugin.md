@@ -33,7 +33,7 @@ Users could download this plugin from our site and install it using the default 
 
 **Relevant Screenshot **
 
-![sm01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/media share plugin/socialmedia01.png)
+![sm01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/media share plugin/socialmedia01.png)
 
 **Facebook**
 
@@ -41,7 +41,7 @@ Under the Facebook tab,one could set the App id for facebook share and contact e
 
 **Relevant Screenshot**
 
-![sm02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/media share plugin/socialmedia02.png)
+![sm02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/media share plugin/socialmedia02.png)
 
 
 **Twitter**
@@ -54,6 +54,6 @@ Under the Facebook tab,one could set the App id for facebook share and contact e
 
 **Relevant Screenshot :**
 
-![sm03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/media share plugin/socialmedia03.png)
+![sm03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/media share plugin/socialmedia03.png)
 
-![sm04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/media share plugin/socialmedia04.png)
+![sm04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/media share plugin/socialmedia04.png)

@@ -274,7 +274,7 @@ You have disabled IPN in your Paypal account.
 Are you using your Primary Paypal Email as your merchant email? If your order status says failed, then chances are that you are using a secondary email of your Paypal account.
 
 Paypal allows you to add multiple emails in an account to accept payments. With the Paypal plugin for J2Store, make sure you are using your primary Paypal account email. You can check which is your primary email by signing into your Paypal account and then going to Profile -> Add / Edit emails page.
-![paypal](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-payment-plugin/paypal_dashboard.png)
+![paypal](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-payment-plugin/paypal_dashboard.png)
 
 
 
@@ -302,7 +302,7 @@ Here is how you can overcome the issue.
 
 **Step 1: Enable Auto currency update**
 
-![auto currency](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-payment-plugin/auto-currency.png)
+![auto currency](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-payment-plugin/auto-currency.png)
 
 Go to Joomla admin - j2store - set up - > configuration -> Store tabSet your Default Currency as INRSet Auto update currency to YES
 
@@ -311,7 +311,7 @@ You might have already created the INR currency. Open it and make sure its value
 
 Now, create a new currency
 
-![new currency](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-payment-plugin/new-currency.png)
+![new currency](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-payment-plugin/new-currency.png)
 * Currency Name: USD
 * Currency Code: USD
 * Currency Symbol: $
@@ -324,7 +324,7 @@ Now, create a new currency
 Save now.
 
 
-![currency code](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-payment-plugin/currency-code.png)
+![currency code](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-payment-plugin/currency-code.png)
 You are all set now. Prices in your store will now display in INR. When the customer is redirected to paypal, he will be asked to pay in USD.J2Store will automatically do the currency conversion depending on the prevailing exchange rate.
 
 4. **Paypal duplicate invoice ID and how to solve it**
@@ -362,7 +362,7 @@ Specified Character length for address fields, Product name and Product options.
 Number of product options sent to paypal are limited to 7 options.
 This could be due to the recent technical restrictions imposed by paypal: (refer below image)
 
-![paypal docs](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-payment-plugin/paypal-docs-arrtibutes-restriction.png)
+![paypal docs](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-payment-plugin/paypal-docs-arrtibutes-restriction.png)
 
 **How to fix it ?**
 We have updated the paypal plugin with fixes for these new technical restrictions. Please make sure you update your paypal plugin to latest (v.3.4)With this update if you have used more than 7 options then the first 7 options are passed to paypal and others are ignored. Similarly if the product option character length is larger than allowed by paypal, those values are trimmed (cut off). This will make sure you do not get any errors and customers will continue to see checkout screen without any issues.
@@ -387,7 +387,7 @@ In order to allow this request to pass through your firewall, you need to add an
 
 Here is a screenshot of the WAF Exception in Admin Tools PRO
 
-![waf exception](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-payment-plugin/waf-exception.png)
+![waf exception](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-payment-plugin/waf-exception.png)
 Currency you are using 
 
 Paypal supports only the following currencies:

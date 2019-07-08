@@ -20,7 +20,7 @@ J2Store 3.2.x or above
 1.)Use the joomla installer to install the app.
 2.)Go to J2Store > Apps, find Availability Notification app and click enable to activate the app.
 
-![an01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/availability-notification/availability_notification_01.png)
+![an01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/availability-notification/availability_notification_01.png)
 
 
 Once enabled, click open to setup the Basic Settings of the app.
@@ -52,16 +52,16 @@ On top of the app, you can see Manage user button. Click on that button to view 
 Refer the screens below
 
 ![an02](/home/flycart/Desktop/j2dc/content/images/apps/availability-notification/availability_notification_02.png)
-![an03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/availability-notification/availability_notification_03.png)
+![an03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/availability-notification/availability_notification_03.png)
 **Frontend**
 
 When Product's stock goes out of stock, you will get the screen like below
 
-![an04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/availability-notification/availability_notification_04.png)
+![an04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/availability-notification/availability_notification_04.png)
 
 After sending email, you will get thank you message like below screen
 
-![an05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/availability-notification/availability_notification_05.png)
+![an05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/availability-notification/availability_notification_05.png)
 
 **Support**
 

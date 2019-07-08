@@ -25,7 +25,7 @@ Wishlists allows customers to create and add products to an unlimited number of 
 
 2\.In the backend, go to J2Store Dashboard -> Apps as shown in the image below.
 
-![wl01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/wishlist/wishlist_01.png)
+![wl01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/wishlist/wishlist_01.png)
 
 3\.Click Enable in the wishlist app.
 
@@ -42,17 +42,17 @@ Wishlists allows customers to create and add products to an unlimited number of 
 
 **Enter link display text**: Enter the custom text here will be shown in the product page.
 
-![wl02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/wishlist/wishlist_02.png)
+![wl02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/wishlist/wishlist_02.png)
 
 
 **Enter link display icon** (fontawsome icons eg.fa-heart ): Choose your wishlist display icon as font awesome icon.
 
 **Enter link display to wishlist view**: Enter the custom text here will be shown to wishlist view in the product page.
 
-![wl03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/wishlist/wishlist_03.png)
+![wl03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/wishlist/wishlist_03.png)
 
 **Enable redirect to wishlist view**: Enable this will redirect the customer to the wishlist view.
 
 **Refer the image below**
 
-![wl04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/wishlist/wishlist_04.png)
+![wl04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/wishlist/wishlist_04.png)

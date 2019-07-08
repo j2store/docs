@@ -39,7 +39,7 @@ Enter the secret key of your PayGate payment account.
 **Use PayGate test mode**
 Choose Yes to use the PayGate payment in test mode.
 
-![paygate](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paygate-payment/paygate_01.png)
+![paygate](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paygate-payment/paygate_01.png)
 **Test PayGate Id**
 Enter the Test ID of your PayGate payment test account.
 
@@ -65,7 +65,7 @@ Now you can go to Joomla admin-> Language Manager->Overrides and create override
 **Display text before payment**
 The text entered here will be displayed to the customer at the order summary screen before he makes the payment. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the Display text on selection parameter.
 
-![paygatepayment](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paygate-payment/paygate_02.png)
+![paygatepayment](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paygate-payment/paygate_02.png)
 
 **Display text on after payment**
 The text entered here will be displayed when customer completes the payment.
@@ -86,7 +86,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 **Debug**
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![paygate3](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paygate-payment/paygate_03.png)
+![paygate3](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paygate-payment/paygate_03.png)
 
 **Support**
 Still have questions? You can post in our support forum: http://j2store.org/forum/index.html

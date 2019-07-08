@@ -41,7 +41,7 @@ This image will be displayed while payment options are listed in the checkout pa
 
 Set this option to YES will hide the J2Store's normal checkout button in cart page and keep the paypal express checkout button.
 
-![plugin](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pec_01.png)
+![plugin](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pec_01.png)
 
 > Hide Paypal Express Checkout button in cart page
 
@@ -77,7 +77,7 @@ Surcharge will be calculated based on the percentage of the total order and the 
 
 By selecting a geozone here, you can restrict this payment method to only customers of that geo-region. Choose All geozones to show this method to all customers.
 
-![expresscheckout](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pec_02.png)
+![expresscheckout](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pec_02.png)
 
 **Article ID for Thank You message**
 You can create a Joomla Article to say thanks to the users, who purchased in your online store. Enter the article ID here.
@@ -101,11 +101,11 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 Text entered here will be added as the name of the payment button.
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override.
 
-![pec3](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pec_03.png)
+![pec3](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pec_03.png)
 
 **Frontend Demo**
 
-![frontend](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/frontend.png)
+![frontend](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/frontend.png)
 
 
 **How to get API access credentials from paypal**
@@ -119,15 +119,15 @@ You can enter a language constant as a value here if you are using a multi-lingu
 7. Click SHOW to view the credentials.
 8. Copy and paste the API username, password, and signature into your Paypal Express Checkout payment plugin's configuration.
 
-![accountview](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pp1.png)
+![accountview](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp1.png)
 
-![profile](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pp2.png)   
+![profile](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp2.png)   
   
 
-![credentials](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pp3.png)
+![credentials](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp3.png)
 
-![api access](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pp4.png)
+![api access](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp4.png)
 
-![pp5](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pp5.png)
+![pp5](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp5.png)
 
-![pp6](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/paypal-express-checkout/pp6.png)
+![pp6](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp6.png)

@@ -27,7 +27,7 @@ This app will add a product compare feature to your online store. It allows cust
 2. In the backend, go to J2Store Dashboard -> Apps as shown in the image below.
 3. Click Enable in the Product Compare app.
 
-![cp01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Compare-products/compare_product_01.png)
+![cp01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Compare-products/compare_product_01.png)
 
 
 4. Once the app is enabled, click an open to setup the configuration.
@@ -54,8 +54,8 @@ Please refer the below image. You can hide/show the following attributes.
 * Specifications
 * Add to cart
 
-![cp02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Compare-products/compare_product_02.png)
-![cp03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Compare-products/compare_product_03.png)
+![cp02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Compare-products/compare_product_02.png)
+![cp03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Compare-products/compare_product_03.png)
 
 
 * Show success message after item addedSet SHOW will display the message once the item added into the compare list.

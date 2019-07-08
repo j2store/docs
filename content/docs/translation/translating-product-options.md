@@ -19,20 +19,20 @@ Let's see below how to translate the product options.
 
 1. Go to J2Store > Catalog > Options and click new
 
-![translating options](https://raw.githubusercontent.com/j2store/doc-images/master//translation/translating-product-options/translate-option-1.png)
+![translating options](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-1.png)
 
 2.Enter the name for your option and option values. Both name should be in language string. Refer below image:
 
-![translation option2](https://raw.githubusercontent.com/j2store/doc-images/master//translation/translating-product-options/translate-option-2.png)
+![translation option2](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-2.png)
 **Creating language override**
 
 1. Go to Extensions > Languages > Overrides and set the filter to Administrator location and then click New.
 
-![translate option 3](https://raw.githubusercontent.com/j2store/doc-images/master//translation/translating-product-options/translate-option-3.png)
+![translate option 3](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-3.png)
 
 2. Enter the language string (which is given as a option name) and give its value in the Text box. Choose For Both locations and save.
 
-![translation option4](https://raw.githubusercontent.com/j2store/doc-images/master//translation/translating-product-options/translate-option-4.png)
+![translation option4](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-4.png)
 
 
 
@@ -44,12 +44,12 @@ Let's see below how to translate the product options.
 2. Move to J2Store Cart tab and then navigate to Options tab
 3. Search for the options and add to it and save
 
-![translate option 5](https://raw.githubusercontent.com/j2store/doc-images/master//translation/translating-product-options/translate-option-5.png)
+![translate option 5](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-5.png)
 
 4. Click on Set values to create the option values for the product and save.
 
-![translate option 6](https://raw.githubusercontent.com/j2store/doc-images/master//translation/translating-product-options/translate-option-6.png)
+![translate option 6](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-6.png)
 
 **Relevant screenshot of frontend:**
 
-![translate option 7](https://raw.githubusercontent.com/j2store/doc-images/master//translation/translating-product-options/translate-option-7.png)
+![translate option 7](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-7.png)

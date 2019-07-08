@@ -45,7 +45,7 @@ From time - 10.00
 
 To time - 23.00
 
-![oh01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/open hours/oh_01.png)
+![oh01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/open hours/oh_01.png)
  
 Now if customer tries to place an order before opening time or after closing time on weekdays, the customer will be displayed with a message to inform that orders cannot be placed right now.
 
@@ -53,10 +53,10 @@ Now if customer tries to place an order before opening time or after closing tim
 
 To set shop closed on weekends (Saturday and Sunday), you will have to set just 1 minute for saturday - sunday. Refer below image,
 
-![oh02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/open hours/oh_02.png)
+![oh02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/open hours/oh_02.png)
 
 
 
 If customer tries to purchase on weekends, he will be informed that orders cannot be placed.
 
-![oh03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/open hours/oh_03.png)
+![oh03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/open hours/oh_03.png)

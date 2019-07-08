@@ -25,7 +25,7 @@ You can also restrict the application of the discount depending on the customer 
 1. Use the Joomla installer to install the app.
 2. Go to J2store -> Apps and enable app.
 3. Open the App Bulk Discount.
-![Enabling bulk discounts](https://raw.githubusercontent.com/j2store/doc-images/master//apps/bulk-discounts/bulkdiscount_enable.png)
+![Enabling bulk discounts](https://raw.githubusercontent.com/j2store/doc-images/master/apps/bulk-discounts/bulkdiscount_enable.png)
 
 **Priority of the discounts:
 
@@ -63,7 +63,7 @@ Set this YES display the promotion message in the cart if any bulk discount not 
 
 **Line item Qty :** This will apply the discount based on the product. You can set discount to the product individually in the apps tab on j2store cart. Once you enabled Line item Quantity, the discount will be applied to the individual products.Refer the below image for setting discount for the product individually.
 
-![Product-level discount](https://raw.githubusercontent.com/j2store/doc-images/master//apps/bulk-discounts/bulkdiscount_product.png)
+![Product-level discount](https://raw.githubusercontent.com/j2store/doc-images/master/apps/bulk-discounts/bulkdiscount_product.png)
 
 - **Product discount price display format**
 
@@ -79,7 +79,7 @@ Discount is the based on the total purchase amount of a particular order irrespe
 
 Display the discount information in any one of the three options(Products view only, Category view only, Both product and category view).
 
-![Global settings for bulk discount](https://raw.githubusercontent.com/j2store/doc-images/master//apps/bulk-discounts/bulkdiscount-global-basic.png)
+![Global settings for bulk discount](https://raw.githubusercontent.com/j2store/doc-images/master/apps/bulk-discounts/bulkdiscount-global-basic.png)
 **Global discount settings**
 
 You can use these options when you are trying to offer a site-wide discount on your products.<br>
@@ -110,7 +110,7 @@ Custom text entered here will be displayed under each product in the cart.
 
 Here you can set the custom class, if you set the quantity for one and above.
 
-![Global settings for bulk discount](https://raw.githubusercontent.com/j2store/doc-images/master//apps/bulk-discounts/bulkdiscount_global-global.png)
+![Global settings for bulk discount](https://raw.githubusercontent.com/j2store/doc-images/master/apps/bulk-discounts/bulkdiscount_global-global.png)
 
 **Setting up bulk discounts for particular categories:** 
 
@@ -140,7 +140,7 @@ Enable this will calculate the discount based on percentage.
 
 Custom text entered here will be displayed under each product in the cart.
 
-![Category-discounts](https://raw.githubusercontent.com/j2store/doc-images/master//apps/bulk-discounts/bulk_discount_category.png)
+![Category-discounts](https://raw.githubusercontent.com/j2store/doc-images/master/apps/bulk-discounts/bulk_discount_category.png)
 
 
 **Product level bulk discounts:
@@ -170,10 +170,10 @@ When this option is checked, the quantities of the product would be calculated c
 
 **Product-level fixed price discount: **
 
-![Product level fixed price](https://raw.githubusercontent.com/j2store/doc-images/master//apps/bulk-discounts/bulkdiscount-pro-level-fixed-price.png)
+![Product level fixed price](https://raw.githubusercontent.com/j2store/doc-images/master/apps/bulk-discounts/bulkdiscount-pro-level-fixed-price.png)
 
 ** Frontend view:**
-![Frontend view of discount](https://raw.githubusercontent.com/j2store/doc-images/master//apps/bulk-discounts/pro-level-fixed-frontend.png)
+![Frontend view of discount](https://raw.githubusercontent.com/j2store/doc-images/master/apps/bulk-discounts/pro-level-fixed-frontend.png)
 
 **Video tutorial**
 [![Bulk discounts](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/EGW0Ol5o3jA "Bulk discounts")

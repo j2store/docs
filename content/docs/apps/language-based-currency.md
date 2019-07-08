@@ -51,7 +51,7 @@ TIP: You could assign multiple languages for a single currency as well.
  
 **Screenshots**
 
-![lbc1](https://raw.githubusercontent.com/j2store/doc-images/master//apps/language-based-currency/lbc1.png)
+![lbc1](https://raw.githubusercontent.com/j2store/doc-images/master/apps/language-based-currency/lbc1.png)
 
-![lbc2](https://raw.githubusercontent.com/j2store/doc-images/master//apps/language-based-currency/lbc2.png)
-![lbc3](https://raw.githubusercontent.com/j2store/doc-images/master//apps/language-based-currency/lbc3.png)
+![lbc2](https://raw.githubusercontent.com/j2store/doc-images/master/apps/language-based-currency/lbc2.png)
+![lbc3](https://raw.githubusercontent.com/j2store/doc-images/master/apps/language-based-currency/lbc3.png)

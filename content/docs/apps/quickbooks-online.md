@@ -64,10 +64,10 @@ Create a sandbox from your total allocation via the Manage Sandboxes page.
 
 1. Once logged in to Intuit Developer, click either the Tools dropdown or the dropdown arrow next to your name from the menu on any page and choose Sandbox.
 
-![qb01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_01.png)
+![qb01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_01.png)
 
 2. The Manage Sandboxes page displays. Next, select the country and the click Add from the Manage Sandboxes page.
-![qb02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_02.png)
+![qb02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_02.png)
 3. A US sandbox is provisioned automatically. You can have up to four additional sandboxes distributed as you like across the AU, CA, FR, IA, UK, and US development regions.
 4. Select the country from the dropdown and click Add button.
 
@@ -77,32 +77,32 @@ Create a sandbox from your total allocation via the Manage Sandboxes page.
 
 Once logged in to Intuit Developer, select Sandbox from the  Docs & Tools landing page or from the dropdown arrow next to your name.
 
-![qb03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_03.png)
+![qb03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_03.png)
 
 The Manage Sandboxes page displays. To open a QuickBooks Online sandbox, click Go to company for the desired sandbox.
-![qb04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_04.png)
+![qb04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_04.png)
 
 It redirects you to the sandbox company home page where you can use ctrl+Alt+/ from your keyboard to see your company ID.
 
 The popup window will show your company ID
 
-![qb05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_05.png)
+![qb05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_05.png)
 **Where to find App token, consumer key, consumer secret ?**
 
 Go to https://developer.intuit.com and Sign in to your Intuit Developer account.
 
 After signing in, from the menu on any page, click My Apps.
-![qb06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_06.png)
+![qb06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_06.png)
 
 The resulted page displays you the list of app that you have created already. Find the app you want keys for and click on it. The app opens to the Development tab.
 
 If you don't have any app, Click the Create new app button.
-![qb07](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_07.png)
+![qb07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_07.png)
 
 Click the Select APIs button.
-![qb08](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_08.png)
+![qb08](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_08.png)
 Popup window will be dispayed. Select one or both of the QuickBooks Online APIs: Accounting and/or Payments and click Create app button.
-![qb09](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_09.png)
+![qb09](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_09.png)
 
 Your new app opens to its Dashboard tab.
 
@@ -113,7 +113,7 @@ Development keys—use only in the sandbox environment.
 Production keys—use only in the production environment
 
 You see your token and keys listed. Copy them and paste it in our Quickbooks online app's configuration.
-![qb10](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_10.png)
+![qb10](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_10.png)
 
 **Settings**
 
@@ -138,7 +138,7 @@ Orders with status selected here are synchronized to Quickbook. For example, cho
 Choose YES to enable debug mode. It will generate the log file in cache folder of joomla root. (./cache)
 
 Don't enable DEBUG mode in live site.
-![qb11](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_11.png)
+![qb11](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_11.png)
 
 **Production**
 
@@ -168,7 +168,7 @@ Enter access token secret key associated with your Quickbook's live account.
 
 Quickbook production connection : After entering all the required data such as company id, consumer key, consumer secret, Access Token, click on **connect to QuickBooks** to connect **Quickbook** production app.
 
-![qb12](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_12.png)
+![qb12](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_12.png)
 
 **Sandbox**
 
@@ -195,7 +195,7 @@ Enter Access token associated with your Quickbook's sandbox account.
 Enter access token secret key associated with your Quickbook's live account.
 
 **Quickbook sandbox connection :** After entering all the required data such as company id, consumer key, consumer secret, Access Token, click on connect to QuickBooks to connect Quickbook sandbox app.
-![qb13](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quick books/qb_13.png)
+![qb13](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quick books/qb_13.png)
 **Synchronize**
 
 **Customer Syncronization**

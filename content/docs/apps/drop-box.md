@@ -62,39 +62,39 @@ Before proceeding with with setup for the app, make sure you defined a local fol
 2. In the backend, go to J2Store > Dashboard > Apps.
 3. Click Enable in the Nexmo SMS app as shown in the image below.
 
-![db01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_01.png)
+![db01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_01.png)
 
 4.)Once app is enabled, click open to setup the Basic settings of the app.
-![db02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_02.png)
+![db02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_02.png)
 **How to Generate access token, key and secret key?**
 
 **Step-1:** Go to [https://www.dropbox.com/developers/apps](https://www.dropbox.com/developers/apps) and login using your dropbox account. After logging in, you wil be having the page with Create app. Click on the Create app button.
-![db03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_03.png)
+![db03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_03.png)
 
 Step-2: Clicking on Create app button will ask you complete the several steps to create the app.
 
 * Choose Dropbox API as API in your first step of creating app
-![db04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_04.png)
+![db04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_04.png)
 
 * Choose your access type.App folderA dedicated folder named after your app is created within the Apps folder of a user's Dropbox. Your app gets read and write access to this folder only.Full DropboxYou get full access to all the files and folders in a Dropbox.
 * Give the name for your app and agree terms and conditions and click create app.
 
-![db05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_05.png)
+![db05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_05.png)
 
 Click on Generate button to generate access token for your app.
 
 Step-3: Now the app page will be displayed which contains your **App key **and App Secret key.
 
 
-![db06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_06.png)
+![db06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_06.png)
 
 
 
 
 Step-4: Click on Generate button to generate access token for your app.
 
-![db07](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_07.png)
-![db08](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_08.png)
+![db07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_07.png)
+![db08](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_08.png)
 Step-5: Copy all the credentials in your notepad and paste it in the J2Store's dropbox app basic settings.
 
 Basic Settings
@@ -102,7 +102,7 @@ Basic Settings
 **Folder Name:** Enter the name of the folder. The folder will be created(with the name entered here) in the path which you have entered in the J2Store configuration. All the files stored in your dropbox account will be fetched and stored in this folder.
 Access Token: Enter the valid access token for your account provided by Dropbox.
 
-![db09](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_09.png)
+![db09](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_09.png)
 
 **Dropbox Key:** Enter the valid app key associated with your dropbox account.
 
@@ -111,14 +111,14 @@ Access Token: Enter the valid access token for your account provided by Dropbox.
 **Dropbox secret key:** Enter the valid app secret key associated with your dropbox account.
 Choosing files in creating digital product
 
-![db10](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_10.png)
+![db10](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_10.png)
 
 
 1. Once finished configuring basic settings, go to article manager and open your product.
 2. Move to J2Store cart tab and then navigate to Files tab
 3. Click on Set Product files
 
-![db11](https://raw.githubusercontent.com/j2store/doc-images/master//apps/drop-box/dropbox_11.png)
+![db11](https://raw.githubusercontent.com/j2store/doc-images/master/apps/drop-box/dropbox_11.png)
 
 
 

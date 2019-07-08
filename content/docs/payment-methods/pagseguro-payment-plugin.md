@@ -41,7 +41,7 @@ Enter the pageseguro token provided by the pagseguro payment.
 **Use Sandbox**
 Pagseguro offers a testing suite called Sandbox. Before going live, you can test your store using the pagseguro's sandbox feature.
 
-![pagseguro](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/pagseguro-payment-plugin/pagseguro_1.png)
+![pagseguro](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/pagseguro-payment-plugin/pagseguro_1.png)
 
 **Sandbox Email**
 Enter your pagseguro's sandbox Email ID.
@@ -65,7 +65,7 @@ Now you can go to Joomla admin-> Language Manager->Overrides and create override
 **Display text before payment**
 The text entered here will be displayed to the customer at the order summary screen before he makes the payment. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the Display text on selection parameter.
 
-![psgplugin](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/pagseguro-payment-plugin/pagseguro_2.png)
+![psgplugin](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/pagseguro-payment-plugin/pagseguro_2.png)
 
 
 **Display text on after payment**
@@ -87,7 +87,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 **Debug**
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![psgpayment](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/pagseguro-payment-plugin/pagseguro_3.png)
+![psgpayment](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/pagseguro-payment-plugin/pagseguro_3.png)
 
 **Support**
 

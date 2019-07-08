@@ -38,7 +38,7 @@ Apart from these core custom fields, you can create your own custom fields accor
 For example, if you want to add a custom note for your reference, you can create it as a custom field and make it to be displayed in the billing or shipping process.
 
 Check the image for a list of custom fields:
-![List of available core and non-core custom fields](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/custom-fields/custom_fields_list.png)
+![List of available core and non-core custom fields](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/custom-fields/custom_fields_list.png)
 
 Let us see how to create a custom field.
 
@@ -46,7 +46,7 @@ In the custom field list view, click the **New** button. You will the get a scre
 
 **Add a Custom Field**
 
-![Adding a new custom field](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/custom-fields/custom_field_addnew.png)
+![Adding a new custom field](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/custom-fields/custom_field_addnew.png)
 
 To add a custom field, we need to enter the following details. They are given below on by one:
 
@@ -94,13 +94,13 @@ Field name should be enclosed with square brackets (for example,**[custom\_addre
 
 Refer the below pictures.
 
-![Newly added custom field](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/custom-fields/customfield-newly-added.png)
+![Newly added custom field](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/custom-fields/customfield-newly-added.png)
 **Adding custom fields to the checkout layout**
 
 Custom fields can be used to collect extra input from users. For example, if you wish to collect the desired delivery date from the users at the checkout page, this can be done by creating a date type custom field and adding it to the checkout layout as indicated below:
 
 
-![Adding custom fields to the checkout](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/custom-fields/add_custom_field_checkout.png)
+![Adding custom fields to the checkout](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/custom-fields/add_custom_field_checkout.png)
 
 Adding the custom field at the J2Store->Setup->Configuration->Checkout layout page in the desired layout would display the custom field in that particular layout, thereby allowing users to choose their desired input.
 
@@ -121,5 +121,5 @@ Keep in mind, the following, when you add a custom field to the editor:
 - And finally, the field name
 
 Refer the image below for more clear understanding.
-![Adding custom field to emails](https://raw.githubusercontent.com/j2store/doc-images/master//set-up/custom-fields/guide-to-add-custom-field-in-email-template.png)
+![Adding custom field to emails](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/custom-fields/guide-to-add-custom-field-in-email-template.png)
 

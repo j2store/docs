@@ -56,12 +56,12 @@ Enter the username associated with your Stamps.com test account.
 
 Enter the password associated with your Stamps.com test account.
 
-![st01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-01.png)
+![st01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-01.png)
 
 **Label settings**
 
 If you would like to create sample labels for testing purposes, you need to configure this section. Sample labels created cannot be used for posting items.
-![st02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-02.png)
+![st02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-02.png)
 **From Zip**
 
 Enter the zip code of the area from where you are going to ship the items (source zip code).
@@ -82,7 +82,7 @@ It specifies the page size for PDF labels. The value entered here will be applie
 
 It specifies the print layout for label.
 
-![st03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-03.png)
+![st03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-03.png)
 
 ## Common settings
 
@@ -116,7 +116,7 @@ Enter your contact number here.
 
 Choose weight and Length unit here.
 
-![st04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-04.png)
+![st04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-04.png)
 
 **How to Print shipping labels ?**
 
@@ -127,10 +127,10 @@ Requesting and printing shipping labels is done from the backend order history p
 Before printing a label the shipping address needs to be verified with USPS.
 
 Click on the button "**Validate**" validates the given shipping address (customer's shipping address) with USPS. If the shipping address is valid, the stamps.com attempts to match the given address and provides you with a formatted address that you can Accept (order is updated).
-![st04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-04.png)
+![st04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-04.png)
 If Stamps.com could not match address, you can click continue Anyway button.
 
-![st05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-05.png)
+![st05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-05.png)
 
 **Request for rates**
 
@@ -139,8 +139,8 @@ After address verification, you need to submit the rate request form.
 Here you choose package type, planned ship date, weight and dimensions for the package being shipped. Dimensions are optional, but may be required for more accurate rating.
 
 Fill your required fields and click on **Get Rates** button. A list of matching shipping rates appears:
-![st06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-06.png)
+![st06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-06.png)
 Select a rate you require, then click Request label button. The next step you will receive your label.
 
-![st07](https://raw.githubusercontent.com/j2store/doc-images/master//apps/stamps.com/stamp-07.png)
+![st07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/stamps.com/stamp-07.png)
 

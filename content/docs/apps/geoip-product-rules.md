@@ -25,9 +25,9 @@ Akeeba Geoip provider plugin
 Before installing the app, you must install the Akeeba geo ip provider plugin to find the location of the customer using IP address. Download the Akeeba geo ip provider plugin from here https://www.akeebabackup.com/download/akgeoip.html
 
 
-![gpr01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/geoip-product-rules/gpr_01.png)
+![gpr01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/geoip-product-rules/gpr_01.png)
 
-![gpr02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/geoip-product-rules/gpr_02.png)
+![gpr02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/geoip-product-rules/gpr_02.png)
 
 
 After finish Installing Akeeba Geopip provider, download the Geo IP Restricts app from our site's extensions section. Once downloaded, you must extract the downloaded package and you will be having two zip files.
@@ -36,20 +36,20 @@ Install them one by one using Joomla installer.
 
 Go to J2Store > Dashboard > Apps and enable the Geo IP Restricts app.
 
-![gpr_03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/geoip-product-rules/gpr_03.png)
+![gpr_03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/geoip-product-rules/gpr_03.png)
 
 
 Now go to Extensions > Plugins and choose search type **System** and enable System - Akeeba GeoIP provider plugin and System - Geoproducts plugin.
 
 
-![gpr04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/geoip-product-rules/gpr_04.png)
+![gpr04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/geoip-product-rules/gpr_04.png)
 
 
 **Configuration**
 
 **Step-1** Go to J2Store > Dashboard > Apps and open the Geo IP Restricts app
 
-![gpr05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/geoip-product-rules/gpr_05.png)
+![gpr05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/geoip-product-rules/gpr_05.png)
 
 
 
@@ -58,7 +58,7 @@ Now go to Extensions > Plugins and choose search type **System** and enable Syst
 **Hide the product for countries in the selected geozones:** This option is used to choose which part of the product should be hidden in store front. You can hide either entire product or hide only the add to cart button. There is one more option in the dropdown which will show the entire product but block the cart function(customer from the selected country cannot add the item into the cart).
 
 
-![gpr06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/geoip-product-rules/gpr_06.png)
+![gpr06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/geoip-product-rules/gpr_06.png)
 ![gpr07](/home/flycart/Desktop/j2dc/content/images/apps/geoip-product-rules/gpr_07.png)
 
 **Step-3**

@@ -26,16 +26,16 @@ Community Builder 2.0.x
 3. Install plg_j2store_app_cbprofile.zip using joomla installer and enable the app in J2Store Dashboard > Apps section.\
 4. Now go to Community Builder > Plugin Management > Install new plugin where you should install plg_j2store_cbj2store.zip
 
-![cbprofile1](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_01.png)
+![cbprofile1](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_01.png)
 
 
-![cbprofile2](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_02.png)
+![cbprofile2](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_02.png)
 
 
  After installing above package, Go to Community Builder > Plugin Mnanagement and enable CB J2Store available in the list.
  
  
-![cbprofile03](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_03.png)
+![cbprofile03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_03.png)
  
  
  
@@ -46,15 +46,15 @@ If user has already entered an address during Profile creation in Community Buil
 **Step-1**
 Go to J2Store > Dashboard > Apps and open CB Profile Synchronous app
 
-![cbprofile04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_04.png)
+![cbprofile04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_04.png)
 
 **Step-2**
 On opening app, the page will list down the available users who are registered newly.
 
 On top right of that page, you will be having large green coloured button named with CB Profile Synchronize. Clicking on that button will synchronize the users details with J2Store. Refer the screenshots below
 
-![cb05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_05.png)
-![cb06](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_06.png)
+![cb05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_05.png)
+![cb06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_06.png)
 
 
 **Step-3**
@@ -62,15 +62,15 @@ Now go to your store front and add the item into the cart -> proceed checkout ->
 
 Usually, if new user login first time at J2Store checkout page, in the next step Billing address will ask you to enter your address and personal information. But with CB Profile synchronous, the address will be synchronized from community builder and no need to re-enter everything. Refer the screenshots below
 
-![cb07](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_07.png)
+![cb07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_07.png)
 
-![cb08](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_08.png)
+![cb08](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_08.png)
 
 **Step-4**
 Order history also will be displayed in the Community Profile itself. Refer the screenshot below
 Support
 
-![cb09](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Cb profile Sync/cbprofile_09.png)
+![cb09](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Cb profile Sync/cbprofile_09.png)
 
 
 

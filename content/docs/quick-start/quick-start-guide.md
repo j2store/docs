@@ -25,16 +25,16 @@ Use the Joomla installer to install the J2store package.
 1. Go to Joomla Extension > Manage
 2. Choose and select your file.
 3. Click Upload & Install.
-![Quickstart-J2Store-install](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-j2store-install.png)
+![Quickstart-J2Store-install](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-j2store-install.png)
 
 #### Configuration
 
 Once installed, you will get J2store in the Joomla component list and also separate J2store tab in Joomla backend.
 
-![Quickstart-Configuration](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-J2Store-component.png)
+![Quickstart-Configuration](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-J2Store-component.png)
 Now, Go to J2store > Dashboard.
 
-![Quickstart-basic-settings](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-basic-setttings.png)
+![Quickstart-basic-settings](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-basic-setttings.png)
 Fill all the fields in the basic settings and click Save & Proceed.
 
 
@@ -45,14 +45,14 @@ Since J2Store uses the default Joomla articles as its products, it lets you use 
 Go to Content > Articles > Add new article. Now, new article page will open.
 
 Give the title of the product, add your description about the product in the content tab and choose the category in which you want to display the product.
-![Quickstart-creating-a-product](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-Creating-product.png)
+![Quickstart-creating-a-product](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-Creating-product.png)
 
 Now, go to J2store Cart tab, choose YES to Treat as a product then choose your Product Type from the list(Simple, Variable, Configurable, Downloadable) and then click Save and Continue.
-![Quickbook-product-type](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-product-type.png)
+![Quickbook-product-type](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-product-type.png)
 
 After saving, again go to J2store cart tab. Now you can see the options to add image for product, set prices, add filters / Tax / Shipping.
 
-![Quickstart-product-settings](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-product-setting.png)
+![Quickstart-product-settings](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-product-setting.png)
 
 #### Display Product
 
@@ -61,10 +61,10 @@ It is very easy and flexible to display the product in frontend via menu. Please
 Go to Menu manager -> Main menu and create a new menu item.
 
 Give the menu title and choose the menu type as J2store > Product List View
-![Quickstart-product-layout](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-product-layout.png)
+![Quickstart-product-layout](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-product-layout.png)
 
 Choose the Category which have chosen when creating product. The category added in the product and the category added in the menu should be same.
-![Quickstart-j2store-menu](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-j2store-menu.png)
+![Quickstart-j2store-menu](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-j2store-menu.png)
 
 In the menu you can see these three tabs common options, Item view options in category listings, Item view options.
 
@@ -79,7 +79,7 @@ In the menu you can see these three tabs common options, Item view options in ca
 #### Frontend
 
 Now Go to frontend of your site and check.
-![Quickstart-frontend](https://raw.githubusercontent.com/j2store/doc-images/master//quick-start/Quickstart-guide/Quickstart-guide.png)
+![Quickstart-frontend](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-guide.png)
 
 **Video tutorials**
 

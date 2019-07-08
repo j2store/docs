@@ -28,7 +28,7 @@ This plugin integrates J2Store with Virtual Merchant payment gateway, thus facil
 
 You can configure the payment plugin with the help of the images below:
 
-![vmp](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/virtaul-merchant-payement-plugin/vm-config-1.png)
+![vmp](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/virtaul-merchant-payement-plugin/vm-config-1.png)
 
 1. Payment Option Title -Enter Option Title here. This text will be displayed while listing the payment option.
 2. Logo or Image -This option is used to display the payment plugin logo in the checkout page.

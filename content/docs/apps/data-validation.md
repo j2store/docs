@@ -66,7 +66,7 @@ Now move to the column "Rules" and click Add Rules button. Choose the rules from
 
 **Screenshots**
 
-![dv01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/data_validation/data-validation-01.png)
+![dv01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/data_validation/data-validation-01.png)
 
 
-![dv02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/data_validation/data-validation-02.png)
+![dv02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/data_validation/data-validation-02.png)

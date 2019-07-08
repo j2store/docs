@@ -20,7 +20,7 @@ Parameters
 2. CSV file Name -Name of CSV file used to upload in merchant center. Make sure the file name does not contain any spaces (use underscores or hyphen symbol instead of space).
 3. Product Condition -Please select your product condition from this list. There are three options (New, used, refurbished)
 
-![gmcsf01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/google-merchant-center-shopping-feed/gmcsf01.png)
+![gmcsf01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/google-merchant-center-shopping-feed/gmcsf01.png)
 
 **Configure Fields**
 
@@ -29,7 +29,7 @@ Parameters
 * The fields in Enabled state are considered during Feed generation.
 * Please refer Google's Documentation for List of Fields used for the Google  Shopping Feed and their detailed specifications.
 
-![gmcsf02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/google-merchant-center-shopping-feed/gmcsf02.png)
+![gmcsf02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/google-merchant-center-shopping-feed/gmcsf02.png)
 
 Below is a list of fields that are supported by the app.
 

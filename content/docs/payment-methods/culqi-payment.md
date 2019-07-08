@@ -40,7 +40,7 @@ You can get commercial code and secret API keys by logging into your culqi accou
 
 Copy your Commercial Code and paste it in plugin's settings. To know your secret API key, click on See under the column Key. Popup will show your secret API key. Copy and paste it in plugin's settings.
 
-![credentials](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/culqi-payment/culqi-api-credentials.png)
+![credentials](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/culqi-payment/culqi-api-credentials.png)
 
 **Culqi User ID / User Email**
 Enter the User ID or Email ID associated with your culqi account.
@@ -82,15 +82,15 @@ You can enter a language constant as a value here if you are using a multi-lingu
 **Debug**
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![culqi](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/culqi-payment/culqi-plugin-config.png)
+![culqi](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/culqi-payment/culqi-plugin-config.png)
 
 **Frontend**
 
 
-![popup](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/culqi-payment/culqi-popupform.png)
+![popup](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/culqi-payment/culqi-popupform.png)
 
 
-![checkout](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/culqi-payment/culqi-demo-checkout-form.png)
+![checkout](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/culqi-payment/culqi-demo-checkout-form.png)
 
 
 

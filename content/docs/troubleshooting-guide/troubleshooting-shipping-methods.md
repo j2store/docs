@@ -21,7 +21,7 @@ Well. This might sound trivial. But some of us often forget to turn on the Enabl
 
 By default, Enable Shipping is set to NO. So this should be your first check.
 
-![shipping enable](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-shipping-methods/shipping_enable_item.png)
+![shipping enable](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/shipping_enable_item.png)
 
 
 Geozone
@@ -31,7 +31,7 @@ All the plugins come with a geozone filter setting.
 In Standard shipping methods, all the shipping rates are geozone specific. So you MUST configure the geozones correct before you set up the shipping cost.
 
 
-![shipping geozone](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-shipping-methods/shipping_geozone.jpg)
+![shipping geozone](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/shipping_geozone.jpg)
 
 
 Geozones are nothing but a group of countries / zones.For example, shipping cost to a group of countries will be same. So those countries could be grouped to form a geozone.
@@ -41,7 +41,7 @@ Based on the shipping address provided by the customer, the system will look up 
 > NOTE If you ship your goods to the entire world and use shipping plugins like USPS, FedEx or UPS, you will have a param called: All geozones. Choosing this will allow the plugin to work for all shipping locations. Check the screenshot below
 > 
 
-![geozone setting](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-shipping-methods/shipping_geozone_setting.png)
+![geozone setting](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/shipping_geozone_setting.png)
 
 **Issues specific to standard shipping methods**
 
@@ -71,7 +71,7 @@ All the shipping carriers use the weight and the dimension of your product (Leng
 
 You should select the weight and the length measurement unit from the drop down list.
 
-![weight and dimensions](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-shipping-methods/weight_and_dimensions.png)
+![weight and dimensions](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/weight_and_dimensions.png)
 Also make sure that you choose the correct measurement units in the plugin settings as well. If the measurement units used in the products does not match with the settings in the plugin, then J2Store will attempt to convert the values to the measurement unit set in the plugin.
 
 **API credentials**
@@ -97,5 +97,5 @@ The log is stored in the /cache folder of your Joomla Root. You can use your Hos
 VERY IMPORTANT: Debug mode SHOULD NOT be enabled in LIVE / PRODUCTION sites.
 > 
 
-![debug mode](https://raw.githubusercontent.com/j2store/doc-images/master//troubleshooting-guide/troubleshooting-shipping-methods/debug_mode.png)
+![debug mode](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/debug_mode.png)
 Still not working, please create a private ticket or email us the log file. We will help you troubleshoot.

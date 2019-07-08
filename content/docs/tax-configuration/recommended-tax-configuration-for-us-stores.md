@@ -85,7 +85,7 @@ Go to J2Store Cart tab -> General tab
 
 **Tax Profile :** Default tax class
 
-![Default tax-rate-for-Us-stores](https://raw.githubusercontent.com/j2store/doc-images/master//tax-configuration/Recommended-for-US-stores/Tax-config-default-tax-rate.png)
+![Default tax-rate-for-Us-stores](https://raw.githubusercontent.com/j2store/doc-images/master/tax-configuration/Recommended-for-US-stores/Tax-config-default-tax-rate.png)
 
 **IMPORTANT** If you do not choose the tax profile, then tax will not apply in the store front.
 

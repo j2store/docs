@@ -16,7 +16,7 @@ You can find the cron security key in your store settings.
 
 Go to J2Store > Setup > Configuration > Store tabYou can see the security key for running cron jobs. Click on Regenerate button to generate new key. Please see the below image
 
-![intro](https://raw.githubusercontent.com/j2store/doc-images/master//general/advanced.png)
+![intro](https://raw.githubusercontent.com/j2store/doc-images/master/general/advanced.png)
 
 This security key can be used for execution of cron jobs required by apps and plugins. This will ensure only legitimate requests are allowed and executed. The cron requests without this key will be denied access.
 
@@ -24,7 +24,7 @@ This security key can be used for execution of cron jobs required by apps and pl
 
 * Go and login into your cPanel
 * In the Advanced section of the cPanel, Click Cron Jobs
-![Intro](https://raw.githubusercontent.com/j2store/doc-images/master//general/advanced.png)
+![Intro](https://raw.githubusercontent.com/j2store/doc-images/master/general/advanced.png)
 * Under Cron Email, type the e-mail address that you want to receive notifications, and then click Update Email. Every time the cron job runs, the e-mail account will receive a message.
 * Under Add New Cron Job, enter the interval for the command that you want.
 If you select an interval option under Common Settings, cPanel fills in the values automatically.

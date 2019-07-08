@@ -23,19 +23,19 @@ The following screenshots will be of help:
 
 Create a menu of the name filters:
 
-![categorytree](https://raw.githubusercontent.com/j2store/doc-images/master//layout/category-tree-for-displaying-filters/categorytree1.png)
+![categorytree](https://raw.githubusercontent.com/j2store/doc-images/master/layout/category-tree-for-displaying-filters/categorytree1.png)
 
 
 Add menu items with category names to the menu filters:
 
-![categorytree2](https://raw.githubusercontent.com/j2store/doc-images/master//layout/category-tree-for-displaying-filters/categorytree2.png)
+![categorytree2](https://raw.githubusercontent.com/j2store/doc-images/master/layout/category-tree-for-displaying-filters/categorytree2.png)
 
 Create a menu module in extensions with the name Filters:
 
-![category3](https://raw.githubusercontent.com/j2store/doc-images/master//layout/category-tree-for-displaying-filters/categorytree3.png)
+![category3](https://raw.githubusercontent.com/j2store/doc-images/master/layout/category-tree-for-displaying-filters/categorytree3.png)
 
 **Frontend view:**
 
 The frontend view will be as follows:
 
-![categorytree4](https://raw.githubusercontent.com/j2store/doc-images/master//layout/category-tree-for-displaying-filters/categorytree4.png)
+![categorytree4](https://raw.githubusercontent.com/j2store/doc-images/master/layout/category-tree-for-displaying-filters/categorytree4.png)

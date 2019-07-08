@@ -74,7 +74,7 @@ If you would like to replace quantity box in items table on cart page with quant
 Text entered here will be added as prefix and suffix to the quantity number.
 For example, if you entered Gram in the Post text box then the quantity will be appeared like 5 gram, 10 gram, 15 gram, etc..
 
-![qd01](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quantity dropdown/qd_01.png)
+![qd01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quantity dropdown/qd_01.png)
 
 **Configuring Quantity dropdown at product level**
 
@@ -117,12 +117,12 @@ Now the quantity list will be 5, 10, 15, 20, 25, 30, 35, 40, 45, 50.
 Text entered here will be added as prefix and suffix to the quantity number.
 For example, if you entered Gram in the Post text box then the quantity will be appeared like 5 gram, 10 gram, 15 gram, etc.. 
 
-![qd02](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quantity dropdown/qd_02.png)
+![qd02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quantity dropdown/qd_02.png)
 
 **Frontend Demo Screenshots**
 ![qd03](/home/flycart/Desktop/j2dc/content/images/apps/Quantity dropdown/qd__03.png)
 
-![qd04](https://raw.githubusercontent.com/j2store/doc-images/master//apps/Quantity dropdown/qd_04.png)
+![qd04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Quantity dropdown/qd_04.png)
 
 
 **Support**

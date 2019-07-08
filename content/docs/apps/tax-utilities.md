@@ -72,7 +72,7 @@ The user groups chosen in this option would not have tax calculated on the cart 
 For instance, if the Guest user group is chosen in this option, the guest users would not have tax applied to their cart. 
 They would have product prices exclusive of tax
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/taxpage.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/taxpage.png)
 
 **Working: **
 
@@ -83,19 +83,19 @@ They would have product prices exclusive of tax
 ** For guest users:** Users of the guest group would be exempted from tax on the cart and checkout pages.
 
 **J2store Configuration**
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/j2storeconfiguration.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/j2storeconfiguration.png)
 
 **For whole sale users**
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/wholesaleusers.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/wholesaleusers.png)
 	
 **For registered users**
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/registeredusers.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/registeredusers.png)
 
 **For guest users**
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/Guestusers.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/Guestusers.png)
 
 ** Combine taxes**:
 
@@ -111,14 +111,14 @@ What should be the label when taxes are combined and shown at the totals section
 
 When you set this option to Yes, the tax of the product would be shown separately while the tax on shipping would be included in the shipping cost itself.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/taxutilities.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/taxutilities.png)
 
 
 **Working:**
 
 With the above set up, the tax rates at the cart page would be shown like this:
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/working.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/working.png)
 
 
 
@@ -131,7 +131,7 @@ Irrespective of the address entered by the user, tax would be displayed based on
 
 Set this option to Yes if you wish that tax has to be calculated based on the store address and not the user's address.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/App-tax-utilities.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/App-tax-utilities.png)
 
 
 NOTE: This setting has to be turned on only when you wish that users have to be levied tax irrespective of their address.
@@ -145,17 +145,17 @@ Tax: UK tax would be levied on all users irrespective of their address.
 
 
 **Tax setup:**
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/taxsetup.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/taxsetup.png)
 
 **Store address: **
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/storeaddress.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/storeaddress.png)
 
 
 
 **User address and tax calculation at frontend: **
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/useraddressandtaxcalculation.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/useraddressandtaxcalculation.png)
 
 **Certificate based tax exemption**
 
@@ -167,13 +167,13 @@ Enabling this option would display a checkbox asking users to upload a tax exemp
 The file uploaded by users would be available for store administrators to download at the order history of that particular order. 
 
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/certifictaebasedtax.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/certifictaebasedtax.png)
 
 
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/certicatebasedtax2.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/certicatebasedtax2.png)
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/invoice.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/invoice.png)
 
 **Tax rate per user group**
 
@@ -184,9 +184,9 @@ The file uploaded by users would be available for store administrators to downlo
 Enable this option to set up tax rates based on user groups.
 The available tax rates and user groups would be listed  and you could map them accordingly.
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/usergroupbasedtax.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/usergroupbasedtax.png)
 
 **Working**
 
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/usergroupbasedtaxworking.png)
-![](https://raw.githubusercontent.com/j2store/doc-images/master//apps/tax-utilities/usergroupbasedtax2.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/usergroupbasedtaxworking.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/usergroupbasedtax2.png)

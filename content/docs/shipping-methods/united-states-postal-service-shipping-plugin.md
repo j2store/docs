@@ -24,15 +24,15 @@ You can install this shipping plugin, using joomla installer.
 * Enable the plugin
 * Configure the shipping plugin by entering the plugin parameters
 
-![usps1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/US-poratl-service-shipping-plugin/usps-ship-install.png)
+![usps1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/US-poratl-service-shipping-plugin/usps-ship-install.png)
 
-![usps2](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/US-poratl-service-shipping-plugin/aus-ship-doc-1.png)
+![usps2](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/US-poratl-service-shipping-plugin/aus-ship-doc-1.png)
 
-![usps3](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/US-poratl-service-shipping-plugin/usps-ship-method-list.png)
+![usps3](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/US-poratl-service-shipping-plugin/usps-ship-method-list.png)
 
-![usps4](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/US-poratl-service-shipping-plugin/usps-ship-config-1.png)
+![usps4](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/US-poratl-service-shipping-plugin/usps-ship-config-1.png)
 
-![usps5](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/US-poratl-service-shipping-plugin/usps-ship-config-2.png)
+![usps5](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/US-poratl-service-shipping-plugin/usps-ship-config-2.png)
 
 **Parameters**
 

@@ -28,11 +28,11 @@ You can install this shipping plugin, using joomla installer.
 
 The installation procedure is illustrated in the image below:
 
-![Australia post installation](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/AustraliaPost/aus-ship-plg-install.png)
+![Australia post installation](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/AustraliaPost/aus-ship-plg-install.png)
 
-![Australia post navigation](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/AustraliaPost/aus-ship-dashboard-nav.png)
+![Australia post navigation](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/AustraliaPost/aus-ship-dashboard-nav.png)
 
-![Australia post methods list](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/AustraliaPost/aus-post-ship-method-list.png)
+![Australia post methods list](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/AustraliaPost/aus-post-ship-method-list.png)
 
 ## Parameters 
 
@@ -42,7 +42,7 @@ For this option, select **Domestic Shipping Service** or **International Shippin
 
 Check the image below and set up the shipping parameters as illustrated in the image.
 
-![Australia post shipping configuration](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/Australia post/aus-post-ship-config.png)
+![Australia post shipping configuration](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/Australia post/aus-post-ship-config.png)
 
 **API Key**
 

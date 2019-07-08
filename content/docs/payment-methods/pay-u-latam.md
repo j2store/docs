@@ -87,4 +87,4 @@ Click Save.
 Relevant Screenshot
 This Screenshot depicts the settings for the plugin:
 
-![payu backend](https://raw.githubusercontent.com/j2store/doc-images/master//payment-methods/pay-u-latam/payULatambackend.png)
+![payu backend](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/pay-u-latam/payULatambackend.png)

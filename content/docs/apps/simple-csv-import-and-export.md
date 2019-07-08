@@ -27,7 +27,7 @@ category: "apps"
 
 The following image illustrates the actions that are involved in import and export of .csv file.
 
-![Simple CSV](https://raw.githubusercontent.com/j2store/doc-images/master//apps/simple-csv-import-export/csv-import-settings-edited.png)
+![Simple CSV](https://raw.githubusercontent.com/j2store/doc-images/master/apps/simple-csv-import-export/csv-import-settings-edited.png)
 
 A sample .csv file is given here for your testing purposes.
 

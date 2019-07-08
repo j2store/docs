@@ -21,15 +21,15 @@ You can install this USPS shipping plugin, using joomla installer.The following 
 **Step 1**
 In the joomla admin, go to Extensions -> Extension Manager ->install
 
-![install](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Install.png)
+![install](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Install.png)
 **step 2**
 Click on the Browse button and select USPS Shipping (type=j2store) and click on Upload & Install
 
-![install1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Install1.png)
+![install1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Install1.png)
 **step 3**
 Select J2store ->setup -> shipping methods
 
-![install2](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Install2.png)
+![install2](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Install2.png)
 
 
 **Step 4**
@@ -37,7 +37,7 @@ Select J2store ->setup -> shipping methods
 * Enable the plugin.
 * Configure the shipping plugin by entering the plugin parameters. 
 
-![install3](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Install3.png)
+![install3](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Install3.png)
 
 **Configuration**
 **USPS API SETTINGS**
@@ -49,7 +49,7 @@ Enter the Postcode from where you ship.
 
 Refer the below image
 
-![username](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Username.png)
+![username](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Username.png)
 
 **USPS COMMON SETTINGS :**
 
@@ -87,7 +87,7 @@ USPS Shipping offers a testing suite called test server. Before going live, you 
 
 Refer the below image
 
-![common](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/common.png)
+![common](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/common.png)
 
 **Enable standard api service**
 Set this to YES will enable the standard API service of USPS (i.e) once standard API enabled, it will pass to the USPS server and get the standard rates from USPS server.
@@ -107,17 +107,17 @@ USPS offers 3 types of packing.
 1. **Individual Packing**
 Each products consider as a separate unit and packing it into the individual boxes. Each product will be packed separately.
 
-![std](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/standard.png)
+![std](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/standard.png)
 
 Output will diplayed as like below image
 
-![output](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/out.png)
+![output](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/out.png)
 
 2. **Box packing :**
 
 The box packing included with this shipping method lets you pack all the items into single box for which you have to define height, width, length, weight and max-weight. Packing is mainly volume based but also considers item size. 
 
-![box](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Box.png)
+![box](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Box.png)
 
 If you choose box packing then you will have to create/set box size.The box will have the following fields.
 
@@ -131,17 +131,17 @@ If you choose box packing then you will have to create/set box size.The box will
 After configuring the USPS settings, then the important thing you have to do is to enter the dimensions for your product. Refer the image below 
 
 
-![dimensions](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/dimension.png)
+![dimensions](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/dimension.png)
 
 3. **Weight Based Packing :**
 
 In this each product has different weight. Product having less than 70 lbs will be packed up into the single pack. If the products exceeds the 70 lbs it does not pack up.
 
-![weight](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/weight.png)
+![weight](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/weight.png)
 
 After configuring the USPS configure the following thing in J2store also.
 
-![dim1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/dimension (1).png)
+![dim1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/dimension (1).png)
 
 **Enable Flat Rate box based on**
 It is important to note that Flat Rate Shipping prices come directly from the USPS API, and you cannot add or modify pricing for this option.
@@ -151,28 +151,28 @@ It has four options like enable the flat rate box, disable the flat rate box, en
 **Enable flat Rate box :**
 Choosing this option will enable express services and also the priority services. 
 
-![flat](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Flat.png)
+![flat](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Flat.png)
 
-![priority](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/priority.png)
-![flat1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Flat1.png)
+![priority](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/priority.png)
+![flat1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Flat1.png)
 
 **Disable Flat Rate box :**
 If you select this option, it will disable all flat rate services.
 
 Refer the below images for better understanding 
 
-![disable](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/disable.png)
-![priority1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/priority (1).png)
-![disable1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/disable1.png)
+![disable](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/disable.png)
+![priority1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/priority (1).png)
+![disable1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/disable1.png)
 
 **Enable priority Services only**
 It only enables priority services in cart page.
 
 Refer the below images
 
-![prio1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/priority1.png)
-![prio2](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/priority (2).png)
-![uspsprio](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/priority2.png)
+![prio1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/priority1.png)
+![prio2](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/priority (2).png)
+![uspsprio](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/priority2.png)
 
 
 **Enable Express Services :**
@@ -180,9 +180,9 @@ Choosing this option will enable only the express services.
 
 Refer the below images
 
-![prior3](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/priority (3).png)
-![express](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Express.png)
-![ex1](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/Express1.png)
+![prior3](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/priority (3).png)
+![express](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Express.png)
+![ex1](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/Express1.png)
 
 **Advanced package handling**
 This type of handling method applies to Box packing type and Flat rate services. For scenario, consider you are having only two boxes (Box 1, Box 2) and 7 items needs to be packed. Pack the first three items into Box 1 and second three items into Box 2. To pack the item 7, you need one more box (Box 3). So you need multiple boxes to pack the items. In this case, you can decide the cost for additonal box should be applied or not.
@@ -195,7 +195,7 @@ By this Advance Package handling method you can use the following options to cha
 2. Ignore item - do not quoteChoosing this option will display the charge for Box 1 and Box 2 and will ignore the Box 3.
 3. Abort - do not return any quotes for the standard serviceChoosing this option will cancel sending quotes for all the boxes.
 
-![advanced pack](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/usps_adv_pack_01.png)
+![advanced pack](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/usps_adv_pack_01.png)
 
 **If multiple boxes are required for shipping?**
 
@@ -203,4 +203,4 @@ By this Advance Package handling method you can use the following options to cha
 2. Abort - do not return any quotes. Choosing this option will cancel quotes for all the boxes and will not return any cost.
 
 
-![advpack2](https://raw.githubusercontent.com/j2store/doc-images/master//shipping-methods/usps-advanced/usps_adv_pack_02.png)
+![advpack2](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/usps-advanced/usps_adv_pack_02.png)

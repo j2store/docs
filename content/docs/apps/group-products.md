@@ -33,7 +33,7 @@ This app allows store owner to combine the products and sell it as one group pro
 6. Type two or three characters of your product.
 7. If the product you are searching for is not listed, the reason is that the product might have options. Since this app allows only the product without options, the product with options cannot be added into the group.
 8. Once the products are added, save article and check in the frontend.
-![gp05](https://raw.githubusercontent.com/j2store/doc-images/master//apps/groupproduct_05.png)
+![gp05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/groupproduct_05.png)
 
 **Usecase**
 
