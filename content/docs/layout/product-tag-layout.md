@@ -6,7 +6,6 @@ description: "Learn how to use tags to display products."
 author: "Sowbagya lakshmi"
 category: "Layout"
 ---
-# Product Tag Layout
 
 **Introduction**
 

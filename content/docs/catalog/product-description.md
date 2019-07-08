@@ -6,7 +6,6 @@ description: "Here is how you could add product description"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Product Description
 
 By default the joomla article considers the text as short description. When you use page break or read more, you will see red or grey line in article.
 

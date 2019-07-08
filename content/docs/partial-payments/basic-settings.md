@@ -7,7 +7,7 @@ author: "Varsha"
 category: "partial payments"
 ---
 
-* Enable partial payment**
+**Enable partial payment**
 Three options are available as follows:No - If you would like to enable partial payment for specific product, set this option to NO. It will disable the partial payment mode globally. You should have to enable the partial payment at product level.Yes-optional partial payment - This allows partial payment mode as an option against normal full payment method.Yes-required partial payment - This makes partial payment as the only option.
 
 * Select by defaultIf partial payment is to be set as the default payment mode, select it here.If not, you could choose the normal Full payment mode.

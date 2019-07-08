@@ -6,7 +6,6 @@ description: "Create vendors at your store"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Vendors
 
 This is a database of vendors for products available in J2Store.
 

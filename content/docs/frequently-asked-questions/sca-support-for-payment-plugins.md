@@ -29,13 +29,4 @@ The following payment methods require update:
 - Stripe
 - Paypal
 
-**Has the Stripe plugin been updated to support SCA**
-
-With the current latest version(effective of the date 01.07.2019), the in-built form mode of Stripe supports SCA.
-The version on the site is currently: 1.49
-
-**Has Paypal been updated to support SCA**
-
-Yes, the standard Paypal plugin does support SCA by default since the transactions occur at the Payment gateway and not within the merchant site.
-As far as Paypal PRO is concerned, SCA support has been included in the version 2.15 and onwards.
 

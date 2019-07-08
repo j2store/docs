@@ -6,7 +6,6 @@ description: "This is how you could add specifications to your products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Adding related products
 
 Adding related products has never been as easy as it is now. Here is how you could add up-sell and cross-sells products on your store.
 
@@ -97,7 +96,7 @@ The product Net has to be added as a related product to the product Basket ball.
 ![Content plugin settings](../../images/catalog/adding-related-products/content-plugin-config.png)
 - Navigate to the Item view of the plugin and choose the Product block position there as well
 ![Item view settings](../../images/catalog/adding-related-products/content-plugin-item-view.png)
-** Frontend display**
+**Frontend display**
 
 ![Parent product on frontend](../../images/catalog/adding-related-products/frontend-parent-pro.png)
 

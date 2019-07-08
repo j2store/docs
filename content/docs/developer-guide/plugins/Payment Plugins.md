@@ -54,7 +54,7 @@ Make sure that the name of the file is in **lower case** and there are no spaces
 
 The plugin's manifest should follow the joomla plugin creation basics.An example manifest should look like this:
 
-`<?xml version="1.0" encoding="utf-8"?>
+```<?xml version="1.0" encoding="utf-8"?>
 <extension version="2.5" type="plugin" group="j2store" method="upgrade">
     <name>Example</name>
     <version>1.0</version>
@@ -98,7 +98,7 @@ The plugin's manifest should follow the joomla plugin creation basics.An example
         </fieldset>
     </fields>
 </config>
-</extension>`
+</extension>```
 
 Also refer the manifest of the Paymill plugin that comes built in with the J2Store package.
 
@@ -123,12 +123,12 @@ Let us start creating the file.
 
 Make sure the name of the class suffix is same as your plugin file's name. And it should extend the J2StorePaymentPlugin class.
 
-`defined('_JEXEC') or die('Restricted access');
+```defined('_JEXEC') or die('Restricted access');
 require_once (JPATH_ADMINISTRATOR.'/components/com_j2store/library/plugins/payment.php');
 class plgJ2StorePayment_example extends J2StorePaymentPlugin
 {
 	//IMPORTANT. The following variable identifies the plugin to j2store
-	var $_element = 'payment_example';`
+	var $_element = 'payment_example';```
   
 As mentioned earlier, a payment plugin is triggered in three places in the Checkout steps (for different purposes). Let us go one by one based on their purpose.
 
@@ -137,34 +137,33 @@ As mentioned earlier, a payment plugin is triggered in three places in the Check
 The plugin will be listed in this step. When customer chooses your payment method, then you have the option to display a short message / instruction or a credit card form. The best use case is the display of a credit card form.
 
   Use the following wrapper to display a form or a short message.
-  `function _renderForm( $data )
+  
+```function _renderForm( $data )
 {
-    `$html = $`this->_getLayout('form', $v`ars);    
+    $html = $this->_getLayout('form', $vars);    
     return $html;
-}`
+}```
 
-`The _getLayout method will call the template / layout file (form.php) from the payment_example/tmpl/ folder.
+The _getLayout method will call the template / layout file (form.php) from the payment_example/tmpl/ folder.
 
 The _getLayout method is actually a glorified include and it accepts a second argument, which can be an object or array. You can pass any data into the second argument which can be used in the form.php
 
 The beauty of the _getLayout method is that it will respect the template overrides. So users can override the layout without editing the core file.
-`
 
 
+**2.Prepare to redirect customer to the gateway or to process payment at the Order summary step (Last step of the checkout)**
 
-**`2.Prepare to redirect customer to the gateway or to process payment at the Order summary step (Last step of the checkout)`**
-
-`When customer reaches this step, the order will be saved. And you will have an order id.
+When customer reaches this step, the order will be saved. And you will have an order id.
 
 The following wrapper method is executed and it returns normally a **Place order button** (may be a hidden form). Check the Paymill plugin or the cash on delivery plugin.
-`
+```
 **function _prePayment( $data )
 {
 	$vars = new stdClass();
 	$vars->callback_url = JUri::root().'/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_example&paction=callback';
     $html = $this->_getLayout('prepayment', $vars);    
     return $html;
-}**`
+}**```
 
 **3.After payment is made**
 
@@ -174,7 +173,7 @@ The confirmPayment method triggers the postPayment event ( which serves multiple
 
 Here is a sample code for the _postPayment wrapper
 
-function _``postPayment( $data )`
+```function _postPayment( $data )
 {
     // Process the payment
     $app = JFactory::getApplication();
@@ -209,18 +208,15 @@ function _``postPayment( $data )`
     }
 
     return $html;
-}
-
-
-
+}```
 
 As you can see, we use a switch to serve different purposes.
 
 In redirect methods, you will normally be asked to supply the following urls
 
-Return url : Where to return customers after payment is made
+```Return url : Where to return customers after payment is made
 Cancel url : Where to return customers when they cancel
-Callback (or notification): Where to send the callback (when payment is made)
+Callback (or notification): Where to send the callback (when payment is made)```
 
 
   For all these three, you can use the confirmPayment task (in the checkouts.php controller)
@@ -231,23 +227,23 @@ index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type
 
 Notice the two parameters here:
 
-orderpayment_type = the name of the payment plugin
-paction = an action to perform in the postPayment wrapper.
+```orderpayment_type = the name of the payment plugin
+paction = an action to perform in the postPayment wrapper.```
 
 
 If you are integrating the direct (credit card) method, then refer the Paymill or the sagePay plugins in the j2store package for more information
 
-A complete payment plugin class will look like the following`**
-<?php
+A complete payment plugin class will look like the following
+```<?php
 /*
 * @package		Example payment plugin for j2store
 
-* `@subpackage	J2Store
-* `@author    	John doe
-* `@copyright	Copyright (c) 2015 XYZ company. All rights reserved.`
-* `@license		GNU/GPL license: http://www.gnu.org/copyleft/gpl.html``
+* @subpackage	J2Store
+* @author    	John doe
+* @copyright	Copyright (c) 2015 XYZ company. All rights reserved.
+* @license		GNU/GPL license: http://www.gnu.org/copyleft/gpl.html
 * --------------------------------------------------------------------------------
-*/`
+*/
 
 /** ensure this file is being included by a parent file */
 defined('_JEXEC') or die('Restricted access');
@@ -410,24 +406,23 @@ class plgJ2StorePayment_example extends J2StorePaymentPlugin
 		}
 
 		return count ( $errors ) ? implode ( "\n", $errors ) : '';
-	}`
+	}
+```
 
-`If the payment is successful, you should call the following method
+If the payment is successful, you should call the following method
 
 $order->payment_complete();
 $order->empty_cart(
 
 If you want to update the status of order, you can call the following method`
 
-$order->update_status($order_status_id, $notify_customer);
+```    $order_status_id = The status to which the order to be set.
+    You can get the ID of the order status from J2Store -> Localisation -> Order statuses.
 
-``$order_status_id = The status to which the order to be set.
-You can get the ID of the order status from J2Store -> Localisation -> Order statuses.
-
-$notify_customer = a Boolen value. Whether to notify the customer or not about the update to the order.``
+    $notify_customer = a Boolen value. Whether to notify the customer or not about the update to the order.```
 
 
+**Next steps**
 
-**`Next steps**
+Successfully created the payment gateway ? Well you can share it with other J2Store users via our Extensions Directory. Contact us to get your plugin listed for sale (or for free distribution).
 
-Successfully created the payment gateway ? Well you can share it with other J2Store users via our Extensions Directory. Contact us to get your plugin listed for sale (or for free distribution).``

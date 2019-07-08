@@ -6,7 +6,6 @@ description: "Know how to create simple products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Simple Product
 
 **Introduction**
 

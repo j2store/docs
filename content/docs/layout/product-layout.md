@@ -6,12 +6,11 @@ description: "Learn how to create a menu for your products page."
 author: "Sowbagya lakshmi"
 category: "Layout"
 ---
-# Product Layout
 Product Layout is a powerful feature that enables the user to customize the display options and descriptions of the product. In this section, you'll learn how to create and customize a product layout.
 
 Note: Product layout works only with Joomla articles. If you use SEBLOD / FLEXIcontent / or any other catlog systems, then you may need to configure the product layouts using their menu items.
 
-#### Create a Product Layout
+**Create a Product Layout**
 To create a product layout, go to joomla control panel and click on the menu item **Menus -> Main Menu** as shown in the image below.
 ![Layout-menu-manager](../../images/layout/product-layout/pro-layout-menu-manager.png)
 
@@ -26,7 +25,7 @@ To create a new item, click on the **New** button and you will get this page.
 First you need to enter the title of the item you create. For example, it is entered with **Shop**. The alias will be automatically generated based on the title.
 Then, you have several tabs in this page. Let us see one by one. First is the **Details** tab.
 
-#### Details Tab
+**Details Tab**
 Here, you choose the **Menu Item Type** by clicking on the 'Select' button. You will get a pop-up window like this:
 ![Layout-menu-type](../../images/layout/product-layout/pro-layout-menu-type.png)
 
@@ -38,7 +37,7 @@ Your menu item is selected and the link is also created automatically. click on 
 
 Now, go to next tab, **Common Options**.
 
-#### Common Options Tab
+**Common Options Tab**
 
 ![.Layout-common-options-tab](../../images/layout/product-layout/pro-layout-common-options.png)
 
@@ -49,7 +48,7 @@ Note: In Sub-Template option, you have to choose **bootstrap3** if your bootstra
 If you do not want to show product option price in front end, you can set the option to **Hide** as shown in the image below:
 ![Layout-common-options-tab-second](../../images/layout/product-layout/pro-layout-common-options-tab-second.png)
 
-#### Item View options in category listings
+**Item View options in category listings**
 
 Check the image below:
 ![Layout-item-view-in-category-listings](../../images/layout/product-layout/pro-layout-item-view-cat-list.png)
@@ -80,7 +79,7 @@ Filters help narrow the search for a particular product. There are many filters 
 
 One or more filters can be applied as per the needs of the customer.
 
-#### Item View Options Tab
+**Item View Options Tab**
 
 In this tab, you will set the configuration for what to display with the product, like price, description, image etc.
 
@@ -138,7 +137,7 @@ When you click on the product, it will be displayed with large image and additio
 
 Like this, you can set different product layouts according to your wish and needs.
 
-#### Special Module Positions
+**Special Module Positions**
 
 J2store offers special module positions to place the Joomla's custom HTML module.Following are the custom module positions :
 
@@ -155,11 +154,11 @@ J2store offers special module positions to place the Joomla's custom HTML module
 11. j2store-checkout-top - Top of checkout page
 12. j2store-checkout-bottom - Bottom of checkout page
 
-#### Avoid Zoom effect and open the main image in popup
+**Avoid Zoom effect and open the main image in popup**
 
 To avoid the zomm effect and to bring the image in pop up, first thing you have to do is disable the zoom effect in admin backend.<br>
 
-#### Disable zoom in J2store product layout
+**Disable zoom in J2store product layout**
 
 Go to menu manager and open the menu which links to J2store product layout.
 
@@ -168,7 +167,7 @@ Move to Item view options tab
 Set **NO** to Enable Zoom effect.
 
 
-#### Disable zoom in Category blog layout
+**Disable zoom in Category blog layout**
 
 Go to Extensions > Plugins.
 
@@ -178,7 +177,7 @@ Open the Content - J2Store plugin.
 
 Set **NO** to Enable Zoom effect in Item view tab.
 
-#### Override view\_images.php
+**Override view_images.php**
 
 Once disbaled the zoom effect, follow the override procedure given below :
 
@@ -200,9 +199,9 @@ Change this with
 &nbsp;<span class="<?php echo $class; ?>" id="j2store-item-main-image-<?php echo $this->product->j2store_product_id; ?>"><br>		 &nbsp; <?php JHTML::_('behavior.modal', 'a.modal'); ?><br>		 &nbsp;	 <a href="<?php echo $this->product->main_image;?>" class="modal"><img itemprop="image"<br>		 &nbsp;	 alt="<?php echo $this->product->product_name ;?>"<br>		 &nbsp;	 class="j2store-product-main-image j2store-img-responsive"<br>		 &nbsp;	 src="<?php echo $image_path.$main_image;?>"<br>		 &nbsp;	 width="<?php echo intval($main_image_width); ?>"<br>		 &nbsp;	 /></a><br>		 &nbsp;	 </span>
 ```
 
-#### Common Problems
+**Common Problems**
 
-#### Grid layout not working/columns.Why?
+**Grid layout not working/columns.Why?**
 
 The issue seems to be the wrong sub-template.
 

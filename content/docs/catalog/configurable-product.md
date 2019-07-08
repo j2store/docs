@@ -6,7 +6,6 @@ description: "Know how to create configurable products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Configurable Product
 **Introduction**
 
 As the name suggests, you can allow customers to configure before adding the product to cart. This product type offers dependant / chained product options. That is you can define parent-child relationship between options.

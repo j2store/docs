@@ -6,7 +6,6 @@ description: "Here is a list of options types that J2Store offers"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Options
 
 In this page, the information to add new custom options are given.
 

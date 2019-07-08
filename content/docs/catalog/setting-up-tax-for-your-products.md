@@ -6,7 +6,6 @@ description: "Know how to setup tax rates for your products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Setting up tax for your products
 
 **Requirement for the tax to take effect:**
 - Geozone has to be set up for which the tax has to apply.

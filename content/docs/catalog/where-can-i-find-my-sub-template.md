@@ -6,7 +6,6 @@ description: "Here is where you could check the sub-template used on your menus.
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Where can i find my sub-template?
 
 To know the sub-template of your product page, here is what you will have to do.
 

@@ -6,7 +6,6 @@ description: "Here is how you could order your products on the storefront"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Ordering products on your storefront
 
 Organizing your products is an important factor to increase the user-friendliness of your store. The following article describes how your products could be organized.
 **Options available:

@@ -6,8 +6,6 @@ description: "Here is how you could create options and add them to your products
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# How to create options and add them to your products
-
 
 Who doesn't prefer choices when they wish to buy their favorite t-shirt ? Obviously, your users would love when the products have additional options.
 J2Store allows you to create <link-text url="http://docs.j2store.org/catalog/options" target="_blank" rel="noopener">options of various types</link-text>

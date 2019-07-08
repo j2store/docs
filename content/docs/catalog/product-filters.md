@@ -6,7 +6,6 @@ description: "Here is how filters can be created for your products."
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Product Filters
 
 These are used to narrow out the search for a particular product.
 

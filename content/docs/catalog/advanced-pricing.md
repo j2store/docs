@@ -6,7 +6,6 @@ description: "Offer discounts by setting up date-range based, user-group based, 
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Advanced Pricing
 J2Store offers you to set advanced pricing for your product.This functionality enables you to have prices based on the quantity and date range.
 
  The following steps will guide you on how to set advanced pricing for your product.

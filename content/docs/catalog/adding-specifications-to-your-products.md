@@ -6,8 +6,6 @@ description: "This is how you could add specifications to your products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Adding Specifications to your products
-
 **Steps to be followed:**
 
 - Navigate to J2Store->Catalog->Filters/ Specifications.
