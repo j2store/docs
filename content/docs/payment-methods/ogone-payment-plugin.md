@@ -7,13 +7,13 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-The Ogone Plugin enables you to receive payments via Ogone Payment Gateway. Getting a Ogone account is very easy. Look at more about Ogone here <link-text url =¨http://ogone.com¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+The Ogone Plugin enables you to receive payments via Ogone Payment Gateway. Getting a Ogone account is very easy. Look at more about Ogone here <link-text url =¨http://ogone.com"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 NOTE: Please sign in for a test account at Ogone and then download the user guides for Configuring the Ogone account. Reading basic e-commerce integration and advanced e-commerce integration will be useful for developers.
 
 The following links to download these guides are working as of March 10, 2015:
 
-<link-text url = ¨https://secure.ogone.com/ncol/Ogone_Testacc_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­BAS_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­ADV_EN.pdf¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+<link-text url = ¨https://secure.ogone.com/ncol/Ogone_Testacc_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­BAS_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­ADV_EN.pdf"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 The plugin uses the E-commerce Integration method of Ogone.
 
@@ -77,7 +77,7 @@ Should be set to SHA-1. The plugin will not work with the other methods. Refer t
 
 URL of the merchant page containing the payment form that will call the page: orderstandard.asp:
 
-This should be set to <link-text url =¨ http://www.yourdomain.com¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+This should be set to <link-text url ="http://www.yourdomain.com"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 ![data and origin](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ogone-payment-plugin/ecommerce_check_ogone.png)
 
@@ -85,7 +85,7 @@ This should be set to <link-text url =¨ http://www.yourdomain.com¨ target = ¨
 
 This is required to update our database after the payment is done. Under the heading “Direct HTTP server to server request", set both the URLs of the merchant's post payment page as below:
 
-<link-text url =¨http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_ogone&paction=process&tmpl=component¨ target =¨_blank¨ rel = ¨noopener¨> click here </link-text>
+<link-text url =¨http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_ogone&paction=process&tmpl=component"target =¨_blank"rel = ¨noopener¨> click here </link-text>
 
 **Request method: POST**
 

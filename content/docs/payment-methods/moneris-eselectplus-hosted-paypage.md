@@ -21,15 +21,15 @@ You need to set up your Moneris eSELECT Plus Hosted Paypage.The following config
 **Step 1 :** 
 Log into the Merchant Resource Center
 
-Developement :<link-text url =¨ https://esqa.moneris.com/mpg/index.php¨ traget = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+Developement :<link-text url ="https://esqa.moneris.com/mpg/index.php"traget = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
-Production :  <link-text url =¨https://www3.moneris.com/mpg¨ target =¨_blank¨ rel =¨noopener¨> click here </link-text>
+Production :  <link-text url =¨https://www3.moneris.com/mpg"target =¨_blank"rel =¨noopener¨> click here </link-text>
 
 Before you can send a transaction to the Hosted Paypage you will need to configure several settings through the eSELECTplus Merchant Resource Centre (MRC).
 
 **For test accounts**
 
-To log into the MRC test environment go to <link-text url =¨https://esqa.moneris.com/mpg¨ target =¨_blank¨ rel = ¨noopener¨> click here </link-text> 
+To log into the MRC test environment go to <link-text url =¨https://esqa.moneris.com/mpg"target =¨_blank"rel = ¨noopener¨> click here </link-text> 
 and use one of the following login Ids.
 
 Store ID        UserName         Password

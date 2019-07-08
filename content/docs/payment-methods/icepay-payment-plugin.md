@@ -34,7 +34,7 @@ Go to My Websites → Your website → Configure URL tab
 
 Copy paste the following url in Thank you page, Error URL and PostBack Url fields
 
-<link-text url =¨http://yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_icepay&paction=process¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+<link-text url =¨http://yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_icepay&paction=process"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 NOTE: replace <yourdomain.com> with your domain name.
 

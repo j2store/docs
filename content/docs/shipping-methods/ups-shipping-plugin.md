@@ -20,7 +20,7 @@ You can install the plugin through the standard Joomla installer.
 **Configuration**
 Prior to configuring the plugin, you should have an active account with the UPS and received API keys. Contact UPS to register and get API keys.
 
-Not sure where to find your Access key ? Read the documentation below <link-text url = ¨https://help.extensionworks.com/hc/en-us/articles/200366638-Where-do-I-find-my-UPS-license-key-or-Access-Key-¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+Not sure where to find your Access key ? Read the documentation below <link-text url = ¨https://help.extensionworks.com/hc/en-us/articles/200366638-Where-do-I-find-my-UPS-license-key-or-Access-Key-"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 Refer the image below:
 
@@ -28,7 +28,7 @@ Refer the image below:
 
 **Access Key**
 Enter the access key provided by the UPS.Not sure where to find your Access key ? Read the documentation below
- <link-text url =¨https://help.extensionworks.com/hc/en-us/articles/200366638-Where-do-I-find-my-UPS-license-key-or-Access-Key-¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+ <link-text url =¨https://help.extensionworks.com/hc/en-us/articles/200366638-Where-do-I-find-my-UPS-license-key-or-Access-Key-"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 **Username**
 Enter your UPS username.

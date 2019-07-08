@@ -27,7 +27,7 @@ Paypal Plus for J2Store is compatible with dealers in the following countries
 
 
 **How to identify your Client ID and Secret key?**
-1. Go to <link-text url =¨ https://developer.paypal.com/¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text> and login.
+1. Go to <link-text url ="https://developer.paypal.com/"target = ¨_blank"rel = ¨noopener¨> click here </link-text> and login.
 2. After logging in, click Dashboard on top right of that page.
 3. From the left menu panel, select My Apps & Credentials
 4. Under the REST API apps section, you will have to create an app to receive REST API Credentials.

@@ -7,9 +7,9 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-The DIBS Plugin enables you to receive payments via DIBS Payment Solution, a leading payment solution provider in Nordic countries. <link-text url =¨http://www.dibspayment.com/¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+The DIBS Plugin enables you to receive payments via DIBS Payment Solution, a leading payment solution provider in Nordic countries. <link-text url =¨http://www.dibspayment.com/"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
-NOTE: The Plugin uses the Flexwin payment method . Please refer more about this integration method in <link-text url =¨http://tech.dibs.dk/integration_methods/flexwin/flexwin_introduction/¨ target = ¨_blank¨ rel =¨noopener¨> click here </link-text>
+NOTE: The Plugin uses the Flexwin payment method . Please refer more about this integration method in <link-text url =¨http://tech.dibs.dk/integration_methods/flexwin/flexwin_introduction/"target = ¨_blank"rel =¨noopener¨> click here </link-text>
 
 **Requirements**
 
@@ -55,7 +55,7 @@ This is an optional parameter.
 
 **Currency Code**
 
-Currency code provided by DIBS refer: <link-text url=¨http://www.dibs.se/toolbox/currency_codes/¨  target = ¨_blank¨ rel =¨noopener¨> click here </link-text> 
+Currency code provided by DIBS refer: <link-text url=¨http://www.dibs.se/toolbox/currency_codes/" target = ¨_blank"rel =¨noopener¨> click here </link-text> 
 eg: 208 for DKK
 
 **Use DIBS Sandbox**

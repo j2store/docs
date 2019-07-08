@@ -34,7 +34,7 @@ You can install this shipping plugin, using joomla installer.
 **Parameters**
 Consider the images for setting up the parameters.
 
-Here is the instructions for identifying Fedex credentials (Authentication key and meter number). <link-text url =¨https://support.shippingeasy.com/hc/en-us/articles/203087899-How-do-I-find-my-FedEx-Meter-Number-¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+Here is the instructions for identifying Fedex credentials (Authentication key and meter number). <link-text url =¨https://support.shippingeasy.com/hc/en-us/articles/203087899-How-do-I-find-my-FedEx-Meter-Number-"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 **Key**
 This is a unique FedEx key required to login.

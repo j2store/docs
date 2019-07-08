@@ -8,7 +8,7 @@ category: "payment methods"
 ---
 
 
-The plugin integrates with the DIBS Payment Window method. Refer this page for more information. <link-text url =¨http://www.dibspayment.com/dibs-payment-window¨ traget = ¨_blank¨ rel =¨noopener¨> click here </link-text>
+The plugin integrates with the DIBS Payment Window method. Refer this page for more information. <link-text url =¨http://www.dibspayment.com/dibs-payment-window"traget = ¨_blank"rel =¨noopener¨> click here </link-text>
 
 **Requirements**
 
