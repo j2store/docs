@@ -6,7 +6,6 @@ description: "To control the J2Store product's view that is displayed on a Jooml
 author: "Sowbagya lakshmi"
 category: "set-up"
 ---
-# **Content plugin settings**
 
 To control the display in the cart section, to show or hide the images, enabling zoom effects etc., some settings have to made in advance to achieve the desired results. The content plugin settings would also take effect when you have displayed your products using short code on the Joomla layout. This section explains about how the settings can be made.  
 

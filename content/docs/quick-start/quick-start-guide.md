@@ -6,19 +6,18 @@ description: " A quickstart guide to configure your online store"
 author: "Sowbagya lakshmi"
 category: "Quickstart"
 ---
-# Quick Start Guide
 
 Here is the quickstart guide for setting up an online store with Joomla and J2store.
 
 The guide with screenshots walks you step-by-step to set up your Joomla shop within minutes.
 
-#### Download, Installation, Configuration of J2store
+**Download, Installation, Configuration of J2store**
 
-#### Download
+**Download**
 
 Download your J2store Component Package from our J2store official website.Login into the J2store and go to My downloads tab where you can download the J2store package.
 
-#### Installation
+**Installation**
 
 Use the Joomla installer to install the J2store package.
 
@@ -27,7 +26,7 @@ Use the Joomla installer to install the J2store package.
 3. Click Upload & Install.
 ![Quickstart-J2Store-install](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-j2store-install.png)
 
-#### Configuration
+**Configuration**
 
 Once installed, you will get J2store in the Joomla component list and also separate J2store tab in Joomla backend.
 
@@ -38,7 +37,7 @@ Now, Go to J2store > Dashboard.
 Fill all the fields in the basic settings and click Save & Proceed.
 
 
-#### Creating Product
+**Creating Product**
 
 Since J2Store uses the default Joomla articles as its products, it lets you use native content as product.
 
@@ -54,7 +53,7 @@ After saving, again go to J2store cart tab. Now you can see the options to add i
 
 ![Quickstart-product-settings](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-product-setting.png)
 
-#### Display Product
+**Display Product**
 
 It is very easy and flexible to display the product in frontend via menu. Please follow the procedure given below.
 
@@ -68,7 +67,7 @@ Choose the Category which have chosen when creating product. The category added 
 
 In the menu you can see these three tabs common options, Item view options in category listings, Item view options.
 
-- **Common Options: 
+- **Common Options:** 
        Here you can choose the layout(bootstrap 2, bootstrap 3).
 - **Item view options in category listings:** 
        Here you can choose which are things should be displayed in product pages. For example, you hide / show price, images, filters, etc..
@@ -76,7 +75,7 @@ In the menu you can see these three tabs common options, Item view options in ca
        Here you can choose which are the things should be displayed in product view page.
 
 
-#### Frontend
+**Frontend**
 
 Now Go to frontend of your site and check.
 ![Quickstart-frontend](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-guide.png)

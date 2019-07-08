@@ -6,7 +6,6 @@ description: "Choose the product type that best suits your store requirements"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# Difference between product types
 
 **Introduction**
 

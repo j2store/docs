@@ -6,14 +6,11 @@ description: " Know how to show the base price instead of the price range"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# To show the base price instead of price range in flexivariable products
 
 If you don't like the price range of the variants getting displayed on the storefront, then you could replace it with the default base price. 
 
 Following are the steps to be followed:
-**Steps:
-
-**
+**Steps:**
 
 - Navigate to the Flexi variable product.
 - Set the default variant by clicking on the star next to the variant.
