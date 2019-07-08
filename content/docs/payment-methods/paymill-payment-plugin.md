@@ -11,11 +11,11 @@ This plugin integrates Paymill payment gateway with J2Store.
 
 You need an account with Paymill to choose this method. If you have/create one, you will be provided with private and public keys for facilitating payments. You need to enter them in the respective fields.
 
-![paymill1](../../images/payment-methods/paymill-payment/pay_paymill1.png)
+![paymill1](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paymill-payment/pay_paymill1.png)
 
 In these payment types, unlike Bank Transfer or Money order methods, the customer has the option to cancel the payment. Also, if any error occurs during payment process, that will be logged. These will be notified through the additional text boxes provided. Check the image below.
 
-![paymill2](../../images/payment-methods/paymill-payment/pay_paymill2.png)
+![paymill2](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paymill-payment/pay_paymill2.png)
 
 **Installation**
 You can install the plugin through the standard Joomla installer.

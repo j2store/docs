@@ -18,4 +18,4 @@ Thats it !
 
 **Joomla Requirements**
 
-Make sure you check these <link-text url=”[https://docs.joomla.org/Technical_requirements](https://docs.joomla.org/Technical_requirements)” target=”_blank” rel=”noopener”>minimum requirements for Joomla</link-text>
+Make sure you check these <link-text url="https://docs.joomla.org/Technical_requirements" target="_blank" rel="noopener">minimum requirements for Joomla</link-text>

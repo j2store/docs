@@ -16,7 +16,7 @@ Select No, I will enter prices exclusive of tax to Prices Entered With Tax optio
 Select Excluding tax for both Display prices in product pages and Display prices during cart/checkout.
 
 
-![tax excl](../../images/troubleshooting-guide/troubleshooting-tax-issues/tax-excl.png)
+![tax excl](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax-excl.png)
 **How to display prices with including tax?**
 
 Go to J2store -> Configuration -> Tax tab.
@@ -27,7 +27,7 @@ Select Including tax for both Display prices in product pages and Display prices
 
 Set YES to Display tax information below the prices (in product pages).
 
-![tax incl](../../images/troubleshooting-guide/troubleshooting-tax-issues/tax-incl.png)
+![tax incl](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax-incl.png)
 
 **Why the tax rate is not showing up for particular zone?**
 
@@ -44,7 +44,7 @@ Open the product, go to J2Store cart and navigate to the general tab.
 
 Add your tax profile created.
 
-![tax prof](../../images/troubleshooting-guide/troubleshooting-tax-issues/tax-prof.png)
+![tax prof](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax-prof.png)
 
 
 **Why tax is not displayed when changing the setting of the tax calculation from billing address to the delivery address?**
@@ -76,7 +76,7 @@ Now assign this geozone to your tax rate.
 Go to J2Store -> Configuration - Tax settingsSet Display tax information below the prices (in product pages) to YES.See the screenshot below
 
 
-![tax including text](../../images/troubleshooting-guide/troubleshooting-tax-issues/tax_including_text.png)
+![tax including text](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax_including_text.png)
 
 It would display a text like this: (Incl. XX% tax )
 
@@ -104,7 +104,7 @@ Save and close.
 
 Here is a screenshot showing the language override
 
-![tax override](../../images/troubleshooting-guide/troubleshooting-tax-issues/tax_override.png)
+![tax override](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax_override.png)
 Here is how it looks in the front end
 
-![front end](../../images/troubleshooting-guide/troubleshooting-tax-issues/front_end_display.png)
+![front end](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/front_end_display.png)

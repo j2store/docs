@@ -32,7 +32,7 @@ It is beacuse the default Registered group and Guest group chosen might be wrong
 Please go to User manager -> OptionsMake sure the Default Registered Group is set to: RegisteredDefault guest user group is set to : Guest
 
 
-![cart clear](../../images/troubleshooting-guide/troubleshooting-cart-related-issues/cart-clear-01.png)
+![cart clear](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/cart-clear-01.png)
 
 
 And make sure you do not have any cookie domains in Joomla admin - Global configuration.
@@ -117,14 +117,14 @@ Since the cart module handles dynamic data, it should be excluded from caching. 
 
 If you use Progressive Caching, Joomla will override the Cache settings in the module. The cart module might work fine in smarller sites with Progressive Caching enabled but if you have a larger site with a large number of visitors, then it might cause issues with the module.
 
-![cache settings](../../images/troubleshooting-guide/troubleshooting-cart-related-issues/cache_settings.png)
+![cache settings](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/cache_settings.png)
 **Module settings**
 
 Go to Joomla admin - Module Manager - J2Store Cart module
 
 In the Advanced tab, set the Caching to No Cache.
 
-![mod cache](../../images/troubleshooting-guide/troubleshooting-cart-related-issues/mod_cache_settings.png)
+![mod cache](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/mod_cache_settings.png)
 
 **Javascript conflict**
 
@@ -144,7 +144,7 @@ You can see the Developer Tools window opening at the bottom of the browser. Nav
 
 Now Refresh your website. The Console tab will show you if there are any javascript conflicts in your site. It will also show you the file name and the line number that produce the error. Take a screenshot and send it to us and also send a copy to your template provider. We will check and get back to you with the solution.
 
-![developer tool console](../../images/troubleshooting-guide/troubleshooting-cart-related-issues/developer_tools_console.png)
+![developer tool console](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/developer_tools_console.png)
 **JSON support**
 
 While most of the hosting service providers enable the JSON support for PHP by default, some do not. It is easy to check if JSON is enabled or not in your hosting account.
@@ -155,7 +155,7 @@ You can check whether JSON support enabled or not in the PHP Information tab. if
 
 You can look for something like below in the PHP Information tab.
 
-![json](../../images/troubleshooting-guide/troubleshooting-cart-related-issues/json_setup.png)
+![json](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/json_setup.png)
 **I don't see Add to Cart Button. What is the problem?**
 
 Don't worry. This is often a simple configuration mistake. We have answered this question more than hundred times.
@@ -204,7 +204,7 @@ Go to Joomla admin - J2Store - Configuration - Cart tab
 
 Set the Add to cart placement to Within article using tag and save. (See the picture given below).
 
-![cart placement](../../images/troubleshooting-guide/troubleshooting-cart-related-issues/cart_placement.png)
+![cart placement](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/cart_placement.png)
 
 
 NOTE: You can also set the param to BOTH. In that case, the cart block will display at two places - a place where you entered the plugin tag and its default location.
@@ -215,7 +215,7 @@ Now go to Joomla admin -> Content -> Article Manager.Either create an article (p
 
 Go to the J2Store Cart tab. You will find the plugin tag to use for the product.(see the screenshot below)
 
-![cart tag](../../images/troubleshooting-guide/troubleshooting-cart-related-issues/cart_tag.png)
+![cart tag](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/cart_tag.png)
 Either copy the plugin tag  and note it down. In this example, the following plugin tag is used {j2storecart 2} Here 2 is the product ID (aka, Article ID )
 
 Now go to the Content tab and enter the plugin tag

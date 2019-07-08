@@ -22,9 +22,9 @@ J2store offers special module positions to place the Joomla's custom HTML module
 
 **j2store-product-list-bottom** \- Bottom of product category listing page
 
-![Category listing position](../../images/layout/special-module-positions/spl-mod-cat-list-pos.png)
+![Category listing position](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl-mod-cat-list-pos.png)
 
-![Category list frontend view](../../images/layout/special-module-positions/spl-mod-cat-front.png)
+![Category list frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl-mod-cat-front.png)
 
 **Single product view**
 
@@ -32,11 +32,11 @@ J2store offers special module positions to place the Joomla's custom HTML module
 
 **j2store-single-product-bottom** \- Bottom of product view layout
 
-![Item view position](../../images/layout/special-module-positions/spl-mod-item-pos.png)
-![Item view front](../../images/layout/special-module-positions/spl-mod-item-front.png)
+![Item view position](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl-mod-item-pos.png)
+![Item view front](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl-mod-item-front.png)
 
-![Module](../../images/layout/special-module-positions/spl_mod_pos_module.png)
-![Available module positions](../../images/layout/special-module-positions/spl_mod_pos_avail-mod-positions.png)
+![Module](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_module.png)
+![Available module positions](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_avail-mod-positions.png)
 
 #### Filter Section
 
@@ -48,17 +48,17 @@ J2store offers special module positions to place the Joomla's custom HTML module
 
 **j2store-filter-right-bottom** \- Bottom of right filter
 
-![Filters positions](../../images/layout/special-module-positions/spl_mod_pos-filters.png)
+![Filters positions](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos-filters.png)
 
-![Frontend view of filters](../../images/layout/special-module-positions/spl_mod_pos_filters_front.png)
+![Frontend view of filters](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_filters_front.png)
 **Cart page**
 
 **j2store-cart-top** \- Top of cart page
 
 **j2store-cart-bottom** \- Bottom of cart page
 
-![Cart positions](../../images/layout/special-module-positions/spl_mod_pos_cart.png)
-![Frontend view](../../images/layout/special-module-positions/spl_mod_pos_cart-front.png)
+![Cart positions](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_cart.png)
+![Frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_cart-front.png)
 
 **Video Tutorial:**
 [![Adding additional text inside cart page](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/aiTvXII33fg "Adding additional text inside cart page")
@@ -69,16 +69,16 @@ J2store offers special module positions to place the Joomla's custom HTML module
 
 **j2store-checkout-bottom** \- Bottom of checkout page
 
-![Checkout postions](../../images/layout/special-module-positions/spl_mod_pos_checkout.png)
-![Frontend checkout special module positions](../../images/layout/special-module-positions/spl_mod_pos_checkout-front.png)
+![Checkout postions](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_checkout.png)
+![Frontend checkout special module positions](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_checkout-front.png)
 **Checkout Results page**
 
 **j2store-postpayment-top** \- Top of Checkout Results page
 
 **j2store-postpayment-bottom** \- Bottom of Checkout Results page
 
-![Checkout result positions](../../images/layout/special-module-positions/spl_mod_pos_check-results.png)
-![Checkout results frontend](../../images/layout/special-module-positions/spl_mod_pos_check-res-front.png)
+![Checkout result positions](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_check-results.png)
+![Checkout results frontend](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_check-res-front.png)
 **Special Module Positions for J2Store Dashboard**
 
 There is also special module positions available for customizing J2Store Cpanel(Dashboard).
@@ -90,8 +90,8 @@ j2store-module-position-5**
 
 Go to Extensions > ModulesChoose **Administrator** sectionClick New and choose custom moduleEnter the name of the module and set the position to one of J2Store backend special module positions(given above). See the screenshots below,
 
-![Creating a new module](../../images/layout/special-module-positions/spl_mod_pos_create-new-mod.png)
+![Creating a new module](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_create-new-mod.png)
 
 
-![Custom module for special module positions](../../images/layout/special-module-positions/spl_mod_pos_custom-mod.png)
-![Admin end](../../images/layout/special-module-positions/spl_mod_pos_admin-end.png)
+![Custom module for special module positions](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_custom-mod.png)
+![Admin end](https://raw.githubusercontent.com/j2store/doc-images/master/layout/special-module-positions/spl_mod_pos_admin-end.png)

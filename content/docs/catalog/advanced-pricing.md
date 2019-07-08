@@ -14,11 +14,11 @@ J2Store offers you to set advanced pricing for your product.This functionality e
 
 - Create a new article and save the article .
 - Navigate to J2store->Pricing.Enter the regular price.
-![Pricing tab](../../images/catalog/advanced-pricing/adv-pricing-pricing-tab.png)
+![Pricing tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/advanced-pricing/adv-pricing-pricing-tab.png)
 - Click on Set Prices to set advanced pricing.
 - A pop-up screen will open with fields such as Date range , Quantity range, customer group and price.
 
-![set pricing](../../images/catalog/advanced-pricing/adv-pricing-set-pricing.png)
+![set pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/advanced-pricing/adv-pricing-set-pricing.png)
 
 **How to set up date range based discounts:
 
@@ -65,17 +65,17 @@ So, with the above advanced pricing set up, users of the group Wholesale receive
 **Creating Advanced pricing:**
 
 - Enter the values in the required fields and click on the create button .
-![Creating a tiered pricing](../../images/catalog/advanced-pricing/adv-pricing-create-new.png)
+![Creating a tiered pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/advanced-pricing/adv-pricing-create-new.png)
 
 A pop-up message price saved successfully will appear and the value entered will be displayed.
 
-![success message](../../images/catalog/advanced-pricing/adv-pricing-success.png)
+![success message](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/advanced-pricing/adv-pricing-success.png)
 
 -  you can create as many number of advanced pricing sets as per the requirement.
 
 **Frontend Demo**
 
-![Frontend view](../../images/catalog/advanced-pricing/adv-pricing-frontend.png)
+![Frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/advanced-pricing/adv-pricing-frontend.png)
 
 
 

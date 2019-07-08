@@ -10,7 +10,7 @@ category: "getting-started"
 
 You can check which version of J2store you are using. Just Go to J2store > Dashboard where you can find the version of J2store. Please refer the image below.
 
-![Upgrade-dashboard](../../images/getting-started/Upgrade from Free to Pro/Upgrade-dashboard.png)
+![Upgrade-dashboard](https://raw.githubusercontent.com/j2store/doc-images/master/getting-started/Upgrade from Free to Pro/Upgrade-dashboard.png)
 
 **How to upgrade the J2store Free version to Pro version ?**
 

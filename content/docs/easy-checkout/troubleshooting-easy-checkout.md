@@ -36,7 +36,7 @@ Here are the steps to be followed:
 
 Go to J2Store > Configuration > Checkout layout tab
 
-![](../../images/easy-checkout/easy-checkout/easycheckout-01.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/easy-checkout/easy-checkout/easycheckout-01.png)
 
 You will see the textarea for 3 layout sections (Billing, Shipping, Payment), where you could add the shortcode of the checkout fields.For example, [first_name]
 
@@ -45,9 +45,9 @@ The checkout page will display all the fields that are added here.
 To add all the checkout core fields, click on Pre-populate / Restore fields at the right corner of the page.
 
 Now the page will be looking like below:
-![](../../images/easy-checkout/easy-checkout/easycheckout-02.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/easy-checkout/easy-checkout/easycheckout-02.png)
 Now re-order the fields as your wish. See the screenshot below:
-![](../../images/easy-checkout/easy-checkout/easycheckout-03.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/easy-checkout/easy-checkout/easycheckout-03.png)
 
 If you have created custom fields and wants to add reorder them, that could also be possible.For example, if you have field Delivery date, then add the shortcode ([deliverydate]) of it inside the text area.
 	

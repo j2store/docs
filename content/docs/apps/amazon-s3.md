@@ -30,7 +30,7 @@ Never worry about your files being shared in the vastness of Internet. The app g
 
 1. Use the Joomla installer to install the app.
 2. In the backend, go to J2Store Dashboard -> Apps as shown in the image below.
-![Enabling the plugin](../../images/apps/amazon-s3/amazons3_enable.png)
+![Enabling the plugin](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_enable.png)
 
 3\. Click Enable in the Amazon S3 app.
 
@@ -40,29 +40,29 @@ Never worry about your files being shared in the vastness of Internet. The app g
 
 - API Access keyEnter the Access key ID provided by Amazon.
 - Access secret keyEnter Access secret key provided by Amazon.Once you entered Access key ID and Access secret key, save it. You will get your bucket list.
-![Amazon s3 settings](../../images/apps/amazon-s3/amazons3_settings.png)
+![Amazon s3 settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_settings.png)
 
 #### How to find your AWS Access Key ID and Secret Access Key
 
 - Login into your Amazon web services account.
 - Open the IAM console and under Security and Identity.
 
-![Iam console](../../images/apps/amazon-s3/amazons3_iam_console.png)
+![Iam console](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_iam_console.png)
 
 - In the navigation pane, choose Users.
 
-![User](../../images/apps/amazon-s3/amazons3_user.png)
+![User](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_user.png)
 
 - Choose your IAM user name (not the check box).
 
-![Users select](../../images/apps/amazon-s3/amazons3_userselect.png)
+![Users select](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_userselect.png)
 
 - Choose the Security Credentials tab and then choose Create Access Key.
-![Create access key](../../images/apps/amazon-s3/amazons3_createkey.png)
+![Create access key](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_createkey.png)
 
 - To see your access key, choose Show User Security Credentials.
 
-![Access key](../../images/apps/amazon-s3/amazons3_showkey.png)
+![Access key](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_showkey.png)
 
 - Choose Download Credentials, and store the keys in a secure location.Your secret key will no longer be available through the AWS Management Console; you will have the only copy. Keep it confidential in order to protect your account, and never email it. Do not share it outside your organization, even if an inquiry appears to come from AWS or Amazon.com. No one who legitimately represents Amazon will ever ask you for your secret key.
 
@@ -77,18 +77,18 @@ Never worry about your files being shared in the vastness of Internet. The app g
 - **Region - **Select the current region specified in your zone else the products wont be displayed.
 - **Expiry for temporary download URL-**Set the expiration time to download URL.
 
-![Basic settings](../../images/apps/amazon-s3/amasons3-basic-settings.png)
+![Basic settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amasons3-basic-settings.png)
 
 #### How to sell the files using Amazon S3 ?
 
 - Create a downloadable product and start selling. Create a J2Store product with product type as "Downloadable product". Configure all basic options such as price and navigate to the Files tab.
 
 *Note :* Make sure you have set path to **Folder path for digital goods** in J2store configuration basic settings.
-![Folder path](../../images/apps/amazon-s3/amazons3_download_folderpath.png)
-![Product files](../../images/apps/amazon-s3/amazons3_setproductfiles.png)
-![Adding File](../../images/apps/amazon-s3/amazons3_addfile.png)
-![Choosing files](../../images/apps/amazon-s3/amazons3_choosefile.png)
-![Create file](../../images/apps/amazon-s3/amazons3_createfile.png)
+![Folder path](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_download_folderpath.png)
+![Product files](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_setproductfiles.png)
+![Adding File](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_addfile.png)
+![Choosing files](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_choosefile.png)
+![Create file](https://raw.githubusercontent.com/j2store/doc-images/master/apps/amazon-s3/amazons3_createfile.png)
 
 Save and close it.
 

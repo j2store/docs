@@ -1,7 +1,7 @@
 ---
 path: "/docs/Common-Overrides/to-display-both-the-main-image-and-the-additional-image-in-the-product-view-page"
 updated: "2019-06-12"
-title: "/to-display-both-the-main-image-and-the-additional-image-in-the-product-view-page"
+title: "To Display Both the main Image and the additional image in the product view page"
 description: ""
 author: "Sowbagya lakshmi"
 category: "Common-overrides"
@@ -35,7 +35,8 @@ Change it to:
     <?php elseif(!empty($this->product->thumb_image)):?>
     <?php echo J2Store::product()->displayImage($this->product,array('type'=>'Thumb','params' => $this->params)); ?>
     <?php endif; ?>
-    </div>          ```
+    </div>          
+```
 
 
 Save.

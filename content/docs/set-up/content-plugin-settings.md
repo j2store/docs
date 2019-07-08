@@ -15,17 +15,17 @@ To control the display in the cart section, to show or hide the images, enabling
 *   From the resulting window, select Content from the Select Type filter on the left pane and click on Content - J2Store from the list, as illustrated in the image below
 
 
-![Contentplugin-contentfilter](../../images/set-up/Content plugin settings/setup-contentplugin-contentfilter.png)
+![Contentplugin-contentfilter](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Content plugin settings/setup-contentplugin-contentfilter.png)
 
 *   You would see the following window where you could allow frontend article editing. When the option is set to Yes, the users with appropriate permissions would be able to view the J2Store cart tab on the product articles on the frontend.
 
-![Contentplugin-frontendediting](../../images/set-up/Content%20plugin%20settings/setup-contentplugin-frontendediting.png)
+![Contentplugin-frontendediting](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Content%20plugin%20settings/setup-contentplugin-frontendediting.png)
 
 Next is the category view tab where you could find settings for controlling the behavior on the category view of products.
 
 *   From the resulting window, select the Category View tab to set the values, as shown in the image below:
 
-![Contentplugin-categoryview](../../images/set-up/Content%20plugin%20settings/setup-contentplugin-categoryview.png)
+![Contentplugin-categoryview](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Content%20plugin%20settings/setup-contentplugin-categoryview.png)
 
 
 
@@ -71,7 +71,7 @@ Next is the category view tab where you could find settings for controlling the 
 
 *   Save the settings and go to Item View tab to set the values, as shown in the image below:
 
-![Setup-contentplugin-itemview](../../images/set-up/Content plugin settings/setup-contentplugin-itemview.png)
+![Setup-contentplugin-itemview](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Content plugin settings/setup-contentplugin-itemview.png)
 
 **Product block position**
 

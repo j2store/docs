@@ -50,5 +50,5 @@ If you use other catalog sources such as K2, Zoo, Sobipro, please use native sea
 
 Settings for the module can be configured here:
 
-![Product search module backend settings](../../images/modules/product-search-module/mod_productsearchback.png)
-![Product search module frontend](../../images/modules/product-search-module/mod_productsearchfront.png)
+![Product search module backend settings](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-search-module/mod_productsearchback.png)
+![Product search module frontend](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-search-module/mod_productsearchfront.png)

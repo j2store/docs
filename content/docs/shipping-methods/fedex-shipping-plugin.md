@@ -23,13 +23,13 @@ You can install this shipping plugin, using joomla installer.
 * Enable the plugin
 * Configure the shipping plugin by entering the plugin parameters
 
-![fedex](../../images/shipping-methods/Fedex-shipping/aus-ship-doc-1.png)
+![fedex](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/Fedex-shipping/aus-ship-doc-1.png)
 
-![shipping](../../images/shipping-methods/Fedex-shipping/fedex-ship-method-list.png)
+![shipping](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/Fedex-shipping/fedex-ship-method-list.png)
 
-![config](../../images/shipping-methods/Fedex-shipping/fedex-ship-config-1.png)
+![config](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/Fedex-shipping/fedex-ship-config-1.png)
 
-![config2](../../images/shipping-methods/Fedex-shipping/fedex-ship-config-2.png)
+![config2](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/Fedex-shipping/fedex-ship-config-2.png)
 
 **Parameters**
 Consider the images for setting up the parameters.

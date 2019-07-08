@@ -59,12 +59,12 @@ Login to Joomla administration and open the menu that links your product list.
 
 Under the Common Options tab, you can find Article Order parameter. There you can choose the ordering method.
 
-![order products](../../images/troubleshooting-guide/troubleshooting-common-issues/troubleshoot_orderproducts.png)
+![order products](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/troubleshoot_orderproducts.png)
 
 **[HOWTO] Options from dropdown cannot be selected**
 This issue occurs when your site has two instances of the Jquery UI library.
 
-![dropdown](../../images/troubleshooting-guide/troubleshooting-common-issues/options_dropdown.png)
+![dropdown](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/options_dropdown.png)
 
 
 **In Version 3:**
@@ -178,10 +178,10 @@ All the files uploaded to this folder is now protected.
 3. Go to J2Store cart tab and set all the fields and Save.
 4. Now go to files tab in the navigation you can see Set product files button.
 
-![product down files](../../images/troubleshooting-guide/troubleshooting-common-issues/product_down_files_1.png)
+![product down files](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/product_down_files_1.png)
 
 
-![product down files2](../../images/troubleshooting-guide/troubleshooting-common-issues/product_down_files_2.png)
+![product down files2](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/product_down_files_2.png)
 
 **Solving the missing currency symbol in your store**
 
@@ -216,7 +216,7 @@ Store owners sometimes want to hide the + (PLUS) and the - (MINUS) prefix that i
 2. Set Product option price prefix to HIDE
 3. Save
 
-![priceprefix1](../../images/troubleshooting-guide/troubleshooting-common-issues/priceprefix_1.png)
+![priceprefix1](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/priceprefix_1.png)
 
 **Product list layout:**
 
@@ -225,7 +225,7 @@ If you use the J2Store's product list layout, then you will find a similar switc
 * Set Product option price prefix to HIDE
 * Save
 
-![priceprefix2](../../images/troubleshooting-guide/troubleshooting-common-issues/priceprefix_2.png)
+![priceprefix2](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/priceprefix_2.png)
 
 
 **HOW To Translate the Address Field Labels**
@@ -245,7 +245,7 @@ if you are running multi-lingual site, you can enter a language constant in the 
 * Check the For Both locations
 * Save.
 
-![language override](../../images/troubleshooting-guide/troubleshooting-common-issues/translation_addres_fields.png)
+![language override](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/translation_addres_fields.png)
 
 You can repeat this steps for your second, third, and other languages.
 
@@ -269,7 +269,7 @@ At the end of the file, add the following CSS. Save the file. Clean your browser
 
 color: #FFFFFF !important; /*this will change your text on the button to white. You can change the hex colour code based on your choice */
 
-```}
+}
 
 **View cart button**
 
@@ -305,7 +305,7 @@ background: #FF0000 !important;
 
 color: #FFFFFF !important;
 
-}```
+}
 
 **Writing a Layout override for Joomla article manager - An intro image**
 
@@ -328,7 +328,8 @@ JOOMLA-ROOT/templates/<YOUR_TEMPLATE>/html/layouts/joomla/content/intro_image.ph
 
 Find below code
 
-```$params = $displayData->params; 
+```
+$params = $displayData->params; 
 ?> 
 <?php $images = json_decode($displayData->images); ?>
 
@@ -340,12 +341,14 @@ Find below code
 
 <?php if ($images->image_intro_caption): echo 'class="caption"' . ' title="' . htmlspecialchars($images->image_intro_caption) . '"'; endif; ?> src="/<?php echo htmlspecialchars($images->image_intro); ?>" alt="<?php echo htmlspecialchars($images->image_intro_alt); ?>" itemprop="thumbnailUrl"/> </div>
 
-<?php endif; ?> ```
+<?php endif; ?> 
+```
 
 Replace above code with following code
 
-```$params  = $displayData->params;
-    if ($params->get('access-view')) :
+```
+$params  = $displayData->params;
+if ($params->get('access-view')) :
 $link = JRoute::_(ContentHelperRoute::getArticleRoute($displayData->slug, $displayData->catid));
 else :
 $menu = JFactory::getApplication()->getMenu();
@@ -368,11 +371,12 @@ echo 'class="caption"' . ' title="' . htmlspecialchars($images->image_intro_capt
 endif; ?> src="/<?php echo htmlspecialchars($images->image_intro); ?>" alt="<?php echo htmlspecialchars($images->image_intro_alt); ?>" itemprop="thumbnailUrl"/>
 </a>
 </div>
-<?php endif; ?>```
+<?php endif; ?>
+```
 
 Once you have finished editing, save the changes. Now you are done.
 
-> NOTE: If something went wrong, just delete.
+**NOTE:** If something went wrong, just delete.
 
 JOOMLA-ROOT/templates/<YOUR_TEMPLATE>/html/layouts/joomla/content/intro_image.php
 and go to Step 1.
@@ -389,7 +393,7 @@ The rokbox has a new version RokBox2  and there is an option to use "backward co
 
 You can find the details to update rokBox here<link-text url ="http://www.rockettheme.com/extensions-joomla/rokbox" target = "_blank" rel = "noopener"> click here </link-text> click on the DOCUMENTATION link on the right to get all the details on how to correct rokBox in older templates
 
-NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as {rokbox} or <a rel="rokbox" >.., you can enable the Backward Compatibility from both the System and Content plug-in. You will also have to enable Backward Compatibility if you are using the Login or Module Popup Feature in any of our templates prior to Alerion. Those templates will be updated over time to be compatible with RokBox2 over time.
+> NOTE: If you are upgrading from RokBox1 and you are using the old RokBox syntax, such as {rokbox} or < rel="rokbox">.., you can enable the Backward Compatibility from both the System and Content plug-in. You will also have to enable Backward Compatibility if you are using the Login or Module Popup Feature in any of our templates prior to Alerion. Those templates will be updated over time to be compatible with RokBox2 over time.
 Be aware that the Backward compatibility can dramatically slow down the loading of your site. It is highly suggested to convert the old syntax into the new one.
 
    
@@ -415,19 +419,22 @@ Open your payment method and enter the language constant as a payment option tit
 
 Copy/components/com_j2store/templates/default/default_simple.php/components/com_j2store/templates/default/default_variable.php/components/com_j2store/templates/default/default_configurable.php/components/com_j2store/templates/default/default_downloadable.php
 
+
 to
 
 /templates/YOUR-TEMPLATE/html/com_j2store/templates/default/
 
 Find the below line in all the files
 
-```<?php echo $this->loadTemplate('options'); ?>
+```
+<?php echo $this->loadTemplate('options'); ?>
 <?php echo $this->loadTemplate('cart'); ?>
 
 Replace this with
 
 <?php //echo $this->loadTemplate('options'); ?>
-<?php //echo $this->loadTemplate('cart'); ?>```
+<?php //echo $this->loadTemplate('cart'); ?>
+```
 
     
 **Override Product Layout**
@@ -447,7 +454,7 @@ OVERRIDE PATHtemplates/YOUR-TEMPLATE/html/com_j2store/templates/YOUR-SUB-TEMPLAT
 
 Open your sub-template folder where you can find the files with name started with view_(for example, view_simple.php, view_images.php, view_options.php, view_notabs.php, etc). Those files controlled all the features displaying in the Product view page.
     
-    ![product guide](../../images/troubleshooting-guide/troubleshooting-common-issues/template_guide_product_view.png)
+![product guide](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-common-issues/template_guide_product_view.png)
     
     
     

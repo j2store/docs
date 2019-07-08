@@ -55,9 +55,9 @@ Set YES to enable debug mode. Enabling debug mode will logged the debug messages
 
 DO NOT enable debug mode in live site.
 
-![settings](../../images/shipping-methods/royal-mail-shipping/royal-shipping-settings.png)
+![settings](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/royal-mail-shipping/royal-shipping-settings.png)
 
-![product settings](../../images/shipping-methods/royal-mail-shipping/royal-product-settings.png)
+![product settings](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/royal-mail-shipping/royal-product-settings.png)
 
 
-![shipping rates](../../images/shipping-methods/royal-mail-shipping/royal-shipping-rates.png)
+![shipping rates](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/royal-mail-shipping/royal-shipping-rates.png)

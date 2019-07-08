@@ -46,17 +46,17 @@ Control who can post comments on your products,All users or only registered user
 **Relevant Screenshot :**
 
 
-![jc01](../../images/apps/jcomments/jcomments01.png)
+![jc01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/jcomments/jcomments01.png)
 
 For the above settings the product view page will be like the one given below:
 
-![jc02](../../images/apps/jcomments/jcomments02.png)
+![jc02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/jcomments/jcomments02.png)
 
 This depicts the setting for displaying comments without tab:
 
-![jc03](../../images/apps/jcomments/jcomments03.png)
+![jc03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/jcomments/jcomments03.png)
 
 The following screenshot shows how comments are displayed without tabs:
 
-![jc04](../../images/apps/jcomments/jcomments04.png)
+![jc04](https://raw.githubusercontent.com/j2store/doc-images/master/apps/jcomments/jcomments04.png)
 

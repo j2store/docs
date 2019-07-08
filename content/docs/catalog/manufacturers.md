@@ -22,7 +22,7 @@ Manufacturers are listed with the following details:
 
 Image shown below is how a manufacturer is added.
 
-![Add new manufacturer](../../images/catalog/manufacturers/manufacturer_add_new.png)
+![Add new manufacturer](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/manufacturers/manufacturer_add_new.png)
 
 **Associating them to products**
 
@@ -33,7 +33,7 @@ To add the manufacturers to the product, follow the below instructions:
 - The list of available manufacturers would be available.
 - Choose your manufacturer and save.
 
-![Adding brand to product](../../images/catalog/manufacturers/add_manufacturer-to-pro.png)
+![Adding brand to product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/manufacturers/add_manufacturer-to-pro.png)
 
 - Navigate to Menu manager->Your product's menu->Item view options in category listing.
 - Set the option Manufacturer filter/brand filter option to Show.
@@ -43,5 +43,5 @@ To add the manufacturers to the product, follow the below instructions:
 - Navigate to Item view options tab and set the option Brand	to Yes.
 
 **Frontend**
-![Frontend](../../images/catalog/manufacturers/manufacturers-frontend.png)
+![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/manufacturers/manufacturers-frontend.png)
 

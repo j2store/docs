@@ -11,13 +11,13 @@ category: "catalog"
 As the name suggests, you can allow customers to configure before adding the product to cart. This product type offers dependant / chained product options. That is you can define parent-child relationship between options.
 
 Think of a visiting card. Customer will be asked first to select the type of paper first. Depending on his selection, subsequent options like colour will appear.
-![Choosing the product type](../../images/catalog/configurable-product/config-pro-choose-type.png)
+![Choosing the product type](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-choose-type.png)
 
 The settings for this product are exactly similar to that of simple product except in the options tab, where there is an additional field **Parent Option** is available to select a parent option. In the options listed, for all options, except first one, a parent option can be selected.
 
  **General**
  
-![General tab](../../images/catalog/configurable-product/config-pro-general.png)
+![General tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-general.png)
 
 - Visible in Storefront - First select whether the product is to be displayed in front of the store and this is a mandatory option to be selected
 - SKU - Enter the SKU number of the product
@@ -35,13 +35,13 @@ The settings for this product are exactly similar to that of simple product exce
 Pricing section will guide you to understand how to set regular pricing and advanced pricing for a product.
 Consider the image below:
 
-![Pricing](../../images/catalog/configurable-product/config-pro-pricing.png)
+![Pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-pricing.png)
 
 As illustrated in the image, you can set the regular price by entering the value in the text box. If you want advanced pricing, click the '**Set Prices**' button and it will open up a pop-up window to allow you to set an advanced price setting.
 
 Let us see how it happens. Check the image below:
 
-![Advanced pricing](../../images/catalog/configurable-product/config-pro-adv-pricing.png)
+![Advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-adv-pricing.png)
 
 - First select the dates, between which you wish to set the advanced price.
 - Then enter the minimum quantity required to avail this special price. This is optional and if there is no minimum quantity required, just leave it as empty.
@@ -55,7 +55,7 @@ If you want to remove that, you can do it by clicking the **Remove** button.
 
 **This is J2Store PRO exclusive feature**
 
-![Inventory](../../images/catalog/configurable-product/config-pro-inventory.png)
+![Inventory](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-inventory.png)
 
 - Manage Stock - To enable Stock Management - Select Yes
 - Stock Quantity - Enter the initial stock quantity
@@ -88,7 +88,7 @@ In this tab you can add images that can help the customer in more clear understa
 
 See the image below:
 
-![Images](../../images/catalog/configurable-product/configurable-pro-images.png)
+![Images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/configurable-pro-images.png)
 
 Let us understand this with an example.
 
@@ -102,7 +102,7 @@ The button with the caption, **Add more images**, when clicked, inserts a new ro
 
 **Shipping**
 
-![Shipping](../../images/catalog/configurable-product/config-pro-shipping.png)
+![Shipping](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-shipping.png)
 
 As shown in the image, you need to do the following activities to configure shipping:
 
@@ -117,14 +117,14 @@ These configuration will be loaded when shipping is selected.
 **Options**
 
 Pay a close attention when you add options. Because you can configure parent - child relationship between the options.
-![Adding options](../../images/catalog/configurable-product/config-pro-adding-options.png)
+![Adding options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-adding-options.png)
 
 Once you select the option from the dropdown list, it will be added as you can see in the image below.
-![Setting option values](../../images/catalog/configurable-product/config-pro-set-option-values.png)
+![Setting option values](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-set-option-values.png)
 
 Now, save the image and your option will be saved. Now, you will get a link '**Set option values**' near the option name. Click this link to get a pop-up window, where you can set values specific for the newly created options. Here is how it happens, as shown below:
 
-![Defining option values](../../images/catalog/configurable-product/config-pro-option-values-def.png)
+![Defining option values](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-option-values-def.png)
 
 **Filters**
 
@@ -132,13 +132,13 @@ Add filtering attributes so that your customers can quickly narrow down the sear
 
 For e.g., assume that a customer searches for vegetarian pizza in the store. Pizza, is classified in foods category. So, the product filter is set to be Foods > Veg, to narrow the search. See the image below:
 
-![Filters for configurable products](../../images/catalog/configurable-product/config-pro-filters.png)
+![Filters for configurable products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-filters.png)
 
 **Relations**
 
 Relations are used to promote sales by suggesting the customer with higher value products than the one being looked and additional products to be bought with a particular product.
 
-![Relations in a configurable product](../../images/catalog/configurable-product/config-pro-relations.png)
+![Relations in a configurable product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-relations.png)
 
 - In this tab page, relations are set for Upsells and Cross sells
 - An upsell is to get the customer to spend more money – buy a more expensive model of the same type of product considered for purchase.
@@ -161,11 +161,11 @@ So, lets create an article.
 
 Have a look at the image below:
 
-![Article manager](../../images/catalog/configurable-product/config-pro-article-manager-.png)
+![Article manager](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-article-manager-.png)
 
 As given in the above illustration, click in the top menu or in the left pane of the control panel. You will get a new screen like this.
 
-![Creating a product](../../images/catalog/configurable-product/config-pro-create-config-pro.png)
+![Creating a product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-create-config-pro.png)
 
 A configurable product is the one that can be configured by the customer who intends to purchase the product. A suitable example is, Pizza. This basic pizza is displayed as a configurable product, and the user is allowed to add toppings over the basic product. The price of the product will be changing according to the toppings added by the customer. Follow the steps to create a configurable product.
 
@@ -176,18 +176,18 @@ A configurable product is the one that can be configured by the customer who int
 
 Your product is successfully created and a message will be displayed like this.
 
-![Choosing the type](../../images/catalog/configurable-product/config-pro-product-type.png)
+![Choosing the type](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-product-type.png)
 
 You can enter the description of your product as shown below:
 
-![Adding content](../../images/catalog/configurable-product/config-pro-adding-content.png)
+![Adding content](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-adding-content.png)
 
 **General**
 
 Now you need to configure your product with necessary details. Begin with general tab.
 See the image below:
 
-![General tab](../../images/catalog/configurable-product/config-pro-general-tab.png)
+![General tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-general-tab.png)
 
 Enter the details as required by the fields in the tab, like, SKU, UPC/EAN, brand, vendor, tax profile and the caption for the cart button. Once you enter them now navigate to the next tab, pricing.
 
@@ -195,17 +195,17 @@ Enter the details as required by the fields in the tab, like, SKU, UPC/EAN, bran
 
 In Pricing you can set the price for your product. You have the option to set up advanced prices, like discount offers, as shown in the following images.
 
-![Setting pricing](../../images/catalog/configurable-product/config-pro-set-pricing.png)
+![Setting pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-set-pricing.png)
 
 In the above image you set up the regular price for the basic pizza. Click the set prices button to set advanced/special prices. It will pop-up a window to set the special prices.
 
 Check the image below:
 
-![Date based pricing](../../images/catalog/configurable-product/config-pro-date-based-pricing.png)
+![Date based pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-date-based-pricing.png)
 
 In the above image, you can set a date range for the special price, otherwise, you can leave it empty for the special price to be applied always. For example, if a customer buys 5 or more pieces of pizza, you can offer a discount in price, throughout the year. Now, you have entered the values, and click the blue 'Create' button and you will get the special price listed below, as shown in the image.
 
-![Create advanced pricing](../../images/catalog/configurable-product/config-pro-create-advanced-pricing.png)
+![Create advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-create-advanced-pricing.png)
 
 **Inventory**
 
@@ -215,18 +215,18 @@ In this tab you set the initial stock, whether or not to allow backorders(order 
 
 Check the image below:
 
-![Enabling inventory](../../images/catalog/configurable-product/config-pro-enabling-inventory.png)
+![Enabling inventory](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-enabling-inventory.png)
 
 **Images**
 
 Now, add relevant images for your product display in the cart.
 Here is how it can be done.
 
-![Images](../../images/catalog/configurable-product/config-pro-images.png)
+![Images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-images.png)
 
 When you click on the 'select an image' button, you will see a pop-up window, where you can select the image for your product.
 
-![Uploading images](../../images/catalog/configurable-product/config-pro-uploading-images.png)
+![Uploading images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-uploading-images.png)
 
 **Shipping**
 
@@ -234,7 +234,7 @@ Move on to shipping tab. Here you set up the shipping configuration for the prod
 
 Check the image below.
 
-![Enabling shipping](../../images/catalog/configurable-product/config-pro-enable-shipping.png)
+![Enabling shipping](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-enable-shipping.png)
 
 Next is options tab.
 
@@ -242,21 +242,21 @@ Next is options tab.
 
 In this tab, you empower the customer to configure the product. See how it is...
 
-![Adding options to product](../../images/catalog/configurable-product/config-pro-adding-options-to-pro.png)
+![Adding options to product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-adding-options-to-pro.png)
 
 When you type the characters, the available options will be listed and you can select one from the list. The options are selected and addet to the tab, as shown in the image below.
 
-![Configuring options](../../images/catalog/configurable-product/config-pro-config-options.png)
+![Configuring options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-config-options.png)
 
 Now, click only the green colored 'Save' button in the top left corner to get this options saved and a link will appear near the options as shown below.
 
-![Adding the options and saving](../../images/catalog/configurable-product/config-pro-save-options.png)
+![Adding the options and saving](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-save-options.png)
 
 Click on the link now to set values for the options.
 
-![Setting parent child option values](../../images/catalog/configurable-product/config-pro-options-relationship-def.png)
+![Setting parent child option values](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-options-relationship-def.png)
 
-![Creating parent child values](../../images/catalog/configurable-product/config-pro-create-parent-child-option-val.png)
+![Creating parent child values](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-create-parent-child-option-val.png)
 
 Now, go to filtes tab.
 
@@ -264,7 +264,7 @@ Now, go to filtes tab.
 
 The filters will help to narrow the product search, for specific products. For e.g., if you add filter with value 'Veg', the search will display only veg pizzas.
 
-![Adding filters](../../images/catalog/configurable-product/config-pro-filters-add.png)
+![Adding filters](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-filters-add.png)
 
 **Relations**
 
@@ -272,7 +272,7 @@ The next tab is Relations. Here, you can add products of higher value than the o
 
 Refer the image below:
 
-![Adding related products](../../images/catalog/configurable-product/config-pro-relations-add.png)
+![Adding related products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-relations-add.png)
 
 Also, you can add some other products to convince the customer to buy theses products additionally. This is cross sell.
 
@@ -282,11 +282,11 @@ For more detailed explanation, refer to the **Relations** section of the **Confi
 
 In this tab, you can add third party tools or plugins, that are available, to enhance the J2Store functionality, like adding additional fields, applications, functions or features.
 
-![Apps section](../../images/catalog/configurable-product/config-pro-apps-sec.png)
+![Apps section](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-apps-sec.png)
 
 Now, lets have a look on how your product is viewed in your online store. Check the image below:
 
-![Frontview](../../images/catalog/configurable-product/config-pro-front.png)
+![Frontview](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-front.png)
 
 
 **Video Tutorial:**

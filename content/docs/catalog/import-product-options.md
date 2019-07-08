@@ -19,7 +19,7 @@ Follow the instructions below to import options from one product to other produc
 3. Navigate to Options tab.
 4. Click Import product options button.
 
-![Options tab](../../images/catalog/import-pro-options/import-option-options-tab.png)
+![Options tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/import-pro-options/import-option-options-tab.png)
 
 **Step-2**
 
@@ -27,19 +27,19 @@ Clicking on Import product options button will show you the popup window.
 
 In popup window, use SKU or product ID to search for the products. The product you are searching for should have options.
 
-![SKU or product id based import](../../images/catalog/import-pro-options/import-option-sku.png)
+![SKU or product id based import](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/import-pro-options/import-option-sku.png)
 
 Popup window shows search results.
 
-![Results](../../images/catalog/import-pro-options/import-option-search-res.png)
+![Results](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/import-pro-options/import-option-search-res.png)
 
 The result shows the product you search for. Check the checkbox and click the Import button at top right corner of the popup window. If still no luck, then you may not have products with options to import.
 
-![Check options to be imported](../../images/catalog/import-pro-options/import-option-check-opt.png)
+![Check options to be imported](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/import-pro-options/import-option-check-opt.png)
 
 Once options imported, the success message will be displayed. Check the below image:
 
-![Success message](../../images/catalog/import-pro-options/import-option-success.png)
+![Success message](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/import-pro-options/import-option-success.png)
 
 Now close the popup window and save the article. You will see the options.
 

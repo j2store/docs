@@ -44,7 +44,7 @@ The Article given will be displayed after the payment is processed and it can i
 
 **Set **YES** will display the Save cart button(which is used for un-registerd users) in cart page. Clicking on this button will redirect the customer to register. After registering and loggin in, the cart items remains in the basket.
 
-![Email basket frontend view](../../images/apps/email-basket/email-basket-frontend.png)
+![Email basket frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-frontend.png)
 
 **Empty cart after sending email**
 
@@ -54,7 +54,7 @@ If you set this to YES, the plugin will empty the cart after emailing the cart i
 
 You can set a delay for emptying the cart. Default is 2 seconds.
 
-![Email-basket settings](../../images/apps/email-basket/email-basket-settings.png)
+![Email-basket settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-settings.png)
 **Layout**
 
 If you would like to add / remove the fields in Email form without affecting checkout form fields, it is possible in this section.
@@ -69,9 +69,9 @@ If you don't want to display this new field in checkout and wants to display it 
 
 Now, in form layout add the shortcodes of fields you want to display in email form. To add custom field shortcode, copy the field name in J2Store > Setup > Custom fields section and paste it in the form. The field name should be enclosed with square braces. For example, [message].
 
-![Custom fields](../../images/apps/email-basket/email-basket-custom-field.png)
-![Custom field list](../../images/apps/email-basket/email-basket-custom-field-list.png)
-![Layout of email basket](../../images/apps/email-basket/email-basket-layout.png)
+![Custom fields](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-custom-field.png)
+![Custom field list](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-custom-field-list.png)
+![Layout of email basket](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-layout.png)
 
 **Choose Basket modal type :**
 
@@ -97,23 +97,23 @@ You can add the custom css in the given text area.
 
 Enter the URL to which the customer should be redirected on the form submission.
 
-![Advanced settings](../../images/apps/email-basket/email-basket-advanced-settings.png)
+![Advanced settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-advanced-settings.png)
 **Email Configuration**
 
 **Send email to**
 
 Choose the user to whom you wish to send the email.
-![Email-configuration](../../images/apps/email-basket/email-basket-email-config.png)
+![Email-configuration](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-email-config.png)
 
 **English(En-GB) **
 
 In this section, the email template could be set up. The shortcodes found in the previous tab could be used here. The order in which they are specified here would determine their order in the email notifications.
 
 **If the site is multi-lingual, the languages available would be displayed here and the email templates could be set up for each one of them accordingly.**
-![Email configuration in the English tab](../../images/apps/email-basket/email-basket-email-shortcodes.png)
+![Email configuration in the English tab](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-email-shortcodes.png)
 
 On a multi-lingual site: 
-![Multi-lingual email config](../../images/apps/email-basket/email-basket-multi-ling.png)
+![Multi-lingual email config](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-multi-ling.png)
 **Email Subject**
 
 Enter the subject of the email here.

@@ -12,11 +12,11 @@ category: "Subscriptions and memberships"
 **Introduction**
 
 If you would like to sell subscription-based products, you could do just that with our 
-<link-text url=”https://www.j2store.org/product/subscriptions-and-memberships.html” target=”_blank” rel=”noopener”> Subscriptions and Membership</link-text> app. This app allows you to sell products and services with recurring payments.
+<link-text url="https://www.j2store.org/product/subscriptions-and-memberships.html" target="_blank" rel="noopener"> Subscriptions and Membership</link-text> app. This app allows you to sell products and services with recurring payments.
 
 **Important Note:** If you are using PayPal as your payment method for your subscription products, you should enable Reference Transaction on your paypal account.
 
-<link-text url=”http://docs.j2store.org/subscriptions-and-memberships/paypal-reference-transactions-for-subscriptions” target=”_blank” rel=”noopener”>Read more about it here</link-text>
+<link-text url="http://docs.j2store.org/subscriptions-and-memberships/paypal-reference-transactions-for-subscriptions" target="_blank" rel="noopener">Read more about it here</link-text>
 
 **Features**
 
