@@ -7,8 +7,6 @@ author: "Sowbagya lakshmi"
 category: "Localisation"
 ---
 
-# Localisation
-
 Under the localisation section of J2Store dashboard, the following options would be available:
 
 - Countries
@@ -21,11 +19,11 @@ Under the localisation section of J2Store dashboard, the following options woul
 - Order statuses
 
 
-#### Introduction
+**Introduction**
 
 These are basically properties that help you to configure your store to your local/regional needs. Primarily for taxation purposes. You can also add/edit countries, zones, group the countries/zones as geozones, length, weight measurements. You can also create more custom order statuses
 
-#### Countries
+**Countries**
 
 A list of most of the countries in the world. You can choose one from the list. If any odd one, that is not found in the list, you can very well create that. The fields are:
 
@@ -43,7 +41,7 @@ The listing of countries will be like this in your J2Store.
 
 ![List of countries](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-country-list.png)
 
-#### Zones
+**Zones**
 
 Zones are regions that are separated by geographical area for ease of administration purpose, with in a country. Generally, in every country, the state or province, as the case may be, is treated as a zone.
 
@@ -63,7 +61,7 @@ The required fields for a zone are as follows and are fairly self explanatory...
 - Country - Country to which the zone belongs to
 - Status - Whether it is enabled for use by the customer
 
-#### Geozones
+**Geozones**
 
 Geozones are created based on geographical locations that have common tax profiles. Geozones are used to set up different tax practices for different countries and zones.
 
@@ -89,13 +87,13 @@ In this case, you could create a geozone only for california and associate it to
 You can also restrict payment methods based on geozones.
 
 
-#### Tax rates
+**Tax rates**
 
 Create tax rates for your region (geozone)
 
 ![Creating a tax rate](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-creating-new-tax-rate.png)
 
-#### Tax profiles
+**Tax profiles**
 
 One or more tax rates are grouped to form a tax profile.You can map the tax rates to either the customer's billing or shipping address.IMPORTANT: Make sure your taxes are mapped correctly. If you choose Billing here, then in your Configuration - Tax, the Calculate tax based on should also be set to the same address type.
 
@@ -130,7 +128,7 @@ Check the image below:
 
 ![Tax profiles](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-Tax-Profile.png)
 
-#### Lengths
+**Lengths**
 
 By default, J2Store adds the most commonly used length measurements. If you require more measurement units, you can add here.
 
@@ -158,7 +156,7 @@ If your desired length unit is not available on the above list, you can add new 
 
 ![Adding a new length unit](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-adding-new-length.png)
 
-#### Weights
+**Weights**
 
 By default, J2Store adds the most commonly used weight measurements. If you require more measurement units, you can add here.
 
@@ -183,7 +181,7 @@ If you want to add a new measuring unit for weight, you can do it as illustrated
 
 ![Adding a new weight unit](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-add-new-weight.png)
 
-#### Order statuses
+**Order statuses**
 
 By default, J2Store comes with the following core order statuses.
 

@@ -6,7 +6,6 @@ description: "Manufacturers can be created and associated with products by follo
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Manufacturers
 
 This page contains information about the manufacturers of the products that are listed in J2Store.
 

@@ -6,7 +6,6 @@ description: "This is used for displaying filters in a tree structure"
 author: "Sowbagya lakshmi"
 category: "Layout"
 ---
-# Special Module Positions
 
 J2store offers special module positions to place the Joomla's custom HTML module or any other modules(for example, cart module) in store pages.
 

@@ -6,7 +6,6 @@ description: "This is how you could add specifications to your products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Adding related products
 
 Adding related products has never been as easy as it is now. Here is how you could add up-sell and cross-sells products on your store.
 
@@ -96,8 +95,13 @@ The product Net has to be added as a related product to the product Basket ball.
 - Navigate to Extensions->Plugins->Content-J2Store->Category view and set the option ** Product block position** to **After display content**
 ![Content plugin settings](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/content-plugin-config.png)
 - Navigate to the Item view of the plugin and choose the Product block position there as well
+
+![Item view settings](../../images/catalog/adding-related-products/content-plugin-item-view.png)
+**Frontend display**
+
 ![Item view settings](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/content-plugin-item-view.png)
 ** Frontend display**
+
 
 ![Parent product on frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/frontend-parent-pro.png)
 

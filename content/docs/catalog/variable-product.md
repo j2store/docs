@@ -6,7 +6,6 @@ description: "Know how to create Variable products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Variable Product
 **Introduction**
 
 Variable is a complex product type. It lets you define variations of a product where each variant may have a different attributes, e.g. SKU, price and stock level.

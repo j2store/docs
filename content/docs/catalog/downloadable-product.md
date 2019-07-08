@@ -6,8 +6,6 @@ description: "This is how you could sell digital products on your store"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Downloadable Product
-
 **Introduction**
 
 The product type allows you to sell digital products like PDF, images, audio, video, software, e-books etc.Customer will be able to download the file immediately after making the payment.
@@ -54,7 +52,7 @@ All other options are same as simple product.
 
 **VERY IMPORTANT NOTE: This parameter must have a value. If no value is inserted in this field, the downloadable product wouldn't appear at the My downloads section even if the user has paid successfully for the order. **
 
-#### A Step-by-step example to create a downloadable product
+**A Step-by-step example to create a downloadable product**
 
 **J2Store** implements an innovative concept in creating products. It uses the Joomla articles as products. So to create a product is to create an article.
 

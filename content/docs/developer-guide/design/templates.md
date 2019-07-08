@@ -29,17 +29,17 @@ Only for template developers. Read further on only if you are a template develop
 
 **Install J2Store**
 
-
 1. Use the Joomla installer to install the J2store package.
 2. Go to Joomla Extension > Manage > Install
 3. Choose and select your file.
 4. Click Upload & Install.
+
  
  ![](../https://raw.githubusercontent.com/j2store/doc-images/master/developer-guide/design/j2store_install1.png)
 
+ ![Install](../../images/developer-guide/design/j2store_install1.png) 
  
- 
-** J2Store Configuration**
+**J2Store Configuration**
 
 1.Once installed, you will get J2store in the Joomla component list and also separate J2store tab in Joomla backend.
 
@@ -47,8 +47,6 @@ Only for template developers. Read further on only if you are a template develop
 ![](../https://raw.githubusercontent.com/j2store/doc-images/master/developer-guide/design/j2store_component2.png)
 
 2. Now, Go to J2store > Dashboard.
-
-
 
 3. Fill all the fields in the basic settings and click Save & Proceed.
 
@@ -97,7 +95,7 @@ This is the another method / way / layout to display your products. By using thi
 2. Give the menu title and choose the menu type as Articles -> Category Blog
  
  
-** Create Product**
+**Create Product**
 
 1. Since J2Store uses the default Joomla articles as its products, it lets you use native content as product.
 2. Go to Content > Articles > Add new article. Now, new article page will open.

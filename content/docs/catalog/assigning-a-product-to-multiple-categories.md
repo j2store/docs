@@ -6,7 +6,6 @@ description: "This is how you could assign a product to multiple categories"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Assigning a product to multiple categories
 
 With the conventional list layout, it is possible to organize products based on their categories. However, there is one catch. It is not possible to assign a product to multiple categories.
 

@@ -6,7 +6,6 @@ description: "Display your products in the Joomla layout using shortcodes"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-# Short codes
 
 Shortcodes are for Joomla article layouts.
 

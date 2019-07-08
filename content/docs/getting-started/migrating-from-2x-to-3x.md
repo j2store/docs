@@ -6,9 +6,6 @@ description: "Here is a guide on how to migrate from 2.x to 3.x"
 author: "Sowbagya Lakshmi"
 category: "getting-started"
 ---
-# **Migrating from 2.x to 3.x**
-
-## **Migrating from old 2.8.x versions to 3.x**
 
 **Introduction**
 
@@ -17,7 +14,7 @@ Version 3 is re-written from scratch using the FOF Framework for Joomla. It come
 We have created a tool, which simplifies the migration of your 2.x store to the latest 3.x version.
 
     Please read the documentation carefully before you attempt the migration.
-#### **Actions to be taken before migration**
+**Actions to be taken before migration**
 
 Please install Akeeba Backup, which is one of the best backup apps available for Joomla (and it is free! ) and take a **FULL BACKUP** of your site.
 
@@ -32,39 +29,36 @@ Also
 * Set Error Reporting to None in the Global Configuration
 
 
-#### **Pre-requisites**
+**Pre-requisites**
 
 1. Joomla 3.3.x
 2. J2Store 2.8.0 or later
 
 You can use the migration tool only when your Joomla version is 3.3 or later. If you are currently running the store in Joomla 2.5, please consider upgrading your website to latest Joomla version because the Joomla 2.5 life has ended in December 2014 itself.
 
-#### **Download Migration Tool**
+**Download Migration Tool**
 
 You can download the migration tool directly from the following url:https://bitbucket.org/j2store/j2store_migration/downloads
 
-#### **Using the Migration Tool**
+**Using the Migration Tool**
 
-#### **1. Installation**
+**1. Installation**
 
 You can use the standard Joomla installer for installing the tool.
 
 Login to Joomla administrator and go to Extension Manager and install the tool
 
-
-#### **2. Backup! Backup! Backup!**
+**2. Backup! Backup! Backup!**
 
 Take a FULL BACKUP of your website using Akeeba Backup. If you proceed without taking a BACKUP, you will not be able to recover your data in case something went wrong.
 
 The Tool will not allow you to proceed if you do not have the Akeeba Backup component installed. We had to force this check because some Joomla web masters do not have the habit of taking regular backup of their site.
 
-
-#### **3. Important points to note down**
+**3. Important points to note down**
 
 J2Store Version 3 is completely re-written from scratch. We have made quite a lot of structural changes. So some of the product types require additional inputs after the migration.
 
-
-#### **3.1 Variant stock**
+**3.1 Variant stock**
 
 If you are to maintain stock for product options (aka Variable product), the tool will migrate all the data except SKU, Price and Stock.
 
@@ -72,43 +66,37 @@ These products will be treated as Variable Product types. The tool will list the
 
 Once the migration process is completed, go to Article manager and open these articles. Click Generate variants button (J2Store cart -> Variants tab). Once generated, click Edit against each variant and then enter the SKU, Price and Stock.
 
-
-#### **3.2 Downloadable products**
+**3.2 Downloadable products**
 
 The tool will migrate all the data of your downloadable products. There are few changes in the structure of the downloadable products in J2Store Version 3.
 
-
-#### **3.2.1 Download Limit**
+**3.2.1 Download Limit**
 
 Earlier, download limit was set against each file. But now, the limit is set per product. Plus, there is an expiry control. You can set the download availability to expire XX days after the order is confirmed.
 
 The limit and the expiry control has to be set by opening all your products. Otherwise, J2Store v3 will not limit the number of downloads per user.
 
-
-#### **4. Prepare for migration**
+**4. Prepare for migration**
 
 Once all checks passed, the tool will display the Prepare for Migration button. Click the button. It will backup all your J2Store 2.x tables Once backup is done, you can see the Start Migration button
 
-
-#### **5. Start Migration**
+**5. Start Migration**
 
 Click the Start Migration button and wait. The tool will migrate the data, remove old modules, install the new tables / db schema for J2Store version and uninstall old J2Store version 2.x.
 
 If the migration is successful, you can will see a success message. If there is an error, it will display the error.
 
-
-#### **5.1 What should i do if an error occured**
+**5.1 What should i do if an error occured**
 
 Please post the error at the forum: http://j2store.org/forum/j2store-version-3-feedback.html
 
-
-#### **6. Install Version 3**
+**6. Install Version 3**
 
 Download J2Store Version 3 latest version from the site and install it. Free users can download fromhttp://j2store.org/download.html
 
 PRO users can download the PRO version from http://j2store.org/my-downloads.html
 
-#### **7. Post migration**
+**7. Post migration**
 
 Once migration is successful, download the latest J2Store Version 3 from our site and install it.
 
@@ -120,11 +108,11 @@ Then Go to Joomla administrator -> Components -> J2Store
 *   Check if everything is right and save it.
 
 
-#### **No check on email-adress with guest checkout.Why?**
+**No check on email-adress with guest checkout.Why?**
 
    Once finished the migration, Please go to J2Store - Configuration -Checkout layout. Click Re-populate checkout layout. Save. While migrating, the email field was set to not validate on guest checkout. Re-setting the checkout layout and also setting the email field to YES in the J2Store - Set up custom fields solves the issue.
 
-#### **Reverting back to 2.x after the migration**
+**Reverting back to 2.x after the migration**
 
     VERY IMPORTANT: Apply the following steps only if you migrated from 2.8.x to 3.x and then want to downgrade. You should be familiar with Joomla tables and PhpMyAdmin operations. Otherwise, **NEVER EVER** attempt this if you DO NOT understand any of the steps below.
 
