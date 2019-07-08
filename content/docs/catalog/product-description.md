@@ -12,9 +12,9 @@ By default the joomla article considers the text as short description. When you 
 
 Under that whatever text has entered that considered as Long Description.
 
-![Article readmore](../../images/catalog/product-description/article_readmore.png)
+![Article readmore](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/product-description/article_readmore.png)
 
-![Short long description](../../images/catalog/product-description/short_long_description.png)
+![Short long description](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/product-description/short_long_description.png)
 
 **According to J2store**
 

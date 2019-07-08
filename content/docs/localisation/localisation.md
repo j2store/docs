@@ -36,12 +36,12 @@ A list of most of the countries in the world. You can choose one from the list. 
 
 Check the image below:
 
-![Creating a country](../../images/localisation/localisation/localisation-new-country.png)
+![Creating a country](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-new-country.png)
 
 **Adding a new country**
 The listing of countries will be like this in your J2Store.
 
-![List of countries](../../images/localisation/localisation/localisation-country-list.png)
+![List of countries](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-country-list.png)
 
 #### Zones
 
@@ -49,12 +49,12 @@ Zones are regions that are separated by geographical area for ease of administra
 
 Just have look on the image below which displays the list of zones.
 
-![List of zones](../../images/localisation/localisation/localisation-zones-list.png)
+![List of zones](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-zones-list.png)
 
 **Adding new zones**
 Almost all the zones are loaded by default in J2Store but if you need to create one as and when the situation arises, you can very well do so, as illustrated in the image below.
 
-![Adding a new zone](../../images/localisation/localisation/localisation-add-new-zone.png)
+![Adding a new zone](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-add-new-zone.png)
 
 The required fields for a zone are as follows and are fairly self explanatory...
 
@@ -77,7 +77,7 @@ If a geozone is created and saved, then an option row will be displayed to add c
 
 See the image
 
-![Geozone](../../images/localisation/localisation/localisation-Geozone.png)
+![Geozone](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-Geozone.png)
 [![Creating a geozone](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/cogtD3Gps7w "Creating a geozone")
 
 **What is the use of Geozones?**
@@ -93,7 +93,7 @@ You can also restrict payment methods based on geozones.
 
 Create tax rates for your region (geozone)
 
-![Creating a tax rate](../../images/localisation/localisation/localisation-creating-new-tax-rate.png)
+![Creating a tax rate](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-creating-new-tax-rate.png)
 
 #### Tax profiles
 
@@ -112,7 +112,7 @@ Now create a tax rate in that page by entering the sample data.
 
 Now check the Tax Rate image
 
-![Tax rate created](../../images/localisation/localisation/Localisation-tax-rate.png)
+![Tax rate created](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-tax-rate.png)
 
 Now go to tax profiles and add a new profile.
 
@@ -128,7 +128,7 @@ Now you can map the taxrates by assigning one to an address type as described be
 
 Check the image below:
 
-![Tax profiles](../../images/localisation/localisation/Localisation-Tax-Profile.png)
+![Tax profiles](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-Tax-Profile.png)
 
 #### Lengths
 
@@ -151,12 +151,12 @@ This is set to be 1 for default. All other measuring units for base quantity len
 
 Refer the image below.
 
-![Lengths list](../../images/localisation/localisation/Localisation-length-list.png)
+![Lengths list](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-length-list.png)
 
 **Adding new length units**
 If your desired length unit is not available on the above list, you can add new units, if you need, as illustrated below.
 
-![Adding a new length unit](../../images/localisation/localisation/Localisation-adding-new-length.png)
+![Adding a new length unit](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-adding-new-length.png)
 
 #### Weights
 
@@ -176,12 +176,12 @@ The default value for kg is set to be 1. This should be in relativity with other
 
 - For e.g., there are 1000 grams in 1 Kg, and hence the grams should be set to 1000 when Kg is set to 1.
 - 
-![Weight units list](../../images/localisation/localisation/localisation-weight-list.png)
+![Weight units list](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-weight-list.png)
 
 **Adding a new weight unit**
 If you want to add a new measuring unit for weight, you can do it as illustrated below:
 
-![Adding a new weight unit](../../images/localisation/localisation/localisation-add-new-weight.png)
+![Adding a new weight unit](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-add-new-weight.png)
 
 #### Order statuses
 
@@ -194,13 +194,13 @@ By default, J2Store comes with the following core order statuses.
 - NEW
 - CANCELLED
 
-![List of Orderstatuses](../../images/localisation/localisation/localisation-order-status-list.png)
+![List of Orderstatuses](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-order-status-list.png)
 
 **To add a new order status**
 Sometimes you might want to add new order statuses apart from the ones that are already there. For example, something like **Shipped**.
 But shipped status is not available on the default order statuses. In this case, you could create a new order status by following the below steps:
 
-![Adding a new order status](../../images/localisation/localisation/localisation-add-new-orderstatus.png)
+![Adding a new order status](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-add-new-orderstatus.png)
 
 
 

@@ -19,19 +19,19 @@ You could follow these steps to do that:
 * Install the German language package in your site from Extensions->Languages->Installed->Install languages.
 * Once the language is installed, you would find that language under the Content languages.
 
-![lang installed](../../images/translation/setting-up-the-store-in-your-language/langsetinstalledlang.png)
+![lang installed](https://raw.githubusercontent.com/j2store/doc-images/master/translation/setting-up-the-store-in-your-language/langsetinstalledlang.png)
 
 * Choose it as the default language.
 * Navigate to the following URL and download the German(Germany) package from the site: <link-text url ="https://www.j2store.org/translations/j2store3/de-DE.html" target="_blank" rel = "noopener"> click here </link-text>
 * Install the package in your site using the extension manager.
 * Create a product article and menu(Let us say Tshirts).Choose the language as English in the content tab of the article and the details tab of the menu.
 
-![lang settings](../../images/translation/setting-up-the-store-in-your-language/langsetarticles.png)
-![langsetarticle](../../images/translation/setting-up-the-store-in-your-language/langsetarticleeng.png)
+![lang settings](https://raw.githubusercontent.com/j2store/doc-images/master/translation/setting-up-the-store-in-your-language/langsetarticles.png)
+![langsetarticle](https://raw.githubusercontent.com/j2store/doc-images/master/translation/setting-up-the-store-in-your-language/langsetarticleeng.png)
 
 * Create a product article and menu(For example:T shirts(Gr)).Choose the language as German in the content tab of the article and the details tab of the menu.
 
-![langsetarticleger](../../images/translation/setting-up-the-store-in-your-language/langsetarticleger.png)
+![langsetarticleger](https://raw.githubusercontent.com/j2store/doc-images/master/translation/setting-up-the-store-in-your-language/langsetarticleger.png)
 **Multi lingual association:**
 
 * Open the English article and click on the associations tab.
@@ -42,8 +42,8 @@ You could follow these steps to do that:
 
 * Navigate to Extensions->Plugins->Enable the Language filter and Language Code plugins.
 
-![langassoart](../../images/translation/setting-up-the-store-in-your-language/langsetassoart.png)
-![langmenu](../../images/translation/setting-up-the-store-in-your-language/langsetassomenu.png)
+![langassoart](https://raw.githubusercontent.com/j2store/doc-images/master/translation/setting-up-the-store-in-your-language/langsetassoart.png)
+![langmenu](https://raw.githubusercontent.com/j2store/doc-images/master/translation/setting-up-the-store-in-your-language/langsetassomenu.png)
 **Video Tutorial**
 
 Here is a video that would help you with the setting up of your store in your own language:

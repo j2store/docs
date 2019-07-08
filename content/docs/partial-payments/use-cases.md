@@ -20,19 +20,19 @@ This can be done efficiently choosing the partial payment mode as PLANS.
 Lets suppose that you have a couch whose price is around 2000 $ and you are planning to get the payment in 4 pieces. In that case you could create a plan with the partial payment app called 4 installments as shown in the below screenshot:
 
 
-![ppusecase1](../../images/partial-payments/usecases/app_partialpaymentusecase1.png)
+![ppusecase1](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase1.png)
 For the above set up the users will be allowed to pay for the couch like this:
 
-![ppusecase front](../../images/partial-payments/usecases/app_partialpaymentusecase1front.png)
+![ppusecase front](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase1front.png)
 So now that the user places the order and completes the first installment,you might wonder how the rest of the payment would be kept track of.
 
 Here comes the order schedule that will keep you free of your worries about payments.Navigate as per the screenshots given here:
 
-![ppusecase order1](../../images/partial-payments/usecases/app_partialpaymentusecase1order1.png)
+![ppusecase order1](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase1order1.png)
 
-![ppusecase order2](../../images/partial-payments/usecases/app_partialpaymentusecase1order2.png)
+![ppusecase order2](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase1order2.png)
 
-![ppusecase order3](../../images/partial-payments/usecases/app_partialpaymentusecase1order3.png)
+![ppusecase order3](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase1order3.png)
 
 In this case when the due date approaches, the users and the store administrators would be notified.
 
@@ -47,25 +47,25 @@ For this we might make use of the percentage type under partial payment type.
 This  type is a simpler version of the plan type.It has all the features alike plan mode except for setting up the installment duration.
 Now we are planning to collect 25 % of the total amount as initial deposit.
 
-![ppusecase 2](../../images/partial-payments/usecases/app_partialpaymentusecase2.png)
+![ppusecase 2](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase2.png)
 
-![ppusecase2 front](../../images/partial-payments/usecases/app_partialpaymentusecase2front.png)
+![ppusecase2 front](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase2front.png)
 The remaining payment will be scheduledlike this:
 
-![ppusecase2 order](../../images/partial-payments/usecases/app_partialpaymentusecase2order.png)
+![ppusecase2 order](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase2order.png)
 **Collecting a fixed amount as the initial deposit:**
 
 In the case of selling a couch you wish you could get $500 out of $2000 as the initial payment.
 
 This could be achieved by choosing the partial payment type as Fixed price and specifying the amount  like this one:
 
-![ppusecase3](../../images/partial-payments/usecases/app_partialpaymentusecase3.png)
+![ppusecase3](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase3.png)
 The product page will be like this:
 
-![ppusecase3 front](../../images/partial-payments/usecases/app_partialpaymentusecase3front.png)
+![ppusecase3 front](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase3front.png)
 Orders willbe scheduled for the future payment like this:
 
-![ppusecase3 order](../../images/partial-payments/usecases/app_partialpaymentusecase3order.png)
+![ppusecase3 order](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase3order.png)
 
 **Exempt a product from the global settings:**
 
@@ -79,18 +79,18 @@ If your site sells furniture and you wish to establish a different setup for Cab
 * Click on the 'Apps' option on the left side menu.
 * For example if you wish to set up fixed payment as the mode for this product alone regardless of the global settings, then this is how it would be done:
 * 
-![ppusecase4 product](../../images/partial-payments/usecases/app_partialpaymentusecase4product.png)
+![ppusecase4 product](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase4product.png)
 
 This being the  setting, the product cabinet will have a different setting when compared with the others:
 
 **Global Settings:**
 
-![ppusecase4 global](../../images/partial-payments/usecases/app_partialpaymentusecase4global.png)
+![ppusecase4 global](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase4global.png)
 
 **Product-level settings:**
 
 For the Product-level settings mentioned earlier this is how the product Cabinet will behave in the front end irrespective of the global app settings:
 
-![ppusecase4 product front](../../images/partial-payments/usecases/app_partialpaymentusecase4productfront.png)
+![ppusecase4 product front](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase4productfront.png)
 
 

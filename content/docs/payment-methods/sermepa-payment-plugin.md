@@ -17,7 +17,7 @@ Full list can be read from here: <link-text url =  ¨http://www.servired.es/espa
 The value entered here will be used as the title for this payment method. Customer will see this value when he checks out.
 
 **Payment Page title**
-Title displayed in the payment page of TPV Redsys/servied / sermepa gateway. Add a Title, ex: “La Caixa”.
+Title displayed in the payment page of TPV Redsys/servied / sermepa gateway. Add a Title, ex: “La Caixa".
 
 **Commerce number (número de comercio)(FUC)**
 The merchant commerce number provided by your bank

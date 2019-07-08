@@ -51,7 +51,7 @@ This is your merchant ID provided by CardSave payment. You will get this when yo
   Add Payment Process Domain provided by the CardSave when you signup.
   
   
-  ![cdsv](../../images/payment-methods/Cardsave-payment-plugin/cardsave_one.png)
+  ![cdsv](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_one.png)
   
   **Payment Process Port**
 
@@ -83,7 +83,7 @@ The text entered here will be displayed to the customer at the order summary scr
   
   
 
-  ![](../../images/payment-methods/Cardsave-payment-plugin/cardsave_two.png)
+  ![](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_two.png)
 
   
 **Display text on after payment**
@@ -106,7 +106,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![](../../images/payment-methods/Cardsave-payment-plugin/cardsave_three.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_three.png)
   
   
   

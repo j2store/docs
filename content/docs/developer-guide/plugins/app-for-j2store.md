@@ -1,8 +1,7 @@
 ---
-
-path: "/docs/Developer-Guide/Plugins/app-for-j2store"
+path: "/docs/developer-guide/plugins/app-for-j2store"
 updated: "2019-06-12"
-title: "App-for-j2store"
+title: "App for J2store"
 description: ""
 author: "Kiruthigha"
 category: "App-for-j2store"
@@ -30,7 +29,7 @@ There is a folder structure and a few naming conventions, that should be followe
 
 A typical app should look like this:
 
-
+```
 ├── app_example/
 │   ├── app_example.php
 │   ├── app_example.xml
@@ -43,17 +42,7 @@ A typical app should look like this:
 │   │   ├── controller.php
 │   │   ├── models/
 │   │   │   ├── appexample.php
-
-
-Naming Conventions
-
-The name of the app folder should start with the prefix "app_". Otherwise, J2Store will not recognise your app. So our example app is named as:app_example
-
-Make sure that the name of the file and folder is in lower case and there are no spaces or any other characters in the name.
-
-Manifest
-
-An example manifest should look like this:
+```
 
 Naming Conventions
 
@@ -65,7 +54,18 @@ Manifest
 
 An example manifest should look like this:
 
-`<?xml version="1.0" encoding="utf-8"?>
+Naming Conventions
+
+The name of the app folder should start with the prefix "app_". Otherwise, J2Store will not recognise your app. So our example app is named as:app_example
+
+Make sure that the name of the file and folder is in lower case and there are no spaces or any other characters in the name.
+
+Manifest
+
+An example manifest should look like this:
+
+```
+<?xml version="1.0" encoding="utf-8"?>
 <extension version="3.0" type="plugin" group="j2store" method="upgrade">
 	<name>Example</name>
 	<version>1.0</version>
@@ -93,7 +93,8 @@ An example manifest should look like this:
 			</fieldset>
 		</fields>
 	</config>		
-</extension>`
+</extension>
+```
 
 
 Creating app class
@@ -112,7 +113,8 @@ The above line will call the template layout for the app_example from /app_examp
 
 App's model should have file named with appexample.php and it should be like below
 
-`defined('_JEXEC') or die('Restricted access');
+```
+defined('_JEXEC') or die('Restricted access');
 require_once (JPATH_ADMINISTRATOR . '/components/com_j2store/library/appmodel.php');
 class J2StoreModelAppExample extends J2StoreAppModel
 {
@@ -120,11 +122,12 @@ class J2StoreModelAppExample extends J2StoreAppModel
 	public $_element = 'app_example';
 
 }
+```
 
-**`App controller**
+**App controller**
 
 Controller.php file should be located in /app_donation/app_donation/controller.php and you must include the J2Store's library appcontroller and it should be written like below
-``
+```
 defined('_JEXEC') or die('Restricted access');
 require_once(JPATH_ADMINISTRATOR.'/components/com_j2store/library/appcontroller.php');
 
@@ -133,3 +136,4 @@ class J2StoreControllerAppexample extends J2StoreAppController{
 	var $_element   = 'app_example';
 
 }
+```

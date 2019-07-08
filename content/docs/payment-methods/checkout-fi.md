@@ -41,7 +41,7 @@ Payment Checkout Finland offers a testing suite called Sandbox. Before going liv
 **Sandbox Merchant Id**
 Use your Payment Checkout Finland's Sandbox merchant ID.
 
-![checkout](../../images/payment-methods/checkout-fi/checkout_payment_finlandone.png)
+![checkout](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/checkout-fi/checkout_payment_finlandone.png)
 
 **Sandbox security key**
 Use your Payment Checkout Finland's Sandbox security key.
@@ -66,7 +66,7 @@ The text entered here will be displayed to the customer at the order summary scr
 The text entered here will be displayed when customer completes the payment.
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the Display text on selection parameter.
 
-![checkoutpayt](../../images/payment-methods/checkout-fi/checkout_payment_finlandtwo.png)
+![checkoutpayt](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/checkout-fi/checkout_payment_finlandtwo.png)
 
 **Display text if customers cancels payment**
 The text entered here will be displayed to the customer when he cancels the payment at the gateway (NOT in your site).
@@ -83,7 +83,7 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 Text entered here will be added as the name of the payment button.
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override.
 \
-![checkpay](../../images/payment-methods/checkout-fi/checkout_payment_finlandthree.png)
+![checkpay](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/checkout-fi/checkout_payment_finlandthree.png)
 
 
 **Support**

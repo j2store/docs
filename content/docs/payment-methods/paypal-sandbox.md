@@ -29,7 +29,7 @@ Using the PayPal Sandbox is not even half as intuitive as you might think. Since
 
 **A.2. Create a buyer account**
 
-1. Go to the main Sandbox page <link-text url = ¨ developer.paypal.com/cgi-bin/devscr?cmd=home/main¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+1. Go to the main Sandbox page <link-text url="developer.paypal.com/cgi-bin/devscr?cmd=home/main" target = "_blank" rel = "noopener¨"> click here </link-text>
 2. Click on Create a pre-configured account. Warning: MAJOR SUPER DUPER IMPORTANT PITFALL WARNING!!! Choose a country with the same currency as your site. For example United States for transactions in USD.
 3. Set the account type to Buyer (not "Buyer In-Store")
 4. Optional: set the login email to "buyer". It will make it easier for you to remember what you're doing
@@ -50,7 +50,7 @@ Using the PayPal Sandbox is not even half as intuitive as you might think. Since
 
 1. Make sure you have at least one published article(product) with price value of AT LEAST 1. Smaller values WILL NOT go through!
 2. Go ahead with buying the product
-3. When you click Confirm and Make Payment button, Make sure the URL begins with <link-text url = ¨www.sandbox.paypal.com¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text> . If not, you are doing something wrong and you have to set up the plugin again.
+3. When you click Confirm and Make Payment button, Make sure the URL begins with <link-text url="www.sandbox.paypal.com" target = "_blank¨" rel ="noopener nofollow">click here </link-text> . If not, you are doing something wrong and you have to set up the plugin again.
 4. Make sure that in the top left corner you see the name you registered with Paypal Sandbox followed by the words "Test Store". If not, you are doing something wrong and you have to set up the plugin again.
 5. Login using the Sandbox buyer email and password and go through with the payment.
 6. Go to your site's back-end, Components, J2Store, Orders

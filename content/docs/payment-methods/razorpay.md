@@ -54,7 +54,7 @@ You can create a Joomla Article to say thanks to the users, who purchased in you
 By selecting a geozone here, you can restrict this payment method to only customers of that geo-region. Choose All geozones to show this method to all customers.
 
 
-![razorpay1](../../images/payment-methods/razorpay/razorpay_01.png)
+![razorpay1](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/razorpay/razorpay_01.png)
 
 **Display text on selection**
 The text entered here will be displayed when customer selects this payment method. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. For example, enter a language constant:
@@ -75,7 +75,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![razorpay2](../../images/payment-methods/razorpay/razorpay_02.png)
+![razorpay2](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/razorpay/razorpay_02.png)
 **Support**
 Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
 
