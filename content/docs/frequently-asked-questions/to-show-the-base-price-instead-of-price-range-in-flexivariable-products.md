@@ -6,21 +6,18 @@ description: " Know how to show the base price instead of the price range"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# To show the base price instead of price range in flexivariable products
 
 If you don't like the price range of the variants getting displayed on the storefront, then you could replace it with the default base price. 
 
 Following are the steps to be followed:
-**Steps:
-
-**
+**Steps:**
 
 - Navigate to the Flexi variable product.
 - Set the default variant by clicking on the star next to the variant.
-![Setting default variant](../../images/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-default-variant.png)
+![Setting default variant](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-default-variant.png)
 - Navigate to the menu manager->choose the menu of the flexi variable product.
 - In the item view options in category listings and Item view options tab, set the option	**Regular Price to Show and base price to show.**
-![Menu settings](../../images/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-base-price.png)
+![Menu settings](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-base-price.png)
 
 - Navigate to /templates/your template/html/com\_j2store/templates/<link-text url="http://docs.j2store.org/catalog/where-can-i-find-my-sub-template" target="_blank" rel="noopener">sub-template</link-text>
 - Create a file called "default\_flexiprice.php" and paste the following code:
@@ -38,8 +35,8 @@ Following are the steps to be followed:
 Now the base price would be displayed instead of the price range.
 
 
-![Item view ](../../images/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-item-view.png)
+![Item view ](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-item-view.png)
 
-![List view showing base price](../../images/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-list-view.png)
+![List view showing base price](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/hiding-price-range-in-flexivar/freq-as-que-flexivar-list-view.png)
 
 

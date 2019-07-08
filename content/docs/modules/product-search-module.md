@@ -6,7 +6,6 @@ description: "Learn how to configure the product search module"
 author: "Sowbagya lakshmi"
 category: "Modules"
 ---
-# Product Search Module
 
 Having hundreds of products?
 
@@ -28,7 +27,7 @@ Whereas,J2store search box is capable of picking products that are displayed usi
 
 J2Store search box will search the product's title, SKU, Description.
 
-## Installation
+**Installation**
 
 Product search module can be downloaded from our site and installed using the default joomla installer.
 
@@ -36,14 +35,14 @@ To configure the settings:
 
 Go to Extensions->Modules->J2Store Products search module .
 
-## Plugin settings
+**Plugin settings**
 
 - **Module class suffix** Enter the class suffix if you wish to style the module.
 - **Select a menu** Select the menu items whose contents have to be searched when a key word has been specified at the search box.
 - **Categories to search** Specify the categories where the search has to be done for the keywords typed in the search box.
 - **Show Search label **Set this to Yes if you wish to display the label Search on top of the search box.
 
-## Limitations
+**Limitations**
 
 If you use other catalog sources such as K2, Zoo, Sobipro, please use native search functions of those extensions. This module will support ONLY products which are Joomla articles. Please avoid requesting support for other CCKs as all the CCKs have excellent search functions and features.
 
@@ -51,5 +50,5 @@ If you use other catalog sources such as K2, Zoo, Sobipro, please use native sea
 
 Settings for the module can be configured here:
 
-![Product search module backend settings](../../images/modules/product-search-module/mod_productsearchback.png)
-![Product search module frontend](../../images/modules/product-search-module/mod_productsearchfront.png)
+![Product search module backend settings](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-search-module/mod_productsearchback.png)
+![Product search module frontend](https://raw.githubusercontent.com/j2store/doc-images/master/modules/product-search-module/mod_productsearchfront.png)

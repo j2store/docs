@@ -6,8 +6,6 @@ description: "Reasons on not being able to save the settings on any of the apps"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# Not able to save the settings in any app
-
 If you are not able to save the settings at the backend of the site, it might be because of the following reasons:
 
 - Database type 
@@ -21,7 +19,7 @@ MySQLi is the supported database type.
 
 You could check this under System->Global configuration->Server tab->Database type.
 
-![Database type in Joomla configuration](../../images/frequently-asked-questions/not-able-to-save-settings/database-type.png)
+![Database type in Joomla configuration](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/not-able-to-save-settings/database-type.png)
 
 **Browser type:**
 

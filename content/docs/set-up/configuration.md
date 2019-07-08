@@ -6,9 +6,6 @@ description: "The basic global configuration of the store can be done here"
 author: "Sowbagya lakshmi"
 category: "set-up"
 ---
-
-
-# Configuration
 There are several options available for your online store. Any mis-configuration here will affect your storefront's behavior. So take your time and configure the store correctly.
         
  The configuration page has several tabs. Each one is explained in detail. They are:
@@ -30,18 +27,18 @@ There are several options available for your online store. Any mis-configuration
 
 ## Basic Settings
 
-#### Some basic settings need to be done before you proceed. This will be handled by the following options.
+**Some basic settings need to be done before you proceed. This will be handled by the following options.**
 
-   #### Enable J2Store CSS
+  **Enable J2Store CSS**
 
 If this option is enabled, J2store loads the j2store.css file for customizing the template style. First, this will look in to the template CSS file. If it is not included, then J2Store loads it own J2Store.css file.
 
        NOTE: Copy the original CSS file from /media/j2store/css/j2store.css to your template's css folder. Otherwise, you will have to style every element from scratch. The original j2store.css will get you started quickly. You can then append / change existing styles.
 
-#### Load Font-Awesome UI in front end
+**Load Font-Awesome UI in front end**
 If your template or other extensions load Font-awesome and wants to disable loading Font Awesome from J2Store, you can choose NO. Otherwise you can load either the local copy of font-awesome or remote.
 
-#### Load jQuery UI 
+**Load jQuery UI **
 
 This option is same as the previous one. Here, there are four options available for selection.
 
@@ -50,80 +47,80 @@ This option is same as the previous one. Here, there are four options available 
 3. **Only Backend -> Load jQuery UI for backend only**
 4. **Both frontend and backend -> Load jQuery UI for frontend and backend**
 
-#### Load jQuery UI Localisation for date picker 
+**Load jQuery UI Localisation for date picker**
 The date picker will be translated in your language when you set this to YES.
 
-#### Load full bootstrap css
+**Load full bootstrap css**
 If the template is loaded with bootstrap, and if the user does not want it to be loaded, the user may choose NO, otherwise choose YES to load the default Bootstrap CSS packed with j2store.
 
 
-#### Load minimal bootstrap css
+**Load minimal bootstrap css**
 If your template does not support the bootstrap, you can consider setting this to YES to load a minimal bootsrap support. So that your cart, checkout and order history pages looks good.
 
-#### Who can see 'add to cart'
+**Who can see 'add to cart'**
 This is an option for the user to add his/her product of choice to the cart to proceed for billing. This can be set to be viewed by 'everyone' or for 'registered users only'.
 
 
-#### Cart and checkout pages should use CSS classes of
+**Cart and checkout pages should use CSS classes of**
 This option is used to render the cart and checkout pages in proper layout. Choose the option based on your template's bootstrap version. If your template's bootstrap version is 3, select Bootstrap 3.x and if your template's bootstrap version is 2, then select Bootstrap 2.x.
 
-#### Date Format
+**Date Format**
 Here one can choose the display format of date from several[ available options](http://php.net/manual/en/datetime.formats.date.php).
 
-#### Folder path for digital goods
+**Folder path for digital goods**
 The relative path to the folder with your corresponding files. Eg., '/media/myfiles/xyz.css'
 
 ## Store
 Configure the address, administrator email and some defaults for your storefront
 
-#### Security keys for queues and crons
+**Security keys for queues and crons**
 This security key can be used for execution of queue and cron jobs required by apps and plugins. This will ensure only legitimate requests are allowed and executed. The cron / queue requests without this key will be denied access.You could regenerate this key by clicking on Regenerate button.
 
 
-#### Maximum Queue repeat
+**Maximum Queue repeat**
 Set maximum queue repeat for Queue system.
 
-#### Store Administrator Email(s)
+**Store Administrator Email(s)**
 This is administrator's email and can have multiple emails, separated by comma. The order notification and payment validation errors will be sent to mail ids provided here. You could also test by sending a test email by using the TEST email button below this option.
 
     **NOTE**: The email(s) entered here should be different from the ones entered on the   Joomla mail configuration under System->Global configuration->Server->Mail settings. The test email function would work only if mail configuration has been completed successfully at the Joomla configuration.
 
-#### Store Name
+**Store Name**
 Name of the store. One must enter a valid store name.
 
-#### Address, City
+**Address, City**
 The address and city of the store is not mandatory. You can enter an address or simply leave the fields empty.
 
 
-#### ZIP/Postal code
+**ZIP/Postal code**
 Enter a valid postal code for the store. This field can not be empty.
 Check the image below to understand how to enter emails, store name and address etc.
         
-![Configuration-storesettings](../../images/set-up/Configuration/configuration-storesetttings.png)
+![Configuration-storesettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-storesetttings.png)
 
-#### Country Name
+**Country Name**
 Name of the country in which the store exists. To be selected from the given list.
 
 
-#### Zone Name 
+**Zone Name**
  Name of the zone in the country. To be selected from the given list.
  
-#### Default Currency 
+**Default Currency**
   The currency that has been a legal tender in the country. To be selected from the given list.
 
-### Auto Update Currency
+**Auto Update Currency**
    Setting this option to Yes will automatically update the latest exchange values for the currency that is being dealt with. For e.g., the daily exchange values of INR against US $ will be updated automatically.
 
-#### Default Weight Measurement
+**Default Weight Measurement**
 Select the default weight measurement in use for any country from the available options. (Kilograms, Grams, Ounce, Pounds)
 
-#### Default Length Measurement 
+**Default Length Measurement**
 Select the default length measurement in use for any country from the available options. (Centimetre, Inch, Millimetre)
 
 ## Product
 These are global parameters for product display. You can override some of these parameters if you are using the J2Store's product layout.
 
-![Configuration-productsettings](../../images/set-up/Configuration/configuration-productsettings.png)
+![Configuration-productsettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-productsettings.png)
 
 
 **Catalog Mode**
@@ -192,7 +189,7 @@ $ 250.00 (This is the advanced price)
         The global setting for this field is empty and it can be overwritten for the user's desired quantity. And when the stock goes beyond the preset level it will be notified. Check the image below for a clear understanding.
 
         
-![Configuration-inventorysettings](../../images/set-up/Configuration/configuration-inventorysettings.png)
+![Configuration-inventorysettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-inventorysettings.png)
 
 ## Tax
 
@@ -221,11 +218,11 @@ Set this to YES will display (Incl.19% tax) or (excl.19% tax) to product pages.
  **Display prices during cart / checkout Excluding tax**
         Choose how do you want to display the prices(including tax or excluding tax) during the checkout. One of these options can be selected here. Check the image below for a visual aid:
 
-![Configuration-taxsettings](../../images/set-up/Configuration/configuration-taxsettings.png)
+![Configuration-taxsettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-taxsettings.png)
 
 ## Discount
 
-#### This is a J2Store PRO exclusive feature
+**This is a J2Store PRO exclusive feature**
 This is for discounts that are offered to customers.
 
   **Enable Coupons**
@@ -235,7 +232,7 @@ This is for discounts that are offered to customers.
         By enabling this option with a 'Yes', the customers can be offered gift vouchers with fixed value, say $ 25.00, which in turn, can be applied during the checkout.
 
 
-![Configuration-discount-settings](../../images/set-up/Configuration/configuration-discountsettings.png)
+![Configuration-discount-settings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-discountsettings.png)
 
 ## Cart
 
@@ -271,7 +268,7 @@ If this option is set to Yes, tax will be levied for each item in the cart.
 **Allow quick new user registration**
   Enabling this option would display a registration option at the checkout like this:
           
-   ![Configuration-cartsettings-guest-regsiter-form](../../images/set-up/Configuration/configuration-cartsettings-registration-guest-login.png)
+   ![Configuration-cartsettings-guest-regsiter-form](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-cartsettings-registration-guest-login.png)
 
 **Joomla password validation**
        If set to yes, Password will be validated based on Joomla User manager > Options settings for password rules.
@@ -314,10 +311,10 @@ The method chosen here would be the one that is selected by default at the check
 *   **Clear Cart data Older than**
         The duration mentioned here would determine the number of days the cart is left uncleared. Options available or 1 week, 2 weeks,1 month, 2 months, 3 months.
 
-![Configuration-cartsettings](../../images/set-up/Configuration/configuration-cartsettings.png)
+![Configuration-cartsettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-cartsettings.png)
 
 
-### Checkout Layout
+## Checkout Layout
 
 The layout of the checkout address fields.** NOTE:** Removing a field here will NOT remove it actually. Go to Setup -> Custom Fields to enable or disable the fields. This tab just decides the display and ordering of the fields in the checkout steps.
 
@@ -334,22 +331,22 @@ The layout of the checkout address fields.** NOTE:** Removing a field here will 
 **Pre-populate / Restore**
        This is a button, that restores the default setting of all the three options given above, when clicked.
 
-![Configuration-](../../images/set-up/Configuration/configuration-checkoutsetttings.png)
+![Configuration-](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-checkoutsetttings.png)
 
 
-#### Example to add a custom field
+**Example to add a custom field**
 Assume that it would be better to add a **Title** field before the **First Name**. To achieve that, create a custom field with _title_ as its name, as shown in the image:
 
 
-![Configuration-checkout-customfield](../../images/set-up/Configuration/configuration-checkout-customfield.png)
+![Configuration-checkout-customfield](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-checkout-customfield.png)
 
 Now, in the checkout process, the added custom field **Title** will be displayed before the **First Name** field, as illustrated in the following image:
 
-![Configuration-checkout-customfieldfrontend](../../images/set-up/Configuration/configuration-checkout-customfield-frontend.png)
+![Configuration-checkout-customfieldfrontend](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-checkout-customfield-frontend.png)
 
 In this way, new custom fields can be added according to the needs of the user.
 
-#### Order
+## Order
 
 **Invoice Prefix**
         This is the prefix of the Invoice generated when payment is done.
@@ -378,26 +375,26 @@ Now the system generated invoice number, say 1, will be appended with this prefi
    **Show Logout button in Myprofile**
         This option is used to show / hide logout button in myprofile.
 
-![Configuration-ordersettings](../../images/set-up/Configuration/configuration-ordersettings.png)
+![Configuration-ordersettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-ordersettings.png)
 
-#### **Update**
+## **Update**
 
 _Applies only for J2Store PRO users_
 
-This tab has a text input to enter the **Download ID** provided by[ <link-text url=”https://www.j2store.org/](http://j2store.org)” target=”_blank” rel=”noopener”>**J2Store**</link-text>, which is a requirement for updating the j2store component's PRO version. Without this ID, <link-text url=”[https://www.j2store.org/my-account/my-downloads.html](https://www.j2store.org/my-account/my-downloads.html)” target=”_blank rel=”noopener”>j2store PRO</link-text> cannot be downloaded. This ID will be available in the Invoice as well as in **My Download** of j2store.org
+This tab has a text input to enter the **Download ID** provided by[ <link-text url="https://www.j2store.org/](http://j2store.org)" target="_blank" rel="noopener">**J2Store**</link-text>, which is a requirement for updating the j2store component's PRO version. Without this ID, <link-text url="[https://www.j2store.org/my-account/my-downloads.html](https://www.j2store.org/my-account/my-downloads.html)" target="_blank rel="noopener">j2store PRO</link-text> cannot be downloaded. This ID will be available in the Invoice as well as in **My Download** of j2store.org
 
-![Configuration-updatesettings](../../images/set-up/Configuration/configuration-updatesetting.png)
+![Configuration-updatesettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-updatesetting.png)
 
-#### **Mail Template**
+## **Mail Template**
 
 This tab has a option to avoid sending default email template to customers and admin.
 In somecases, you will be like to send email template only to customers or vice versa. In this case, if there is no email template assigned to admin or to customer, the system will send a default email template.
 
 To avoid this, please choose **No. Do not use the default template to send a mail when no template matches my email template conditions (Not recommended)**
 
-![Configuration-mailtemplatesettings](../../images/set-up/Configuration/configuration-mailtemplatesettings.png)
+![Configuration-mailtemplatesettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-mailtemplatesettings.png)
 
-#### Others
+## Others
 Misc. options for the store
 
 **Show Terms and Conditions during Checkout**
@@ -417,4 +414,4 @@ This option provides support for SEF URLs used in Falang translation component. 
 Check the image below for a better idea.
 
 configuration-othersettings.png
-![Configuration-othersettings](../../images/set-up/Configuration/configuration-othersettings.png)
+![Configuration-othersettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-othersettings.png)

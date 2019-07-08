@@ -6,7 +6,7 @@ description: "SCA support for payment plugins"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# SCA support for payment plugins
+**SCA support for payment plugins**
 
 In the European union, a new regulation for online payments would be rolled out in September 2019. This would require your payment plugins to be compliant to the SCA regulation.
 

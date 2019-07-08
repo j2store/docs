@@ -6,7 +6,6 @@ description: "Know where to add the CSS on your site to make layout changes"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# Where do I add the CSS on my site
 
 When you wish to customize your site's layout, this could be done with the help of CSS.
 Sometimes, you might wonder where to add the CSS code that we suggest.
@@ -28,10 +27,10 @@ The CSS that we suggest can be entered at the end of the above file.
 Sometimes, when the CSS doesn't take effect on the frontend while inserted on the files mentioned on the first step, you could check if your template has a custom code section and input the CSS there, if it has one.
 
 To do this, navigate to Extensions->Templates->Styles->Your template's style(the one next to which the star is filled).
-![To choose the default style](../../images/frequently-asked-questions/where-to-add-CSS/template-styles.png)
+![To choose the default style](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/where-to-add-CSS/template-styles.png)
 
 Input the CSS in the Custom CSS part of the Custom code section of your template's style. 
-![Custom code section where css can be added](../../images/frequently-asked-questions/where-to-add-CSS/custom-code.png)
+![Custom code section where css can be added](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/where-to-add-CSS/custom-code.png)
 
 To add the CSS on the SCSS or LESS folder:
 
