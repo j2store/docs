@@ -39,7 +39,7 @@ To create a tag, the steps given below have to be followed:
 
 The following screenshot is an example for a tag:
 
-![Creating a tag](../../images/layout/product-tag-layout/creatingatag.png)
+![Creating a tag](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/creatingatag.png)
 
 **Adding a tag to the product**
 
@@ -48,7 +48,7 @@ Once a tag has been created, the next step will be to add it to the product.That
 - Navigate to Content->Product article.
 - In the Content tab,the tag can be added in the Tags column.
 
-![Adding a tag to a product](../../images/layout/product-tag-layout/addingtagtoproduct.png)
+![Adding a tag to a product](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/addingtagtoproduct.png)
 
 
 **Creating a menu of the type product tag**
@@ -63,20 +63,20 @@ Post creating the tag and adding it to the product's article, the next step wil
 
 The below images show how a menu item of the type "Product tag" is created.
 
-![Menu of tag view type](../../images/layout/product-tag-layout/producttagmenu-menu.png)
+![Menu of tag view type](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/producttagmenu-menu.png)
 
 These are the other options that can be chosen when it comes to Product Tag layout.
 
-![Subtemplate](../../images/layout/product-tag-layout/producttagsubtemplate.png)
+![Subtemplate](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/producttagsubtemplate.png)
 
 
 You can choose the sub-tag level in case you have tags that contain parents in the following way:
 
-![Subtag level](../../images/layout/product-tag-layout/producttagsubtaglevel.png)
+![Subtag level](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/producttagsubtaglevel.png)
 
 The frontend display of the tag layout will be as below:
 
-![Tag view frontend](../../images/layout/product-tag-layout/producttagfrontend.png)
+![Tag view frontend](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/producttagfrontend.png)
 **Video Tutorial:**
 
 Still have doubts? Here is a direct link to the video that depicts creating and adding of the product tag layout:
