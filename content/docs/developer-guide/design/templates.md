@@ -37,7 +37,7 @@ Only for template developers. Read further on only if you are a template develop
  
  ![](../https://raw.githubusercontent.com/j2store/doc-images/master/developer-guide/design/j2store_install1.png)
 
- ![Install](../../images/developer-guide/design/j2store_install1.png) 
+ ![Install](https://raw.githubusercontent.com/j2store/doc-images/master//developer-guide/design/j2store_install1.png) 
  
 **J2Store Configuration**
 
