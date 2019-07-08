@@ -6,8 +6,6 @@ description: "Reasons on not being able to save the settings on any of the apps"
 author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
-# Not able to save the settings in any app
-
 If you are not able to save the settings at the backend of the site, it might be because of the following reasons:
 
 - Database type 
