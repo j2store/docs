@@ -18,7 +18,7 @@ We have put together a list of resources to get you started with your store quic
 ![Gettingstarted](https://raw.githubusercontent.com/j2store/doc-images/master//getting-started/Installation/Installation-configenterdetails.png)
 
 
-*   Watch our <link-text url=”https://www.j2store.org/support/video-tutorials/content/quick-start.html” target=”_blank” rel=”noopener”>quick start video tutorials</link-text>
+*   Watch our <link-text url="https://www.j2store.org/support/video-tutorials/content/quick-start.html" target="_blank" rel="noopener">quick start video tutorials</link-text>
 
 
 *   <link-text url=”https://www.j2store.org/resources/usecases.html” target=”_blank” rel=”noopener”>Checkout the use cases</link-text>. We have 100+ of them covering almost all popular online store requirements.
