@@ -16,7 +16,7 @@ We provide a Download ID when you subscribe. You can find this Download ID in tw
 
 In our website's My Downloads section.
 
-     Direct link: https://www.j2store.org/my-account/my-downloads.html
+     Direct link: <link-text url="https://www.j2store.org/my-account/my-downloads.html" target="_blank" rel="noopener">click here</link-text>
 
 You should copy the Download ID and paste it in J2Store - Set up - Configuration - Update tab.
 
@@ -60,7 +60,7 @@ If you make repeated attempts or requests, then our firewall might block the acc
 
 In this case, please try after 10 minutes.
 
-If still you get the error, you can always download the latest version from our My Downloads section:https://www.j2store.org/my-account/my-downloads.html and install it via the Extensions manager.
+If still you get the error, you can always download the latest version from our<link-text url="https://www.j2store.org/my-account/my-downloads.html" target="_blank" rel="noopener">  My Downloads section</link-text>and install it via the Extensions manager.
 
 **Timeout**
 

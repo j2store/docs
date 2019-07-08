@@ -2,9 +2,9 @@
 path: "/getting-started/introduction"
 updated: "2019-02-20"
 title: "Introduction to J2Store"
-description: "Learn how to automated campaigns work"
+description: "Know where and how to start with J2Store."
 author: "Ramesh"
-category: "introduction"
+category: "getting-started"
 ---
 
 **J2Store Documentation**

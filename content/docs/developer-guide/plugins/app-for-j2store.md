@@ -65,12 +65,10 @@ Make sure that the name of the file and folder is in lower case and there are no
 
 An example manifest should look like this:
 
-<<<<<<< HEAD
-```<?xml version="1.0" encoding="utf-8"?>
-=======
+
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
->>>>>>> 07bf6532db319aa32e69e63925a93a3a37a478b2
 <extension version="3.0" type="plugin" group="j2store" method="upgrade">
 	<name>Example</name>
 	<version>1.0</version>
@@ -98,18 +96,15 @@ An example manifest should look like this:
 			</fieldset>
 		</fields>
 	</config>		
-<<<<<<< HEAD
-</extension>```
-=======
 </extension>
 ```
->>>>>>> 07bf6532db319aa32e69e63925a93a3a37a478b2
 
 
 **Creating app class**
 
 Make sure the name of the class suffix is same as your app file's name. And it should extend the J2StoreAppPlugin class.
-```    defined('_JEXEC') or die('Restricted access');
+```    
+defined('_JEXEC') or die('Restricted access');
     require_once(JPATH_ADMINISTRATOR.'/components/com_j2store/library/plugins/app.php');
     class plgJ2StoreApp_Example extends J2StoreAppPlugin
     {
@@ -132,24 +127,16 @@ The above line will call the template layout for the app_example from /app_examp
 
 App's model should have file named with appexample.php and it should be like below
 
-<<<<<<< HEAD
-```defined('_JEXEC') or die('Restricted access');
-=======
 ```
 defined('_JEXEC') or die('Restricted access');
->>>>>>> 07bf6532db319aa32e69e63925a93a3a37a478b2
 require_once (JPATH_ADMINISTRATOR . '/components/com_j2store/library/appmodel.php');
 class J2StoreModelAppExample extends J2StoreAppModel
 {
 
 	public $_element = 'app_example';
 
-<<<<<<< HEAD
-}```
-=======
 }
 ```
->>>>>>> 07bf6532db319aa32e69e63925a93a3a37a478b2
 
 **App controller**
 
@@ -162,9 +149,5 @@ class J2StoreControllerAppexample extends J2StoreAppController{
 
 	var $_element   = 'app_example';
 
-<<<<<<< HEAD
-}```
-=======
 }
 ```
->>>>>>> 07bf6532db319aa32e69e63925a93a3a37a478b2
