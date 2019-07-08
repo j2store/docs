@@ -17,8 +17,8 @@ category: "troubleshooting guide"
 * Set YES to Allow Guest Checkout.
 * Save.
 
-![guest checkout](../../images/troubleshooting-guide/troubleshooting-checout-issues/enable-guest-checkout-only.png)
-![guest checkout only](../../images/troubleshooting-guide/troubleshooting-checout-issues/guest-checkout-only.png)
+![guest checkout](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-checout-issues/enable-guest-checkout-only.png)
+![guest checkout only](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-checout-issues/guest-checkout-only.png)
 
 
 **Is your layout of checkout form displaying in single column?**
@@ -67,11 +67,11 @@ Since checkout steps are loaded in real-time using Ajax, any Javascript conflict
 
 You can see the Developer Tools window opening at the bottom of the browser. Navigate to the Console tab.
 
-![developer tools](../../images/troubleshooting-guide/troubleshooting-checout-issues/troubleshoot_developertools.png)
+![developer tools](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-checout-issues/troubleshoot_developertools.png)
 
 Now Refresh your website, add a product to cart and go to checkout. The Console tab will now show you javascript conflicts, if any, in the site. It will also show you the file name and the line number that produce the error. Take a screenshot and send it to us and also send a copy to your template provider. We will check and get back to you with the solution.
 
-![troubleshoot console](../../images/troubleshooting-guide/troubleshooting-checout-issues/troubleshoot_console.png)
+![troubleshoot console](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-checout-issues/troubleshoot_console.png)
 
 Issue with Account Registration and FreeBSD
 
@@ -85,7 +85,7 @@ Check the value for PHP Built On. It tells you the Operating system of your host
 
 Sometimes, it might also be because of a small misconfiguration. Please make sure that you have set the option Prevent user from checking out if no shipping is selected under J2Store->setup->configuration->cart.
 
-![troubleshoot image](../../images/troubleshooting-guide/troubleshooting-checout-issues/image.png)
+![troubleshoot image](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-checout-issues/image.png)
 
 > VERY IMPORTANT: This option should be set to Yes only if you have shipping methods configured and want to stop the user from creating an order without selecting the shipping costs. If not, this might block the checkout process.
 
@@ -97,7 +97,7 @@ Sometimes, customers will be redirected from the Shipping and Payment step to th
 
 Make sure the following fields are set as per the configuration given below. And then do a purchase and see if the checkout works fine.
 
-![user configuration](../../images/troubleshooting-guide/troubleshooting-checout-issues/checkout_redirected.png)
+![user configuration](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-checout-issues/checkout_redirected.png)
 
 If you still face issues, then there could be several reasons for this behavior. Please create a private ticket (Go to the support menu ) and provide super user logins. One of our developer will help you troubleshoot and solve the problem.
 

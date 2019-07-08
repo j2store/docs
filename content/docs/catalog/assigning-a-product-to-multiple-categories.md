@@ -34,14 +34,14 @@ Likewise, we can assign products to as many categories as we wish.
 
 **Relevant Screenshots:**
 
-![Creating tags](../../images/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-create-tags.png)
-![Associating the tags with products](../../images/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags.png)
+![Creating tags](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-create-tags.png)
+![Associating the tags with products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags.png)
 ![Kitchen menu of the type tag view](/home/flycart63/Desktop/j2dc/content/images/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-menus-kitchen.png)
-![Gifts menu of the type tag view](../../images/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-menus-gifts.png)
+![Gifts menu of the type tag view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-menus-gifts.png)
 
 The front end view is like this:
 
-![Kitchen frontend view](../../images/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-kitchen-frontend.png)
-![Gifts frontend view](../../images/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-gifts-frontend.png)
+![Kitchen frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-kitchen-frontend.png)
+![Gifts frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-gifts-frontend.png)
 
 

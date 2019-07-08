@@ -1,14 +1,11 @@
 ---
 path: "/docs/tax-configuration/recommended-tax-configuration-for-EU-stores"
 updated: "2019-06-27"
-title: "Recommended-Tax-Configuration-for-EU-Stores"
+title: "Recommended Tax Configuration for EU stores"
 description: ""
 author: "Kiruthigha"
 category: "tax-configuration"
-
 ---
-
-
 
 This guide will walk you through the configuration of tax in J2Store for EU stores. This is an example configuration for stores in Europe. For detailed information on tax, please consult an expert.
 

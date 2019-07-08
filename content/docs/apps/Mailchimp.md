@@ -51,8 +51,8 @@ Click Save to finish Configuration.
 
 The screenshot given below explains the settings for mailchimp:
 
-![mc01](../../images/apps/mailchimp/mailchimp01.png)
+![mc01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/mailchimp/mailchimp01.png)
 
 For the specified settings,the mailchimp feature will appear like this:
 
-![mc02](../../images/apps/mailchimp/mailchimp02.png)
+![mc02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/mailchimp/mailchimp02.png)

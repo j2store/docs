@@ -30,12 +30,12 @@ Once you have installed the app and connected the store with the app, you would 
 If you have your files on dropbox, please use the following shortcode in the email template:
 
 **[DROPBOX_FILE]**
-![Link](../../images/apps/how-to-send-download-link/Dropbox.png)
+![Link](https://raw.githubusercontent.com/j2store/doc-images/master/apps/how-to-send-download-link/Dropbox.png)
 **For Amazon S3:**
 
 If you have your files in Amazon S3, please use the following code on the email template:**
 
 **[AMAZONE_FILE] **
-![Amazon s3](../../images/apps/how-to-send-download-link/Amazons3.png)
+![Amazon s3](https://raw.githubusercontent.com/j2store/doc-images/master/apps/how-to-send-download-link/Amazons3.png)
 
 

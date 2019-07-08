@@ -27,7 +27,7 @@ Alternatively, you could turn off the catalog mode and hide the add to cart butt
 2. In the backend, go to J2Store Dashboard -> Apps as shown in the image below.
 3. Click Enable in the Ask question / quote app.
 
-![Ask quote](../../images/apps/ask-quote/ask-quote-dashboard.png)
+![Ask quote](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-dashboard.png)
 
 
 4\. Once the app is enabled, open the app to configure the settings.
@@ -66,7 +66,7 @@ Select the location (Product view, category view, Both views) where the Ask Quot
 
 Selecting display type here will make the text to be displayed in button / link.
 
-![Ask quote settings](../../images/apps/ask-quote/ask-quote-settings.png)
+![Ask quote settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-settings.png)
 
    - **Display text for button/link**
 
@@ -109,7 +109,7 @@ Enter the subject of the email here.
 
  Refer the image below,
 
-![Ask quote email config](../../images/apps/ask-quote/ask-quote-email-config.png)
+![Ask quote email config](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-email-config.png)
 
 **Layout**
 
@@ -125,9 +125,9 @@ Now, in form layout add the shortcodes of fields you want to display in product 
 
 To add the custom field shortcode, copy the field name in J2Store > Setup > Custom fields section and paste it in the form. The field name should be enclosed with square braces. For example, [message].
 
-![Ask quote custom field](../../images/apps/ask-quote/ask-quote-custom-field.png)
-![Ask quote custom field list](../../images/apps/ask-quote/ask-quote-cust-fiel-list.png)
-![Layout of the fields](../../images/apps/ask-quote/ask-quote-layout.png)
+![Ask quote custom field](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-custom-field.png)
+![Ask quote custom field list](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-cust-fiel-list.png)
+![Layout of the fields](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-layout.png)
 
 Enable quote for per product
 
@@ -140,8 +140,8 @@ Enable quote for per product
 
 **SINGLE PRODUCT**
 
-![Ask quote frontend](../../images/apps/ask-quote/ask-quote-frontend.png)
-![Ask quote enabled on all products](../../images/apps/ask-quote/ask-quote-all-pro-front.png)
+![Ask quote frontend](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-frontend.png)
+![Ask quote enabled on all products](https://raw.githubusercontent.com/j2store/doc-images/master/apps/ask-quote/ask-quote-all-pro-front.png)
 **Support**
 
 Still have questions? You can post your questions in our support forum: [http://j2store.org/forum/index.html](<http://j2store.org/forum/index.html>)

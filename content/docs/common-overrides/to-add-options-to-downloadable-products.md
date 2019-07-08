@@ -1,7 +1,7 @@
 ---
-path: "/docs/Common-overrides/To-add-options-to-downloadable-products"
+path: "/docs/Common-overrides/to-add-options-to-downloadable-products"
 updated: "2019-05-30"
-title: "To-add-options-to-downloadable-products"
+title: "To add options to downloadable products"
 description: ""
 author: "Kiruthigha"
 category: "Common-overrides"

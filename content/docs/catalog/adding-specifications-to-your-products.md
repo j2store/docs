@@ -20,10 +20,10 @@ category: "catalog"
 
 **Screenshots:**
 
-![Creating filters](../../images/catalog/adding-specs-to-pro/creatingfilters.png)
-![Specifications to product](../../images/catalog/adding-specs-to-pro/specstoproduct.png)
-![Menu settings](../../images/catalog/adding-specs-to-pro/settingsinmenu.png)
-![Frontend](../../images/catalog/adding-specs-to-pro/specsinfront.png)
+![Creating filters](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-specs-to-pro/creatingfilters.png)
+![Specifications to product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-specs-to-pro/specstoproduct.png)
+![Menu settings](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-specs-to-pro/settingsinmenu.png)
+![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-specs-to-pro/specsinfront.png)
 
 **Video Tutorial:**
 [![Adding specifications to product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/-zUJxAMT9KE "Adding specifications to product")

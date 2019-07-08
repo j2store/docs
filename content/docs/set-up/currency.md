@@ -49,14 +49,14 @@ This option is used to set the default currency. If the value is set be 1.000000
 
 This option sets the status of publication of the currency. If it is set to be Published, then it will be available for payment process. Otherwise, it will not be available for payments.
 
-![Adding a new currency](../../images/set-up/currency/Currency_Add.png)
+![Adding a new currency](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/currency/Currency_Add.png)
 
 The image above indicates how to add or edit a currency.
 
 #### Display the prices with comma
 
 Prices should also be entered with the . (DOT) as the decimal separator. In the currency settings screen, as mentioned in the below picture, you can change the formatting option. This will automatically display the prices with comma.
-![Displaying prices with comma](../../images/set-up/currency/currency_decimal_separator.png)
+![Displaying prices with comma](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/currency/currency_decimal_separator.png)
 
 **Video tutorial**
 

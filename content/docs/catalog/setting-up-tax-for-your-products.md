@@ -27,38 +27,38 @@ Tax profile name: US-TAX**
 
 - Navigate to J2Store->Localisation->Geozones and create a new geozone.
 
-![Creating a new geozone](../../images/catalog/setting-up-tax-for-your-products/setting-tax-new-geozone.png)
+![Creating a new geozone](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-new-geozone.png)
 
 - Type in a name for the geozone, add the countries for which the tax has to be applied.
 
 1. Case A: Apply tax only for few zones within USA.
 
-![Filling in details on the newly created geozone](../../images/catalog/setting-up-tax-for-your-products/setting-tax-geozone-details.png)
+![Filling in details on the newly created geozone](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-geozone-details.png)
  2. Case B: Apply tax for all zones within USA. 
 
-![Adding country](../../images/catalog/setting-up-tax-for-your-products/setting-tax-adding-country.png)
+![Adding country](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-adding-country.png)
 - Navigate to J2Store-> Localisation->Tax rates->Click new. 
-![Adding a new tax rate](../../images/catalog/setting-up-tax-for-your-products/setting-tax-new-tax-rate.png)
+![Adding a new tax rate](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-new-tax-rate.png)
 
 -  Fill in the name, tax percentage, geozone and publish the tax rate.
-![Filling in the tax details in a tax rate](../../images/catalog/setting-up-tax-for-your-products/setting-tax-rate-details.png)
+![Filling in the tax details in a tax rate](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-rate-details.png)
 - Navigate to J2Store->Localisation->Tax profile->New.
-![Adding a new tax profile](../../images/catalog/setting-up-tax-for-your-products/setting-tax-adding-tax-profile.png)
+![Adding a new tax profile](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-adding-tax-profile.png)
 
 Fill in the profile name, set the status and map the tax rate on the profile, choose the associated address.
 
-![Adding details to tax profiles](../../images/catalog/setting-up-tax-for-your-products/setting-tax-tax-profile-details.png)
+![Adding details to tax profiles](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-tax-profile-details.png)
 - Navigate to J2Store->Catalog->Products(Or Content->Articles).
-![Navigate to Product manager](../../images/catalog/setting-up-tax-for-your-products/setting-tax-nav-to-pro.png)
+![Navigate to Product manager](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-nav-to-pro.png)
 
 
 
 - Edit the products for which you wish to collect tax. Navigate to the J2Store cart tab. Choose the tax profile and save.
-![Setting tax profile in product](../../images/catalog/setting-up-tax-for-your-products/setting-tax-profile-in-pro.png)
+![Setting tax profile in product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-profile-in-pro.png)
 
 - Frontend:
-![Tax rate in frontend](../../images/catalog/setting-up-tax-for-your-products/setting-tax-front.png)
-![Tax rate in cart page](../../images/catalog/setting-up-tax-for-your-products/setting-tax-in-cart-page.png)
+![Tax rate in frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-front.png)
+![Tax rate in cart page](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/setting-up-tax-for-your-products/setting-tax-in-cart-page.png)
 
 Thus tax would be levied on the product as per the configuration. 
 

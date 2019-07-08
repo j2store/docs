@@ -21,7 +21,7 @@ MySQLi is the supported database type.
 
 You could check this under System->Global configuration->Server tab->Database type.
 
-![Database type in Joomla configuration](../../images/frequently-asked-questions/not-able-to-save-settings/database-type.png)
+![Database type in Joomla configuration](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/not-able-to-save-settings/database-type.png)
 
 **Browser type:**
 

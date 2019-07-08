@@ -14,7 +14,7 @@ Translating J2Store in your language is very easy. All the language files are ma
 
 Go to [http://J2Store.org/translations.html](<http://J2Store.org/translations.html>) to check if the translation for your language is available. If you see your language listed and the progress bar indicating 100 %, then you can click on the name of your language to download the translation pack.
 
-![Transifex packages](../../images/translation/Translate-j2store-to-your-lang/translation-transifex-packages.png)
+![Transifex packages](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-packages.png)
 
 It is an installable pack. You can install it via the Joomla installer.
 
@@ -30,7 +30,7 @@ Go to [http://transifex.com](<http://transifex.com>) and create an account. Its 
 
 Joomla has a group of volunteers for translation. The group works under the name of Open Translators. Its a hub project for the translation of all joomla extensions. So go to the Open Translators hub project at [https://opentranslators.transifex.com](<https://opentranslators.transifex.com>)
 
-![Transifex open translators](../../images/translation/Translate-j2store-to-your-lang/translation-transifex-opentranslators.png)
+![Transifex open translators](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-opentranslators.png)
 
 
 You will see almost all languages listed there. In case, you dont find your language, you can Request language. But that wont be necessary as all the languages are already listed.
@@ -41,7 +41,7 @@ So go ahead and click your language. Say, you need German translation. Click the
 
 Join the team of your language. You can find the Join team button on the top right of the page. See the image below
 
-![Transifex germany](../../images/translation/Translate-j2store-to-your-lang/translation-transifex-germany.png)
+![Transifex germany](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-germany.png)
 
 It would take some time for the co-ordinators of the language team to approval your joining request.
 
@@ -49,19 +49,19 @@ It would take some time for the co-ordinators of the language team to approval y
 
 Once you joined, go to [https://opentranslators.transifex.com](<https://opentranslators.transifex.com>) and the choose J2Store from a list of child projects. Start typing a few letters in the box and you can get to see J2Store project. See the image below.
 
-![Transifex child products](../../images/translation/Translate-j2store-to-your-lang/translation-transifex-child-products.png)
+![Transifex child products](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-child-products.png)
 
 Once you choose J2Store you can see a list of the language resources. They are normally the standard Joomla language ini files for admin and site side of the J2Store component. We call these files in Transifex as resources.
-![Transifex-resources](../../images/translation/Translate-j2store-to-your-lang/translation-transifex-resources.png)
+![Transifex-resources](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-resources.png)
 
 **Step 5**
 
 Click a resource to start translating. For example click on the J2Store → admin\_com\_J2Store\_menu. This will open a pop up.
-![Transifex german resource](../../images/translation/Translate-j2store-to-your-lang/translation-transifex-resource-germany.png)
+![Transifex german resource](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-resource-germany.png)
 
 Click on the translate now. This will take you to the translations mangement window.
 
-![J2Store management window](../../images/translation/Translate-j2store-to-your-lang/Translation-transifex-J2Store-management-win.png)
+![J2Store management window](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/Translation-transifex-J2Store-management-win.png)
 
 In the top right corner, you can see the source language and language of file being translated.
 

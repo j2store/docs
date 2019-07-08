@@ -34,15 +34,15 @@ Paypal Plus for J2Store is compatible with dealers in the following countries
 5. Click on Create App button to create a new app. After creating an app, it will be listed below.
 
 
-![paypal create](../../images/payment-methods/paypal-plus/paypal-create-app.png)
+![paypal create](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/paypal-create-app.png)
 
 6. Click on your app name
 
-![app name](../../images/payment-methods/paypal-plus/paypal-app-name.png)
+![app name](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/paypal-app-name.png)
 
 7. On clicking app name, it will show your Client ID and Secret key.
 
-![paypal credentials](../../images/payment-methods/paypal-plus/paypal-credentials.png)
+![paypal credentials](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/paypal-credentials.png)
 
 **Configuration**
 
@@ -58,7 +58,7 @@ Enter the Paypal Rest API client ID associated with your Paypal account.
 **Paypal Plus Secret Key**
 Enter the Paypal plus secret key associated with your Paypal account.
 
-![paypal](../../images/payment-methods/paypal-plus/paypal-plus-config-1.png)
+![paypal](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/paypal-plus-config-1.png)
 
 **Use Paypal sandbox**
 Before going live, you can test your store using the paypal's sandox feature. Choose YES to enable sandbox mode.
@@ -89,7 +89,7 @@ By selecting a geozone here, you can restrict this payment method to only custom
 **Display text on after payment**
 The text entered here will be displayed to the customer after he makes the payment. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override.
 
-![pp2](../../images/payment-methods/paypal-plus/paypalplus-02.png)
+![pp2](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/paypalplus-02.png)
 **Display text on selection**
 The text entered here will be displayed when customer selects this payment method. You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the tips below
 
@@ -112,7 +112,7 @@ The text of the payment button. The button will be displayed at the final checko
 **Debug**
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![pp3](../../images/payment-methods/paypal-plus/paypalplus-03.png)
+![pp3](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/paypalplus-03.png)
 **Frontend**
 > Use below test card details for testing purposes.
 
@@ -121,4 +121,4 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 * Year : 2019
 * cvv : 012
 
-![frontend](../../images/payment-methods/paypal-plus/frontend.png)
+![frontend](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/frontend.png)

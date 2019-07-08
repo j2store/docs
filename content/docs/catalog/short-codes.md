@@ -38,41 +38,41 @@ List of shortcodes available and their description
 
 **cart** \- Full cart with price, options and add to cart button{j2store}XX\|cart{/j2store}
 
-![Add to cart shortcode](../../images/catalog/short-codes/shortcode_cart.png)
+![Add to cart shortcode](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_cart.png)
 **Price** \- This short code indicates both regular price and selling price{j2store}XX\|price{/j2store}
-![Price shortcode](../../images/catalog/short-codes/shortcode_price.png)
+![Price shortcode](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_price.png)
 
 **Saleprice** \- This code is for only the selling price{j2store}XX\|saleprice{/j2store}
 
-![Sales price](../../images/catalog/short-codes/shortcode_sale_price.png)
+![Sales price](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_sale_price.png)
 
 **Regularprice** - This denotes only the regular price{j2store}XX\|regularprice{/j2store}
 
-![Regular price](../../images/catalog/short-codes/shortcode_regular_price.png)
+![Regular price](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_regular_price.png)
 
 **Thumbnail** \- This indicates a thumbnail is added via the j2store cart -> images tab{j2store}XX\|thumbnail{/j2store}
-![Thumbnail](../../images/catalog/short-codes/shortcode_thumb.png)
+![Thumbnail](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_thumb.png)
 
 **Mainimage** \- This shortcode indicates a main image is added via j2store cart -> images tab{j2store}XX\|mainimage{/j2store}
 
-![Main image](../../images/catalog/short-codes/shortcode_main.png)
+![Main image](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_main.png)
 
 **Mainadditional** \- This is an indication of both main and additional images are added via j2store cart -> images tab{j2store}XX\|mainadditional{/j2store}
 
-![Main additional](../../images/catalog/short-codes/shortcode_mainadditional.png)
+![Main additional](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_mainadditional.png)
 
 **Upsells** \- This shows up-selling of products{j2store}XX\|upsells{/j2store}
 
-![Upsells](../../images/catalog/short-codes/shortcode_upsells.png)
+![Upsells](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_upsells.png)
 
 **Crosssells** \- This shows cross selling of products{j2store}XX\|crosssells{/j2store}
-![Crosssells](../../images/catalog/short-codes/shortcode_crosssells.png)
+![Crosssells](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_crosssells.png)
 
 **Example**
 
 {j2store}1\|thumbnail\|cart{/j2store}
 
-![Cart thumb](../../images/catalog/short-codes/shortcode_cart_thumb.png)
+![Cart thumb](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_cart_thumb.png)
 
 **Video Tutorial:**
 

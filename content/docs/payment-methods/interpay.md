@@ -43,7 +43,7 @@ InterPay payment offers you the sandbox feature. Before going live, you can test
 **Test TERMID**
 Enter the Term ID associated with your InterPay test account. 
 
-![interpay](../../images/payment-methods/interpay/interpay-01.png)
+![interpay](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/interpay/interpay-01.png)
 
 **Test PASS**
 Enter the "Pass" associated with your InterPay test account.
@@ -61,7 +61,7 @@ J2STORE_TEXT_TO_DISPLAY_ON_SELECTION.
 
 Now you can go to Joomla admin-> Language Manager->Overrides and create overrides for the language constant in all your languages.
 
-![itrpy](../../images/payment-methods/interpay/interpay-02.png)
+![itrpy](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/interpay/interpay-02.png)
 
 
 **Display text before payment**
@@ -82,7 +82,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 **Debug**
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
-![intpay](../../images/payment-methods/interpay/interpay-03.png)
+![intpay](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/interpay/interpay-03.png)
 
 **Support**
 Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
