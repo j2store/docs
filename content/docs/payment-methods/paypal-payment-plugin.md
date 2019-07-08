@@ -50,7 +50,7 @@ Now you can see the Paypal Payments as an option during the Check out process.
    Enter the API signature associated with your PayPal live account.
 
 Not sure where to find your API signature? Read the documentation below:
-<link-text url="https://developer.paypal.com/docs/classic/api/apiCredentials/#api-signatures" target=¨"_blank" rel=¨"noopener¨">Click here </link-text>
+<link-text url="https://developer.paypal.com/docs/classic/api/apiCredentials/#api-signatures" target="_blank" rel="noopener">Click here </link-text>
 
 NOTE: The API username, password and the signature are optional fields.
 These fields are required only when you use the subscription app or when you have an issue with receiving the IPN callbacks from Paypal.
