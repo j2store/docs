@@ -59,4 +59,4 @@ Prices should also be entered with the . (DOT) as the decimal separator. In the 
 
 **Video tutorial**
 
-[![Changing decimal separator using currency settings](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/MXMywDaUErw "Changing decimal separator using currency settings")
+<videoembed src="MXMywDaUErw"></videoembed>

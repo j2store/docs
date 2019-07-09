@@ -16,17 +16,19 @@ There are three places where it could be added:
 - Custom css code section of your template style
 - Occasionally on the scss or less files(if your template loads css through SCSS or LESS) 
 
-**To add the CSS to the template.css or custom.css file:
+**To add the CSS to the template.css or custom.css file:**
 
-**Navigate to Extensions->Templates->Your template->** **CSS**\->**Template.css or Theme.css file or custom.css file
-
+Navigate to Extensions->Templates->Your template-> CSS->Template.css or 
+Theme.css file or custom.css file
 The CSS that we suggest can be entered at the end of the above file.
+
 
 **To add the CSS in the custom code section of your template:**
 
 Sometimes, when the CSS doesn't take effect on the frontend while inserted on the files mentioned on the first step, you could check if your template has a custom code section and input the CSS there, if it has one.
 
 To do this, navigate to Extensions->Templates->Styles->Your template's style(the one next to which the star is filled).
+
 ![To choose the default style](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/where-to-add-CSS/template-styles.png)
 
 Input the CSS in the Custom CSS part of the Custom code section of your template's style. 

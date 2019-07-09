@@ -65,10 +65,14 @@ This is an option for the user to add his/her product of choice to the cart to p
 This option is used to render the cart and checkout pages in proper layout. Choose the option based on your template's bootstrap version. If your template's bootstrap version is 3, select Bootstrap 3.x and if your template's bootstrap version is 2, then select Bootstrap 2.x.
 
 **Date Format**
-Here one can choose the display format of date from several[ available options](http://php.net/manual/en/datetime.formats.date.php).
+Here one can choose the display format of date from several <link-text url ="http://php.net/manual/en/datetime.formats.date.php" target ="_blank" rel = "noopener"> available options </link-text>
 
 **Folder path for digital goods**
 The relative path to the folder with your corresponding files. Eg., '/media/myfiles/xyz.css'
+
+
+![basic settings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-basicsettings.png)
+
 
 ## Store
 Configure the address, administrator email and some defaults for your storefront

@@ -40,11 +40,17 @@ Make note of the category which you have set for the Article. Navigate to Menu 
 
 Make note of the category which you have set for the Article.Navigate to Content ->Article->category and check whether the category to which the article belongs is published.
 ![Is category published](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/products-not-visible/product-not-visi-cat-publi.png)
+
 ![Category published](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/products-not-visible/product-not-visi-cat-publ-cat.png)
 
 **Menu Published:**
 
 Navigate to Menu ->All menu items -> your required menu . Check whether the menu containing the category of the article is published .
+
+![Menu Published](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/products-not-visible/product-not-visible-menu-publish.png)
+
+
+
 ![Is menu published](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/products-not-visible/product-not-visi-menu-publ-menu.png)
 
 
