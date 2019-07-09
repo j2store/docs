@@ -20,7 +20,7 @@ const focussed = css`
   cursor: text;
   width: 100%;
   + ${SearchIcon} {
-    color: #6772e5;
+    color: #ff3c40;
   }
 `
 
