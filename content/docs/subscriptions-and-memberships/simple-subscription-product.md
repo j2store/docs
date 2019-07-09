@@ -52,7 +52,7 @@ If you want advanced pricing, click the 'Set Prices' button and it will open up 
 **Watch the video tutorial for creating simple subscription product:**
 
 
-[![simple subscription product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/mNFXMLHrdjY "simple subscription product")
+<videoembed src="mNFXMLHrdjY"></videoembed>
 
 
 **Frontend Demo**

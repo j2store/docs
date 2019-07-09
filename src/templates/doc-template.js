@@ -10,7 +10,7 @@ import Layout from "../components/layout";
 import PrevNext from '../components/prevnext';
 import MetaTags from '../components/Metatags';
 import Share from '../components/share';
-//import Search from '../components/Search';
+import Search from '../components/Search';
 import SideNav from '../components/SideNav';
 import SideNavLinks from '../constants/docsSideNavLinks';
 
@@ -24,6 +24,7 @@ import Gist from "../components/gist"
 import Row from "../components/row"
 import Col from "../components/column"
 import Card from "../components/Card"
+import Videoembed from "../components/videoembed"
 
 const PrimaryTitle = styled.h1`
     color: #f00;
@@ -56,6 +57,8 @@ const renderAst = new rehypeReact({
         row: Row,
         col: Col,
         card: Card,
+        videoembed:Videoembed,
+
     },
 }).Compiler
 
@@ -94,7 +97,7 @@ function DocTemplate(props) {
                         <button id="showDocNavBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
                         <div className="aside-menu" id="docNavLinkContent">
                             <div className="search-hero text-center">
-                               {/*<Search collapse indices={searchIndices}/>*/}
+                                <Search collapse indices={searchIndices}/>
                             </div>
                             <SideNav navLinks={SideNavLinks} currentUrl={props.pageContext.slug}/>
                             <div className="btn-container">
