@@ -94,8 +94,7 @@ Save and close it.
 
 **Video Tutorial**
 
-[![Amazon s3](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/Rh7tUtI7eMI "Amazon s3")
-
+<videoembed src="Rh7tUtI7eMI"></videoembed>
 
 
 
