@@ -24,6 +24,7 @@ import Gist from "../components/gist"
 import Row from "../components/row"
 import Col from "../components/column"
 import Card from "../components/Card"
+import Videoembed from "../components/videoembed"
 
 const PrimaryTitle = styled.h1`
     color: #f00;
@@ -56,6 +57,8 @@ const renderAst = new rehypeReact({
         row: Row,
         col: Col,
         card: Card,
+        videoembed:Videoembed,
+
     },
 }).Compiler
 
