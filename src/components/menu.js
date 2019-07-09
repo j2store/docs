@@ -5,16 +5,16 @@ const Menu = () => (
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav ml-auto navbar-right">
             <li className="nav-item">
-                <Link to="https://www.j2store.org/download.html" activeClassName="active" className="nav-link">Download</Link>
+                <a href="https://www.j2store.org/download.html" activeClassName="active" className="nav-link">Download</a>
             </li>
             <li className="nav-item">
-                <Link to="https://www.j2store.org/features.html" activeClassName="active"className="nav-link">Features</Link>
+                <a href="https://www.j2store.org/features.html" activeClassName="active"className="nav-link">Features</a>
             </li>
             <li className="nav-item">
-                <Link to="https://www.j2store.org/extensions.html" activeClassName="active" className="nav-link">Extensions</Link>
+                <a href="https://www.j2store.org/extensions.html" activeClassName="active" className="nav-link">Extensions</a>
             </li>
             <li className="nav-item">
-                <Link to="https://www.j2store.org/support.html" activeClassName="active" className="nav-link">Support</Link>
+                <a href="https://www.j2store.org/support.html" activeClassName="active" className="nav-link">Support</a>
             </li>
             <li className="nav-item">
             <li itemprop="name" class="dropdown mega mega-align-center" data-id="550" data-level="1" data-alignsub="center">
@@ -67,10 +67,10 @@ const Menu = () => (
             </li>
             </li>
             <li className="nav-item">
-                <Link to="https://www.j2store.org/blog.html" activeClassName="active" className="nav-link">Blog</Link>
+                <a href="https://www.j2store.org/blog.html" activeClassName="active" className="nav-link">Blog</a>
             </li>
             <li className="nav-item">
-                <Link to="/docs" className="nav-link" activeClassName="active" partiallyActive={true} >Docs</Link>
+                <Link to="/" className="nav-link" activeClassName="active" partiallyActive={true} >Docs</Link>
             </li>
         </ul>
     </div>
