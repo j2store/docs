@@ -50,7 +50,7 @@ Now you can see the Paypal Payments as an option during the Check out process.
    Enter the API signature associated with your PayPal live account.
 
 Not sure where to find your API signature? Read the documentation below:
-<link-text url=¨https://developer.paypal.com/docs/classic/api/apiCredentials/#api-signatures¨ target=¨_blank¨ rel=¨noopener¨>click here </link-text>
+<link-text url="https://developer.paypal.com/docs/classic/api/apiCredentials/#api-signatures" target="_blank" rel="noopener">Click here </link-text>
 
 NOTE: The API username, password and the signature are optional fields.
 These fields are required only when you use the subscription app or when you have an issue with receiving the IPN callbacks from Paypal.
@@ -287,7 +287,7 @@ If yes, please take a backup of the site and choose the MySQLi driver.
 The PDO driver of Joomla has a bug. Instead of returning a boolean value on table update as mandated by the interface, it would return a record set, causing issues.
 
 3. **Currency is wrong. Paypal payment screen shows USD while my currency is different**
-Paypal supports multiple currencies. However, it does not support all currencies of the world. Please ensure that your currency is supported by checking this page: <link-text url=¨https://www.paypal.com/multicurrency¨ target=¨_blank¨ rel=¨noopener¨> click here</link-text>
+Paypal supports multiple currencies. However, it does not support all currencies of the world. Please ensure that your currency is supported by checking this page: <link-text url=¨https://www.paypal.com/multicurrency"target=¨_blank"rel=¨noopener¨> click here</link-text>
 
 
 If your currency is not supported, Paypal will automatically assume the currency as USD.
@@ -393,7 +393,7 @@ Currency you are using
 Paypal supports only the following currencies:
 
 <link-text url = 
-¨https://developer.paypal.com/docs/api/reference/currency-codes/¨  target=¨_blank¨ rel=¨noopener¨> click here </link-text>
+¨https://developer.paypal.com/docs/api/reference/currency-codes/" target=¨_blank"rel=¨noopener¨> click here </link-text>
 
 So, if you are trying to receive payment through Paypal, it becomes necessary that your store currency is one among the above listed currencies.
 All other currencies would return a Things don't seem to be working at the moment error.
@@ -409,6 +409,6 @@ Block non-encrypted Website Payments = disable
 
 **SCA compliance:**
 
-To know more information on the SCA compliance for the Paypal plugin, click <link-text url = ¨http://docs.j2store.org/frequently-asked-questions/sca-support-for-payment-plugins¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+To know more information on the SCA compliance for the Paypal plugin, click <link-text url = ¨http://docs.j2store.org/frequently-asked-questions/sca-support-for-payment-plugins"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 

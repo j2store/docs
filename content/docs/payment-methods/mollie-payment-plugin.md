@@ -21,7 +21,7 @@ Process secure iDEAL, credit card, bank transfer, SOFORT payments, paysafecard, 
 3. Once enabled, open / edit the plugin and configure the basic settings of the app.
 
 **Setup Mollie API key**
-1. Log in to your Mollie account here <linl-text url =¨https://www.mollie.nl/¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+1. Log in to your Mollie account here <linl-text url =¨https://www.mollie.nl/"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 2. After log in, click on "Settings" under your profile name on top right of the page.
 3. In the resulting page, you will have to look at your website profile details or to create a new website profile if you don't have any existing web profiles. Click on Create new website profile.
 

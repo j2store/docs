@@ -54,7 +54,7 @@ Post sale configuration : (Tab: Transaction feedback)
 
 This is required to update our database after the payment is done. Under the heading “Direct HTTP server to server request", set both the URLs of the merchant's post payment page as below:
 
-<link-text url = ¨http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_postfinance&paction=process&tmpl=component¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+<link-text url = ¨http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_postfinance&paction=process&tmpl=component"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 Request method: POST
 

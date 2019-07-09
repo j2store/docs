@@ -96,7 +96,7 @@ The product Net has to be added as a related product to the product Basket ball.
 ![Content plugin settings](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/content-plugin-config.png)
 - Navigate to the Item view of the plugin and choose the Product block position there as well
 
-![Item view settings](../../images/catalog/adding-related-products/content-plugin-item-view.png)
+![Item view settings](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/content-plugin-item-view.png)
 **Frontend display**
 
 ![Item view settings](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/content-plugin-item-view.png)

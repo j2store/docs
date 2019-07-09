@@ -45,7 +45,7 @@ Enter the web tools account password here.
 > Don't know how to get API credentails ? 
 Please register here:
 
-<link-text url =¨https://www.usps.com/business/web-tools-apis/welcome.htm¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+<link-text url =¨https://www.usps.com/business/web-tools-apis/welcome.htm"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 As soon as you register, USPS will send you an email with the API keys. You need to enter them in the plugin parameters.
 And make sure the Test mode field is set to NO in the plugin parameters.

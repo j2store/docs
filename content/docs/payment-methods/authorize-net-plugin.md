@@ -7,7 +7,7 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-This Plugin enables you to receive payments via Authorize.Net Payment Gateway. Visit <link-text url = ¨http://authorize.net¨  target = ¨_blank¨  rel = "noopener¨">click here </link-text> to know more about the payment gateway.
+This Plugin enables you to receive payments via Authorize.Net Payment Gateway. Visit <link-text url = ¨http://authorize.net" target = ¨_blank" rel = "noopener¨">click here </link-text> to know more about the payment gateway.
 
 **Requirements**
 

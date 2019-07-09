@@ -43,7 +43,7 @@ This should be set to SHA-1, as the plugin will not function with other methods.
 ![hashing method](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/barclays-payment-plugin/hashing_method.png)
 
 **Checks for E-Commerce (Tab: Data and origin verification)**
-URL of the merchant page containing the payment form that will call the page: orderstandard.asp - This should be set to <link-text url =¨http://www.yourdomain.com¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+URL of the merchant page containing the payment form that will call the page: orderstandard.asp - This should be set to <link-text url ="http://www.yourdomain.com" target = "_blank" rel = "noopener¨">click here </link-text>
 
 Also enter a SHA-IN pass pharse here. The same should be entered in the plugin as well.
 
@@ -53,7 +53,7 @@ Also enter a SHA-IN pass pharse here. The same should be entered in the plugin a
 **Post sale configuration : (Tab: Transaction feedback)**
 This is required to update our database after the payment is done.
 
-Under the heading “Direct HTTP server-to-server request", set both the URLs of the merchant's post-payment page as below:<link-text url =¨http://yourdomain.com/index.php?option=com_j2store&view=callback&method=payment_epdq&paction=process¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+Under the heading “Direct HTTP server-to-server request", set both the URLs of the merchant's post-payment page as below:<link-text url =¨"http://yourdomain.com/index.php?option=com_j2store&view=callback&method=payment_epdq&paction=process" target = ¨"_blank" rel = ¨"noopener"> click here </link-text>
 
 **Request method: POST**
 (see the picture below with example urls)

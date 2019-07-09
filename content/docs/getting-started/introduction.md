@@ -7,6 +7,11 @@ author: "Ramesh"
 category: "getting-started"
 ---
 
+
+![introduction](https://raw.githubusercontent.com/j2store/doc-images/master/getting-started/Introduction/Introduction.png)
+
+
+
 **J2Store Documentation**
 
 J2Store is a native, flexible and modern ecommerce solution for Joomla Content Management System.

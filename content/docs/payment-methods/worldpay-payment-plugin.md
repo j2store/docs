@@ -22,7 +22,7 @@ Login to your Merchant Interface and go to Installation → Integration Setup
 
 ![response](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/worldpay-payment-plugin/payment_response_worldpay.png)
 
-<link-text url =¨http://yourdomainname.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_worldpay&paction=process&tmpl=component¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+<link-text url =¨http://yourdomainname.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_worldpay&paction=process&tmpl=component"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 Replace "yourdomainname.com" with your domain name.
 

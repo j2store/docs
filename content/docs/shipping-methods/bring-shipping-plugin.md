@@ -22,7 +22,7 @@ Integrates J2Store with Bring, a popular shipping service in the Nordic area.
 4. Enter Plugin Params
 
 **Params**
-1. PID Key - You can get the PID (Identification key ) from here <link-text url =¨http://fraktguide.bring.no/fraktguide/welcome.do¨ target = ¨_blank¨ rel = ¨noopener¨> click here </link-text> and enter the Key here. Without this key, the param will not work.
+1. PID Key - You can get the PID (Identification key ) from here <link-text url =¨http://fraktguide.bring.no/fraktguide/welcome.do"target = ¨_blank"rel = ¨noopener¨> click here </link-text> and enter the Key here. Without this key, the param will not work.
 2. From Postal Code - Enter the From (Origin) postal code. That the postal code of the place from which the goods will be shipped.
 3. Handling Cost - If you want add handling cost for your shipping, enter your handling cost.
 4. Display Delivery Time - This option used to display Delivery Date/time in Checkout page.

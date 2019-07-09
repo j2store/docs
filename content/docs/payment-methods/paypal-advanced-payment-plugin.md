@@ -22,7 +22,7 @@ Use the Joomla installer to install the plugin like you do for other extensions
 **Step 1: Configure Your PayPal Account**
 Before you begin, you must configure your PayPal Payments Advanced account on the PayPal website.
 
-Log in to your PayPal Advanced account at <link-text url = ¨manager.paypal.com¨ traget = ¨_blank¨ rel = ¨noopener¨> click here </link-text>
+Log in to your PayPal Advanced account at <link-text url = ¨manager.paypal.com"traget = ¨_blank"rel = ¨noopener¨> click here </link-text>
 
 Go to Service Settings -> Hosted Checkout Pages -> Set Up, and make the following settings:
 
