@@ -10,7 +10,7 @@ category: "setup"
 
 J2Store multi currency feature allows store owner to setup multiple currencies. For example, if the location of store is United States and the store owner wants his store to be accessed by customers from Japan and European countries, then he / she will have to create one primary currency (for united states) and two secondary currencies (one for Japan and other for European countries).
 
-**How to setup Primary or default currency?**
+### How to setup Primary or default currency?
 
 First you have to decide your primary or default currency for your store. The **value** option in currency settings is used to set the default currency. If the value is set be 1.000000 for a particular currency, it will serve as the default currency.
 
@@ -24,7 +24,7 @@ Choose the Default Currency as **USD** in your store configuration.
 After choosing Auto update currency to YES, when you are going to create secondary currency, the value of the currency will be updated automatically. See the below picture,
 ![Value of available currencies](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/set-up-multi-currency/multi-currency_value.png)
 
-**J2Store Currency Switcher**
+### J2Store Currency Switcher
 
 Go to Extension > Modules.
 

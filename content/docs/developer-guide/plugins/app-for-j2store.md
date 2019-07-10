@@ -18,13 +18,13 @@ Creating app class
  App Model Class
 App controller
 
-**Introduction**
+#### Introduction
 
 Developing a app for J2Store is very simple process if you are good in PHP and the Joomla MVC structure.
 
 J2Store comes with a app library and wrappers that makes creating a app for J2Store.
 
-**App Structure**
+#### App Structure
 
 There is a folder structure and a few naming conventions, that should be followed during the development of a app for J2Store.
 
@@ -45,27 +45,15 @@ A typical app should look like this:
 │   │   │   ├── appexample.php
 ```
 
-**Naming Conventions**
+#### Naming Conventions
 
 The name of the app folder should start with the prefix "app_". Otherwise, J2Store will not recognise your app. So our example app is named as:app_example
 
 Make sure that the name of the file and folder is in lower case and there are no spaces or any other characters in the name.
 
-**Manifest**
+#### Manifest
 
 An example manifest should look like this:
-
-**Naming Conventions**
-
-The name of the app folder should start with the prefix "app_". Otherwise, J2Store will not recognise your app. So our example app is named as:app_example
-
-Make sure that the name of the file and folder is in lower case and there are no spaces or any other characters in the name.
-
-**Manifest**
-
-An example manifest should look like this:
-
-
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -100,7 +88,7 @@ An example manifest should look like this:
 ```
 
 
-**Creating app class**
+#### Creating app class
 
 Make sure the name of the class suffix is same as your app file's name. And it should extend the J2StoreAppPlugin class.
 ```    
