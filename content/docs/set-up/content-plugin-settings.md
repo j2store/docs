@@ -21,6 +21,7 @@ To control the display in the cart section, to show or hide the images, enabling
 
 ![Contentplugin-frontendediting](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Content%20plugin%20settings/setup-contentplugin-frontendediting.png)
 
+
 Next is the category view tab where you could find settings for controlling the behavior on the category view of products.
 
 *   From the resulting window, select the Category View tab to set the values, as shown in the image below:

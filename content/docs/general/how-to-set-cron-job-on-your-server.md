@@ -8,7 +8,7 @@ category: "general"
 ---
 Do you don't know how to set cron job on your server ? Our guide here helps you to set cron job on your server.
 
-**Identify cron security key**
+#### Identify cron security key
 
 Starting from J2Store 3.2.20, we are supporting a cron job. This system, at the moment, is not used by the J2Store core functions. However a few apps are using it.
 
@@ -16,11 +16,11 @@ You can find the cron security key in your store settings.
 
 Go to J2Store > Setup > Configuration > Store tabYou can see the security key for running cron jobs. Click on Regenerate button to generate new key. Please see the below image
 
-![intro](https://raw.githubusercontent.com/j2store/doc-images/master/general/advanced.png)
+![Cron key](https://raw.githubusercontent.com/j2store/doc-images/master/general/security%20key%20for%20running%20cron%20job.png)
 
 This security key can be used for execution of cron jobs required by apps and plugins. This will ensure only legitimate requests are allowed and executed. The cron requests without this key will be denied access.
 
-**Create cron job via cPanel**
+#### Create cron job via cPanel
 
 * Go and login into your cPanel
 * In the Advanced section of the cPanel, Click Cron Jobs
@@ -40,8 +40,6 @@ In the Command text box, type the command that you want to run. For example if y
 ```
 wget -O /dev/null "http://www.example.com/index.php?option=com_j2store&view=cron&command=appsubscriptionproduct&cron_secret=XXXXX" > /dev/null
 ```
-
-
 
 Where XXXXX is your cron secret key. Replace www.example.com with your domain nam***
 

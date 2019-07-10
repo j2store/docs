@@ -2,7 +2,7 @@
 path: "docs/developer-guide/plugins/creating-an-integration-plugin-for-your-component"
 updated: "2019-02-20"
 title: "Creating an integration plugin for your component"
-description: ""
+description: "This section is to give you an idea of how an integration plugin can be created for J2Store"
 author: "Kiruthigha"
 category: "Plugins"
 ---
@@ -17,29 +17,29 @@ This topic is split into the following sections to make it easier for you to und
 * Supply item data to J2Store Display the cart
 
 
-**Introduction**
+#### Introduction
 
 Integrating J2Store with your extension is pretty straightforward. Since Version 3, we implement a flexible Plugin API and the entire J2Store core is re-written from scratch using the Framework on Framework (FOF).
 
 So all you have to do is create an integration plugin for your component (using your component's events). It can be a system plugin or a plugin specific to your component.
 
-**The Concept**
+#### The Concept
 
 J2Store can treat any item (an article, an event, a photo) as a product. All it needs is the name of the source (read as your component's name. Example: com_foo) and the source item's ID.You can use your component's plugin events to display the J2Store's Product Form, Save it and then Render it (in the front end)So basically three events are sufficient to integrate J2Store in your component.
 
 Let me give you an example of how J2Store is integrated with the Joomla articles
 
-1. onContentPrepareForm
+1. **onContentPrepareForm**
 
 Here we inject the J2Store's Product Form into the Article's Edit view. So the store owner treats the article as product and fills in the form.
 
-1. onContentAfterSaveHere, we catch the data of the filled-in product form and save it to the J2Store's tables. While saving, we save two important variables
-2. product_source = The name of the component which serves as the catalog source. In this case, com_content
-3. product_source_id = The id of the item that is treated as a product. In this case, the article id.
-4. onContentAfterDisplaySo, we have displayed the form, saved the data. Now it is time to inject the cart block (price, quantity field, Add to cart button) into the article.This method takes care of it.
+1. **onContentAfterSave**Here, we catch the data of the filled-in product form and save it to the J2Store's tables. While saving, we save two important variables
+2. **product_source** = The name of the component which serves as the catalog source. In this case, com_content
+3. **product_source_id** = The id of the item that is treated as a product. In this case, the article id.
+4. **onContentAfterDisplay** So, we have displayed the form, saved the data. Now it is time to inject the cart block (price, quantity field, Add to cart button) into the article.This method takes care of it.
 
 
-**Integrating with your component**
+#### Integrating with your component
 
 Let us integrate J2Store with your component
 
@@ -59,7 +59,7 @@ The first and foremost task is to get the J2Store's Product form fields to displ
 
 If your component fire's an event after displaying the form, then the task is pretty easy. You can create a system plugin with the event and call the following lines
 
-      $app = JFactory::getApplication();
+      ```$app = JFactory::getApplication();
          //the id of your item. This will be treated as the product_source_id
       	 	$id = $app->input->getInt('cid');
 
@@ -83,7 +83,7 @@ If your component fire's an event after displaying the form, then the task is pr
       		F0FDispatcher::getTmpInstance('com_j2store', 'product', array('layout'=>'form', 'tmpl'=>'component', 'input' => $input))->dispatch();
       		$html = ob_get_contents();
       		ob_end_clean();
-      		return $html;
+      		return $html;```
 
 
 
@@ -91,7 +91,7 @@ If your component fire's an event after displaying the form, then the task is pr
 
 Saving the data is also very simple. Just capture the filled-in form data (Usually in your After Save event)Then just pass the data (can be either an array or an object) to
 
-	`F0FModel::getTmpInstance('Products', 'J2StoreModel')->save($data);`
+	```F0FModel::getTmpInstance('Products', 'J2StoreModel')->save($data);```
 
 
 IMPORTANT: The array or object should have the product_source and product_source_id . Otherwise, J2Store will not be able to process your item as product.
@@ -103,9 +103,10 @@ product_source='com_foo'
 product_source_id=$id //the ID of your item
 ```
 
-Supply product data
+**Supply product data**
 
-You will have to supply a few important information to J2Store. Example, the product name, its url etc. J2Store has an event called: onJ2StoreAfterGetProduct(&$product) NOTE: If your Integration plugin is specific to your component, then you should create a system plugin with this event. Refer the K2 integration plugin for example.
+You will have to supply a few important information to J2Store. Example, the product name, its url etc. J2Store has an event called: **onJ2StoreAfterGetProduct(&$product)** 
+NOTE: If your Integration plugin is specific to your component, then you should create a system plugin with this event. Refer the K2 integration plugin for example.
 
 ```
 function onJ2StoreAfterGetProduct(&$product) {	if(isset($product->product_source) && $product->product_source == 'com_foo' ) {		//assign		$product->product_name = $name;	
