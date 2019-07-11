@@ -13,7 +13,6 @@ import Share from '../components/share';
 import Search from '../components/Search';
 import SideNav from '../components/SideNav';
 import SideNavLinks from '../constants/docsSideNavLinks';
-
 import Container from "../components/container"
 import Callout from '../components/callout'
 import Highlight from '../components/highlight'
@@ -127,6 +126,9 @@ function DocTemplate(props) {
                         }
                     </div>
                     <div className="col-md-6 col-sm-12">
+                        <div className="search-hero text-center">
+                            <Search collapse indices={searchIndices}/>
+                        </div>
                         <div className="single-blog-post">
                             <div className="header">
                                 <div className="image-section">
