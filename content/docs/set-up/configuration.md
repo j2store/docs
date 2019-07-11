@@ -25,7 +25,7 @@ There are several options available for your online store. Any mis-configuration
 *   Others
 
 
-## Basic Settings
+### Basic Settings
 
 **Some basic settings need to be done before you proceed. This will be handled by the following options.**
 
@@ -73,8 +73,8 @@ The relative path to the folder with your corresponding files. Eg., '/media/myfi
 
 ![basic settings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-basicsettings.png)
 
+### Store
 
-## Store
 Configure the address, administrator email and some defaults for your storefront
 
 **Security keys for queues and crons**
@@ -121,7 +121,7 @@ Select the default weight measurement in use for any country from the available 
 **Default Length Measurement**
 Select the default length measurement in use for any country from the available options. (Centimetre, Inch, Millimetre)
 
-## Product
+### Product
 These are global parameters for product display. You can override some of these parameters if you are using the J2Store's product layout.
 
 ![Configuration-productsettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-productsettings.png)
@@ -168,7 +168,7 @@ $ 250.00 (This is the advanced price)
 *   **No of columns for related products (upsells & cross sells) **
         This will be used for up-sells and cross-sells display layout when you use the shortcode for displaying up-sells and cross-sells in your article layouts.
 
-## Inventory
+### Inventory
         _This is a J2Store PRO feature._
 
 *   **Enable Inventory **
@@ -195,7 +195,7 @@ $ 250.00 (This is the advanced price)
         
 ![Configuration-inventorysettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-inventorysettings.png)
 
-## Tax
+### Tax
 
 An important area. Please think twice before you configure. Read the description carefully while configuring the following options.
 
@@ -224,7 +224,7 @@ Set this to YES will display (Incl.19% tax) or (excl.19% tax) to product pages.
 
 ![Configuration-taxsettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-taxsettings.png)
 
-## Discount
+### Discount
 
 **This is a J2Store PRO exclusive feature**
 This is for discounts that are offered to customers.
@@ -238,7 +238,7 @@ This is for discounts that are offered to customers.
 
 ![Configuration-discount-settings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-discountsettings.png)
 
-## Cart
+### Cart
 
 Cart and checkout settings for your store.
 
@@ -318,7 +318,7 @@ The method chosen here would be the one that is selected by default at the check
 ![Configuration-cartsettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-cartsettings.png)
 
 
-## Checkout Layout
+### Checkout Layout
 
 The layout of the checkout address fields.** NOTE:** Removing a field here will NOT remove it actually. Go to Setup -> Custom Fields to enable or disable the fields. This tab just decides the display and ordering of the fields in the checkout steps.
 
@@ -350,7 +350,7 @@ Now, in the checkout process, the added custom field **Title** will be displayed
 
 In this way, new custom fields can be added according to the needs of the user.
 
-## Order
+### Order
 
 **Invoice Prefix**
         This is the prefix of the Invoice generated when payment is done.
@@ -381,16 +381,16 @@ Now the system generated invoice number, say 1, will be appended with this prefi
 
 ![Configuration-ordersettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-ordersettings.png)
 
-## **Update**
+### Update
 
 _Applies only for J2Store PRO users_
 
-This tab has a text input to enter the **Download ID** provided by[ <link-text url="https://www.j2store.org/](http://j2store.org)" target="_blank" rel="noopener">**J2Store**</link-text>, which is a requirement for updating the j2store component's PRO version. Without this ID, <link-text url="[https://www.j2store.org/my-account/my-downloads.html](https://www.j2store.org/my-account/my-downloads.html)" target="_blank rel="noopener">j2store PRO</link-text> cannot be downloaded. This ID will be available in the Invoice as well as in **My Download** of j2store.org
+This tab has a text input to enter the **Download ID** provided by <link-text url="https://www.j2store.org" target="_blank" rel="noopener">**J2Store**</link-text>, which is a requirement for updating the j2store component's PRO version. Without this ID, <link-text url="https://www.j2store.org/my-account/my-downloads.html" target="_blank" rel="noopener">j2store PRO</link-text> cannot be downloaded. This ID will be available in the Invoice as well as in **My Download** of j2store.org
 
 ![Configuration-updatesettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-updatesetting.png)
 
-## **Mail Template**
-
+### Mail Template
+    
 This tab has a option to avoid sending default email template to customers and admin.
 In somecases, you will be like to send email template only to customers or vice versa. In this case, if there is no email template assigned to admin or to customer, the system will send a default email template.
 
@@ -398,7 +398,7 @@ To avoid this, please choose **No. Do not use the default template to send a mai
 
 ![Configuration-mailtemplatesettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-mailtemplatesettings.png)
 
-## Others
+### Others
 Misc. options for the store
 
 **Show Terms and Conditions during Checkout**

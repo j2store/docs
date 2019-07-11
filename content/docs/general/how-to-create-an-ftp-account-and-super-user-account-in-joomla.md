@@ -12,11 +12,11 @@ Here is how you could create a super user account and a FTP account in your Joom
 
 **Creating a FTP account:**
 To create an FTP account on your site, please follow the below instructions:
-https://docs.joomla.org/Setup_FTP_Account
+<link-text url="https://docs.joomla.org/Setup_FTP_Account" target="_blank" rel="noopener">FTP account</link-text>
 
 **Creating a super user account:**
 Here is a video tutorial on how to create a super user account:
-https://www.youtube.com/watch?v=85o_0OwdJ2A
+<videoembed src="https://www.youtube.com/watch?v=85o_0OwdJ2A"></videoembed>
 
 **IP to be whitelisted:**
 Please make sure that you have the following location and IP whitelisted:

@@ -7,7 +7,7 @@ import Container from "../components/container"
 import HOME_CARDS from '../constants/docsCards';
 import CALLOUTS from '../constants/docsCallouts';
 import MetaTags from '../components/Metatags'
-// import Search from '../components/Search';
+import Search from '../components/Search';
 import SideNav from '../components/SideNav';
 import SideNavLinks from '../constants/docsSideNavLinks';
 
@@ -68,7 +68,7 @@ class DocsPage extends React.Component {
                                 <button id="showDocNavBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
                                 <div className="aside-menu" id="docNavLinkContent">
                                     <div className="search-hero text-center">
-                                       {/*<Search collapse indices={searchIndices}/>*/}
+                                       <Search collapse indices={searchIndices}/>
                                     </div>
                                     <SideNav navLinks={SideNavLinks} currentUrl={this.props.location.pathname}/>
                                 </div>

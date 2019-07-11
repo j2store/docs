@@ -52,8 +52,6 @@ to
 /templates/YOUR-TEMPLATE/html/com_j2store/templates/YOUR-SUB-LAYOUT/view_downloadable.php
 
 Edit the file and find below line
-```<meta http-equiv="content-type" content="text/html; charset=utf-8">
-
 ```
 <?php echo $this->loadTemplate('cart'); ?>
 ```
@@ -61,5 +59,6 @@ Change with
 ```<?php echo $this->loadTemplate('options'); ?>
 <?php echo $this->loadTemplate('cart'); ?>
 ```
+Save.
 Now the downloadable products should have options tab at the back end and the options should be visible on the front end.
 
