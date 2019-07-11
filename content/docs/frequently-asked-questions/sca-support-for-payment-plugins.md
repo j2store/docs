@@ -10,11 +10,10 @@ category: "Frequently asked questions"
 
 In the European union, a new regulation for online payments would be rolled out in September 2019. This would require your payment plugins to be compliant to the SCA regulation.
 
-**What is SCA:
+**What is SCA:**
 
-**Strong Customer Authentication (SCA) is a new European regulatory requirement to reduce fraud and make online payments more secure. To accept payments once SCA goes into effect, you will need to build additional authentication into your checkout flow.** 
+Strong Customer Authentication (SCA) is a new European regulatory requirement to reduce fraud and make online payments more secure. To accept payments once SCA goes into effect, you will need to build additional authentication into your checkout flow.*
 
-**
 
 **Will i need to update my payment plugins:**
 

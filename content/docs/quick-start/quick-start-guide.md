@@ -24,6 +24,7 @@ Use the Joomla installer to install the J2store package.
 1. Go to Joomla Extension > Manage
 2. Choose and select your file.
 3. Click Upload & Install.
+
 ![Quickstart-J2Store-install](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-j2store-install.png)
 
 **Configuration**
@@ -44,9 +45,12 @@ Since J2Store uses the default Joomla articles as its products, it lets you use 
 Go to Content > Articles > Add new article. Now, new article page will open.
 
 Give the title of the product, add your description about the product in the content tab and choose the category in which you want to display the product.
+
 ![Quickstart-creating-a-product](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-Creating-product.png)
 
+
 Now, go to J2store Cart tab, choose YES to Treat as a product then choose your Product Type from the list(Simple, Variable, Configurable, Downloadable) and then click Save and Continue.
+
 ![Quickbook-product-type](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-product-type.png)
 
 After saving, again go to J2store cart tab. Now you can see the options to add image for product, set prices, add filters / Tax / Shipping.
@@ -63,6 +67,7 @@ Give the menu title and choose the menu type as J2store > Product List View
 ![Quickstart-product-layout](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-product-layout.png)
 
 Choose the Category which have chosen when creating product. The category added in the product and the category added in the menu should be same.
+
 ![Quickstart-j2store-menu](https://raw.githubusercontent.com/j2store/doc-images/master/quick-start/Quickstart-guide/Quickstart-j2store-menu.png)
 
 In the menu you can see these three tabs common options, Item view options in category listings, Item view options.
@@ -82,8 +87,8 @@ Now Go to frontend of your site and check.
 
 **Video tutorials**
 
-[![Quickstart-3.x](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/6H0ATsatLr4)](https://www.youtube.com/watch?v=51J1UkeRu3Y "Quickstart-3.x")
+<videoembed src="51J1UkeRu3Y"></videoembed>
 
-[![Quickstart-core version](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://www.youtube.com/watch?v=SOEhlo7woJc "Quickstart-Core version of J2Store")
+<videoembed src="SOEhlo7woJc"></videoembed>
 
-[![Quickstart-productlayoutcreation](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://www.youtube.com/watch?v=HramUPmnTZ4 "Quickstart- Creating a product layout")
+<videoembed src="HramUPmnTZ4"></videoembed>

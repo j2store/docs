@@ -90,9 +90,11 @@ But with a flexi-variable product, you could publish and un-publish any variant
 
 There are other product types as well:
 
-- **Advanced variable- **[https://www.j2store.org/extensions/apps/advanced-variable.html](<http://docs.j2store.org/frequently-asked-questions/difference-between-product-types>)
-- ** Booking product- **[https://www.j2store.org/extensions/apps/booking-and-reservations.html](<http://docs.j2store.org/frequently-asked-questions/difference-between-product-types>)
-- **Subscription product- **[https://www.j2store.org/extensions/apps/subscriptions-and-membership.html](<https://www.j2store.org/extensions/apps/subscriptions-and-membership.html>)
+-
+    **Advanced variable**-  <link-text url = "https://www.j2store.org/extensions/apps/advanced-variable.html" target = "_blank" rel = "noopener"> click here </link-text> 
+     **Booking product** <link-text url ="https://www.j2store.org/extensions/apps/booking-and-reservations.html" target = "_blank" rel = "noopener"> click here </link-text>
+    **Subscription product**  https://www.j2store.org/extensions/apps/subscriptions-and-membership.html
+
 
 **Advanced variable**
 
