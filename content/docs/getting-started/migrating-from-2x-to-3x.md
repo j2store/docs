@@ -38,7 +38,7 @@ You can use the migration tool only when your Joomla version is 3.3 or later. If
 
 **Download Migration Tool**
 
-You can download the migration tool directly from the following url:https://bitbucket.org/j2store/j2store_migration/downloads
+You can download the migration tool directly from the following url:<link-text url ="https://bitbucket.org/j2store/j2store_migration/downloads" target = "_blank" rel = "noopener"> click here </link-text>
 
 **Using the Migration Tool**
 
@@ -88,13 +88,13 @@ If the migration is successful, you can will see a success message. If there is 
 
 **5.1 What should i do if an error occured**
 
-Please post the error at the forum: http://j2store.org/forum/j2store-version-3-feedback.html
+Please post the error at the forum: <link-text url ="http://j2store.org/forum/j2store-version-3-feedback.html" target = "_blank" rel = "noopener"> click here </link-text>
 
 **6. Install Version 3**
 
-Download J2Store Version 3 latest version from the site and install it. Free users can download fromhttp://j2store.org/download.html
+Download J2Store Version 3 latest version from the site and install it. Free users can download from <link-text url = "http://j2store.org/download.html" target = "_blank" rel = "noopener"> click here </link-text>
 
-PRO users can download the PRO version from http://j2store.org/my-downloads.html
+PRO users can download the PRO version from <link-text url = "http://j2store.org/my-downloads.html" target = "_blank" rel = "noopener"> click here </link-text>
 
 **7. Post migration**
 

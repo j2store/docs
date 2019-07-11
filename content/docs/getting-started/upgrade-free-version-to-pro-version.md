@@ -14,7 +14,7 @@ You can check which version of J2store you are using. Just Go to J2store > Dashb
 
 **How to upgrade the J2store Free version to Pro version ?**
 
-If you have login and you are in the subscribers list, please go to this link:[ http://j2store.org/my-downloads.html](http://j2store.org/my-downloads.html)
+If you have login and you are in the subscribers list, please go to this link:<link-text url = "http://j2store.org/my-downloads.html" target = "_blank" rel = "noopener"> click here </link-text>
 
 Download the **J2store Pro Package**.
 

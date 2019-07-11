@@ -67,4 +67,4 @@ And here is the J2Store Dashboard.
 ![Installation-dashboard](https://raw.githubusercontent.com/j2store/doc-images/master/getting-started/Installation/Installation-dashboard.png)
 
 
-
+Now, you are powered with j2store. Build your online store, within minutes and happy selling!

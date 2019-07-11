@@ -42,4 +42,5 @@ Assign it to the All pages or to the particular menu and Save it.
 **Video Tutorial:
 **Here is a video that would assist you on setting up multi-currency on your site:
 
-[![Currency setup](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/uLw-iEkJkFk "Setup your store with multicurrency feature")
+<videoembed src="uLw-iEkJkFk"></videoembed>
+
