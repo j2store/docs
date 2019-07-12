@@ -16,7 +16,7 @@ category: "Plugins"
 2) Prepare to redirect to payment gateway or to process payment
 3) After payment is made
 
-Introduction
+#### Introduction
 
 Creating a payment plugin for J2Store is fairly a simple process if you are good in PHP and the Joomla MVC structure.
 
@@ -29,7 +29,7 @@ So, before diving into the coding, you should first decide which type of integra
 
 Most payment gateways provide both these types, while some gateways only provide you with a Redirect method.
 
-**Plugin Structure**
+#### Plugin Structure
 
 There is a folder structure and a few naming conventions, that should be followed during the development of a payment plugin for J2Store.
 
@@ -44,7 +44,7 @@ A typical payment plugin should look like this:
     │   │   │   ├── prepayment.php
     │   │   │   ├── message.php
 
-**Naming conventions**
+#### Naming conventions
 
 The manifest, the primary file, the template folder of the plugin should be start with the prefix "**payment_**". Otherwise, J2Store will not recognise your plugin as a payment plugin. So our example plugin is named as: **payment_example**
 
@@ -52,51 +52,53 @@ Make sure that the name of the file is in **lower case** and there are no spaces
 
 The plugin's manifest should follow the joomla plugin creation basics.An example manifest should look like this:
 
-      <?xml version="1.0" encoding="utf-8"?>
-      <extension version="2.5" type="plugin" group="j2store" method="upgrade">
-          <name>Example</name>
-          <version>1.0</version>
-          <creationDate>June 2015</creationDate>
-          <author>J2Store</author>
-          <authorEmail>support@j2store.org</authorEmail>
-          <authorUrl>http://www.j2store.org</authorUrl>
-          <copyright>2015 Example Company</copyright>
-          <license>GNU General Public License v3 or later versions</license>
-          <description>Description of your plugin </description>
-          
-          <files>
-              <filename plugin="payment_example">payment_example.php</filename>
-              <filename>index.html</filename>
-              <folder>payment_example</folder>     
-          </files>
-          <languages>
-              <language tag="en-GB">languages/en-GB.plg_j2store_payment_example.ini</language>        
-          </languages>
-          <config>
-          <fields name="params">
-            <fieldset name="basic">
+```
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="j2store" method="upgrade">
+    <name>Example</name>
+    <version>1.0</version>
+    <creationDate>June 2015</creationDate>
+    <author>J2Store</author>
+    <authorEmail>support@j2store.org</authorEmail>
+    <authorUrl>http://www.j2store.org</authorUrl>
+    <copyright>2015 Example Company</copyright>
+    <license>GNU General Public License v3 or later versions</license>
+    <description>Description of your plugin </description>
+    
+    <files>
+        <filename plugin="payment_example">payment_example.php</filename>
+        <filename>index.html</filename>
+        <folder>payment_example</folder>     
+    </files>
+    <languages>
+        <language tag="en-GB">languages/en-GB.plg_j2store_payment_example.ini</language>        
+    </languages>
+    <config>
+    <fields name="params">
+      <fieldset name="basic">
 
-      	<field 
-      	   name="articleid" 
-      	   type="text" 
-      	   size="10" 
-      	   default="" 
-      	   label="j2store_thanks_msg"
-      	   description="j2store_thanks_msg_desc"
-      	   />
+	<field 
+	   name="articleid" 
+	   type="text" 
+	   size="10" 
+	   default="" 
+	   label="j2store_thanks_msg"
+	   description="j2store_thanks_msg_desc"
+	   />
 
-      	<field 
-      	   name="geozone_id" 
-      	   type="geozonelist" 
-      	   default="" 
-      	   label="J2STORE_GEOZONE" 
-      	   description="J2STORE_GEOZONE_DESC"
-      	   addfieldpath="/administrator/components/com_j2store/models/fields" 
-      	   />
-              </fieldset>
-          </fields>
-      </config>
-      </extension>
+	<field 
+	   name="geozone_id" 
+	   type="geozonelist" 
+	   default="" 
+	   label="J2STORE_GEOZONE" 
+	   description="J2STORE_GEOZONE_DESC"
+	   addfieldpath="/administrator/components/com_j2store/models/fields" 
+	   />
+        </fieldset>
+    </fields>
+</config>
+</extension>
+```
 
 Also refer the manifest of the Paymill plugin that comes built in with the J2Store package.
 
@@ -108,7 +110,7 @@ The following parameters are standard in the payment plugins:
 
 You can create more parameters depending upon your gateway requirements. Refer the plugins that come with the J2Store package.
 
-**Creating the primary payment plugin class: payment_example.php**
+#### Creating the primary payment plugin class: payment_example.php
 
 The payment plugin class should essential have three methods :
 
@@ -138,27 +140,25 @@ The plugin will be listed in this step. When customer chooses your payment metho
 
 Use the following wrapper to display a form or a short message.
 ```
-  `function _renderForm( $data )
+  function _renderForm( $data )
 {
-    `$html = $`this->_getLayout('form', $v`ars);    
+    $html = $`this->_getLayout('form', $v`ars);    
     return $html;
-}`
+}
 ```
 
-`The **_getLayout method** will call the template / layout file (form.php) from the payment_example/tmpl/ folder.
+The **_getLayout method** will call the template / layout file (form.php) from the payment_example/tmpl/ folder.
 
 The **_getLayout** method is actually a glorified include and it accepts a second argument, which can be an object or array. You can pass any data into the second argument which can be used in the form.php
 
 The beauty of the _getLayout method is that it will respect the template overrides. So users can override the layout without editing the core file.
-`
-
-
 
 **2.Prepare to redirect customer to the gateway or to process payment at the Order summary step (Last step of the checkout)**
 
-`When customer reaches this step, the order will be saved. And you will have an order id.
+When customer reaches this step, the order will be saved. And you will have an order id.
 
 The following wrapper method is executed and it returns normally a **Place order button** (may be a hidden form). Check the Paymill plugin or the cash on delivery plugin.
+
 ```
 function _prePayment( $data )
 {
@@ -217,10 +217,6 @@ function _postPayment( $data )
 }
 
 ```
-
-
-
-
 As you can see, we use a switch to serve different purposes.
 
 In redirect methods, you will normally be asked to supply the following urls
@@ -231,7 +227,6 @@ Cancel url : Where to return customers when they cancel
 Callback (or notification): Where to send the callback (when payment is made)
 ```
 
-
 For all these three, you can use the confirmPayment task (in the checkouts.php controller)
 
 An example url would look like:
@@ -240,8 +235,10 @@ index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type
 
 Notice the two parameters here:
 
+```
 orderpayment_type = the name of the payment plugin
 paction = an action to perform in the postPayment wrapper.
+```
 
 
 If you are integrating the direct (credit card) method, then refer the Paymill or the sagePay plugins in the j2store package for more information
@@ -426,25 +423,25 @@ class plgJ2StorePayment_example extends J2StorePaymentPlugin
 
 ```
 
-
-
 If the payment is successful, you should call the following method
 
+```
 $order->payment_complete();
 $order->empty_cart();
+```
 
-If you want to update the status of order, you can call the following method`
+If you want to update the status of order, you can call the following method
 
+```
 $order->update_status($order_status_id, $notify_customer);
 
+```
 ```
 $order_status_id = The status to which the order to be set.
 You can get the ID of the order status from J2Store -> Localisation -> Order statuses.
 
 $notify_customer = a Boolen value. Whether to notify the customer or not about the update to the order.
 ```
-
-
 
 **Next steps**
 

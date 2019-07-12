@@ -43,7 +43,7 @@ Let us see how to create a custom field.
 
 In the custom field list view, click the **New** button. You will the get a screen as shown in the image below.
 
-**Add a Custom Field**
+### Add a Custom Field
 
 ![Adding a new custom field](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/custom-fields/custom_field_addnew.png)
 
@@ -77,7 +77,7 @@ You can choose the layouts to display the field. You can select all the three la
 - Checkout Shipping Address Layout
 - Checkout Payment Method Layout
 
-**Add the custom field in the checkout layout**
+### Add the custom field in the checkout layout
 
 To add the custom field into the checkout field,
 
@@ -94,7 +94,7 @@ Field name should be enclosed with square brackets (for example,**[custom\_addre
 Refer the below pictures.
 
 ![Newly added custom field](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/custom-fields/customfield-newly-added.png)
-**Adding custom fields to the checkout layout**
+### Adding custom fields to the checkout layout
 
 Custom fields can be used to collect extra input from users. For example, if you wish to collect the desired delivery date from the users at the checkout page, this can be done by creating a date type custom field and adding it to the checkout layout as indicated below:
 
@@ -105,7 +105,7 @@ Adding the custom field at the J2Store->Setup->Configuration->Checkout layout pa
 
 And if you wish to send the chosen custom fields in the email notifications, this can be done by adding the shortcode of the custom field in the email template.
 
-**How to add custom fields inside email template ?**
+### How to add custom fields inside email template ?
 
 Also, you can add custom fields you have created in the editor. To add a custom field in the editor for display, you need to follow the format given below:
 

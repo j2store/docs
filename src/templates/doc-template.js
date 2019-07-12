@@ -13,7 +13,6 @@ import Share from '../components/share';
 import Search from '../components/Search';
 import SideNav from '../components/SideNav';
 import SideNavLinks from '../constants/docsSideNavLinks';
-
 import Container from "../components/container"
 import Callout from '../components/callout'
 import Highlight from '../components/highlight'
@@ -95,13 +94,13 @@ function DocTemplate(props) {
                 <div className="row">
                     <div className="col-md-3 col-sm-12">
                         <button id="showDocNavBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
-                        <div className="aside-menu" id="docNavLinkContent">
-                            <div className="search-hero text-center">
-                                <Search collapse indices={searchIndices}/>
+                        <div className="aside-menu" id="docNavLinkContent" style={{overflowY:'scroll',height:'100vh'}}>
+                            <div className="btn-container">
+                                <Link to="/" className="btn btn-primary">Back to Docs Home</Link>
                             </div>
                             <SideNav navLinks={SideNavLinks} currentUrl={props.pageContext.slug}/>
                             <div className="btn-container">
-                                <Link to="/" className="btn btn-primary">Back to Docs</Link>
+                                <Link to="/" className="btn btn-primary">Back to Docs Home</Link>
                             </div>
                         </div>
                     </div>
@@ -127,6 +126,9 @@ function DocTemplate(props) {
                         }
                     </div>
                     <div className="col-md-6 col-sm-12">
+                        <div className="search-hero text-center">
+                            <Search collapse indices={searchIndices}/>
+                        </div>
                         <div className="single-blog-post">
                             <div className="header">
                                 <div className="image-section">
