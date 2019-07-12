@@ -75,6 +75,9 @@ class DocsPage extends React.Component {
                             </div>
                             <div className="col-md-7">
                                 <div className="docs-main-content">
+                                    <div className="search-hero text-center">
+                                        <Search collapse indices={searchIndices}/>
+                                    </div>
                                     <h1 className="page-title">Documentation</h1>
                                     <p>Advice and answers from the J2Store Team</p>
                                     <div className="home-callouts">
