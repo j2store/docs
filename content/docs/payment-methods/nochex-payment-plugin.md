@@ -80,7 +80,7 @@ Text entered here will be added as the name of the payment button.
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override.
 
 **Support**
-Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post in our support forum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

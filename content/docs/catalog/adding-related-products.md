@@ -9,12 +9,13 @@ category: "catalog"
 
 Adding related products has never been as easy as it is now. Here is how you could add up-sell and cross-sells products on your store.
 
-**To add related products in the J2Store list view.**
-**Scenario: **
+### To add related products in the J2Store list view.
+
+#### Scenario: 
 
 Let us suppose your site sells Tea cups, Tea pots and Serving plate. Let us suppose that the product Brook Ceramic serving plate from the serving plates section is related products to another product named Paragon Blue Tea cup from the Tea cups section and you wish to see the Hand painted Tea pot from the Tea pots menu in the cross-sells section. 
 
-**Steps to be done:**
+#### Steps to be done:
 
 - Create an article for Paragon Blue Teacup.
 - Create another article for Brook Ceramic Serving plate and one for the hand painted tea pot. 
@@ -29,17 +30,17 @@ Let us suppose your site sells Tea cups, Tea pots and Serving plate. Let us supp
 - In the item view page of the Tea cup, the Serving plate would be listed in the Related products section.
 - The Hand painted Tea pot would be available in the cross-sells section.
 
-**Screenshots:**
+#### Screenshots:
 
 ![Adding related products to Product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/addingrelatedproducts-to-pro.png)
 ![Menu settings](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/addingrelatedproducts-menu-settings.png)
 ![Frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/frontendrelatedproducts.png)
 
-**Video Tutorial:**
+#### Video Tutorial:
 
-[![Adding related products](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/X4QtLzaBPI0 "Adding related products")
+<videoembed src="X4QtLzaBPI0"></videoembed>
 
-**Showing related products on the cart page:**
+### Showing related products on the cart page:
 
 By default, the related products would be displayed on the item view page of the parent product only.
 
@@ -47,18 +48,18 @@ Now that we have added the related products to the required parent products, we 
 
 This can be done with the help of a module called <link-text url="https://www.j2store.org/extensions/modules/related-products-module.html" target="_blank" rel="noopener">Related products module</link-text>
 
-**How this module works:**
+#### How this module works:
 
 Once you have added related products to your parent products, all you have to do is, install the module, assign it to the pages you wish to display the related products and set a position where the module has to be displayed on the chosen pages.
 
 **NOTE: Related products module would display the related products only if the product present in the cart has associated Relations to it. That is the product in the cart should have a related product added to it.**
 
-**Installation:**
+#### Installation:
 
 - Download the module from the above link and install it through the default Joomla installer(under Extensions->Install).
 - Navigate to Extensions->Modules->Edit the related products module.
 
-**Configuration:**
+#### Configuration:
 
 The module has a number of options that allow you to customize the view of the module on the storefront.
 
@@ -70,14 +71,14 @@ Once the layout configuration is done, now navigate to the Menu assignment tab o
 ![Position assignment](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/position-assignment.png)
 ![Related product module frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/rel-pro-mod-frontend.png)
 
-**Adding related product in the Joomla article view:**
+### Adding related product in the Joomla article view:
 
 The related products in the article view has to be done with the help of <link-text url="http://docs.j2store.org/catalog/short-codes" target="_blank" rel="noopener">shortcodes.</link-text>
 
-**Scenario:**
+#### Scenario:
 The product Net has to be added as a related product to the product Basket ball. The product id of the product basket ball is 17 and the product id of the product Net is 18.
 
-**Steps to be done:**
+#### Steps to be done:
 
 - Navigate to the J2Store cart tab and add the child product in upsell or crosssell field of the relations tab 
 - Navigate to the product article of Basket ball->J2Store cart tab->Copy the shortcode**	{j2store}17\|cart{/j2store}	**
@@ -88,7 +89,8 @@ The product Net has to be added as a related product to the product Basket ball.
  **	{j2store}18\|cart{/j2store}**
 - Paste the shortcode at the content tab
 
-![Cart shortcode](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/cart-shortcode.png)- 
+![Cart shortcode](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/cart-shortcode.png)
+
 - Navigate to J2Store->Setup->configuration->cart->Add to cart placement->Using tag
 ![Configuration setting to display products using shortcode](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/shortcode-configuration.png)
 
@@ -97,7 +99,7 @@ The product Net has to be added as a related product to the product Basket ball.
 - Navigate to the Item view of the plugin and choose the Product block position there as well
 
 ![Item view settings](https://raw.githubusercontent.com/j2store/doc-images/master//catalog/adding-related-products/content-plugin-item-view.png)
-**Frontend display**
+#### Frontend display
 
 ![Item view settings](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/content-plugin-item-view.png)
 ** Frontend display**
@@ -105,7 +107,7 @@ The product Net has to be added as a related product to the product Basket ball.
 
 ![Parent product on frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/frontend-parent-pro.png)
 
-**Related product view**
+#### Related product view
 
 ![Front view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-related-products/rel-pro-view-front.png)
 

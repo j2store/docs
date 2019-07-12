@@ -6,18 +6,18 @@ description: "Here is a list of options types that J2Store offers"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
+### Options
+In this page, the information to add new custom options are given
 
-In this page, the information to add new custom options are given.
-
-**Unique Name**
+#### Unique Name
 
 A unique name should be given for every option since ambiguity should not arise out of that. Otherwise, if two options have same name, things would mess up.
 
-**Display / Presentation**
+#### Display / Presentation
 
 What is given here will be displayed for that option.
 
-**Type**
+#### Type
 
 There are 9 types of options available in J2Store. Of the 9, 3 options have multiple option values. Here is how it goes...
 
@@ -56,17 +56,21 @@ For these options, setting up of option values is not possible.
 
 Also, the images set for the options would only be visible for radio type options and not others.
 
-**Limitations**
+#### Limitations
 
  NOTE: The variable product type alone does NOT support Text, Textarea, File, Date, Datetime and time option types.
 
 In other words variable product type supports only Radio and Dropdown option types.**
 
-**Video Tutorials:**
+#### Video Tutorials:
 
  Here are videos that could help you create options and associate them with products:
-[![Selling products with options](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/qCAg-auEoHg "Selling products with options")
+<videoembed src="qCAg-auEoHg"></videoembed>
 
-[![Allowing users to upload a file](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/12WWF5vU7s0 "Allowing users to upload a file")
+<videoembed src="12WWF5vU7s0"></videoembed>
 
-[![Getting additional information from users](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/9bLm8obOcn0 "Getting additional information from users")
+<videoembed src="9bLm8obOcn0"></videoembed>
+
+
+
+

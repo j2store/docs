@@ -19,19 +19,19 @@ Online communication ok:(Comunicación on-line OK:) set to Yes (SI)
 
 Answer required ok:(Respuesta requerida OK:) set to Yes (SI)
 
-**Requirements**
+### Requirements
 * PHP version 5.4 +
 * Joomla 3.x +
 * J2Store 3.x +
 
-**Installation**
+### Installation
 1. Download CECA Payment plugin from our site and install it using Joomla installer.
 2. After installing the plugin, go to J2Store > Setup > Payment methods.
 3. Enable CECA payment gateway for J2Store.
 4. Now open the plugin and configure the basic settings of the app.
 
 **Where to find the Merchant ID, Encryption key, Acquirer BIN, Terminal ID ?**
-1. Log into your account through the address <link-text url = ¨https://comercios.ceca.es/"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+1. Log into your account through the address <link-text url = "https://comercios.ceca.es/" target = "_blank" rel = "noopener"> click here </link-text>
 2. Enter your User number and password, you get the following screen
 3. You can switch between real and testing environment on top left box. If you would like to use testing environment, click on Cambiar a datos de pruebas (change to test data) and the page will change from a blue to red which indicates that we are in a test environment.
 
@@ -54,14 +54,14 @@ Answer required ok:(Respuesta requerida OK:) set to Yes (SI)
 
 **Comunicación on-line OK:  SI**
 
-URL online OK: <link-text url = "http://yoursite.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_ceca&paction=process&tmpl=component"target = ¨_blank"rel = ¨noopener¨>  click here </link-text>
+URL online OK: <link-text url = "http://yoursite.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_ceca&paction=process&tmpl=component" target = "_blank" rel = "noopener"> click here</link-text>
 
 (you can check this url in our plugin's settings page)
 
 **Respuesta requerida OK: SI**
 
 ![cecaonline](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ceca-payment/ceca-url-online.png)
-
+    
 
 7. Save.
 
@@ -71,7 +71,7 @@ Test Card Number: 5020080001000006
 Expiration date: (December of current year)
 CVV2: 989
 
-**Payment plugin Configuration**
+### Payment plugin Configuration
 
 **Payment option title**
 The value entered here will be used as the title for the payment. Customer will see this value when he checks out.
@@ -80,7 +80,7 @@ The value entered here will be used as the title for the payment. Customer will 
 This image will be displayed while payment options are listed in the checkout page.
 
 **IPN URL**
-Copy the url given here and paste it in payment configuration page <link-text url = ¨https://comercios.ceca.es/"traget = ¨_blank"rel = ¨noopener¨> click here </link-text>
+Copy the url given here and paste it in payment configuration page <link-text url = "https://comercios.ceca.es/" traget = "_blank" rel = "noopener"> click here </link-text>
 
 **Merchant ID**
 Enter the merchant ID associated with live CECA account.

@@ -9,19 +9,19 @@ category: "payment methods"
 
 This pulgin integrates CardSava payment plugin with J2store.
 
-**System Requirements**
+### System Requirements
 * PHP 5.4 or greater
 * Joomla 3.x
 * J2Store 3.2.x or greater
 
-**Installation Instructions**
+### Installation Instructions
 
 * Use the Joomla installer to install the plugin.
 * In the backend, go to J2store Dashboard -> Payment methods and enable plugin.
 * Open the plugin and enter the parameters (read the explanation about each parameter given below)
 * Save and close it.
 
-**Configuration**
+### Configuration
 
 The plugin has the following parameters need to be addressed.
 
@@ -51,8 +51,9 @@ This is your merchant ID provided by CardSave payment. You will get this when yo
   Add Payment Process Domain provided by the CardSave when you signup.
   
   
-  ![cdsv](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_one.png)
-  
+  ![cdsv1](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_one.png)
+         
+     
   **Payment Process Port**
 
 You will get your Payment Process Port with payment process domain through Email when you signup.
@@ -83,7 +84,9 @@ The text entered here will be displayed to the customer at the order summary scr
   
   
 
-  ![](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_two.png)
+![cdsv2](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_two.png)
+
+  
 
   
 **Display text on after payment**
@@ -109,4 +112,9 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 ![](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/Cardsave-payment-plugin/cardsave_three.png)
   
   
-  
+  **Support**
+
+Still have questions? You can post in our support forum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
+
+Thank you for using our extension.
+

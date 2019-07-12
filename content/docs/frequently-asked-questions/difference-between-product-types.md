@@ -7,7 +7,7 @@ author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
 
-**Introduction**
+### Introduction
 
 J2Store has multiple product types to facilitate user requirements. The following are the basic product types that come with the J2Store package:
 
@@ -17,7 +17,7 @@ J2Store has multiple product types to facilitate user requirements. The followin
 - Downloadable
 - Flexivariable 
 
-**Simple product**
+#### Simple product
 
 This is one among the most basic product types of J2Store. When the product requirement is simple and doesn't involve in something more than setting up options, you could choose to use this product type.
 
@@ -25,7 +25,7 @@ This is one among the most basic product types of J2Store. When the product requ
 
 A T-shirt has to be sold. It should have the options size and color.
 
-**Variable product**
+#### Variable product
 
 This product type involves quite a bit of complexity. When you wish to use combination of options or when you wish to maintain inventory or separate shipping information for each option this product type can be chosen.
 
@@ -52,7 +52,7 @@ This reduces the workload of manually creating options and setting up pricing an
 
 And also, if you wish to maintain a separate inventory for each option value, this helps.
 
-**Configurable product**
+#### Configurable product
 
 With the configurable product type, you could generate a parent-child relationship on the option values.
 
@@ -64,7 +64,7 @@ For example, The Red option should be available only when the user chooses the M
 
 The above requirement can be done with the help of a configurable product.
 
-**Downloadable product**
+#### Downloadable product
 
 When you are trying to sell digital products on your store, this product type could be used.
 
@@ -72,7 +72,7 @@ When you are trying to sell digital products on your store, this product type co
 
 If you wish to sell E-books or any content that is downloadable.
 
-**Flexivariable product**
+#### Flexivariable product
 
 The flexivariable product is an extension of the functionality of the variable product.
 
@@ -86,17 +86,20 @@ If the above product is a variable product, then the variant has to be deleted a
 
 But with a flexi-variable product, you could publish and un-publish any variant any time.
 
-**Other product types**
+#### Other product types
 
 There are other product types as well:
 
 -
-    **Advanced variable**-  <link-text url = "https://www.j2store.org/extensions/apps/advanced-variable.html" target = "_blank" rel = "noopener"> click here </link-text> 
-     **Booking product** <link-text url ="https://www.j2store.org/extensions/apps/booking-and-reservations.html" target = "_blank" rel = "noopener"> click here </link-text>
-    **Subscription product**  https://www.j2store.org/extensions/apps/subscriptions-and-membership.html
+    **Advanced variable**-  
+    <link-text url="https://www.j2store.org/extensions/apps/advanced-variable.html" target="_blank" rel="noopener"> click here </link-text> 
+     **Booking product** 
+     <link-text url="https://www.j2store.org/extensions/apps/booking-and-reservations.html" target="_blank" rel="noopener"> click here </link-text>
+    **Subscription product**  
+   <link-text url="https://www.j2store.org/extensions/apps/subscriptions-and-membership.html" target="_blank" rel="noopener">click here</link-text>
 
 
-**Advanced variable**
+### Advanced variable
 
 The advanced variable is an extension to the variable product. With a variable product, the options added to it are considered only as variants.
 
@@ -108,7 +111,7 @@ The options size and color are variants or combinations as we mentioned in the e
 
 In this case, advanced variable product type can be chosen.
 
-**Booking**
+### Booking
 
 This product type can be used when you try to use your site for renting or booking services or products.
 
@@ -116,7 +119,7 @@ This product type can be used when you try to use your site for renting or booki
 
 When you are trying to rent a car or provide a tour package this product type can be used. This allows store owners to let users book or reserve the product.
 
-**Subscription**
+### Subscription
 
 When you wish to sell paid content on your store or when you wish to sell daily, weekly, monthly, yearly membership products, this product can be used.
 

@@ -6,7 +6,7 @@ description: "Manufacturers can be created and associated with products by follo
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-
+### Introduction
 This page contains information about the manufacturers of the products that are listed in J2Store.
 
 Manufacturers are listed with the following details:
@@ -24,7 +24,7 @@ Image shown below is how a manufacturer is added.
 
 ![Add new manufacturer](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/manufacturers/manufacturer_add_new.png)
 
-**Associating them to products**
+#### Associating them to products
 
 To add the manufacturers to the product, follow the below instructions:
 
@@ -42,6 +42,6 @@ To add the manufacturers to the product, follow the below instructions:
 - Setting this option to Show all filters would display all the manufacturer filters.
 - Navigate to Item view options tab and set the option Brand	to Yes.
 
-**Frontend**
+#### Frontend
 ![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/manufacturers/manufacturers-frontend.png)
 

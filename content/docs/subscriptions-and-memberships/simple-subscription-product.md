@@ -7,7 +7,7 @@ author: "Varsha"
 category: "subscriptions and memberships"
 ---
 
-**Creating simple subscription product**
+### Creating simple subscription product
 
 Following are the steps to create a simple subscription product:
 
@@ -24,7 +24,7 @@ Pricing tab, where you could set your subscription product's price, customer gro
 
 You can set images, shipping, filters to your subscription product.
 
-How to setup pricing for subscription product ?
+### How to setup pricing for subscription product ?
 
 **Subscription price :** 
 Enter the membership price (for example,29) based on either daily or weekly or monthly or yearly basis.For example, if you would like to give subscription price $29 for only 3 months, then enter $29 in the first text box and then choose every 3rd from the dropdown list and then choose month from third dropdown list.
@@ -49,8 +49,7 @@ If you want advanced pricing, click the 'Set Prices' button and it will open up 
 ![subs create](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/simple-subscription-product/simple-sub-prod-create.png)
 
 
-**Watch the video tutorial for creating simple subscription product:**
-
+Watch the video tutorial for creating simple subscription product:
 
 <videoembed src="mNFXMLHrdjY"></videoembed>
 

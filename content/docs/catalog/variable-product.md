@@ -6,7 +6,7 @@ description: "Know how to create Variable products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-**Introduction**
+### Introduction
 
 Variable is a complex product type. It lets you define variations of a product where each variant may have a different attributes, e.g. SKU, price and stock level.
 
@@ -20,7 +20,7 @@ You will be adding a price, sku and stock PER combination.
 
 **NOTE:** If your product does not require a combination or stock / price management for each variation, then a simple product will suit your requirements.
 
-**How variable products work:**
+#### How variable products work:
 
 Variable type product uses a Matrix algorithm to generate combinations.
 
@@ -44,25 +44,25 @@ Medium - Blue
 
 If we add just one more size (Large) and one more colour (Green), this will make a 3x3 matrix - meaning 9 combinations
 
-**When to use Variable product type:**
+#### When to use Variable product type:
 
 - Only when you want to manage inventory at the variant level. Example: You want to maintain a stock for Small - Blue, Small - Red. (As you can see, when you sell a T-Shirt, you naturally maintain the stock based on the Size and the Colour... you cannot maintain an inventory just by Size or Colour)
 
 - Only when you want to set different prices for different variants (Example: Small - Blue costs $10, Medium - Red costs $15)
 
-**Disadvantage of Variable Product Type:**
+#### Disadvantage of Variable Product Type:
 
 When you change any option values or want to introduce a new variant, then entire combination (matrix) changes. So you will have to re-generate the entire variants, and set the prices.
 
-**How can i overcome this disadvantage ?**
+#### How can i overcome this disadvantage ?
 
 In the latest versions of J2Store, we introduced a new product type : [Flexible variable product](<http://docs.j2store.org/catalog/flexible-variable>)
 
 As the name suggests, it is very flexible and is based on the cartesian set algorithm. So you can add, remove a variant anytime without re-generating the entire combinations.
 
-**Creating a variable product **
+### Creating a variable product 
 
-**General**
+#### General
 
 ![General tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/var-pro-gen-tab.png)
 
@@ -72,7 +72,7 @@ As the name suggests, it is very flexible and is based on the cartesian set algo
 - Tax Profile - Specify whether the product is taxable and if it is, select the taxprofile relevant to the product
 - Cart button text - The unique text for cart button could be mentioned here.
 
-**Images**
+#### Images
 
 ![Adding images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/var-pro-images.png)
 
@@ -86,7 +86,7 @@ Lets assume that a customer would like to purchase a car. Now, car images need t
 - Thumbnail Image - The thumbnail image would be something that represents the original product, but it would be a much smaller one to fit into a button, that will be shown up in the cart. By seeing this, the customer will understand that his product is displayed on the button and will click the button to see more details about the car.
 - Additional Images - Additional images help the customer to know more details about the car, which will be showing the car view in many angles, and the customer will understand it clearly how it looks like, what the technical details of the car, the colour, and so on.
 
-**Variants**
+#### Variants
 
 Variants are products of same type and nature but with different attributes. For e.g., consider a Laptop of a particular brand with certain attributes, say
 
@@ -139,7 +139,7 @@ If you want to edit the properties of the variants, click the open all button an
 
 Now you know how to deal with variants, options, attributes, properties and how to edit them.
 
-**Filters**
+#### Filters
 
 Filters are certain attributes that help narrow the search of a particular product.
 
@@ -149,7 +149,7 @@ For e.g., assume that a customer searches for purple t-shirts in the store. Now,
 
 Now the cart will display only the purple t-shirts.
 
-**Relations**
+#### Relations
 
 ![Relations](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/var-pro-relations.png)
 
@@ -160,13 +160,13 @@ Now the cart will display only the purple t-shirts.
 
 Custom fields / settings from applications will be displayed in this tab.
 
-**A step-by-step guide to create a variable product**
+### A step-by-step guide to create a variable product
 
 **J2Store** implements an innovative concept in creating products. It uses the Joomla articles as products. So to create a product is to create an article.
 
 So, lets create an article.
 
-**Creating an Article**
+#### Creating an Article
 
 Have a look at the image below:
 
@@ -185,7 +185,7 @@ Your product is successfully created and a message will be displayed like this.
 
 ![success message for creating variable product](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/var-pro-create-success.png)
 
-**General**
+#### General
 
 Now you need to configure your product with necessary details. Begin with general tab.
 
@@ -198,7 +198,7 @@ Now you need to configure your product with necessary details. Begin with genera
 
 Now switch to Images tab.
 
-**Images**
+#### Images
 
 ![Images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/create_variable_cart_images.png)
 
@@ -208,7 +208,7 @@ You can add main, thumbnail and additional images relevant to your product in th
 
 Move on to variants tab.
 
-**Variants**
+#### Variants
 
 ![Variants](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/create_variable_cart_variants_1.png)
 
@@ -243,13 +243,13 @@ Once the variants are generated, you can edit the variants and add necessary det
 
 Having completed variants tab, now move on to filtes tab.
 
-**Filters**
+#### Filters
 
 Here, you can set the filters to narrow product search. When you set filter value as 'Mens', all mens T-Shirts will be displayed. Likewise, women and kids. See the illustration below:
 
 ![Filters](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/create_variable_cart_variants_filters.png)
 
-**Relations**
+#### Relations
 
 ![Relations](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/create_variable_cart_relations.png)
 
@@ -259,7 +259,7 @@ Also, you can add some other products to convince the customer to buy theses pro
 
 For more detailed explanation, refer to the **Relations** section of the **Variable Product**.
 
-**Apps**
+#### Apps
 
 ![Apps section](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/create_variable_cart_apps.png)
 
@@ -269,12 +269,14 @@ Now, lets have a look on how your product is viewed in your online store. Check 
 
 ![Frontend view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/variable-product/poloshirt_on_cart.png)
 
-**Video Tutorial:**
+#### Video Tutorial:
 
 Here is a video that could help you create a product with variants:
-[![Selling products with variants](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/etsNdfUYrgw "Selling products with variants")
+<videoembed src="etsNdfUYrgw"></videoembed>
 
 To know how to manage inventory for variable products, follow the instructions given here:
-[![Managing inventory for variants](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/8givojFFolM "Managing inventory for variants")
 
-[![Changing product images when variants are chosen](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/ipfyi2EtyMo "Changing images when variants are chosen")
+<videoembed src="8givojFFolM"></videoembed>
+<videoembed src="ipfyi2EtyMo"></videoembed>
+
+

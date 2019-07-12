@@ -11,20 +11,20 @@ The plugin integrates Post Finance payment with J2Store Joomla eCommerce solutio
 
 PostFinance's payment solutions offer you secure and fast payment collection. As an online shop operator, you can process all standard payment methods.
 
-**Requirements**
+#### Requirements
 
 1. PHP 5.4 or greater
 2. Joomla 3.x
 3. J2Store 3.2.x or greater
 
-**Installation**
+### Installation
 
 * Use the Joomla installer to install the plugin.
 * In the backend, go to J2store Dashboard -> Payment methods and enable plugin.
 * Open the plugin and enter the parameters (read the explanation about each parameter given below)
 * Save and close it.
 
-**Required Post finance settings**
+### Required Post finance settings
 
 **Default operation code**
 
@@ -50,11 +50,11 @@ Leave the data origin url empty
 
 ![check post finance](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/post-finance/ecommerce_check_postfinance.png)
 
-Post sale configuration : (Tab: Transaction feedback)
+**Post sale configuration : (Tab: Transaction feedback)**
 
 This is required to update our database after the payment is done. Under the heading “Direct HTTP server to server request", set both the URLs of the merchant's post payment page as below:
 
-<link-text url = ¨http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_postfinance&paction=process&tmpl=component"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+<link-text url = "http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_postfinance&paction=process&tmpl=component" target = "_blank"rel = "noopener"> click here </link-text>
 
 Request method: POST
 
@@ -63,7 +63,7 @@ Request method: POST
 ![feedback](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/post-finance/transaction_feedback_ogone.png)
 
 
-**Plugin Configuration**
+### Plugin Configuration
 
 **Payment option title**
 The value entered here will be used as the title for the payment. Customer will see this value when he checks out.
@@ -128,7 +128,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
 **Support**
-Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post in our support forum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

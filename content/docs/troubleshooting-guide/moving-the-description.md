@@ -7,7 +7,7 @@ author: "Varsha"
 category: "troubleshooting guide"
 ---
 
-**To move the description below the price section of the product**
+### To move the description below the price section of the product
 
 When you try to move the  description below the price section, for a simple product, an override has to be carried out as follows:
 
@@ -58,7 +58,7 @@ This would display the description (both short and long) below the price info. A
 
 The above steps have to be carried out for other product types as well. The override specified here would take effect on the item view page of a simple product. The files to be overridden are "view_variable.php", "view_configurable.php" and "view_downloadable.php"
 
-**To move the description above the price section of the product**
+### To move the description above the price section of the product
 
 When you try to move the  description above the price section, for a simple product, an override has to be carried out as follows:
 

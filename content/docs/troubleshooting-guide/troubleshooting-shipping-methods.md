@@ -7,15 +7,15 @@ author: "Varsha"
 category: "troubleshooting guide"
 ---
 
-**Introduction**
+### Introduction
 
 You have installed the shipping plugin but it doesn't show up during the checkout. Here are a list of reasons that might be preventing the plugin from fetching shipping cost real-time from the APIs of the Shipping carrier.
 
-**Common Issues**
+### Common Issues
 
 There are certain common issues that prevents the shipping methods from showing up in the checkout.
 
-**Enable Shipping**
+#### Enable Shipping
 
 Well. This might sound trivial. But some of us often forget to turn on the Enable shipping switch while creating the product. Make sure that Enable shipping is set to YES.
 
@@ -24,7 +24,7 @@ By default, Enable Shipping is set to NO. So this should be your first check.
 ![shipping enable](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/shipping_enable_item.png)
 
 
-Geozone
+#### Geozone
 
 All the plugins come with a geozone filter setting.
 
@@ -43,7 +43,7 @@ Based on the shipping address provided by the customer, the system will look up 
 
 ![geozone setting](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/shipping_geozone_setting.png)
 
-**Issues specific to standard shipping methods**
+#### Issues specific to standard shipping methods
 
 J2Store comes with seven standard shipping methods built-in. The following are some of the common issues:
 
@@ -55,17 +55,17 @@ Shipping method configuration
 4. It seems to be caching so the rates are not get saved properly. Open your shipping rates and save it once again. Clear the cache and check.
 
 
-**Set Rates**
+#### Set Rates
 
 After creating a shipping method (by going to J2Store admin -> Set up -> Shipping -> Standard Shipping Methods), you can see a link named Set Rates. Click on it to set the shipping rates for the chosen shipping type.
 
-**Issues specific to plugins like USPS, FedEx, UPS, CanadaPost, Australia Post**
+### Issues specific to plugins like USPS, FedEx, UPS, CanadaPost, Australia Post
 
 Shipping carriers have different limitations in the methods offered by them. For example, UPS only accepts Pound / Inch, Kilogram / Centimetre as the weight / dimension combination. A change in this would result in an error and no methods will be shown.
 
 The following are common issues which affect the display of shipping methods.
 
-**Weight and Dimensions**
+#### Weight and Dimensions
 
 All the shipping carriers use the weight and the dimension of your product (Length, Width & Height) of your products ) to calculate the shipping cost (besides using the destination address). So make sure that you enter the Weight and the dimension of your product.
 
@@ -74,21 +74,21 @@ You should select the weight and the length measurement unit from the drop down 
 ![weight and dimensions](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-shipping-methods/weight_and_dimensions.png)
 Also make sure that you choose the correct measurement units in the plugin settings as well. If the measurement units used in the products does not match with the settings in the plugin, then J2Store will attempt to convert the values to the measurement unit set in the plugin.
 
-**API credentials**
+#### API credentials
 
 All shipping carriers have a web service and provide credentials to access their Rate API. Some of the carriers like USPS offer TEST accounts as well.  Make sure you enter these credentials correctly in the Plugin. Some of the carriers provide Customer number (like Canada Post ) and a few other parameters as well. Refer the documentation PDF that come with each plugin for more information.
 
-**Currency**
+#### Currency
 
 In USPS shipping plugin, if the shipping server is queried, the server will return the list of options and their corresponding rates in US$. The shipping plugin may not show the rates if USD is not present in your list of currencies and you have configured a currency other than the US $, like CAD or AUD. To avoid this issue, you must have USD as a currency  in your list of currencies. This will solve the issue.
 
-**UPS accepted measurements**
+#### UPS accepted measurements
 
 Only KG (Kilogram) and LB (Pound) are supported by UPS as the weight measurement units.  Similarly, only IN (Inch) and CM (Centimetres) are supported as length measurement units.
 
 And there is more.  If you use Pound (LB) as the weight measurement, then the length measurement should be Inch (IN). Similar if KG is used, then CM should be the measurement. A wrong combination will result in an error.
 
-**Debug Mode**
+#### Debug Mode
 
 In your plugin settings, set the Debug mode to YES. This will allow the plugin to log the responses sent by the APIs of the shipping carriers.
 

@@ -8,15 +8,15 @@ category: "payment methods"
 ---
 
 
-The plugin integrates with the DIBS Payment Window method. Refer this page for more information. <link-text url =¨http://www.dibspayment.com/dibs-payment-window"traget = ¨_blank"rel =¨noopener¨> click here </link-text>
+The plugin integrates with the DIBS Payment Window method. Refer this page for more information. <link-text url ="http://www.dibspayment.com/dibs-payment-window" traget = "_blank"rel ="noopener"> click here </link-text>
 
-**Requirements**
+### Requirements
 
 1. PHP 5.2 or higher
 2. Joomla 2.5.x
 3. J2Store 2.0.2 or above
 
-**Installation Instructions**
+### Installation Instructions
 
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to Extensions->Plugin Manager and open the DIBS Payment Window plugin(type = j2store).
@@ -26,7 +26,7 @@ The plugin integrates with the DIBS Payment Window method. Refer this page for m
 
 Now you can see the DIBS Payment Window as an option during the Check out process.
 
-**Configuration**
+### Configuration
 
 The plugin has the following parameters need to be addressed:
 
@@ -75,6 +75,6 @@ You can enter a language constant as a value here if you are using a multi-lingu
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.

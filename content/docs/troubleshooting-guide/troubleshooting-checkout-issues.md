@@ -7,7 +7,7 @@ author: "Varsha"
 category: "troubleshooting guide"
 ---
 
-**How to enable guest checkout only?**
+### How to enable guest checkout only?
 
 * Would you like not to allow customers to register and only want to enable guest checkout alone ?
 * J2Store allows you to do that simple steps.
@@ -21,7 +21,7 @@ category: "troubleshooting guide"
 ![guest checkout only](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-checout-issues/guest-checkout-only.png)
 
 
-**Is your layout of checkout form displaying in single column?**
+### Is your layout of checkout form displaying in single column?
 
 It seems to be choosing of wrong bootstrap class for cart and checkout pages.
 
@@ -44,7 +44,7 @@ Do you see some thing like below in checkout billing address layout and checkout
 Simply remove this and leave the text area empty.
 Save and check.
 
-**Checkout steps not working ?**
+### Checkout steps not working ?
 
 The checkout steps in J2Store use AJAX extensively in order to provide customers with a better online shopping experience. Customers do not have to wait for the checkout pages to refresh. The entire checkout is handled within a SINGLE PAGE and the checkout steps are loaded in an accordin style.
 
@@ -63,7 +63,8 @@ Since checkout steps are loaded in real-time using Ajax, any Javascript conflict
 
 **Solution:** Installing and configuring a Javascript manager like jQuery Easy plugin will solve most of the issues. If the problem remains unsolved, follow the troubleshooting method described below.
 
-**Troubleshooting Method:** Open your website in the Google Chrome browser. Open the browser menu and go to Tools -> Developer Tools
+**Troubleshooting Method:**
+Open your website in the Google Chrome browser. Open the browser menu and go to Tools -> Developer Tools
 
 You can see the Developer Tools window opening at the bottom of the browser. Navigate to the Console tab.
 
@@ -81,7 +82,7 @@ If the problem continues, go to Joomla admin - system - System Information tab.
 
 > IMPORTANT NOTE: The following instruction applies only to those running PHP on a FreeBSD operating system.
 
-Check the value for PHP Built On. It tells you the Operating system of your hosting server.  If it says, FreeBSD, then contact your host. In FreeBSD, the Filter extension is not enabled by default. Enabling it solves the problem. More information can be found <link-text url ="in this thread" target = "_blank" rel = "noopener"> click here </link-text>
+Check the value for PHP Built On. It tells you the Operating system of your hosting server.  If it says, FreeBSD, then contact your host. In FreeBSD, the Filter extension is not enabled by default. Enabling it solves the problem. More information can be found <link-text url="https://forums.freebsd.org/threads/30465/" target="_blank" rel="noopener"> in the thread </link-text>
 
 Sometimes, it might also be because of a small misconfiguration. Please make sure that you have set the option Prevent user from checking out if no shipping is selected under J2Store->setup->configuration->cart.
 
@@ -89,7 +90,7 @@ Sometimes, it might also be because of a small misconfiguration. Please make sur
 
 > VERY IMPORTANT: This option should be set to Yes only if you have shipping methods configured and want to stop the user from creating an order without selecting the shipping costs. If not, this might block the checkout process.
 
-**Checkout goes in Loop**
+### Checkout goes in Loop
 
 Sometimes, customers will be redirected from the Shipping and Payment step to the first step (Loop). Or you may not be able to proceed when you click Continue at the Billing or the Shipping step.
 
@@ -101,7 +102,7 @@ Make sure the following fields are set as per the configuration given below. And
 
 If you still face issues, then there could be several reasons for this behavior. Please create a private ticket (Go to the support menu ) and provide super user logins. One of our developer will help you troubleshoot and solve the problem.
 
-**Could not proceed to payment step. Stuck at the Shipping step**
+### Could not proceed to payment step. Stuck at the Shipping step
 
 Make sure you are not having any old template overrides. If you are using a template like JSN One, you might be having template overrides for checkout layout.
 
@@ -110,7 +111,7 @@ Make sure you are not having any old template overrides. If you are using a temp
 * If yes, rename it as: old_checkout
 * Now check.
 
-**Checkout Login and Registration not works**
+### Checkout Login and Registration not works
 
 It is because the permission you have given at Joomla global configuration might be wrong.
 
@@ -124,7 +125,7 @@ If you are using the content component K2, then please make sure the K2 user pro
 * Set NO Enable K2 User Profile
 * Save.
 
-**How to set default payment option in checkout payment step ?**
+### How to set default payment option in checkout payment step ?
 
 Go to J2Store >  Configuration > Cart tabYou can see the param named "Default payment method"Choose your payment method from the dropdown listSave.
 

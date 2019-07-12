@@ -13,17 +13,17 @@ You can configure the plugin in less than 10 minutes and start accepting payment
 
 The plugin also allows you to the test your integration before going production.
 
-**Supported countries**
+### Supported countries
 
 Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominicana, Ecuador, Honduras, Guatemala, Mexico, Nicaragua, Panamá, Perú, Portugal, El Salvador, Uruguay, Venezuela
 
-**Requirements**
+### Requirements
 
 1. PHP version 5.5 +
 2. J2Store version 2.7.3 +
 3. Joomla version 3.x
 
-**Installation**
+### Installation
 
 * Download the payment plugin from our site and install it via Joomla installer
 * After installing the plugin, go to J2Store > Setup > Payment methods and enable Mercadopago.
@@ -36,7 +36,7 @@ Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Dominicana, Ecuador, Hond
 
 ![credentials](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/mercadopago-payment/mercado-keys.png)
 
-**Configuration**
+### Configuration
 
 **Payment option title**
 The value entered here will be used as the title for this payment method. Customer will see this value when he checks out.
@@ -105,6 +105,6 @@ You can enter a language constant as a value here if you are using a multi-lingu
 Choose YES to enable the debug mode. If you set this to yes, then debug messages will be logged and saved in the cache folder in your Joomla root directory. DO NOT select YES in the live site.
 
 **Support**
-Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post in our support forum: <link-text url ="http://j2store.org/forum/index.html" target="_blank" rel="noopener">click here</link-text>
 
 Thank you for using our extension.

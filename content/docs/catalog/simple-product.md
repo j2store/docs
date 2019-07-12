@@ -7,18 +7,18 @@ author: "Sowbagya lakshmi"
 category: "catalog"
 ---
 
-**Introduction**
+### Introduction
 
 A most common product type. It suits the requirements of most of the store owners.
 
 You can create a simple product with or without product options. The inventory for this product type is managed for the primary product (Not for the options). All option types can be associated with the simple product.
 ![Simple product dashboard](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-dashboard.png)
 
-**Creating a simple product**
+### Creating a simple product
 
 Lets go through the available settings / fields for the simple product type.
 
-**General**
+#### General
 
 The general tab has several fields, in which we need to enter the necessary and relevant details, attached with the product.
 
@@ -39,7 +39,7 @@ Have a look at the image below:
 - Product css class - Use this option add unique css class to each product. 
 
 
-**Pricing**
+#### Pricing
 
 Add the price of your product. Depending on your requirement, you can also choose to configure an advanced pricing from here.
 
@@ -59,7 +59,9 @@ The price will be added and displayed below. You can edit that if you need, and 
 
 If you want to remove that, you can do it by clicking the **Remove** button.
 
-**Inventory**\* This is J2Store PRO exclusive feature \*
+#### Inventory
+
+* This is J2Store PRO exclusive feature \*
 
 This tab has the configuration setup facility for inventory management. Here you can set the following details with respect to inventory. Check the image below:
 ![Simple product inventory](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simple-pro-inventory.png)
@@ -85,12 +87,11 @@ This option is for those who sell fast moving products. So even if a product sto
 - Quantity Restriction - Choose whether purchase quantity is restricted and if Yes, set the limits for minimum and maximum quantity for a purchase by entering the quantities in the fields provided
 - Use store configuration - If you select 'Use store configuration', you cannot enter max and min quantity fields, as they will be disabled
 
-**Video Tutorial:**
+#### Video Tutorial:
 
-The following video would help you configure the inventory for your products:
-[![Inventory](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/LLDVWW1FfdM "Inventory")
+<videoembed src="LLDVWW1FfdM"></videoembed>
 
-**Images**
+#### Images
 
 In this tab you can add images that can help the customer to understand more clearly, the product he wants to buy. Images help the prospect to imagine how the product intended to purchase will look like.
 
@@ -105,9 +106,10 @@ Lets assume that a customer would like to purchase a car. Now, car images need t
 - Main Image - The main image will be a general photo image of the car, that has to be uploaded by clicking on the 'Select an image' button and select the appropriate image from the files.
 - Thumbnail Image - The thumbnail image would be something that represents the original product, but it would be a much smaller one to fit into a button, that will be shown up in the cart. By seeing this, the customer will understand that his product is displayed on the button and will click the button to see more details about the car.
 - Additional Images - Additional images help the customer to know more details about the car, which will be showing the car view in many angles, and the customer will understand it clearly how it looks like, what the technical details of the car, the colour, and so on.
- [![Images](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/maTqM-vA2zU "Images")
+ 
+ <videoembed src="maTqM-vA2zU"></videoembed>
 
-**Shipping**
+#### Shipping
 
 This tab has the configuration setting for shipping. Any product that has been purchased, has to be shipped to the customer, if the product is physically deliverable.
 
@@ -122,7 +124,7 @@ As shown in the image, you need to do the following activities to configure ship
 - Weight - Enter the net weight of the product when packed in the field provided
 - Weight Class - Select the weight class from the list like Kg, grams, pounds, etc.
 
-**Options**
+#### Options
 
 In this tab, you can set your preferred options for a particular product like, colour of the product, size of the product, weight of product, mass of the product etc.
 
@@ -138,7 +140,7 @@ In the image, you have a text field to enter the option name like color, size et
 
 If an option is created and set already, you can also import it here rather create a new option. Click the button and it will direct you to the predefined options, if any.
 
-**Filters**
+#### Filters
 
 Filters are certain attributes that help narrow the search of a particular product.
 
@@ -148,7 +150,7 @@ For e.g., assume that a customer searches for purple t-shirts in the store. Now,
 
 Now the cart will display only the purple t-shirts.
 
-**Relations**
+#### Relations
 
 Relations are used to promote sales by suggesting the customer with higher value products than the one being looked and additional products to be bought with a particular product.
 
@@ -167,12 +169,12 @@ Your suggestions could be like this:
 - 4GB/1TB -> $700 - Upsell, same product family, more expensive
 - Laptop Bag -> $25 - Cross sell, related product, additional sell
 
-**App**
+### App
 
 Custom fields / settings from applications will be displayed in this tab.
 
-**A step-by-step guide to create a simple product
-**
+#### A step-by-step guide to create a simple product
+
 **J2Store** implements an innovative concept in creating products. It uses the Joomla articles as products. So to create a product is to create an article.
 
 So, lets create an article a.k.a a simple product
@@ -253,9 +255,9 @@ Now, lets have a look on how your product is viewed in your online store. Check 
 
 ![Simple product on frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/simple-product/simpl-epro-frontend.png)
 
-**Video Tutorials:**
+#### Video Tutorials:
 
-[![Simple product creation](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/W8FvgG5vY-Y "Creating a simple product")
+<videoembed src="W8FvgG5vY-Y"></videoembed>
 
-[![Selling products with options](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/qCAg-auEoHg "Selling products with options")
+<videoembed src="qCAg-auEoHg"></videoembed>
 

@@ -68,7 +68,7 @@ To set-up a notification you should perform the following steps:
 
 **Process Notification:** Online
 
-**Destination:** <link-text url ="http://your_domain_name.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_securetrading&paction=process"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+**Destination:** <link-text url ="http://your_domain_name.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_securetrading&paction=process" target = "_blank" rel = "noopener"> click here </link-text>
 
 NOTE: replace your_domain_name.com in the url with your domain name.
 
@@ -97,13 +97,13 @@ The notification will now have been enabled.
 **2.4. Redirect**
 You must set-up a redirect before this plugin will work correctly.
 
-Please complete the Redirect Form and email it to our support department at <link-text url =¨support@securetrading.com"target =¨_blank"rel = ¨noopener¨> click here </link-text>
+Please complete the Redirect Form and email it to our support department at <link-text url ="support@securetrading.com"target ="_blank"rel = "noopener"> click here </link-text>
 
-The Redirect Form can be downloaded here: <link-text url =¨http://securetrading.com/sites/default/files/downloads/ppages/STPP_Redirect_Request_Form.doc"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+The Redirect Form can be downloaded here: <link-text url ="http://securetrading.com/sites/default/files/downloads/ppages/STPP_Redirect_Request_Form.doc" target = "_blank" rel = "noopener"> click here </link-text>
 
 The following information should be inserted into the redirect form:
 
-**Redirect URL:** <link-text url =¨http://your_domain_name.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_securetrading&paction=display_message"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+**Redirect URL:** <link-text url ="http://your_domain_name.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_securetrading&paction=display_message" target = "_blank"rel = "noopener"> click here </link-text>
 
 NOTE: replace your_domain_name.com in the url with your domain name.
 
@@ -120,7 +120,7 @@ This feature can be enabled by following these steps:
 1. Head to the Securetrading plugin configuration ('Joomla Admin''Extensions Manager''Plugin Manager' - 'SecureTraing Payments'  - 'Edit').
 2. Enter a hard to guess combination of letters and numbers into the 'Site Security Password' field.  This combination should be at least 8 characters long.
 3. Click 'save'.
-4. You must now contact Support by emailing <link-text url ="support@securetrading.com"target = ¨_blank"rel = ¨noopener¨> click here </link-text>.  Inform them that you have "enabled the Site Security Password Hash".  When prompted for a list of "enabled fields", you must tell themthe following, in this order:currencyiso3amainamountsitereferencesettlestatussettleduedatePASSWORD *
+4. You must now contact Support by emailing <link-text url ="support@securetrading.com"target = "_blank" rel = "noopener"> click here </link-text>  Inform them that you have "enabled the Site Security Password Hash".  When prompted for a list of "enabled fields", you must tell themthe following, in this order:currencyiso3amainamountsitereferencesettlestatussettleduedatePASSWORD *
 
 'Site Security' is now enabled.  Remember to never tell any other individuals your Site Security Password.  Do not store hard copies of this password anywhere.
 

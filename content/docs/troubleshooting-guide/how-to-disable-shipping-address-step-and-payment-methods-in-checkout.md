@@ -11,7 +11,7 @@ Many owners of small online stores have asked us how to disable the Shipping add
 
 and Shipping & Payment Method sections in the checkout. This guide explains the steps to hide the checkout steps.
 
-Hiding Shipping Address section
+### Hiding Shipping Address section
 
 **Step 1**
 Go to J2Store -> Configuration -> Cart tabSet the Enable Shipping address fields to No.
@@ -33,7 +33,7 @@ Similarly, you should have ONLY ONE shipping method enabled.
 If you created and enabled two or more shipping methods, then you cannot disable this section.
 
 Add the following CSS at the end of your template's CSS file to hide the Shipping and Payment Methods blocks.
-
+```
 #shippingcost-pane {
 display: none;
 }
@@ -41,14 +41,14 @@ display: none;
 #onCheckoutPayment_wrapper {
 display: none;
 }
-
+```
 Save.
 
 Now the Shipping and Payment methods blocks won't be displayed.
 
 > NOTE: You cannot hide or skip shipping /payment methods step. You can just hide its contents. The customer will still have to go through this step and click the continue button in order to progress to the order summary page.
 
-**Billing Address**
+### Billing Address
 
 You cannot disable the Billing address entirely.  However, you can reduce the number of fields in the billing address section.
 

@@ -100,3 +100,5 @@ Next is the category view tab where you could find settings for controlling the 
 
  Set the width of the image in pixels
 
+
+s

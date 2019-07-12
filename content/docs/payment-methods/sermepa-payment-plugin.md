@@ -9,7 +9,7 @@ category: "payment methods"
 
 This plugin integrates the TPV RedSys / Servired / Sermepa  payment system used by Spanish banks. It supports banks including -  La Caixa, Banco Sabadell, Caixa Penedes, Caja Rural, Unnim, Deutsche Bank.
 
-Full list can be read from here: <link-text url =  ¨http://www.servired.es/espanol/miembros.htm"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+Full list can be read from here: <link-text url =  "http://www.servired.es/espanol/miembros.htm" target = "_blank" rel = "noopener"> click here </link-text>
 
 **Configuration Parameters**
 
@@ -84,5 +84,5 @@ You can entr a language constant as a value here if you are using a multi-lingua
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can post your questions in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post your questions in our support forum: <link-text url ="http://j2store.org/forum/index.html" target ="_blank" rel ="noopener">click here</link-text>
 

@@ -10,10 +10,10 @@ category: "payment methods"
 
 This plugin integrates DirecPay payment gateway with J2Store.
 
-**Installation**
+### Installation
 You can install the plugin through the standard Joomla installer.
 
-**Configuration**
+### Configuration
 
 **Payment Option title**
 The value entered here will be used as the title for this payment method. Customer will see this value when he checks out.
@@ -63,7 +63,7 @@ The text of the payment button. The button will be displayed at the final checko
 
 **Support**
 
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

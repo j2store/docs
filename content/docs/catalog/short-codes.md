@@ -19,7 +19,7 @@ However, article layouts / core joomla layouts dont. That is why the short code 
 Adding more short codes to j2store pages (which already processes the products) would result in force processing / invoking j2store again and again resulting in performance issues.
 ```
 
-**Additional short codes**
+### Additional short codes
 
 In addition to the primary short code, you can also use the following additional codes inside {j2store}{/j2store} . Each code should be separated by a pipe (\|) symbol.
 
@@ -27,7 +27,7 @@ To place this shortcode, first and most important thing is to change the Add to 
 
 Go to J2Store > Configuration > Cart tabSet the Add to cart placement to Both or Within article using tag.Save.
 
-**Example:**
+#### Example:
 
 {j2store}xx\|upsells\|crosssells{/j2store}
 
@@ -67,14 +67,14 @@ List of shortcodes available and their description
 **Crosssells** \- This shows cross selling of products{j2store}XX\|crosssells{/j2store}
 ![Crosssells](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_crosssells.png)
 
-**Example**
+#### Example
 
 {j2store}1\|thumbnail\|cart{/j2store}
 
 ![Cart thumb](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/short-codes/shortcode_cart_thumb.png)
 
-**Video Tutorial:**
+#### Video Tutorial:
 
-[![Shortcodes](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/YwgwQj83cMo "Shortcodes")
+<videoembed src="YwgwQj83cMo"></videoembed>
 
 

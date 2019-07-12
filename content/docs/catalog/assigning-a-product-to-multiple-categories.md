@@ -11,17 +11,17 @@ With the conventional list layout, it is possible to organize products based on 
 
 Overcoming this, now we have the tag layout where it is possible for a product to be assigned to multiple categories.
 
-**Steps to be followed:**
+### Steps to be followed:
 
 - Create tags that you wish to link with the product.
 - Create a product and add the tags to the product.
 - Create menus and link the tags with the respective menus.
 
-**Scenario**
+### Scenario
 
 Products like Coffee mugs should be available under two categories- Kitchen appliances and Gifts.
 
-**Steps to be done:**
+#### Steps to be done:
 
 - Create two tags:GiftsKitchen appliances
 - Create a product named coffee mugs.
@@ -31,12 +31,17 @@ Products like Coffee mugs should be available under two categories- Kitchen appl
 
 Likewise, we can assign products to as many categories as we wish.
 
-**Relevant Screenshots:**
+#### Relevant Screenshots:
 
 ![Creating tags](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-create-tags.png)
 ![Associating the tags with products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags.png)
-![Kitchen menu of the type tag view](/home/flycart63/Desktop/j2dc/content/images/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-menus-kitchen.png)
+
+
+![kitchenmenu](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-menus-kitchen.png)
+
+
 ![Gifts menu of the type tag view](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/adding-product-to-many-cat/add-pro-to-mul-cat-add-tags-menus-gifts.png)
+
 
 The front end view is like this:
 

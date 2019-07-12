@@ -7,17 +7,17 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-The DIBS Plugin enables you to receive payments via DIBS Payment Solution, a leading payment solution provider in Nordic countries. <link-text url =¨http://www.dibspayment.com/"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+The DIBS Plugin enables you to receive payments via DIBS Payment Solution, a leading payment solution provider in Nordic countries. <link-text url ="http://www.dibspayment.com/" target = "_blank" rel = "noopener"> click here </link-text>
 
-NOTE: The Plugin uses the Flexwin payment method . Please refer more about this integration method in <link-text url =¨http://tech.dibs.dk/integration_methods/flexwin/flexwin_introduction/"target = ¨_blank"rel =¨noopener¨> click here </link-text>
+NOTE: The Plugin uses the Flexwin payment method . Please refer more about this integration method in <link-text url ="http://tech.dibs.dk/integration_methods/flexwin/flexwin_introduction/" target = "_blank"rel ="noopener"> click here </link-text>
 
-**Requirements**
+### Requirements
 
 * PHP 5.2 or higher
 * Joomla 2.5.x
 * J2Store 2.0.2 or above
 
-**Installation Instructions**
+### Installation Instructions
 
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to Extensions->Plugin Manager and open the DIBS Payments plugin(type = j2store).
@@ -27,7 +27,7 @@ NOTE: The Plugin uses the Flexwin payment method . Please refer more about this 
 
 Now you can see the DIBS Payments as an option during the Check out process.
 
-**Configuration**
+### Configuration
 
 The plugin has the following parameters need to be addressed:
 
@@ -55,7 +55,7 @@ This is an optional parameter.
 
 **Currency Code**
 
-Currency code provided by DIBS refer: <link-text url=¨http://www.dibs.se/toolbox/currency_codes/" target = ¨_blank"rel =¨noopener¨> click here </link-text> 
+Currency code provided by DIBS refer: <link-text url="http://www.dibs.se/toolbox/currency_codes/" target = "_blank" rel ="noopener"> click here </link-text> 
 eg: 208 for DKK
 
 **Use DIBS Sandbox**
@@ -114,6 +114,6 @@ The text of the payment button. The button will be displayed at the final checko
 
 **Support**
 
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.

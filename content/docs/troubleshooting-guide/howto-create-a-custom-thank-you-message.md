@@ -11,13 +11,13 @@ You can display a thank you message, instructions or information to your custome
 
 if you are using offline payment, then you can include instructions or bank account details in the article and display it to the customer. You can use this feature on a number of ways.
 
-**Step 1: Create an article**
+### Step 1: Create an article
 
 1. Go to Joomla admin -> Article Manager.
 2. Create a new article and enter your message, instructions or information or any text that you want to show to the customers after the purchase.
 3. Save the article and note down its ID.
 
-**Step 2: Associating the article with the Payment Plugins**
+### Step 2: Associating the article with the Payment Plugins
 
 All the J2Store payment plugins have a feature to display an article after the customer makes the payment and completes the purchase.
 

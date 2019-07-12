@@ -9,16 +9,16 @@ category: "payment methods"
 
 This feature saves your customer the trouble of entering billing and shipping information again and again. This is how it works.Once the customer saved his API credentials in plugin's configuration, the paypal express checkout button will be added in the cart pageAfter the adding to cart process two options are presented to him.
 
-**Confirm Order**
+### Confirm Order
 Proceed to checkout (default option and you can hide this in plugin's param setting)
 When the first option is selected (Confirm Order option), the customer can directly checkout without having to enter his billing/shipping details. Paypal can directly access customer information that has already been saved.
 
-**System Requirements**
+### System Requirements
 1. PHP 5.4 or greater
 2. Joomla 3.x
 3. J2Store 3.2.x or greater
 
-**Installation Instructions**
+### Installation Instructions
 
 * Use the Joomla installer to install the plugin.
 * In the backend, go to J2store Dashboard -> Payment methods and enable plugin.
@@ -26,7 +26,7 @@ When the first option is selected (Confirm Order option), the customer can direc
 * Save and close it.
 
 
-**Configuration**
+### Configuration
 **Payment option title**
 The value entered here will be used as the title for the payment. Customer will see this value when he checks out.
 
@@ -108,7 +108,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 ![frontend](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/frontend.png)
 
 
-**How to get API access credentials from paypal**
+### How to get API access credentials from paypal
 
 1. Log in to your PayPal Business account.
 2. Click the My Account tab.
@@ -121,7 +121,8 @@ You can enter a language constant as a value here if you are using a multi-lingu
 
 ![accountview](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp1.png)
 
-![profile](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp2.png)   
+![profile](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp2.png)
+
   
 
 ![credentials](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-express-checkout/pp3.png)

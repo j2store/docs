@@ -10,12 +10,12 @@ category: "payment methods"
 
 This plugin implements Interac online web re-director which offers you privacy and security.
 
-**System Requirements**
+### System Requirements
 * PHP 5.4 or greater
 * Joomla 3.x
 * J2Store 3.2.x or greater
 
-**Installation Instructions**
+### Installation Instructions
 
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to J2store Dashboard Setup -> Payment methods and enable InterPay Web Redirect for J2Store plugin.
@@ -23,7 +23,7 @@ This plugin implements Interac online web re-director which offers you privacy a
 4. Save and close it.
 
 
-**Configuration**
+### Configuration
 
 **Payment option title**
 The value entered here will be used as the title for this payment method. Customer will see this value when he checks out.
@@ -85,7 +85,7 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 ![intpay](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/interpay/interpay-03.png)
 
 **Support**
-Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post in our support forum: <link-text url = "http://j2store.org/forum/index.html" target="_blank" rel="noopener">click here</link-text>
 
 Thank you for using our extension.
 

@@ -9,12 +9,12 @@ category: "payment methods"
 
 This plugin integrates the IcePay Payment gateway with J2Store shopping cart.
 
-**System Requirements**
+### System Requirements
 
 * Joomla 2.5 / Joomla 3.x
 * J2Store 2.6.7 +
 
-**Installation**
+### Installation
 Go to Joomla admin – Extensions manager to install the plugin.
 
 **Setting up the plugin**
@@ -26,7 +26,7 @@ Go to Joomla admin – Extensions manager to install the plugin.
 * Choose the methods that you want to offer to your customers. You can choose all of them as well.
 * Save
 
-**Configuring IcePay**
+### Configuring IcePay
 
 Login to your IcePay dashboard.
 
@@ -34,11 +34,11 @@ Go to My Websites → Your website → Configure URL tab
 
 Copy paste the following url in Thank you page, Error URL and PostBack Url fields
 
-<link-text url =¨http://yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_icepay&paction=process"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+<link-text  url="http://yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_icepay&paction=process" target="_blank" rel="noopener"> click here </link-text>
 
-NOTE: replace <yourdomain.com> with your domain name.
+NOTE: replace  <yourdomain.com> with your domain name.
 
-**Plugin Parameters**
+### Plugin Parameters
 
 **Payment option title**
 The value entered here will be used as the title for this payment method. Customer will see this value when he checks out.
@@ -92,7 +92,7 @@ The text of the payment button. The button will be displayed at the final checko
 
 **Support**
 
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url= "http://j2store.org/forum/index.html" target="_blank" rel="noopener">click here</link-text>
 
 Thank you for using our extension.
 

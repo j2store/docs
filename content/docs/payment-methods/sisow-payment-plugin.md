@@ -9,10 +9,10 @@ category: "payment methods"
 
 This plugin integrates J2Store with the Sisow Payment gateway
 
-**Installation**
+### Installation
 Install the plugin using the Extension manager of Joomla like any other normal Joomla plugin
 
-**Configuration**
+### Configuration
 Go to plugin manager and open the Sisow iDEAL Payments.The plugin has the following options or parameters.
 
 **Payment Option Title**
@@ -33,4 +33,4 @@ IMPORTANT: This requires the option ‘Test with Simulator’ to be selected in 
 You can create an article and enter its ID here to show a message or instructions to your customers after they complete the payment.
 
 **Support**
-Still have questions? You can post your questions in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post your questions in our support forum: <link-text url ="http://j2store.org/forum/index.html" target ="_blank" rel = "noopener">click here</link-text>

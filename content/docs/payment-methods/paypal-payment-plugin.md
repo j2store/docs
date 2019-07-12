@@ -11,16 +11,16 @@ The plugin integrates PayPal Website Payment Standard method with your J2Store s
 
 Are you looking to troubleshoot your PayPal integration? We have answered most of the common problems. So read carefully
 
-**Introduction**
+### Introduction
 
 Paypal standard plugin for J2Store allows you to accept payments via Paypal Payment Gateway. This uses the Paypal's Website Standard Payment. Customer will be redirected to Paypal to make payment securely
 
-**Requirements**
+### Requirements
    PHP 5.2 or higher
    Joomla 2.5.x
    J2Store 2.0 or above
 
-**Installation Instructions**
+### Installation Instructions
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to Extensions->Plugin Manager and open the Paypal Paymentsplugin. (type=j2store).
 3. Enable the plugin
@@ -29,7 +29,7 @@ Paypal standard plugin for J2Store allows you to accept payments via Paypal Paym
 
 Now you can see the Paypal Payments as an option during the Check out process.
 
-**Parameters**
+### Parameters
 
 **Payment option title:**
    Enter the title of the payment plugin which you wish to display in the checkout page.
@@ -202,7 +202,7 @@ The text of the payment button. The button will be displayed at the final checko
 
 Enable this to log the responses and request of the payment plugin. Do not set this in live site.
 
-**How to enable IPN Notification in your PayPal account.**
+### How to enable IPN Notification in your PayPal account.
 
 Login to your Paypal account
 
@@ -229,7 +229,7 @@ Since there could be many reasons why IPN has not reached or sent, we included a
 
 NOTE: It is purely optional to implement this fail-safe mechanism. This is not a necessary step. If you are too anxious and doubt that your site is not receiving the IPN, you can implement this.
 
-**How do I implement this fail-safe method ?**
+### How do I implement this fail-safe method ?
 In the event of IPN not reaching your site, you can make sure that the transactions at your site and PayPal could be collated using a cron job
 
 Make sure you have J2Store 3.2.21
@@ -246,12 +246,12 @@ The cron job command should be: (You can set this to run at 15 minutes intervals
 NOTE: Replace <YOUR_DOMAIN_NAME> with your domain name
 Replace XXXXXX with your cron secret key, which you can find at Joomla Administration -> J2Store -> Set up -> Configuration -> Store
 
-**Troubleshooting Paypal Related Issues**
+### Troubleshooting Paypal Related Issues
 There could be many reasons why your Paypal Plugin is not working. This guide lists most common reasons and solutions for them.
 
-1. **Orders not confirmed. Status shows as incomplete or new**
-It means you are not getting the Instant Payment Notification (IPN) from Paypal.
+#### Orders not confirmed. Status shows as incomplete or new
 
+It means you are not getting the Instant Payment Notification (IPN) from Paypal.
 The IPN may not reach your site, if :
 
 The Site is offline
@@ -264,10 +264,10 @@ You have disabled IPN in your Paypal account.
 1. Go to Joomla admin - Global configuration. Set Site Offline to No
 2. Host your site
 3. Set the Checkout menu access level to Public
-4. If you have a firewall like Admin Tools, then you can add Exceptions. Please consult with your firewall provider or with your host.    If you are using the Admin Tools PRO version, you will have to exclude the [IPN urls mentioned above](#enable-ipn)        If your site or your hosting server has a firewall (you can check with your host), then you may have to whitelist the Paypal's server IPs        Here you can get a list of IPs used by the Paypal servers    https://ppmts.custhelp.com/app/answers/detail/a_id/92        Paypal makes a remote post (IPN) to your site when a payment is made to inform us that payment has been made and you can mark the order complete. Firewalls normally block remote posts. So we may have to whitelist the IPs allowing them to do the remote post.
-5. See the IPN topic above
+4. If you have a firewall like Admin Tools, then you can add Exceptions. Please consult with your firewall provider or with your host.    If you are using the Admin Tools PRO version, you will have to exclude the IPN urls mentioned above(#enable-ipn) If your site or your hosting server has a firewall (you can check with your host), then you may have to whitelist the Paypal's server IPs  Here you can get a list of IPs used by the Paypal servers    <link-text url = "https://ppmts.custhelp.com/app/answers/detail/a_id/92" target = "_blank" rel = "noopener">click here</link-text>  Paypal makes a remote post (IPN) to your site when a payment is made to inform us that payment has been made and you can mark the order complete. Firewalls normally block remote posts. So we may have to whitelist the IPs allowing them to do the remote post.
+5. See the  <link-text url = "https://www.j2store.org/support/user-guide/paypal.html#enable-ipn" target = "_blank" rel = "noopener"> IPN topic above</link-text>
 
-**2. Order status Failed**
+#### 2. Order status Failed
 
 **Solution - 1**
 
@@ -286,8 +286,9 @@ If yes, please take a backup of the site and choose the MySQLi driver.
 
 The PDO driver of Joomla has a bug. Instead of returning a boolean value on table update as mandated by the interface, it would return a record set, causing issues.
 
-3. **Currency is wrong. Paypal payment screen shows USD while my currency is different**
-Paypal supports multiple currencies. However, it does not support all currencies of the world. Please ensure that your currency is supported by checking this page: <link-text url=¨https://www.paypal.com/multicurrency"target=¨_blank"rel=¨noopener¨> click here</link-text>
+#### 3. Currency is wrong. Paypal payment screen shows USD while my currency is different
+
+Paypal supports multiple currencies. However, it does not support all currencies of the world. Please ensure that your currency is supported by checking this page: <link-text url="https://www.paypal.com/multicurrency" target="_blank"rel="noopener"> click here</link-text>
 
 
 If your currency is not supported, Paypal will automatically assume the currency as USD.
@@ -327,7 +328,8 @@ Save now.
 ![currency code](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-payment-plugin/currency-code.png)
 You are all set now. Prices in your store will now display in INR. When the customer is redirected to paypal, he will be asked to pay in USD.J2Store will automatically do the currency conversion depending on the prevailing exchange rate.
 
-4. **Paypal duplicate invoice ID and how to solve it**
+#### 4. Paypal duplicate invoice ID and how to solve it
+
 Paypal by default does not allow duplicate invoices. When you try to pay for a duplicate invoice id, Paypal will produce the following error:
 
 The transaction was refused as a result of a duplicate invoice ID supplied. Attempt with a new invoice ID
@@ -380,7 +382,7 @@ You might have enabled the Encrypted Website Payments. Try the following steps t
 
 Also check if your PayPal account is approved to receive payments.
 
-**Admin tools PRO exception**
+### Admin tools PRO exception
 All firewalls including the Admin Tools PRO would normally block any server-to-server remote POST requests. PayPal sends the IPN callback notification as a remote POST request immediately after the customer makes the payment.
 
 In order to allow this request to pass through your firewall, you need to add an exception
@@ -393,7 +395,7 @@ Currency you are using
 Paypal supports only the following currencies:
 
 <link-text url = 
-¨https://developer.paypal.com/docs/api/reference/currency-codes/" target=¨_blank"rel=¨noopener¨> click here </link-text>
+"https://developer.paypal.com/docs/api/reference/currency-codes/" target="_blank"rel="noopener"> click here </link-text>
 
 So, if you are trying to receive payment through Paypal, it becomes necessary that your store currency is one among the above listed currencies.
 All other currencies would return a Things don't seem to be working at the moment error.
@@ -407,8 +409,8 @@ Disabling this param will solve this problem.
 Block non-encrypted Website Payments = disable
 
 
-**SCA compliance:**
+### SCA compliance:
 
-To know more information on the SCA compliance for the Paypal plugin, click <link-text url = ¨http://docs.j2store.org/frequently-asked-questions/sca-support-for-payment-plugins"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+To know more information on the SCA compliance for the Paypal plugin, click <link-text url = "http://docs.j2store.org/frequently-asked-questions/sca-support-for-payment-plugins" target = "_blank" rel = "noopener"> click here </link-text>
 
 

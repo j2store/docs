@@ -9,11 +9,12 @@ category: "payment methods"
 
 This plugin integrates CCAvenue payment gateway with J2Store.
 
-**Installation**
+### Installation
 
 You can install the plugin through the standard Joomla installer.
 
-**Configuration** 
+### Configuration
+
 **Payment Option title**
 The value entered here will be used as the title for this payment method. Customer will see this value when he checks out.
 

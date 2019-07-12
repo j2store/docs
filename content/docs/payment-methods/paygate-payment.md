@@ -9,20 +9,20 @@ category: "payment methods"
 
 The plugin integrates Paygate payment with J2Store Joomla eCommerce solution. Paygate helps webshops and online merchants to accept credit card / alternative payments and also can process online payments quickly, securely and efficiently.
 
-**System Requirements**
+### System Requirements
 
 1. PHP 5.4 or greater
 2. Joomla 3.x
 3. J2Store 3.2.x or greater
 
-**Installation Instructions**
+### Installation Instructions
 
 * Use the Joomla installer to install the plugin.
 * In the backend, go to J2store Dashboard -> Payment methods and enable plugin.
 * Open the plugin and enter the parameters (read the explanation about each parameter given below)
 * Save and close it.
 
-**Configuration**
+### Configuration
 
 **Payment option title**
 The value entered here will be used as the title for the payment. Customer will see this value when he checks out.
@@ -89,7 +89,7 @@ Choose YES to enable the debug mode. If you set this to yes, then debug messages
 ![paygate3](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paygate-payment/paygate_03.png)
 
 **Support**
-Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post in our support forum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

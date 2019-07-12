@@ -9,17 +9,17 @@ category: "payment methods"
 
 This plugin integrates a secure payment gateway Culqi with J2Store. This allows users of the store to pay via Culqi. This payment gateway accept credit and debit cards for payment on your store.
 
-**Requirements**
+### Requirements
 1. PHP version 5.4 or higher
 2. J2Store 3.2.x or higher
 3. Joomla 3.x or higher
 
-**Installation**
+### Installation
 1. Download Culqi payment plugin from our site's extensions section and install it using Joomla installer.
 2. After installing the plugin, go to J2Store > Setup > Payment methods and enable Payment Culqi.
 3. Once enabled, open the plugin to configure the basic settings.
 \
-**Configuration**
+### Configuration
 
 **Payment option title**
 Enter the title for the payment option. The text entered here will be displayed at payment method step during checkout.

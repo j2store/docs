@@ -9,25 +9,25 @@ category: "payment methods"
 
 PayPal Plus for J2Store Joomla eCommerce solution uses PayPal's REST API to provide a PayPal-hosted checkout experience directly on your website. This provides the opportunity for the buyer to credit card data directly into your website without redirecting to PayPal in order to process a payment, and it also provides the PayPal option within the same checkout flow for the users who pay so.
 
-**Supported countries**
+### Supported countries
 Paypal Plus for J2Store is compatible with dealers in the following countries
 
 * Germany
 * United Kingdom
 
-**Requirements**
+### Requirements
 * PHP 5.4 +
 * Joomla 3.x or higher
 * J2Store 3.x or higher
 
-**Installation**
+### Installation
 1. Download Paypal plus payment plugin from our site and install it using Joomla installer.
 2. After installing the plugin, go to J2Store > Setup > Payment methods and enable the PayPal Plus plugin.
 3. Once enabled, open the plugin to configure the basic settings.
 
 
 **How to identify your Client ID and Secret key?**
-1. Go to <link-text url ="https://developer.paypal.com/"target = ¨_blank"rel = ¨noopener¨> click here </link-text> and login.
+1. Go to <link-text url ="https://developer.paypal.com/" target = "_blank"rel = "noopener"> click here </link-text> and login.
 2. After logging in, click Dashboard on top right of that page.
 3. From the left menu panel, select My Apps & Credentials
 4. Under the REST API apps section, you will have to create an app to receive REST API Credentials.
@@ -44,7 +44,7 @@ Paypal Plus for J2Store is compatible with dealers in the following countries
 
 ![paypal credentials](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paypal-plus/paypal-credentials.png)
 
-**Configuration**
+### Configuration
 
 **Payment option title**
 Enter a title for this payment option. The value entered here will displayed at checkout payment step.

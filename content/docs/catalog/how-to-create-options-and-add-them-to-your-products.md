@@ -12,13 +12,13 @@ J2Store allows you to create <link-text url="http://docs.j2store.org/catalog/opt
 
 Here is how you could create product options and add them to your products.
 
-**Instance:**
+### Instance:
 
 Lets suppose you are trying to sell a customizable t-shirt. So this t-shirt has options called color, size and requests users to fill in the custom text that they will have to print on the t-shirt.
 
 Now that we know the requirements, let us get into the process of setting the options up.
 
-**Creating the options**
+#### Creating the options
 
 - Navigate to **J2Store->Catalog->Options. **Click on the New option.
 
@@ -35,7 +35,7 @@ Now that we know the requirements, let us get into the process of setting the op
 
 ![Adding text type options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/creating-options-and-adding-them-to-products/options-text-type.png)
 
-**Adding the options to your product **
+#### Adding the options to your product 
 
 Now, its time to add them to your product, the t-shirt.
 

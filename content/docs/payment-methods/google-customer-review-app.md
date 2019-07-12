@@ -9,12 +9,12 @@ category: "payment methods"
 
 This app used to display google customer review in Thank you page and it helps you to Show Survey Opt-in to your customers who place an order on your store.
 
-**Parameters**
+### Parameters
 
-**** Merchant Id***
+**Merchant Id**
 1. Obtain the Google review  Merchant id from Google Merchant Center by creating an account.
-2. New to the term Google Merchant? More details can be found at Google Merchant Center 
-3. If you have any doubts or queries regarding Merchant center service, visit Google merchant Support center
+2. New to the term Google Merchant? More details can be found at <link-text url ="https://www.google.com/retail/merchant-center/" target = "_blank" rel = "noopener">Google Merchant Center</link-text>
+3. If you have any doubts or queries regarding Merchant center service, visit    <link-text url ="https://support.google.com/merchants/" target= "_blank" rel = "noopener">Google merchant Support center</link-text>
 
 **OBTAINING MERCHANT ID:**
 

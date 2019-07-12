@@ -10,12 +10,12 @@ This plugin integrates mollie payment gateway with J2Store Joomla eCommerce solu
 
 Process secure iDEAL, credit card, bank transfer, SOFORT payments, paysafecard, Belfius Direct and other more payments with J2Store's Mollie payment plugin.
 
-**Requirements**
+### Requirements
 1. PHP version 5.4 or higher
 2. Joomla 3.x and above
 3. J2Store 3.2.7 +
 
-**Installation**
+### Installation
 1. Download Mollie payment plugin package from our site's extensions section and install it using Joomla installer.
 2. After installing plugin, go to J2Store > Setup > Payment methods and enable Mollie for J2Store.
 3. Once enabled, open / edit the plugin and configure the basic settings of the app.
@@ -42,7 +42,7 @@ In this case, you could set the following webhook url in your Mollie account's b
 
 https://www.example.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_mollie&paction=process
 
-**Configuration**
+### Configuration
 **Payment option title**
 
 The text entered here will be displayed at checkout payment steps.

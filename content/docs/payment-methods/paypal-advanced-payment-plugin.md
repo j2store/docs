@@ -10,19 +10,19 @@ PayPal Payments Advanced is a PCI-compliant solution. Even customers without a P
 
 PayPal Payments Advanced is available only for merchants in US and Canada.
 
-**Requirements**
+### Requirements
 1. PHP 5.3 or higher
 2. Joomla 2.5.x
 3. J2Store 2.0.2 or above
 
-**Installation Instructions**
+### Installation Instructions
 Use the Joomla installer to install the plugin like you do for other extensions
 
-**Configuration**
+### Configuration
 **Step 1: Configure Your PayPal Account**
 Before you begin, you must configure your PayPal Payments Advanced account on the PayPal website.
 
-Log in to your PayPal Advanced account at <link-text url = ¨manager.paypal.com"traget = ¨_blank"rel = ¨noopener¨> click here </link-text>
+Log in to your PayPal Advanced account at <link-text url = "manager.paypal.com"traget = "_blank" rel = "noopener"> click here </link-text>
 
 Go to Service Settings -> Hosted Checkout Pages -> Set Up, and make the following settings:
 
@@ -166,6 +166,6 @@ Visa 4111111111111111
 Visa 4012888888881881
 
 **Support**
-Still have questions? You can post your questions in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post your questions in our support forum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.

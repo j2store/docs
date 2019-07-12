@@ -7,9 +7,9 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-The SagePay Plugin enables you to receive payments via SagePay Payment Gateway. Getting a SagePay account is very easy. Look at more about SagePay here <link-text url = ¨http://www.sagepay.com/"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+The SagePay Plugin enables you to receive payments via SagePay Payment Gateway. Getting a SagePay account is very easy. Look at more about SagePay here <link-text url = "http://www.sagepay.com/" target = "_blank"rel = "noopener"> click here </link-text>
 
-NOTE: The Plugin uses the Direct Integration method of the SagePay. Please refer the link to learn more about this integration method in  <link-text url = ¨http://www.sagepay.com/help/userguides/590"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+NOTE: The Plugin uses the Direct Integration method of the SagePay. Please refer the link to learn more about this integration method in  <link-text url = "http://www.sagepay.com/help/userguides/590" target = "_blank"rel = "noopener"> click here </link-text>
 
 **Requirements**
 
@@ -39,7 +39,7 @@ While signing up for SagePay account, you will be given a unique Encryption pass
 If you are using SSL certificate (https), enable this. If you dont know what SSL is better leave it as No
 
 **SagePay Test Server**
-SagePay offers a testing suite called Simulator. Before going live, it is advised to test your store using the SagePay's test server. Read more about SagePay test server <link-text url =¨http://www.sagepay.com/developers"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+SagePay offers a testing suite called Simulator. Before going live, it is advised to test your store using the SagePay's test server. Read more about SagePay test server <link-text url ="http://www.sagepay.com/developers" target = "_blank"rel = "noopener"> click here </link-text>
 
 NOTE: To receive payments (except during testing), you dont have to enable this. IN LIVE SITE, THIS SHOULD BE SET TO NO.
 
@@ -47,7 +47,7 @@ NOTE: To receive payments (except during testing), you dont have to enable this.
 You can create a Joomla Article to say thanks to the users, who purchased in your online store. Enter the article ID here.
 
 **Support**
-Still have questions? You can post your questions in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post your questions in our support forum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

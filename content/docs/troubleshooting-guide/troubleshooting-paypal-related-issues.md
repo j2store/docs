@@ -17,7 +17,7 @@ There could be many reasons why your Paypal Plugin is not working. This guide li
 * Is your order still not auto confirming the status
 * Make order status confirmed immediately
 
-**1. Orders not confirmed. Status shows as incomplete or new**
+### 1. Orders not confirmed. Status shows as incomplete or new
 
 It means you are not getting the Instant Payment Notification (IPN) from Paypal.The IPN may not reach your site, if :
 
@@ -27,7 +27,7 @@ It means you are not getting the Instant Payment Notification (IPN) from Paypal.
 * You have a firewall installed either in your site or by your host
 * You have disabled IPN in your Paypal account.
 
-**Solutions to above issues :**
+#### Solutions to above issues :
 
 1. Go to Joomla adminGlobal configuration. Set Site Offline to No
 2. Host your site
@@ -40,7 +40,8 @@ Here you can get a list of IPs used by the Paypal servers <link-text url ="https
 
 Paypal makes a remote post (IPN) to your site when a payment is made to inform us that payment has been made and you can mark the order complete. Firewalls normally block remote posts. So we may have to whitelist the IPs allowing them to do the remote post.
 
-**1.** **Enable the IPN in your Paypal account.**
+#### Enable the IPN in your Paypal account
+
 Login to your Paypal account
 
 Click Profile on the My Account tab.
@@ -53,11 +54,11 @@ In the Listener's url enter the following url
 
 > http://<YOUR_DOMAIN>/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_paypal&paction=process&tmpl=component
 
-NOTE: Replace <YOUR_DOMAIN> with your website. E.g:<link-text url = "www.example.com" target = "_blank" rel = "noopener"> click here </link-text>
+NOTE: Replace <YOUR_DOMAIN> with your website. E.g:<link-text url="www.example.com" target="_blank" rel="noopener"> click here </link-text>
 
 Still no luck, check the IPN HistoryLogin to your paypal account and go to History -> IPN history. Check the recent IPN history and check the status.If possible take a screenshot and contact our support team.
 
-**2. Order status Failed**
+### 2. Order status Failed
 
 Are you using your Primary Paypal Email as your merchant email? If your order status says failed, then chances are that you are using a secondary email of your Paypal account.
 
@@ -65,9 +66,9 @@ Paypal allows you to add multiple emails in an account to accept payments. With 
 
 ![paypal primary](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-paypal-related-issues/paypal_primary_email1.png)
 
-**3. Currency is wrong. Paypal payment screen shows USD while my currency is different**
+### 3. Currency is wrong. Paypal payment screen shows USD while my currency is different
 
-Paypal supports multiple currencies. However, it does not support all currencies of the world. Please ensure that your currency is supported by checking this page: <link-text url ="https://www.paypal.com/multicurrency" target = "_blank" rel = "noopener"> click here </link-text>
+Paypal supports multiple currencies. However, it does not support all currencies of the world. Please ensure that your currency is supported by checking this page: <link-text url="https://www.paypal.com/multicurrency" target="_blank" rel="noopener"> click here </link-text>
 
 If your currency is not supported, Paypal will automatically assume the currency as USD.
 
@@ -101,7 +102,7 @@ Save now.
 ![selection49](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-paypal-related-issues/Selection_049.png)
 You are all set now. Prices in your store will now display in INR. When the customer is redirected to paypal, he will be asked to pay in USD.J2Store will automatically do the currency conversion depending on the prevailing exchange rate.
 
-**4. Paypal duplicate invoice ID and how to solve it**
+### 4. Paypal duplicate invoice ID and how to solve it
 
 Paypal by default does not allow duplicate invoices. When you try to pay for a duplicate invoice id, Paypal will produce the following error:
 
@@ -132,7 +133,7 @@ Please try the following:
 4. Under Block Accidental Payments choose "No, allow multiple payments per invoice ID".
 5. Save.
 
-**5. Paypal option not showing at checkout?**
+### 5. Paypal option not showing at checkout?
 
 Make sure the Geozone field at paypal plugin configuration page is set to ALL.
 
@@ -140,11 +141,11 @@ By selecting a geozone here, you can restrict this payment method to only custom
 
 Go to J2Store > Setup > Payment methodsOpen Paypal payment pluginSet Geozone to ALLSave.
 
-**6. Is your order still not auto confirming the status?**
+### 6. Is your order still not auto confirming the status?
 
 Here is one more troubleshooting stepGo to Joomla administration -> Global config -> Server -> Database settingsMake sure your Database driver is NOT set to MySQL PDO.
 
-**7. Make order status confirmed immediately**
+### 7. Make order status confirmed immediately
 
 Is your PayPal's account default currency is different from your store currency ?Only if the currency is different, PayPal will send the payment status as Pending.
 

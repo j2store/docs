@@ -7,7 +7,7 @@ author: "Varsha"
 category: "troubleshooting guide"
 ---
 
-Are you trying to hide the buy button for specific products? 
+### Are you trying to hide the buy button for specific products? 
 
 By applying a small css rule in your template's css file, you could hide the cart button for particular product.
 
@@ -19,13 +19,13 @@ Below is the css that should be applied at the end of your template's css file
 
 Where XX is your product ID.
 
-**Not adding items to the cart**
+### Not adding items to the cart
 
 EU e-Privacy Directive plugin does not even allow the Joomla session cookie.That means, no one can login in the front end including customers.
 
 In the plugin settings, make sure the Joomla session cookie is allowed.J2Store saves the cart data in the Joomla session and maintains the cart record id there and also address information (if checked out as guest).So J2store at least requires you to allow the Joomla session cookie.
 
-**Cart cleared during registration**
+### Cart cleared during registration
 
 It is beacuse the default Registered group and Guest group chosen might be wrong.
 
@@ -61,7 +61,7 @@ to
 
 Make the changes and save.
 
-**Is cart not responding when you click update or empty cart button?**
+### Is cart not responding when you click update or empty cart button?
 
 If you enable System - Page Cache / SpeedCache or any thidy party cache plugins, they photo copy every page including the cart page.Though the cart page is dynamic, it would not listen. It would just photocopy the page and stores it. Until cache is cleared, it will keep serving the photo-copied page.
 
@@ -75,7 +75,7 @@ Another thing:
 
 Please use the **Conservative caching**.
 
-**Minicart icon not showing up?**
+### Minicart icon not showing up?
 
 It seems to be applying wrong font-awesome class in module settings page.
 * Open J2Store cart moduleYou can see something like below entered in the Minicart icon class text box
@@ -84,7 +84,7 @@ It seems to be applying wrong font-awesome class in module settings page.
 * fa fa-shopping-cart
 * Save.
 
-**[HOW TO]Add cart module right or left below the product filter?**
+### [HOW TO]Add cart module right or left below the product filter?
 
 You can use special module positions in the filter display section to display the cart module to the product filter.
 
@@ -93,9 +93,9 @@ You can use special module positions in the filter display section to display th
 3. j2store-filter-right-topTop of right filter
 4. j2store-filter-right-bottomBottom of right filter
 
-For more details about special module position, please click Here
+For more details about special module position, please click  <link-text url="http://docs.j2store.org/layout/special-module-positions" traget="_blank" rel="noopener">Here</link-text>
 
-**Avoid cart items cleared**
+### Avoid cart items cleared
 
 Sometimes customers accidently entered wrong credit card / debit card details. He came to know that he entered wrong card details only after clicking on place order. But cart items will be cleared once you clicked place order button. So you could not retry the payment process and it makes you frustrating.
 
@@ -103,11 +103,11 @@ To overcome this, you can restrict clearing cart items only on order confirmatio
 
 Go to J2Store > Configuration > Cart tabFind the param "Clear cart items". Set this param to "On Confirmation" and save.
 
-**How To Solve Mini Cart module related issues?**
+### How To Solve Mini Cart module related issues?
 
 J2Store's Mini Cart is a very handy tool for your customers when they shop. They can check the number of items in their order and the total. The cart module is refreshed in real-time using an AJax request. On a few occasions, the cart may not get updated on a real time. Here is a checklist that should help you solve the problem.
 
-**Cache settings**
+#### Cache settings
 
 Go to Joomla admin - Global configuration - System tab.
 
@@ -118,7 +118,7 @@ Since the cart module handles dynamic data, it should be excluded from caching. 
 If you use Progressive Caching, Joomla will override the Cache settings in the module. The cart module might work fine in smarller sites with Progressive Caching enabled but if you have a larger site with a large number of visitors, then it might cause issues with the module.
 
 ![cache settings](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/cache_settings.png)
-**Module settings**
+#### Module settings
 
 Go to Joomla admin - Module Manager - J2Store Cart module
 
@@ -126,7 +126,7 @@ In the Advanced tab, set the Caching to No Cache.
 
 ![mod cache](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/mod_cache_settings.png)
 
-**Javascript conflict**
+### Javascript conflict
 
 Since the J2Store updates the cart module using an AJAX request, it is important that your site does not have any javascript conflicts.
 
@@ -145,7 +145,7 @@ You can see the Developer Tools window opening at the bottom of the browser. Nav
 Now Refresh your website. The Console tab will show you if there are any javascript conflicts in your site. It will also show you the file name and the line number that produce the error. Take a screenshot and send it to us and also send a copy to your template provider. We will check and get back to you with the solution.
 
 ![developer tool console](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/developer_tools_console.png)
-**JSON support**
+### JSON support
 
 While most of the hosting service providers enable the JSON support for PHP by default, some do not. It is easy to check if JSON is enabled or not in your hosting account.
 
@@ -156,7 +156,7 @@ You can check whether JSON support enabled or not in the PHP Information tab. if
 You can look for something like below in the PHP Information tab.
 
 ![json](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-cart-related-issues/json_setup.png)
-**I don't see Add to Cart Button. What is the problem?**
+### I don't see Add to Cart Button. What is the problem?
 
 Don't worry. This is often a simple configuration mistake. We have answered this question more than hundred times.
 
@@ -190,7 +190,7 @@ Now save the article. Now you will be able to see the Add to cart.
 
 Still no luck. Then there might be a template override for the articles or some other plugin is causing an issue.Post in the forums with URL to a product in your site. Our support team will take a look and help you solve the issue.
 
-**HOW TO move Add to Cart Button using the Short Plugin tag**
+### HOW TO move Add to Cart Button using the Short Plugin tag
 
 You can move the location of the Add to cart block within the product layout using a simple plugin tag.
 
