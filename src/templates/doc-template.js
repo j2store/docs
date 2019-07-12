@@ -95,9 +95,6 @@ function DocTemplate(props) {
                     <div className="col-md-3 col-sm-12">
                         <button id="showDocNavBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
                         <div className="aside-menu" id="docNavLinkContent">
-                            <div className="search-hero text-center">
-                                <Search collapse indices={searchIndices}/>
-                            </div>
                             <SideNav navLinks={SideNavLinks} currentUrl={props.pageContext.slug}/>
                             <div className="btn-container">
                                 <Link to="/" className="btn btn-primary">Back to Docs</Link>

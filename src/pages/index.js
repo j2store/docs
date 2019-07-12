@@ -67,9 +67,6 @@ class DocsPage extends React.Component {
                             <div className="col-md-3 col-sm-12">
                                 <button id="showDocNavBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
                                 <div className="aside-menu" id="docNavLinkContent">
-                                    <div className="search-hero text-center">
-                                       <Search collapse indices={searchIndices}/>
-                                    </div>
                                     <SideNav navLinks={SideNavLinks} currentUrl={this.props.location.pathname}/>
                                 </div>
                             </div>
