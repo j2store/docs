@@ -7,7 +7,7 @@ author: "Varsha"
 category: "troubleshooting guide"
 ---
 
-**How to display Prices without including tax?**
+### How to display Prices without including tax?
 
 Go to J2Store -> Configuration -> Tax tab.
 
@@ -17,7 +17,7 @@ Select Excluding tax for both Display prices in product pages and Display prices
 
 
 ![tax excl](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax-excl.png)
-**How to display prices with including tax?**
+### How to display prices with including tax?
 
 Go to J2store -> Configuration -> Tax tab.
 
@@ -29,7 +29,7 @@ Set YES to Display tax information below the prices (in product pages).
 
 ![tax incl](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax-incl.png)
 
-**Why the tax rate is not showing up for particular zone?**
+### Why the tax rate is not showing up for particular zone?
 
 For example, do you want to setup the tax rate for california ?
 
@@ -47,13 +47,13 @@ Add your tax profile created.
 ![tax prof](https://raw.githubusercontent.com/j2store/doc-images/master/troubleshooting-guide/troubleshooting-tax-issues/tax-prof.png)
 
 
-**Why tax is not displayed when changing the setting of the tax calculation from billing address to the delivery address?**
+### Why tax is not displayed when changing the setting of the tax calculation from billing address to the delivery address?
 
 If you choose shipping address in J2Store Tax configuration then you should also change the associated address to shipping address in the tax profile.
 
 Go to tax profile and set the associate address as shipping address.
 
-**Why tax information is showing as "Excl.tax" even you have chosen including tax in configuration **?
+### Why tax information is showing as "Excl.tax" even you have chosen including tax in configuration 
 
 Seems to be choosing of wrong default customer address.
 
@@ -61,7 +61,7 @@ In your tax configuration, you might have chosen default customer address as "No
 
 Because, the guest customers don't have any billing or shipping address so in this case, it will take default address as store address to display the correct tax information.
 
-**HOW TO Apply tax to all customers comes from world wide?**
+### HOW TO Apply tax to all customers comes from world wide?
 
 It is very simple. Just create one geozone and include all countries.
 
@@ -71,7 +71,9 @@ After saving, you can see Import countries button. Click Import countries button
 
 Now assign this geozone to your tax rate.
 
-**[How To]Display tax information with follow link text ?Step-1 Enable tax information to be displayed on product page**
+### [How To]Display tax information with follow link text ?
+
+#### Step-1 Enable tax information to be displayed on product page
 
 Go to J2Store -> Configuration - Tax settingsSet Display tax information below the prices (in product pages) to YES.See the screenshot below
 
@@ -84,7 +86,7 @@ This might be in English.
 
 You can change this with a language override for below language constantLanguage constant is: J2STORE_PRICE_INCLUDING_TAX
 
-Step-2 Creating language override
+#### Step-2 Creating language override
 
 Go to Extensions -> Language(s) -> select Overrides.
 

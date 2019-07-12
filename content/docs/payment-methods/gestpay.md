@@ -8,13 +8,13 @@ category: "payment methods"
 ---
 
 
-**Introduction**
+### Introduction
 The plugin integrates GestPay payment gateway with K2Store.
 
-**Installation**
+### Installation
 You can install the plugin through the standard Joomla installer.
 
-**Configuring your GestPay Backoffice**
+### Configuring your GestPay Backoffice
 There are two aspects you have to configure at your GestPay Backoffice
 
 **Authentication configuration**
@@ -30,14 +30,18 @@ GestPay identifies the merchant requesting the encryption service through the WS
 
 Login to your GestPay Backoffice.
 Go to Configuration → Responses section
-Enter the following url in URL for positive response and URL for negative response fields. If your site **DOES NOT have SSL **, then use the following url
+Enter the following url in URL for positive response and URL for negative response fields. If your site  DOES NOT have SSL , then use the following url
+
+```
 http://<YOUR_WEBSITE>/index.php?option=com_j2store&view=checkout&task=confirmpayment&orderpayment_type=payment_gestpay&paction=process
+```
 
-**If you have SSL installed, then use the following u**
-
+if you have SSL installed, then use the following u
+```
 https://<YOUR_WEBSITE>/index.php?option=com_j2store&view=checkout&task=confirmpayment&orderpayment_type=payment_gestpay&paction=process
+```
 
-**Configuration of the Plugin**
+### Configuration of the Plugin
 
 **Payment Option title:** 
   Enter a name that will be shown in the payment methods selection during the checkout process. Default Gestpay

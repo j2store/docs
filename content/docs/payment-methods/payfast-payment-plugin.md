@@ -81,5 +81,5 @@ The text entered here will be displayed to the customer when he cancels the paym
 You can enter a language constant as a value here if you are using a multi-lingual site and then write a language override. Refer the Display text on selection parameter.
 
 **Support**
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 

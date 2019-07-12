@@ -12,10 +12,11 @@ This plugin integrates Braintree payment gateway with J2Store.
 You need an account with Braintree to choose this method. If you have/create one, you will be provided with Merchant Id,private and public keys for facilitating payments. You need to enter them in the respective fields.
 In these payment types, unlike Bank Transfer or Money order methods, the customer has the option to cancel the payment. Also, if any error occurs during payment process, that will be logged. These will be notified through the additional text boxes provided. 
 
-**Installation**
+### Installation
 You can install the plugin through the standard Joomla installer.
 
-**Configuration**
+### Configuration
+
 **Payment Option title**
 
 Enter a name that will be shown in the payment methods selection during the checkout process. Default Braintree.

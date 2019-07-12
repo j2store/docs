@@ -9,7 +9,7 @@ category: "payment methods"
 
 This plugin integrates the Barclays ePDQ payment gateway with the J2Store shopping cart.
 
-**Requirements**
+### Requirements
 * PHP 5.3 or higher
 * Joomla 2.5.x/3.0x
 * J2Store 2.7.3(Note the plugin will not work with earlier versions of J2Store)
@@ -17,7 +17,7 @@ This plugin integrates the Barclays ePDQ payment gateway with the J2Store shoppi
 **Required ePDQ settings**
 Login to your ePDQ Barclayscard merchant account.Go to Confgurations → Technical Information
 
-**Global Transaction Parameters**
+### Global Transaction Parameters
 **Default operation code**
 You have two default operation code, Sale and Authorization. The brief description of both is given below.
 
@@ -62,13 +62,13 @@ Under the heading “Direct HTTP server-to-server request", set both the URLs of
 
 ![serverreqst](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/barclays-payment-plugin/server_request_2.png)
 
-**Installation Instructions**
+### Installation Instructions
 * Use the Joomla installer to install the plugin.
 * In the backend, go to J2Store → Set up → Payment → ePDQ Barclays → Edit Parameters
 * Enable the plugin4. Enter the parameters (read the explanation about each parameter given below)
 * Save and close it.
 * 
-**Parameters**
+### Parameters
 **ePDQ Account PSPID**
 
 This is your Unique Merchant ID provided by the Barclays ePDQ
@@ -142,7 +142,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

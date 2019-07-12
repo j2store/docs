@@ -7,14 +7,14 @@ author: "Sowbagya lakshmi"
 category: "catalog"
 ---
 
-**Requirement for the tax to take effect:**
+### Requirement for the tax to take effect:
 - Geozone has to be set up for which the tax has to apply.
 - Tax rate has to be set up.
 - Tax profile has to be created.
 - Tax rate has to be associated with the tax profile.
 - Tax profile has to be assigned to the products for which tax has to be levied.
 
-**Instance: 
+### Instance: 
 
 Tax geozone: USA
 
@@ -61,11 +61,12 @@ Fill in the profile name, set the status and map the tax rate on the profile, ch
 
 Thus tax would be levied on the product as per the configuration. 
 
-**Issues:**
+#### Issues:
 
 Please refer the following list of troubleshooting steps:
 
-**[http://docs.j2store.org/troubleshooting-guide/troubleshooting-tax-issues](<http://docs.j2store.org/troubleshooting-guide/troubleshooting-tax-issues>)
+<link-text url="[http://docs.j2store.org/troubleshooting-guide/troubleshooting-tax-issues](<http://docs.j2store.org/troubleshooting-guide/troubleshooting-tax-issues>)" target="_blank" rel="noopener">click here</link-text>
+
 
 
 

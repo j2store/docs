@@ -7,23 +7,24 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-**Introduction**
+### Introduction
 
 The Skrill Payment Plugin for J2store to pay online transaction amount for a product.
 
-**Requirements**
+### Requirements
 1. PHP 5.2 or higher
 2. Joomla 2.5 or above
 3. J2Store 2.7.3 or above
 
-**Installation**
+### Installation
 1. Use Joomla installer to install the plugin
 2. At the backend, go to Extension -> Plugin Manager and open the Skrill(type=j2store)
 3. Enable plugin
 4. Enable plugin params
 
 
-**Params**
+### Parameters
+
 **1. Payment Option Title:**
 If required, enter Option Title. This text will be displayed while listing the payment option.
 
@@ -79,7 +80,7 @@ This option is used to enable/disable log file.
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can reach us in support@j2store.org
+Still have questions? You can reach us in <link-text url = "support@j2store.org" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

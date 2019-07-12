@@ -6,7 +6,7 @@ description: "Learn how to automated campaigns work"
 author: "Sowbagya Lakshmi"
 category: "getting-started"
 ---
-**Server Requirements**
+### Server Requirements
 Technical requirements for J2Store:
 
 * PHP 5.5 or greater
@@ -16,6 +16,6 @@ Technical requirements for J2Store:
 
 Thats it !
 
-**Joomla Requirements**
+### Joomla Requirements
 
 Make sure you check these <link-text url="https://docs.joomla.org/Technical_requirements" target="_blank" rel="noopener">minimum requirements for Joomla</link-text>

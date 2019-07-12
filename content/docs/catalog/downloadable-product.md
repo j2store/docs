@@ -6,11 +6,11 @@ description: "This is how you could sell digital products on your store"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-**Introduction**
+### Introduction
 
 The product type allows you to sell digital products like PDF, images, audio, video, software, e-books etc.Customer will be able to download the file immediately after making the payment.
 
-**Product Settings**
+### Product Settings
 
 The settings in this type are almost identical to simple product except a very few.
 
@@ -18,13 +18,13 @@ Since this is downloadable, obviously it has no shipping option. Likewise, there
 
 But there is unique option **Files** for this product type. Have a look over that option.
 
-**Files**
+#### Files
 
 There are three options here to set before further action.
 
 ![Files](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down-pro-files.png)
 
-**Product Files**
+#### Product Files
 
 First there is a button to select the downloadable files to set for the customer to view. When clicked, it will direct to a popup window in which the display name and the path of the downloadable file are set.
 
@@ -36,7 +36,7 @@ If you specify a directory outside the public root, then you should enter the fu
 
 ** A file has to be associated to a downloadable product. If not, no downloadable link would appear at the My downloads section of the user's My profile page even if user has bought the product and paid.**
 
-**Download limit**
+#### Download limit
 
 This determines the maximum number of copies allowed to be downloaded by a single customer. Enter a numeric value to set the limit.
 
@@ -44,7 +44,7 @@ This determines the maximum number of copies allowed to be downloaded by a singl
 
 **
 
-**Download Expires(in days)**
+#### Download Expires(in days)
 
 This will set a deadline for the product link to be active to download the product. If the deadline set to be 15 days, for instance, the link goes inactive on the start of 16th day.
 
@@ -52,13 +52,12 @@ All other options are same as simple product.
 
 **VERY IMPORTANT NOTE: This parameter must have a value. If no value is inserted in this field, the downloadable product wouldn't appear at the My downloads section even if the user has paid successfully for the order. **
 
-**A Step-by-step example to create a downloadable product**
-
+### A Step-by-step example to create a downloadable product*
 **J2Store** implements an innovative concept in creating products. It uses the Joomla articles as products. So to create a product is to create an article.
 
 So, lets create an article.
 
-**Creating an Article**
+#### Creating an Article
 
 Have a look at the image below:
 
@@ -84,13 +83,13 @@ Add a description for the product, as illustrated below.
 
 The Configuration process follows:
 
-**General**
+#### General
 
 Enter the details as required by the fields in the tab, like, SKU, UPC/EAN, brand, vendor, tax profile and the caption for the cart button. Once you enter them, you can navigate to the next tab, pricing.
 
 ![General tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down-pro-general.png)
 
-**Pricing**
+#### Pricing
 
 In Pricing you can set the price for your product. You have the option to set up advanced prices, like discount offers, as shown in the following images.
 
@@ -104,7 +103,7 @@ In the above image, you can set a date range for the special price, otherwise, y
 
 ![Success message for advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down-pro-adv-price-success.png)
 
-**Images**
+#### Images
 
 When you select the images tab, you will get a screen like this.
 
@@ -118,7 +117,7 @@ Once you finish the selection, your tab will be like this.
 
 ![Image selected](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down-pro-images-selected.png)
 
-**Files**
+#### Files
 
 Unlike other products, you do not have options and shipping tabs for a downloadable product. But there is a unique tab, **Files** is present here. You must have a separate folder or directory in your site to place the downloadable products. From that folder, the product will be downloaded, when the buyer fulfills the requirements for the download.
 
@@ -161,7 +160,8 @@ Now, Configure your **Files** tab in your downloadable product creation.
 
 The tab will look like this:
 
-![Download limit](/home/flycart63/Desktop/j2dc/content/images/catalog/downloadable-product/down-pro-down-limit.png)
+![downloadlimit](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down-pro-down-limit.png)
+
 
 When you click the set files button, you will get a pop-window to select the file to be downloaded. See the picture.
 
@@ -197,14 +197,14 @@ And when 'Downloads' tab is clicked, it will show the download link like this:
 
 ![Download link](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down_downloads_front_end-link.png)
 
-**Filters**
+#### Filters
 
 The filters will help to narrow the product search, for specific products. For e.g., if you add filter with value 'music', the search will display only music files.
 
 See the image below:
 ![Files](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down_filters.png)
 
-**Relations**
+#### Relations
 
 The next tab is Relations. Here, you can add products of higher value than the one being viewed by the customer and recommend the customer to buy that product, citing its advantages and additional features. This is an upsell.
 
@@ -215,7 +215,7 @@ Also, you can add some other products to convince the customer to buy theses pro
 
 For more detailed explanation, refer to the **Relations** section of the **Downloadable Product**.
 
-**Apps**
+#### Apps
 
 In this tab, you can add third party tools or plugins, that are available, to enhance the J2Store functionality, like adding additional fields, applications, functions or features.
 ![Apps](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down_apps.png)
@@ -224,7 +224,7 @@ Now, lets have a look on how your product is viewed in your online store. Check 
 
 ![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/downloadable-product/down_product_on_cart.png)
 
-**How to sell files that are stored externally?**
+### How to sell files that are stored externally?
 
 If you have files stored externally, like on your Dropbox account or on your Amazon S3 bucket, then you could sell them on your store using the following extensions respectively:**
 
@@ -232,7 +232,7 @@ To sell files stored on the Dropbox account: **Use the app found <link-text url=
 
 To sell files stored on the Amazon S3 bucket: **Use the app found <link-text url="https://www.j2store.org/extensions/apps/amazon-s3.html" target="_blank" rel="noopener">here</link-text>
 
-**How to reset the download limit for a single user:**
+### How to reset the download limit for a single user:
 
 Let us assume that you have provided download limit for a product as 1 and the user has downloaded the file.
 
@@ -240,7 +240,7 @@ Now, he wants to download the product again.
 
 Here is how you could reset the download limit for that user alone:
 
-**To reset the download limit for a single user:**
+### To reset the download limit for a single user:
 
 Please navigate to J2store->Sales->Orders-> Order of the downloadable product.
 
@@ -251,7 +251,7 @@ This would reset the download limit and expiry date only for that particular use
 
 He would be able to login to his my profile page and download it once again the number of times you have allowed on the product.
 
-**My downloads section doesn't have a download link**
+### My downloads section doesn't have a download link
 
 The downloadable file link would be listed at the My downloads tab of the user's My profile page only when:
 
@@ -267,8 +267,8 @@ In the product article, the following parameters shouldn't be left empty:
 2. **Download expiry(in days) **
 3. **File**
 
-**Video Tutorial**
+### Video Tutorial
 
 Here is a video that could help you create a digital product:
 
-[![Selling a digital product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/LTICud99W-4 "Selling a digital product")
+<videoembed src="LTICud99W-4"></videoembed>

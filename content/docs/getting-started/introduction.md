@@ -12,7 +12,8 @@ category: "getting-started"
 
 
 
-**J2Store Documentation**
+
+### J2Store Documentation
 
 J2Store is a native, flexible and modern ecommerce solution for Joomla Content Management System.
 

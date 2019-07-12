@@ -7,6 +7,7 @@ author: "Sowbagya lakshmi"
 category: "catalog"
 ---
 
+### Introduction
 These are used to narrow out the search for a particular product.
 
 In this page, first Fiter Groups are created and in each group some Filter Names will be added, and based on the Filter Name, products will be searched.
@@ -22,7 +23,7 @@ This is illustrated in the image below:
 
 ![Adding a new filter](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/product-filters/product_filters_add_new.png)
 
-**Adding filters to product**
+#### Adding filters to product
 
 - Go to Article manager > Open your product
 - Move to J2Store cart tab
@@ -34,10 +35,10 @@ This is illustrated in the image below:
 
 ![Adding product filters](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/product-filters/product_filter_add_in_pro_search.png)
 
-**Frontend**
+#### Frontend
 
 ![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/product-filters/product_filter_front.png)
 
-**Video tutorial**
+#### Video tutorial
 
-[![Adding product filters](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/Fyt_KP48Uwo "Adding product filters")
+<videoembed src="Fyt_KP48Uwo"></videoembed>

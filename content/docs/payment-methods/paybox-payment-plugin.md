@@ -85,7 +85,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url ="g/forum/index.html"target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

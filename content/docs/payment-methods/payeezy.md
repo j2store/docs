@@ -9,20 +9,21 @@ category: "payment methods"
 
 Payeezy is the payment gateway offering from First Data, a leading payment service provider in the world. The plugin integrates J2Store Joomla shopping cart with the Direct API of the Payeezy allowing you to accept card transactions.
 
-**System Requirements**
+### System Requierments
 
 1. PHP 5.4 or greater
 2. Joomla 3.x
 3. J2Store 3.2.x or greater
 
-**Installation Instructions**
+### Installation Instructions
 
 * Use the Joomla installer to install the plugin.
 * In the backend, go to J2store Dashboard -> Payment methods and enable plugin.
 * Open the plugin and enter the parameters (read the explanation about each parameter given below)
 * Save and close it.
 
-**Configuration**
+### Configuration
+
 **Payment option title**
 The value entered here will be used as the title for this payment method. Customer will see this value when he checks out.
 
@@ -90,7 +91,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 ![payeezy3](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/payeezy/payeezy_03.png)
 
 **Support**
-sStill have questions? You can refer our support forum: http://j2store.org/forum/index.html
+sStill have questions? You can refer our support forum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

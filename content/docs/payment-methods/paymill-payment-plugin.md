@@ -17,10 +17,10 @@ In these payment types, unlike Bank Transfer or Money order methods, the custome
 
 ![paymill2](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/paymill-payment/pay_paymill2.png)
 
-**Installation**
+### Installation
 You can install the plugin through the standard Joomla installer.
 
-**Configuration**
+### Configuration
 
 **Payment Option title**
 Enter a name that will be shown in the payment methodsselection during the checkout process. Default Paymill
@@ -73,7 +73,7 @@ You can enter a language constant as a value here if you are using a multi-lingu
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can post your questions in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post your questions in our support forum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

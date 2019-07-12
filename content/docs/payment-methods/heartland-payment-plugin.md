@@ -9,13 +9,13 @@ category: "payment methods"
 
 This plugin integrates J2Store with Heartland Payment Gateway enabling you to accept credit cards.
 
-**Requirements**
+### Requirements
 
 1. PHP 5.2 or higher
 2. Joomla 2.5 or above
 3. J2Store 2.7.3 or above
 
-**Installation Instructions**
+### Installation Instructions
 
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to Extensions->Plugin Manager and open the Heartland Payment plugin. (type = j2store).
@@ -23,7 +23,7 @@ This plugin integrates J2Store with Heartland Payment Gateway enabling you to ac
 4. Enter the parameters (read the explanation about each parameter given below).
 5. Save and close it.
 
-**Parameters**
+### Parameters
 
 **Payment option title**
 Enter a title for this payment method. This text will be displayed while listing the payment methods during checkout. This is an optional parameter.
@@ -68,7 +68,7 @@ This option used to enable/disable log file.
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can reach us in http://j2store.org/forum/index.html.
+Still have questions? You can reach us in <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.
 

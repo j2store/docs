@@ -9,10 +9,10 @@ category: "payment methods"
 
 The plugin integrates the eSELECT Plus Hosted Paypage method of Moneris Payment gateway with J2Store.
 
-**Installation**
+### Installation
 Use the Joomla extensions installer to install the plugin.
 
-**Configuration**
+### Configuration
 
 **Moneris account**
 
@@ -21,15 +21,15 @@ You need to set up your Moneris eSELECT Plus Hosted Paypage.The following config
 **Step 1 :** 
 Log into the Merchant Resource Center
 
-Developement :<link-text url ="https://esqa.moneris.com/mpg/index.php"traget = ¨_blank"rel = ¨noopener¨> click here </link-text>
+Developement :<link-text url="https://esqa.moneris.com/mpg/index.php" traget= "_blank" rel= "noopener"> click here </link-text>
 
-Production :  <link-text url =¨https://www3.moneris.com/mpg"target =¨_blank"rel =¨noopener¨> click here </link-text>
+Production :  <link-text url="https://www3.moneris.com/mpg" target="_blank"rel="noopener"> click here </link-text>
 
 Before you can send a transaction to the Hosted Paypage you will need to configure several settings through the eSELECTplus Merchant Resource Centre (MRC).
 
 **For test accounts**
 
-To log into the MRC test environment go to <link-text url =¨https://esqa.moneris.com/mpg"target =¨_blank"rel = ¨noopener¨> click here </link-text> 
+To log into the MRC test environment go to <link-text url="https://esqa.moneris.com/mpg" target="_blank"rel= "noopener"> click here </link-text> 
 and use one of the following login Ids.
 
 Store ID        UserName         Password
@@ -160,6 +160,6 @@ You can enter a language constant as a value here if you are using a multi-lingu
 The text of the payment button. The button will be displayed at the final checkout step.
 
 **Support**
-Still have questions? You can post in our supportforum: http://j2store.org/forum/index.html
+Still have questions? You can post in our supportforum: <link-text url="http://j2store.org/forum/index.html" target= "_blank" rel= "noopener">click here</link-text>
 
 Thank you for using our extension.

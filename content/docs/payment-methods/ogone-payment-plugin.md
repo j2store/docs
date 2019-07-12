@@ -13,17 +13,17 @@ NOTE: Please sign in for a test account at Ogone and then download the user guid
 
 The following links to download these guides are working as of March 10, 2015:
 
-<link-text url = ¨https://secure.ogone.com/ncol/Ogone_Testacc_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­BAS_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­ADV_EN.pdf"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+<link-text url = "https://secure.ogone.com/ncol/Ogone_Testacc_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­BAS_EN.pdfhttps://secure.ogone.com/ncol/Ogone_e­Com­ADV_EN.pdf" target = "_blank" rel = "noopener">click here</link-text>
 
 The plugin uses the E-commerce Integration method of Ogone.
 
-**Requirements**
+### Requirements
 
 * PHP 5.2 or higher
 * Joomla 2.5.x
 * J2Store 1.0 or above
 
-**Installation Instructions**
+### Installation Instructions
 
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to Extensions->Plugin Manager and open the OgonePayments plugin (type=j2store).
@@ -33,7 +33,7 @@ The plugin uses the E-commerce Integration method of Ogone.
 
 Now you can see the Ogone Payments as an option during the Check out process.
 
-**Parameters**
+### Parameters
 
 **Ogone Vendor PSPID** 
 This is your Unique Merchant ID provided by the Ogone
@@ -77,7 +77,7 @@ Should be set to SHA-1. The plugin will not work with the other methods. Refer t
 
 URL of the merchant page containing the payment form that will call the page: orderstandard.asp:
 
-This should be set to <link-text url ="http://www.yourdomain.com"target = ¨_blank"rel = ¨noopener¨> click here </link-text>
+This should be set to <link-text url ="http://www.yourdomain.com" target = "_blank" rel = "noopener"> click here </link-text>
 
 ![data and origin](https://raw.githubusercontent.com/j2store/doc-images/master/payment-methods/ogone-payment-plugin/ecommerce_check_ogone.png)
 
@@ -85,7 +85,8 @@ This should be set to <link-text url ="http://www.yourdomain.com"target = ¨_bla
 
 This is required to update our database after the payment is done. Under the heading “Direct HTTP server to server request", set both the URLs of the merchant's post payment page as below:
 
-<link-text url =¨http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_ogone&paction=process&tmpl=component"target =¨_blank"rel = ¨noopener¨> click here </link-text>
+<link-text url ="http://www.yourdomain.com/index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type=payment_ogone&paction=process&tmpl=component" target ="_blank" rel = 
+"noopener"> click here </link-text>
 
 **Request method: POST**
 
@@ -95,6 +96,6 @@ This is required to update our database after the payment is done. Under the hea
 
 **Support**
 
-Still have questions? You can post in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post in our support forum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
 
 Thank you for using our extension.

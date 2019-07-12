@@ -7,7 +7,7 @@ author: "Sowbagya lakshmi"
 category: "Frequently asked questions"
 ---
 
-**On update to 3.3.6**
+### On update to 3.3.6
 
 Starting from the release 3.3.6, when you install the latest version of J2Store on your site over an existing version, you might find a warning that looks like this:
 ![PHP error](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/commonly-found-issues/error-j2store-exists.png)
@@ -21,7 +21,7 @@ This is just a warning. This warning indicates that there is already an existing
 
 No, this warning wouldn't affect the site in any way. As mentioned before, this is just a warning and you could ignore this.
 
-**Due to the backward compatibility to earlier versions of PHP**
+### Due to the backward compatibility to earlier versions of PHP
 
 Sometimes, you could find a warning like this on your site:
 ![PHP backward compatibility](https://raw.githubusercontent.com/j2store/doc-images/master/frequently-asked-questions/commonly-found-issues/warning-php.png)
@@ -45,7 +45,7 @@ This occurs since we provide backward compatibility to the earlier versions of P
 
 No, this wouldn't harm your site in anyway. To overcome this, you could turn off the error reporting under Joomla global configuration.**
 
-**Issue:**
+### Issue:
 
 **Unable to save anything on the site**
 

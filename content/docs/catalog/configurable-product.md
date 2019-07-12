@@ -6,7 +6,7 @@ description: "Know how to create configurable products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-**Introduction**
+### Introduction
 
 As the name suggests, you can allow customers to configure before adding the product to cart. This product type offers dependant / chained product options. That is you can define parent-child relationship between options.
 
@@ -15,7 +15,7 @@ Think of a visiting card. Customer will be asked first to select the type of pap
 
 The settings for this product are exactly similar to that of simple product except in the options tab, where there is an additional field **Parent Option** is available to select a parent option. In the options listed, for all options, except first one, a parent option can be selected.
 
- **General**
+#### General
  
 ![General tab](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-general.png)
 
@@ -25,12 +25,12 @@ The settings for this product are exactly similar to that of simple product exce
 - Brand or Manufacturer - Select the brand or manufacturer of the product from the available list
 - Vendor - Select the vendor from whom the product is available for purchase - Note: This feature is available in J2Store PRO version only
 - Tax Profile - Specify whether the product is taxable and if so select the taxprofile relevant to the product
-- Main Tag - The tag selected here will be used for canonical url. More details about canonical url could be found here [http://docs.j2store.org/canonical-url-plugin](<http://docs.j2store.org/canonical-url-plugin>)
+- Main Tag - The tag selected here will be used for canonical url. More details about canonical url could be found here <link-text url="[http://docs.j2store.org/canonical-url-plugin](<http://docs.j2store.org/canonical-url-plugin>)" traget="_blank" rel="noopener">click here</link-text>
 - Cart Button Text - Enter the text to be displayed in the cart button.
 - Product css class - Use this option add unique css class to each product. 
 
 
-**Pricing**
+#### Pricing
 
 Pricing section will guide you to understand how to set regular pricing and advanced pricing for a product.
 Consider the image below:
@@ -51,7 +51,7 @@ Let us see how it happens. Check the image below:
 The price will be added and displayed below. You can edit that if you need, and click **Save all prices**.
 If you want to remove that, you can do it by clicking the **Remove** button.
 
-**Inventory**
+#### Inventory
 
 **This is J2Store PRO exclusive feature**
 
@@ -76,13 +76,12 @@ This option is for those who sell fast moving products. So even if a product sto
 - Quantity Restriction - Choose whether purchase quantity is restricted and if Yes, set the limits for minimum and maximum quantity for a purchase by entering the quantities in the fields provided
 - Use store configuration - If you select 'Use store configuration', you cannot enter max and min quantity fields, as they will be disabled
 
-**Video Tutorial:**
+#### Video Tutorial:
 
-The following video illustrates how the inventory for products could be configured:
-[![Configurable product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg) inventory](https://youtu.be/LLDVWW1FfdM "Stock management")
+<videoembed src="LLDVWW1FfdM"></videoembed>
 
 
-**Images**
+#### Images
 
 In this tab you can add images that can help the customer in more clear understanding of the product he wants to buy. Images help the prospect to imagine how the product intended to purchase will look like.
 
@@ -100,7 +99,7 @@ Lets assume that a customer would like to purchase a pizza. You need pizza image
 
 The button with the caption, **Add more images**, when clicked, inserts a new row below the **Additional images** to select another image of the product.
 
-**Shipping**
+#### Shipping
 
 ![Shipping](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-shipping.png)
 
@@ -114,7 +113,7 @@ As shown in the image, you need to do the following activities to configure ship
 
 These configuration will be loaded when shipping is selected.
 
-**Options**
+#### Options
 
 Pay a close attention when you add options. Because you can configure parent - child relationship between the options.
 ![Adding options](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-adding-options.png)
@@ -126,7 +125,7 @@ Now, save the image and your option will be saved. Now, you will get a link '**S
 
 ![Defining option values](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-option-values-def.png)
 
-**Filters**
+#### Filters
 
 Add filtering attributes so that your customers can quickly narrow down the search and find the right product.
 
@@ -134,7 +133,7 @@ For e.g., assume that a customer searches for vegetarian pizza in the store. Piz
 
 ![Filters for configurable products](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-filters.png)
 
-**Relations**
+#### Relations
 
 Relations are used to promote sales by suggesting the customer with higher value products than the one being looked and additional products to be bought with a particular product.
 
@@ -151,13 +150,13 @@ You can suggest the customer with some options, so that the customer may be conv
 - Veg Pizza with paneer butter -> $10 - Upsell, same product family, more expensive
 - Beverages/Ice cream -> $3 - Cross sell, related product, additional sell
 
-**A step-by-step example to create a configurable product**
+### A step-by-step example to create a configurable product
 
 **J2Store** implements an innovative concept in creating products. It uses the Joomla articles as products. So to create a product is to create an article.
 
 So, lets create an article.
 
-**Creating an Article**
+#### Creating an Article
 
 Have a look at the image below:
 
@@ -182,7 +181,7 @@ You can enter the description of your product as shown below:
 
 ![Adding content](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-adding-content.png)
 
-**General**
+#### General
 
 Now you need to configure your product with necessary details. Begin with general tab.
 See the image below:
@@ -191,7 +190,7 @@ See the image below:
 
 Enter the details as required by the fields in the tab, like, SKU, UPC/EAN, brand, vendor, tax profile and the caption for the cart button. Once you enter them now navigate to the next tab, pricing.
 
-**Pricing**
+#### Pricing
 
 In Pricing you can set the price for your product. You have the option to set up advanced prices, like discount offers, as shown in the following images.
 
@@ -207,7 +206,7 @@ In the above image, you can set a date range for the special price, otherwise, y
 
 ![Create advanced pricing](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-create-advanced-pricing.png)
 
-**Inventory**
+#### Inventory
 
 Now, configure the Inventory tab.
 
@@ -228,7 +227,7 @@ When you click on the 'select an image' button, you will see a pop-up window, wh
 
 ![Uploading images](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-uploading-images.png)
 
-**Shipping**
+#### Shipping
 
 Move on to shipping tab. Here you set up the shipping configuration for the product. Enter the dimensions, a class for dimensions, weight of the product and its class. All in packed condition.
 
@@ -238,7 +237,7 @@ Check the image below.
 
 Next is options tab.
 
-**Options**
+#### Options
 
 In this tab, you empower the customer to configure the product. See how it is...
 
@@ -260,13 +259,13 @@ Click on the link now to set values for the options.
 
 Now, go to filtes tab.
 
-**Filters**
+#### Filters
 
 The filters will help to narrow the product search, for specific products. For e.g., if you add filter with value 'Veg', the search will display only veg pizzas.
 
 ![Adding filters](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-filters-add.png)
 
-**Relations**
+#### Relations
 
 The next tab is Relations. Here, you can add products of higher value than the one being viewed by the customer and recommend the customer to buy that product, citing its advantages and additional features. This is an upsell.
 
@@ -278,7 +277,7 @@ Also, you can add some other products to convince the customer to buy theses pro
 
 For more detailed explanation, refer to the **Relations** section of the **Configurable Product**.
 
-**Apps**
+#### Apps
 
 In this tab, you can add third party tools or plugins, that are available, to enhance the J2Store functionality, like adding additional fields, applications, functions or features.
 
@@ -289,7 +288,8 @@ Now, lets have a look on how your product is viewed in your online store. Check 
 ![Frontview](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/configurable-product/config-pro-front.png)
 
 
-**Video Tutorial:**
+#### Video Tutorial:
 
 The following video illustrates how a configure product could be created:
-[![Configurable product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/dYvDB-AZDrM "Creating a product with dependable option values")
+
+<videoembed src="dYvDB-AZDrM"></videoembed>

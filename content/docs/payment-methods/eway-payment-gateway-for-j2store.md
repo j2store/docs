@@ -7,7 +7,7 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-**Introduction**
+### Introduction
 
 The eWAY plugin for J2Store allows you to take credit card payments directly on your store without redirecting your customers to a third party site to make payment.eWay is one of the popular payment gateways in Australia, New Zealand and United Kingdom processing credit card transactions.eWay helps you accept credit card payments securely in your store front.
 
@@ -16,7 +16,7 @@ There are two plugins available based on two methods
 1. eWay Rapid (based on the New Rapid 3.1 API) - Recommended
 2. eWay Direct (old API ) - Not recommended.
 
-**Installation**
+### Installation
 Download the plugin file and install it via the Joomla Extension Manager.
 
 **Upgrading from old Direct method to new eWay Rapid**
@@ -26,7 +26,7 @@ Download the plugin file and install it via the Joomla Extension Manager.
 3. Open the plugin to enter the API Key and configure other fields.
 4. Disable the old eWay Direct plugin.
 
-**Configuration - eWay Rapid**
+### Configuration - eWay Rapid
 Go to J2Store - Payment Methods and open the eWay Rapid plugin
 
 **eWay Customer API Key:** 

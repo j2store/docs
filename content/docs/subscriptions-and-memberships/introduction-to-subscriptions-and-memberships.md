@@ -9,7 +9,7 @@ category: "Subscriptions and memberships"
 
 # Introduction to Subscriptions and Memberships in J2Store
 
-**Introduction**
+### Introduction
 
 If you would like to sell subscription-based products, you could do just that with our 
 <link-text url="https://www.j2store.org/product/subscriptions-and-memberships.html" target="_blank" rel="noopener"> Subscriptions and Membership</link-text> app. This app allows you to sell products and services with recurring payments.
@@ -18,7 +18,7 @@ If you would like to sell subscription-based products, you could do just that wi
 
 <link-text url="http://docs.j2store.org/subscriptions-and-memberships/paypal-reference-transactions-for-subscriptions" target="_blank" rel="noopener">Read more about it here</link-text>
 
-**Features**
+### Features
 
 **1. Billing schedules**
 
@@ -55,13 +55,13 @@ Send automatic emails to the customers when the subscription is created, when a 
 
 **9. Free trials
 
-**Now you could offer free trials for your users with the help of the free trial option available on the subscription product type. It lets you add the duration for which you would like the users to try the free trial before the subscription is active**.**
+Now you could offer free trials for your users with the help of the free trial option available on the subscription product type. It lets you add the duration for which you would like the users to try the free trial before the subscription is active
 
 **10. Renewal discounts
 
 You could set up renewal discounts for the subscription products. If users apply a coupon while purchasing the product, then the same discount would be applicable while they renew the subscription as well.
 
-**Supported Payment Gateways**
+#### Supported Payment Gateways
 
 1. Paypal Standard for J2Store (Available on request)
 2. Stripe (Available on request)
@@ -70,7 +70,7 @@ You could set up renewal discounts for the subscription products. If users apply
 5. BrainTree
 6. Squareup Payments
 
-**Known limitations**
+#### Known limitations
 
 1. Subscription Products app does not support for guest checkout.
 2. Variable subscription product type allows you to add only one option with multiple values.

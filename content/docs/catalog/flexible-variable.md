@@ -6,7 +6,7 @@ description: "Know how to create Flexivariable products"
 author: "Sowbagya lakshmi"
 category: "catalog"
 ---
-**Introduction**
+### Introduction
 
 Flexible Variable is an another new product type that we came up with . It is similar to variable product type but it has quiet different feature when compare to variable product type.
 
@@ -16,7 +16,7 @@ The only different is that this product type does not generate variants automati
 
 Since adding / removing a single variant will be possible with this product type, it will be more easy for you manage variants which are out of stock.
 
-**General**
+#### General
 ![Flexivariable product type](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-product-type.png)
 
 - Visible in Storefront - First select whether the product is to be displayed in front of the store. If it is, set the option to 'Yes'
@@ -39,7 +39,7 @@ Lets assume that a customer would like to purchase a car. Now, car images need t
 
 **NOTE: **For the images set for the variants to appear on the frontend, the main image and thumbnail image has to be set. Only then when the variants are chosen on the frontend their corresponding images would come up.**
 
-**Variants**
+#### Variants
 
 Variants are products of same type and nature but with different attributes. For e.g., consider a T-shirt of a particular brand with certain attributes, say
 
@@ -95,7 +95,7 @@ If any one of your variants comes **out of stock** and you wants to hide that va
 Below is the screenshot of how flexivariable product shows in site's frontend.
 
 ![Frontend](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-frontend.png)
-**Filters**
+#### Filters
 
 Filters are certain attributes that help narrow the search of a particular product.
 
@@ -105,7 +105,7 @@ For e.g., assume that a customer searches for purple t-shirts in the store. Now,
 
 Now the cart will display only the Black t-shirts.
 
-**Relations**
+#### Relations
 
 ![Relations](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/flexible-variable/flexi-var-relations.png)
 
@@ -115,13 +115,13 @@ Now the cart will display only the Black t-shirts.
 - Example:The terms cross-sell and upsell are often used interchangeably because, let’s face it, this gets confusing. Say the customer is viewing a Laptop with 2GB/500GB for $500.4GB/500GB-> $550 - Upsell, same product family, more expensive4GB/1TB -> $700 - Upsell, same product family, more expensiveLaptop Bag -> $25 - Cross sell, related product, additional sell
 
 
-**Apps**
+#### Apps
 
 Custom fields / settings from applications will be displayed in this tab.
 
-**Video Tutorial**
+#### Video Tutorial
 
-[![Creating a flexi-variable product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/yu1JKOjPba8 "Creating a flexi variable product")
+<videoembed src="yu1JKOjPba8"></videoembed>
 
 
 

@@ -9,10 +9,10 @@ category: "payment methods"
 
 This plugin adds EBS Payment Gateway integration with J2Store.
 
-**Installation**
+### Installation
 Use the Joomla installer to install the plugin. Make sure that your J2store version is atleast 2.0.2.
 
-**Configuration**
+#### Configuration
 Go to Plugin manager and open the EBS Payments for J2store plugin. Fill in the parameters that follow.
 
 **Payment Option title**
@@ -41,5 +41,6 @@ CVV: 123
 You can create a joomla article with a custom message and display when the customer returns to the site after makingpayment at EBS.
 
 **Support**
-You can post your questions, if any, in http://j2store.org/forum/index.html.
+You can post your questions, if any, in <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>
+
 

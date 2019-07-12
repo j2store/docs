@@ -15,7 +15,7 @@ Under that whatever text has entered that considered as Long Description.
 
 ![Short long description](https://raw.githubusercontent.com/j2store/doc-images/master/catalog/product-description/short_long_description.png)
 
-**According to J2store**
+### According to J2store
 
 J2Store takes the introtext column as the short description and fulltext column as the long description.
 
@@ -25,7 +25,7 @@ The Article manager divides the text (content) into two and saves it based on th
 
 In J2store, you can enable and disable the display of short description and long description in both category view and product view.
 
-**In version 2**
+#### In version 2
 
 Sometimes "short description" is enabled in the setting with "long description" disabled but the list layout shows both text plus read-more text.
 
@@ -37,10 +37,10 @@ So, the following line (line number 576) that is added for old plugin compatibil
 
 It assigns the whole text as introtext// Old plugins: Use processed text as introtext$item->introtext = $item->text;
 
-**In version 3**
+#### In version 3
 
 The read more break works fine.
 
-**Support**
+#### Support
 
 Still have questions? You can post in our support forum: <link-text url="http://j2store.org/forum/index.html" target="_blank" rel="noopener">Click here</link-text>

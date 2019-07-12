@@ -7,11 +7,11 @@ author: "Varsha"
 category: "subscriptions and memberships"
 ---
 
-**Creating simple subscription product**
+### Creating simple subscription product
 
 Here is a video on how to create a simple subscription product:
 \
-[![simple subscription product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/mNFXMLHrdjY "simple subscription product")
+<videoembed src="mNFXMLHrdjY"></videoembed>
 
 * Go to Article Manager > create new article > Move to J2Store cart tab
 * Choose YES to Treat as a Product and select Simple Subscription as Product Type and click Save and Continue.
@@ -20,11 +20,11 @@ Here is a video on how to create a simple subscription product:
 
 You can set images, shipping, filters to your subscription product.
 
-**Creating variable subscription product**
+### Creating variable subscription product
 
 Here is a video on how to create a variable subscription product:
 
-[![variable subscription product](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/mp9m1qSMJ0E "variable subscription product")
+<videoembed src="mp9m1qSMJ0E"></videoembed>
 
 The variable subscription product allows you to add only one option with multiple values.
 
@@ -46,7 +46,7 @@ It allows you to add one option with multiple variants. For example, Subscriptio
 ![sub variants](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/creating-subscription-based-products/subscription-variants.png)
 
 
-**Pricing**
+### Pricing
 
 **Subscription price :** 
 Enter the membership price (for example, $  29) based on either daily or weekly or monthly or yearly basis.For example, if you would like to give subscription price  $ 29 for only 3 months, then enter $ $ 29 in the first text box and then choose every 3rd from the dropdown list and then choose month from third dropdown list.
@@ -66,7 +66,7 @@ The subscription length duration will be listed based on the recurring period yo
 ![subscription pricing](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/creating-subscription-based-products/subscription-pricing.png)
 
 
-**Frontend Demo:**
+### Frontend Demo:
 
 ![subs frontend](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/creating-subscription-based-products/subscription-frontend.png)
 
@@ -74,7 +74,7 @@ The subscription length duration will be listed based on the recurring period yo
 ![subs payment checkout](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/creating-subscription-based-products/subscription-payment-checkout.png)
 
 ![subs frontend profile](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/creating-subscription-based-products/subscription-frontend-profile.png)
-**Check the subscription details and status from backend**
+### Check the subscription details and status from backend
 
 Go to J2Store > Apps and Open Subscription Products app and you can see subscription button on top of the page. Click on this button to view the customer's subscription details and status.
 

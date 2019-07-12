@@ -65,10 +65,11 @@ The Id of the article that has to be displayed after the payment is made.This co
 This plugin provides option to restrict the payment method for certain regions.You could select the regions for which the payment should be available.
 
 **Display text on selection**
-Text to be displayed upon selection of this payment method has to be typed here.If the site is multi-lingual, then a language constant could be provided here and an override could be performed.
+Text to be displayed upon selection of this payment method has to be typed here If the site is multi-lingual, then a language constant could be provided here and an override could be performed.
 
 **Display text before payment**
-Text to be displayed before completion of the payment could be entered here.In case of a multi-lingual  site, then a language constant could be provided here and an override could be performed.
+Text to be displayed before completion of the payment could be entered<link-text url ="http://here.in/" target = "_blank" rel = "noopener">here</link-text> 
+Incase of a multi-lingual  site, then a language constant could be provided here and an override could be performed.
 
 **Display text on after payment**
 Text to be displayed upon completion of the payment has to be specified here.In case of a multi-lingual  site, then a language constant could be provided here and an override could be performed.

@@ -7,15 +7,15 @@ author: "Varsha"
 category: "payment methods"
 ---
 
-This Plugin enables you to receive payments via Authorize.Net Payment Gateway. Visit <link-text url = ¨http://authorize.net" target = ¨_blank" rel = "noopener¨">click here </link-text> to know more about the payment gateway.
+This Plugin enables you to receive payments via Authorize.Net Payment Gateway. Visit <link-text url = "http://authorize.net" target = "_blank" rel = "noopener">click here </link-text> to know more about the payment gateway.
 
-**Requirements**
+### Requirements
 
 * PHP 5.2 or higher
 * Joomla 2.5.x
 * J2Store 1.0 or above
 
-**Installation Instructions**
+### Installation Instructions
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to Extensions->Plugin Manager and open the Heartland Payment plugin. (type = j2store).
 3. Enable the plugin.
@@ -24,7 +24,8 @@ This Plugin enables you to receive payments via Authorize.Net Payment Gateway. V
 
 Now you can see the Authorize.net Payments as an option during the Checkout process.
 
-**Parameters**
+### Parameters
+
 **Authorize.net Login ID**
 
 This is your Merchant Login Id given by the Authorize.net
@@ -65,7 +66,7 @@ Md5 has provided in sandbox.
 
 You can create a Joomla Article to say thanks to the users, who purchased in your online store. Enter the article ID here.
 
-Still have questions? You can post in our support forum: <link-text url ="http://j2store.org/forum/index.html¨" target = "_blank¨" rel="noopener¨">click here </link-text>
+Still have questions? You can post in our support forum: <link-text url ="http://j2store.org/forum/index.html" target = "_blank" rel="noopener">click here </link-text>
     
 Thank you for using our extension.
 
@@ -74,7 +75,7 @@ It seems to be using of expired transaction key.
 
 **To regenerate the transaction key :**
 
-1. Log into your Merchant Interface at  <link-text url="https://account.authorize.net¨" target = "_blank¨" rel = "noopener¨"> click here </link-text>
+1. Log into your Merchant Interface at  <link-text url="https://account.authorize.net" target = "_blank" rel = "noopener"> click here </link-text>
 2. Click Account from the main toolbar.
 3. Click Settings in the main left-side menu.
 4. Click API Credentials & Keys.

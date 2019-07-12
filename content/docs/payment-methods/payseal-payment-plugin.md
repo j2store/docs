@@ -63,4 +63,4 @@ The text of the payment button. The button will be displayed at the final checko
 
 **Support**
 
-Still have questions? You can post your questions in our support forum: http://j2store.org/forum/index.html
+Still have questions? You can post your questions in our support forum: <link-text url = "http://j2store.org/forum/index.html" target = "_blank" rel = "noopener">click here</link-text>sss

@@ -16,14 +16,14 @@ There are three places where it could be added:
 - Custom css code section of your template style
 - Occasionally on the scss or less files(if your template loads css through SCSS or LESS) 
 
-**To add the CSS to the template.css or custom.css file:**
+### To add the CSS to the template.css or custom.css file:
 
 Navigate to Extensions->Templates->Your template-> CSS->Template.css or 
 Theme.css file or custom.css file
 The CSS that we suggest can be entered at the end of the above file.
 
 
-**To add the CSS in the custom code section of your template:**
+### To add the CSS in the custom code section of your template:
 
 Sometimes, when the CSS doesn't take effect on the frontend while inserted on the files mentioned on the first step, you could check if your template has a custom code section and input the CSS there, if it has one.
 
@@ -38,7 +38,9 @@ To add the CSS on the SCSS or LESS folder:
 
 **Sometimes, the** **CSS has to be inserted in the SCSS or LESS files of the template.
 
-If you have tried the above methods and if the styles entered don't take effect on the frontend, even after clearing the site and browser cache, please reach us through the <link-text url="https://www.j2store.org/support/support-request-form.html" target="_blank" rel="noopener">support form</link-text> or <link-text url="https://www.j2store.org/my-account/priority-ticket-system.html" target="_blank" rel="noopener">ticket system </link-text>available for PRO users.
+If you have tried the above methods and if the styles entered don't take effect on the frontend, even after clearing the site and browser cache, please reach us through the
+<link-text url="https://www.j2store.org/support/support-request-form.html" target="_blank" rel="noopener">support form</link-text> or 
+<link-text url="https://www.j2store.org/my-account/priority-ticket-system.html" target="_blank" rel="noopener">ticket system </link-text>available for PRO users.
 
 Let us help you with the CSS.
 

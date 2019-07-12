@@ -7,17 +7,17 @@ author: "Varsha"
 category: "troubleshooting guide"
 ---
 
-**1. Did you download and installed the translations for your language from our website ?**
+### 1. Did you download and installed the translations for your language from our website ?
 
-If not, go to <link-text url ="http://j2store.org/translations.html" traget = "_blank" rel = "noopener"> click here </link-text>
+If not, go to <link-text url="http://j2store.org/translations.html" traget="_blank" rel="noopener"> click here </link-text>
 
 Do you see your language listed?
 
 If your language is 100% complete, go head and download the language pack and install it using the Joomla installer. Yes you read it correct. Via the JOOMLA installer.
 
-If your language is not complete, please translate the strings by following the guide at <link-text url ="https://www.j2store.org/support/user-guide/translate-j2store-in-your-language.html" traget = "_blank" rel="noopener"> click here </link-text>
+If your language is not complete, please translate the strings by following the guide at <link-text url="https://www.j2store.org/support/user-guide/translate-j2store-in-your-language.html" traget="_blank" rel="noopener"> click here </link-text>
 
-**2. Did you set your site Default language to your language in Language manager?**
+### 2. Did you set your site Default language to your language in Language manager?
 
 * Go to Joomla administrator->Extensions->Language Manager
 
@@ -31,7 +31,7 @@ Note down the language code of yours. For example, the language code for English
 * If yes, you are fine and carry on with your work.
 * If not all strings are translated, go to step 3
 
-**3. Translate the missing/untranslated strings**
+### 3. Translate the missing/untranslated strings
 
 Open the /language/yourLanguage-Code/yourLanguage-Code.com_j2store.ini
 

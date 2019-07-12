@@ -385,7 +385,7 @@ Now the system generated invoice number, say 1, will be appended with this prefi
 
 _Applies only for J2Store PRO users_
 
-This tab has a text input to enter the **Download ID** provided by[ <link-text url="https://www.j2store.org/](http://j2store.org)" target="_blank" rel="noopener">**J2Store**</link-text>, which is a requirement for updating the j2store component's PRO version. Without this ID, <link-text url="[https://www.j2store.org/my-account/my-downloads.html](https://www.j2store.org/my-account/my-downloads.html)" target="_blank rel="noopener">j2store PRO</link-text> cannot be downloaded. This ID will be available in the Invoice as well as in **My Download** of j2store.org
+This tab has a text input to enter the **Download ID** provided by[ <link-text url="https://www.j2store.org/](http://j2store.org)" target="_blank" rel="noopener">**J2Store**</link-text>, which is a requirement for updating the j2store component's PRO version. Without this ID, <link-text url="[https://www.j2store.org/my-account/my-downloads.html](https://www.j2store.org/my-account/my-downloads.html)" target="_blank" rel="noopener">j2store PRO</link-text> cannot be downloaded. This ID will be available in the Invoice as well as in **My Download** of j2store.org
 
 ![Configuration-updatesettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-updatesetting.png)
 
