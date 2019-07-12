@@ -69,9 +69,6 @@ const Menu = () => (
             <li className="nav-item">
                 <a href="https://www.j2store.org/blog.html" activeClassName="active" className="nav-link">Blog</a>
             </li>
-            <li className="nav-item">
-                <Link to="/" className="nav-link" activeClassName="active" partiallyActive={true} >Docs</Link>
-            </li>
         </ul>
     </div>
 )
