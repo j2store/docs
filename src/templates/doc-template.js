@@ -94,11 +94,13 @@ function DocTemplate(props) {
                 <div className="row">
                     <div className="col-md-3 col-sm-12">
                         <button id="showDocNavBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
-                        <div className="aside-menu" id="docNavLinkContent" style={{overflowY:'scroll',height:'80vh'}}>
+                        <div className="aside-menu" id="docNavLinkContent">
                             <div className="btn-container">
                                 <Link to="/" className="btn btn-primary">Back to Docs Home</Link>
                             </div>
-                            <SideNav navLinks={SideNavLinks} currentUrl={props.pageContext.slug}/>
+                            <div style={{overflowY:'scroll',height:'90vh'}}>
+                                <SideNav navLinks={SideNavLinks} currentUrl={props.pageContext.slug}/>
+                            </div>
                             <div className="btn-container">
                                 <Link to="/" className="btn btn-primary">Back to Docs Home</Link>
                             </div>
