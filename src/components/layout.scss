@@ -3799,12 +3799,12 @@ body {
 //Aside menu
 .aside-menu {
   font-family: $secondary-font;
-  padding: 50px 0;
+  // padding: 50px 0;
   position: sticky;
   align-self: flex-start;
   top: 0;
-  z-index: 2;
-  padding-left: 30px;
+  // z-index: 2;
+  // padding-left: 30px;
   @media (max-width: 768px) {
     padding: 0;
   }
