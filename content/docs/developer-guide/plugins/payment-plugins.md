@@ -52,51 +52,53 @@ Make sure that the name of the file is in **lower case** and there are no spaces
 
 The plugin's manifest should follow the joomla plugin creation basics.An example manifest should look like this:
 
-      ```<?xml version="1.0" encoding="utf-8"?>
-      <extension version="2.5" type="plugin" group="j2store" method="upgrade">
-          <name>Example</name>
-          <version>1.0</version>
-          <creationDate>June 2015</creationDate>
-          <author>J2Store</author>
-          <authorEmail>support@j2store.org</authorEmail>
-          <authorUrl>http://www.j2store.org</authorUrl>
-          <copyright>2015 Example Company</copyright>
-          <license>GNU General Public License v3 or later versions</license>
-          <description>Description of your plugin </description>
-          
-          <files>
-              <filename plugin="payment_example">payment_example.php</filename>
-              <filename>index.html</filename>
-              <folder>payment_example</folder>     
-          </files>
-          <languages>
-              <language tag="en-GB">languages/en-GB.plg_j2store_payment_example.ini</language>        
-          </languages>
-          <config>
-          <fields name="params">
-            <fieldset name="basic">
+```
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="j2store" method="upgrade">
+    <name>Example</name>
+    <version>1.0</version>
+    <creationDate>June 2015</creationDate>
+    <author>J2Store</author>
+    <authorEmail>support@j2store.org</authorEmail>
+    <authorUrl>http://www.j2store.org</authorUrl>
+    <copyright>2015 Example Company</copyright>
+    <license>GNU General Public License v3 or later versions</license>
+    <description>Description of your plugin </description>
+    
+    <files>
+        <filename plugin="payment_example">payment_example.php</filename>
+        <filename>index.html</filename>
+        <folder>payment_example</folder>     
+    </files>
+    <languages>
+        <language tag="en-GB">languages/en-GB.plg_j2store_payment_example.ini</language>        
+    </languages>
+    <config>
+    <fields name="params">
+      <fieldset name="basic">
 
-      	<field 
-      	   name="articleid" 
-      	   type="text" 
-      	   size="10" 
-      	   default="" 
-      	   label="j2store_thanks_msg"
-      	   description="j2store_thanks_msg_desc"
-      	   />
+	<field 
+	   name="articleid" 
+	   type="text" 
+	   size="10" 
+	   default="" 
+	   label="j2store_thanks_msg"
+	   description="j2store_thanks_msg_desc"
+	   />
 
-      	<field 
-      	   name="geozone_id" 
-      	   type="geozonelist" 
-      	   default="" 
-      	   label="J2STORE_GEOZONE" 
-      	   description="J2STORE_GEOZONE_DESC"
-      	   addfieldpath="/administrator/components/com_j2store/models/fields" 
-      	   />
-              </fieldset>
-          </fields>
-      </config>
-      </extension>```
+	<field 
+	   name="geozone_id" 
+	   type="geozonelist" 
+	   default="" 
+	   label="J2STORE_GEOZONE" 
+	   description="J2STORE_GEOZONE_DESC"
+	   addfieldpath="/administrator/components/com_j2store/models/fields" 
+	   />
+        </fieldset>
+    </fields>
+</config>
+</extension>
+```
 
 Also refer the manifest of the Paymill plugin that comes built in with the J2Store package.
 
@@ -156,6 +158,7 @@ The beauty of the _getLayout method is that it will respect the template overrid
 When customer reaches this step, the order will be saved. And you will have an order id.
 
 The following wrapper method is executed and it returns normally a **Place order button** (may be a hidden form). Check the Paymill plugin or the cash on delivery plugin.
+
 ```
 function _prePayment( $data )
 {
@@ -232,8 +235,10 @@ index.php?option=com_j2store&view=checkout&task=confirmPayment&orderpayment_type
 
 Notice the two parameters here:
 
-```orderpayment_type = the name of the payment plugin
-paction = an action to perform in the postPayment wrapper.```
+```
+orderpayment_type = the name of the payment plugin
+paction = an action to perform in the postPayment wrapper.
+```
 
 
 If you are integrating the direct (credit card) method, then refer the Paymill or the sagePay plugins in the j2store package for more information
@@ -420,15 +425,18 @@ class plgJ2StorePayment_example extends J2StorePaymentPlugin
 
 If the payment is successful, you should call the following method
 
-```$order->payment_complete();
-$order->empty_cart();```
-
-If you want to update the status of order, you can call the following method`
-
-```$order->update_status($order_status_id, $notify_customer);
-
+```
+$order->payment_complete();
+$order->empty_cart();
 ```
 
+If you want to update the status of order, you can call the following method
+
+```
+$order->update_status($order_status_id, $notify_customer);
+
+```
+```
 $order_status_id = The status to which the order to be set.
 You can get the ID of the order status from J2Store -> Localisation -> Order statuses.
 
