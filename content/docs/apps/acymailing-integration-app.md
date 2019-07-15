@@ -7,28 +7,28 @@ author: "Kiruthigha"
 category: "apps"
 ---
 
-**Requirements**
+### Requirements
 
 * PHP 5.2 or higher
 * Joomla 3.3 or above
 * J2Store 3.1.6 or above
 
-**Installation Instructions**
+### Installation Instructions
 
 1. Use the Joomla installer to install the app.
 2. In the backend, go to J2Store Dashboard -> Apps as shown in the image below.
 
 ![ai01](https://raw.githubusercontent.com/j2store/doc-images/master/apps/acymailing-integration-app/am1.png)
 
-3. * Click Enable in the Acymailing plugin. (type=j2store).
+3. Click Enable in the Acymailing plugin. (type=j2store).
 ![ai02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/acymailing-integration-app/am2.png)
-4. * After the app is enabled, click on Open to set the configuration for the app.
+4. After the app is enabled, click on Open to set the configuration for the app.
 
 ![ai03](https://raw.githubusercontent.com/j2store/doc-images/master/apps/acymailing-integration-app/am3.png)
-5. * Enter the parameters (read the explanation about each parameter given below)
+5. Enter the parameters (read the explanation about each parameter given below)
 6. Save and close it.
 
-**Parameters**
+### Parameters
 
 The below image illustrates the settings of parameters:
 
@@ -45,7 +45,7 @@ The below image illustrates the settings of parameters:
 
 ![ai06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/acymailing-integration-app/am6.png)
 
-**Front end view of Auto Subsctiption**
+### Front end view of Auto Subsctiption
 
 Below image illustrates the cart view, in which one can see the items that are added to the cart. If any change is needed, it can be done before checking out.
 ![ai07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/acymailing-integration-app/am7.png)

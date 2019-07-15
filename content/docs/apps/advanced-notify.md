@@ -17,13 +17,14 @@ This is the right place.
 
 This app helps to set different admin emails for different regions.There are options available in j2store to add multiple store admins but when many admin emails are added the notification will be sent to everyone when a user places an order.With this app it is possible to set up a different administrator email for different regions.
 
-**Installation**
+### Installation
 
 Download Advanced notify app from our site and install it using Joomla installer.
 After installing the app, go to J2Store->Apps and click Enable under "Advanced notify" app.
 Once enabled, open the app to configure the basic settings of the app.
 
-**Settings**
+
+### Settings
 
 You could find the settings option here:
 
@@ -42,7 +43,7 @@ If you wants to completely replace the recipients list, then choose the **Replac
 
 	
 
-**Email setup**
+### Email setup
 
 The email notification can be based on following three rules types. The store administrator email can also be changed with this app (you should specify the store administrator email while defining rule condition).
 
@@ -51,7 +52,7 @@ The email notification can be based on following three rules types. The store ad
 * Product basedSometime you may want to send order email for specific products. In this case, choose this rule type.
 
  
-  **Creating Rules and Rule condition**
+  ### Creating Rules and Rule condition
 
 Once you opened the app, you will see the **Add new rule** button on the table like below image:
 
@@ -65,39 +66,44 @@ Once you opened the app, you will see the **Add new rule** button on the table l
 
 5. Click on Rule condition and setup the parameters as per the rule type you have chosen.
 
-**Country based rule**
+### Country based rule
 
 Sometimes you may have different stores at different regions and wants to send an order email to different store admins based on the region.
 
 To do this, you will have to create country based rule inside the app's settings.
 
 Click on Add new rule button and give the name of the rule and then choose the rule type **Country Rule** and save.
-![an05](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-05.png)
+![country rule](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-06.png)
+
 After saving, you will get a button to add rule condition. Click on Rule condition button to setup the store admin email based on the country.
+![Country-rule-condition](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-07.png)
+
 
 Click on Add new condition and choose the country from the list of countries.
 
 Under the Store admin email address field enter the email address to which the order information has to be sent for that particular region.
 
 Specify the Paypal Merchant Email address for Paypal payment and save.
-![an06](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-06.png)
-**Order status rule**
+![Type](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-08.png)
+
+### Order status rule
 
 If you would like to send an order email notification to different store admin based on order status, it will be possible by creating **Order status rule**.
 
 While creating email rule, choose Order status rule as your Rule type and create a rule condition for it.
-![an07](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-07.png)
-When creating Rule condition, under the status field, choose the order status and enter the email address in the store admin email address field to which the order information should be sent for the specific order status.
-![an08](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-08.png)
+![Order status](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-09.png)
 
-**Product Rule**
+When creating Rule condition, under the status field, choose the order status and enter the email address in the store admin email address field to which the order information should be sent for the specific order status.
+![Status-rule](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-10.png)
+
+### Product Rule
 
 Would you like to send an order notification by specific product ? All you have to do is create a Product based email rule.
 
 In this feature, you will also be able to create a email template for individual product. Lets see how to create an email by product wise.
 
 1. Choose Product rule as your email rule type and name your rule and then save.
-![an09](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-09.png)
+![Product based](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-11.png)
 
 2. After saving you will be having an option to create a Rule condition.
 
@@ -106,30 +112,32 @@ In this feature, you will also be able to create a email template for individual
 4. Then, search for the product by adding two or three characters of your product name in the Search by product field given.
 
 5. Now click on Edit Template to add your email content and click Save Template.
-![an10](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-10.png)
-![an11](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-11.png)
-**Vendor rule:**
+![Email template](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-12.png)
+
+![Email configuration](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-13.png)
+
+### Vendor rule
 
 If you have lot of vendors who contribute products and if you wish to notify them when their product is being ordered and also you wish to send mail to a particular vendor then you can make use of this option.
 
 1. Choose Vendor rule as your email rule type and name your rule and then save.
 
-![an12](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-12.png)
- 
+![Vendor](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-14.png)
 2. Click on the rule condition.
 3.  Enter either  all vendors or specific vendor names and click on edit template.
 
-![an12](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-12.png)
+![Template](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-15.png)
 
 4. Enter the vendor subject and body.
 
 * Vendor Subject: The subject of the email that has to be sent to the vendor.
 * Vendor Body : Body of the email that has to be sent to the vendor.
-![an13](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-13.png)
+![Email-config](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-16.png)
 5. Click on Save.
 
 6. Click on "Add new condition" in order to create more condition or more email template in accordance with the vendor.
 
-![an14](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-14.png)
+![Vendor](https://raw.githubusercontent.com/j2store/doc-images/master/apps/Advanced_notify/adv-notify-17.png)
+
 
 7. Click on Save.

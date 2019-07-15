@@ -417,5 +417,4 @@ Set this YES will parse the article content
 This option provides support for SEF URLs used in Falang translation component. Enable if you have installed Falang.
 Check the image below for a better idea.
 
-configuration-othersettings.png
 ![Configuration-othersettings](https://raw.githubusercontent.com/j2store/doc-images/master/set-up/Configuration/configuration-othersettings.png)
