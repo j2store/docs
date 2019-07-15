@@ -6,19 +6,18 @@ description: "Know how to allow customers to request a quote, by emailling their
 author: "Sowbagya lakshmi"
 category: "apps"
 ---
-# Email Basket Plugin
 
 This plugin allows your customers to email items in the cart to the store owner and to themselves.
 
 The plugin nicely integrates in the default cart page of J2Store. You can ask the customers to provide their name, address or any other information while emailing the cart.
 
-**Requirements**
+### Requirements
 
 - PHP 5.2 or higher
 - Joomla 2.5.x
 - J2Store 2.8.0 or above
 
-**Installation Instructions**
+### Installation Instructions
 
 1. Use the Joomla installer to install the plugin.
 2. In the backend, go to J2Store->Apps and enable the Email basketplugin. 
@@ -28,9 +27,9 @@ The plugin nicely integrates in the default cart page of J2Store. You can ask th
 
 Now you can see the Email Basket button in the cart page.
 
-#### Parameters
+### Parameters
 
-**Basic settings**
+#### Basic settings
 
 **Disable proceed checkout **
 
@@ -55,7 +54,7 @@ If you set this to YES, the plugin will empty the cart after emailing the cart i
 You can set a delay for emptying the cart. Default is 2 seconds.
 
 ![Email-basket settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-settings.png)
-**Layout**
+#### Layout
 
 If you would like to add / remove the fields in Email form without affecting checkout form fields, it is possible in this section.
 
@@ -98,14 +97,14 @@ You can add the custom css in the given text area.
 Enter the URL to which the customer should be redirected on the form submission.
 
 ![Advanced settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-advanced-settings.png)
-**Email Configuration**
+#### Email Configuration
 
 **Send email to**
 
 Choose the user to whom you wish to send the email.
 ![Email-configuration](https://raw.githubusercontent.com/j2store/doc-images/master/apps/email-basket/email-basket-email-config.png)
 
-**English(En-GB) **
+#### English(En-GB)
 
 In this section, the email template could be set up. The shortcodes found in the previous tab could be used here. The order in which they are specified here would determine their order in the email notifications.
 

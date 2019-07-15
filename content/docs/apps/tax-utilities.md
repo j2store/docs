@@ -14,23 +14,24 @@ The tax utilities app is a replacement of the following apps.
 * Combine taxes
 * Tax exemption
 
-        1. Store-wide tax emeption
+1\. Store-wide tax emeption
 
-        2. Certificate based tax exemption 
+2\. Certificate based tax exemption
+
 
 * User group-specific tax rates 
 
-**Installation**
+### Installation
 
 You could download the app from the My downloads section under the My account menu of the J2Store site and install it on your site using the Joomla default installer.
 Once installed, the app can be enabled and configured under J2Store->Apps.
 
-**Configuration**
+### Configuration
 
 Since the app is a combined form of the above mentioned apps, it has 5 tabs for each functionality it offers.
 This is how you could set this app up.
 
-**Tax display**
+### Tax display
 
 This tab allows you to choose whether you would display the product price inclusive or exclusive of the tax based on the user groups, where you wish to display the tax, restrict(hide or show) the tax display based on the user groups.
 
@@ -97,7 +98,7 @@ They would have product prices exclusive of tax
 
 ![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/Guestusers.png)
 
-** Combine taxes**:
+### Combine taxes:
 
 This tab would provide settings for you to combine all form of taxes on your site.
 
@@ -122,7 +123,7 @@ With the above set up, the tax rates at the cart page would be shown like this:
 
 
 
-**Store wide tax and exemption:**
+### Store wide tax and exemption:
 
 This would allow you to force tax calculation based on the address of the store mentioned under J2Store->Setup->Configuration->Store.
 Irrespective of the address entered by the user, tax would be displayed based on the store address.
@@ -157,11 +158,11 @@ Tax: UK tax would be levied on all users irrespective of their address.
 
 ![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/useraddressandtaxcalculation.png)
 
-**Certificate based tax exemption**
+### Certificate based tax exemption
 
  Enabling this option would enable users to be exempted from tax once they upload a file(tax exemption certificate) at the checkout page during registration.
 
-** Provide certificate based tax exemption**
+**Provide certificate based tax exemption**
 
 Enabling this option would display a checkbox asking users to upload a tax exemption certificate during registration.
 The file uploaded by users would be available for store administrators to download at the order history of that particular order. 
@@ -175,7 +176,7 @@ The file uploaded by users would be available for store administrators to downlo
 
 ![](https://raw.githubusercontent.com/j2store/doc-images/master/apps/tax-utilities/invoice.png)
 
-**Tax rate per user group**
+### Tax rate per user group
 
  This tab has provisions to help you set up user group based tax rates.
 

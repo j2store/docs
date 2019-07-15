@@ -2,7 +2,7 @@
 path: "/docs/apps/discount-for-payment-methods"
 updated: "2019-06-24"
 title: "Discount for Payment methods"
-description: ""
+description: "Set up discounts based on the payment methods chosen by users."
 author: "Kiruthigha"
 category: "apps"
 ---
@@ -12,14 +12,14 @@ The app offers you provision to set up discounts based on either the order subto
 
 Moving forward to the instructions on how to get the app to work, here are the steps to be followed.
 
-**Requirements**
+### Requirements
 
 1. PHP 5.5 or higher
 2. Joomla 3.3 or above
 3. J2Store 3.2.10 or above
 
 
-**Installation**
+### Installation
 
 1.Use the Joomla installer to install the app.
 2.In the backend, go to J2Store Dashboard -> Apps as shown in the image below.
@@ -36,7 +36,7 @@ Moving forward to the instructions on how to get the app to work, here are the s
 
 ![dfpm02](https://raw.githubusercontent.com/j2store/doc-images/master/apps/discount-for-payment-methods/dfpm02.png)
 
-**Settings:**
+### Settings:
 Open the app and click the settings button on top to configure the app settings.
 
 
@@ -47,7 +47,7 @@ Discounts could be set based on
 * Order total: The discount would be calculated based on the order total.
 * Order Subtotal:  The calculation would be based on the order subtotal.
 
-**Set Discount settings for payments **
+### Set Discount settings for payments 
 
  The list of payment methods would be displayed here. You could choose the user group for which you wish to set up payment based discounts, mention the discount value, choose the discount type and mention a label that has to be displayed when the discount is applied on the frontend. 
  

@@ -2,7 +2,7 @@
 path: "/docs/apps/additional-terms-and-conditions"
 updated: "2019-06-24"
 title: "Additional-terms-and-conditions"
-description: ""
+description: "This app would help you add additional terms and conditions(if required) in your site."
 author: "Kiruthigha"
 category: "apps"
 ---
@@ -11,42 +11,42 @@ This app is used to add an additional terms and conditions check box in the chec
 
 The customer would be allowed to place the order only if he/she checks this box. This could be used if there is a requirement to add an extra condition that has to be agreed by the customer before he places the order.
 
-**Installation**
+### Installation
 
 * Additional terms and conditions can be downloaded from our site and installed using the default joomla installer.
 * After installation Go to  J2store->Apps.
 * Click Enable under the App's name.
 * Click Open to configure the settings.
 
-**Configuration**
+### Configuration
 
 The basic settings category allows you to set up the following fields:
 
-* Show Additional Terms and Conditions
+* **Show Additional Terms and Conditions**
 
 This has to be enabled if the additional terms and conditions checkbox has to be added in the checkout page.
 
-* Display type
+* **Display type**
 
 The mode of display of the terms and conditions could be selected [here.It](http://here.it/) could be displayed either as a link or as a checkbox.
 
-3.Article ID for additional terms
+* **Article ID for additional terms**
 
 Select the article that holds your additional terms and conditions.
 
-4.Label prefix
+* **Label prefix**
 
 Provide the text that has to be set as the prefix for the label.
 
-5.Label for checkbox / link
+* **Label for checkbox / link**
 
 Text entered here would be shown as the text for the link or the checkbox.
 
-6.Suffix to label
+* **Suffix to label**
 
 Text provided here would be added as the suffix to the terms and conditions label.
 
-7.Enter text for warning message
+* **Enter text for warning message**
 
 
 This is the textbox for the validation error message that will pop up when the customer fails to check the terms and conditions checkbox.

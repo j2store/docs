@@ -6,15 +6,14 @@ description: "You could collect extra fee apart from the shipping and tax charge
 author: "Sowbagya lakshmi"
 category: "apps"
 ---
-# Additional fee
 
-#### Requirements
+### Requirements
 
 1. PHP 5.4 or higher
 2. Joomla 3.3 or above
 3. J2Store 3.2.x or above
 
-#### Installation
+### Installation
 
 1. Use the Joomla installer to install the app.
 2. In the backend, go to J2Store Dashboard -> Apps as shown in the image below.
@@ -26,7 +25,7 @@ category: "apps"
 
 ![Additional fee open](https://raw.githubusercontent.com/j2store/doc-images/master/apps/additional-fee/addfee_open.png)
 
-#### Settings
+### Settings
 
 Open the app and click the settings button on top to configure the app settings.
 
@@ -56,7 +55,7 @@ You can change the position of checkbox by selecting either **Display before shi
 Select your tax profile to display the additional fee as taxable.
 ![Settings](https://raw.githubusercontent.com/j2store/doc-images/master/apps/additional-fee/add-fee-settings.png)
 
-#### Additional Fee Setup
+### Additional Fee Setup
 
 Open the app and click **Add New** button to create new one.
 
@@ -87,7 +86,7 @@ Open the app and click **Add New** button to create new one.
 **Apply if total order value is less than or equal to:** Additional fee will be applied when the total order price reaches the value entered here. For example, set value **40**. So the charge will be applied when order value becomes **40** or **less than 40**.
 ![Addnew](https://raw.githubusercontent.com/j2store/doc-images/master/apps/additional-fee/addfee_new.png)
 
-#### Additional Fee Setup at product level
+### Additional Fee Setup at product level
 
 - Go to Article manager.
 - Open the article / product > J2Store cart tab.
