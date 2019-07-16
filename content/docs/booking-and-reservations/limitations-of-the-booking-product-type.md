@@ -1,7 +1,7 @@
 ---
 path: "/booking-and-reservations/limitations-of-the-booking-product-type"
 updated: "2019-06-03"
-title: "Limitation of the booking products"
+title: "Limitation of the booking products type"
 description: "Here are the known limitations of the booking product type"
 author: "Sowbagya lakshmi"
 category: "Booking and reservations"
