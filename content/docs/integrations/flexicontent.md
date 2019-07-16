@@ -1,7 +1,7 @@
 ---
 path: "/docs/integrations/flexicontent"
 updated: "2019-06-24"
-title: "flexicontent"
+title: "FLEXIcontent"
 description: ""
 author: "kiruthigha"
 category: "integrations"
@@ -32,9 +32,9 @@ The plugin integrates Flexicontent with J2Store, thus adding E-commerce capabili
 **Creating J2Store Field**
 
 1. Go to Flexicontent dashboard, there you will find list of icons. Click on the New Field icon. You will be taken to create field view, here you have to enter the basic required fields.
-![step1](../../images/integrations/flexicontent/fc-step-1.png)
+![step1](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-step-1.png)
 
-![step-2](../../images/integrations/flexicontent/fc-step-2.png)
+![step-2](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-step-2.png)
 2. Now enter the label as J2Store Cart and name as j2store.
 3. Set Published to Yes and Choose the Flexicontent fields J2Store from the drop down list for Field type.
 
@@ -45,15 +45,15 @@ The plugin integrates Flexicontent with J2Store, thus adding E-commerce capabili
 
 Now you can see the J2Store field added and listed successfully.
 \
-![fieldlist](../../images/integrations/flexicontent/fc-fields-list-new4.png)
+![fieldlist](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-fields-list-new4.png)
 
 **Adding Flexicontent Item**
 
 1. Go to Flexicontent dashboard, Click on the New Item icon. A pop-up window will open asking you to Select the type. Click Article. You will be redirected to New Item. Here you can see the tab Item type : Article and inside the tab you can see the j2store custom field added. Now, you can see j2store field added into the flexicontent item. Your flexicontent item is integrated with J2Store. Set Yes to Treat as a product option and click on Save.
-![create](../../images/integrations/flexicontent/fc-item-create-new5.png)
-![item-article](../../images/integrations/flexicontent/fc-create-item-article6.png)
-![new-item](../../images/integrations/flexicontent/fc-create-new-item7.png)
-![after-save](../../images/integrations/flexicontent/fc_item_after_save8.png)
+![create](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-item-create-new5.png)
+![item-article](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-create-item-article6.png)
+![new-item](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-create-new-item7.png)
+![after-save](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc_item_after_save8.png)
 
 2. After successfully saved, your product is created and you can configure the product with the product specific details, change the product type, set prices, etc.
 
@@ -65,44 +65,44 @@ Now you can see the J2Store field added and listed successfully.
 
 1. Go to Flexiconent dashboard and click on the templates icon. You will find a list of templates. Now you have to select the template in which you want to add the j2store cart by dragging the j2store field into the template.
 
-![templates](../../images/integrations/flexicontent/templates_list9.png)
+![templates](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/templates_list9.png)
 
 2. Now click on the template you want to edit, for eg., if you are using blog template to display the list of category items. Click on the category layout of blog item in the template folder(refer the screen shot).
 
-![before-drag](../../images/integrations/flexicontent/catagory_blog_before_drag_10.png)
-![after-drag](../../images/integrations/flexicontent/category_blog_edit_after_drag11.png)
+![before-drag](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/catagory_blog_before_drag_10.png)
+![after-drag](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/category_blog_edit_after_drag11.png)
 
 3. Now click on the template you want to edit, for eg., if you are using blog template to display the list of category items. Click on the Item layout of blog item in the template folder(refer the screen shot).
 
 
-![darg](../../images/integrations/flexicontent/item_view_before_j2store_drag12.png)
-![item-view](../../images/integrations/flexicontent/item_view_after_j2store_drag13.png)
+![darg](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/item_view_before_j2store_drag12.png)
+![item-view](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/item_view_after_j2store_drag13.png)
 **Creating menu**
 
 1. Go to Menus -> Main Menu -> Add New Menu Item. Now you need to select the menu item type. To do this, click on the Select button next to the Menu Item Type label. Select the Flexicontent and choose Categories. Choose the list of categories you want to display in the front end, from the list.
-![shop](../../images/integrations/flexicontent/shop_menu14.png)
+![shop](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/shop_menu14.png)
 2. In Flexicontent layout Items Tab -> choose the layout (Make sure j2store field is added in your template)
-![shop-menu](../../images/integrations/flexicontent/shop_menu-a15.png)
+![shop-menu](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/shop_menu-a15.png)
 3. Save the changes.
 
 **Category List**
 
 Go to frontend, click on the menu you have created to display the flexicontent items.
-![](../../images/integrations/flexicontent/fc-fe-cv-w-options16.png)
-![options](../../images/integrations/flexicontent/fc-fe-cv-wo-options17.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-fe-cv-w-options16.png)
+![options](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-fe-cv-wo-options17.png)
 
 In backend, go to Flexicontent dashboard. Select fields -> J2store -> Edit. In the right side, you can see J2Store column. Below that you can see Category view. Here, you can set to show or hide the product options and images in the frontend. You can also set the type of images to be displayed, like, thumbnail, main or more images.
 Note: You can set the display options for Item View also.
 
-![fc-step18](../../images/integrations/flexicontent/fc-step-18.png)
+![fc-step18](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc-step-18.png)
 
 **Item view**
 
 In Flexicontent item view, J2Store field is displayed, as shown in the image below:
 
-![view](../../images/integrations/flexicontent/fc_item_detail_view19.png)
+![view](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/fc_item_detail_view19.png)
 **Cart View**
 
 From flexicontent, when you add items to cart, your products will be added to the cart and listed as shown in the image:
 
-![flexicntent](../../images/integrations/flexicontent/item_cart20.png)
+![flexicntent](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/flexicontent/item_cart20.png)

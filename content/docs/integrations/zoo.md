@@ -35,43 +35,43 @@ Go to Extensions->Plugin Manager -> Select the Plugin "System Zoo J2Store"  and 
 In the backend, go to Components -> Zoo. Click on the Setting Icon.
 
 
-![zoo1](../../images/integrations/Zoo/zoo1.png)
+![zoo1](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo1.png)
 Let us say, you want to treat a Blog item as product. (Zoo has a number of other content types as well. Blog content type is taken as an example )
 
 Edit the Blog -> Article -> Click Edit Elements
 
 
 
-![zoo2](../../images/integrations/Zoo/zoo2.png)
-![zoo3](../../images/integrations/Zoo/zoo3.png)
+![zoo2](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo2.png)
+![zoo3](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo3.png)
 
 Here you can see **JTwoStore**  element in the list. (Numbers seems not working. That is why J2Store has become JTwoStore:-) )
 
 
-![zoo4](../../images/integrations/Zoo/zoo4.png)
+![zoo4](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo4.png)
 
 Now click on the element, you can see JTwoStore element added to the article element list(see Left Side).
 
 
 
-![zoo5](../../images/integrations/Zoo/zoo5.png)
+![zoo5](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo5.png)
 You have to enter the name of the element to display in the article item. Enter as J2Store as the name and Shopping cart as the description. Now save the changes.
 
 Click on the new button -> Click Article
 
-![zoo6](../../images/integrations/Zoo/zoo6.png)
+![zoo6](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo6.png)
 
-![zoo7](../../images/integrations/Zoo/zoo7.png)
+![zoo7](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo7.png)
 
 
 
 Enter the Title to the article and other required fields .
 
-![zoo08](../../images/integrations/Zoo/zoo8.png)
+![zoo08](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo8.png)
 
 Enter the required fields and Save once. After successfully saved, you can see the Jtwostore Element added to your item.
 
-![zoo9](../../images/integrations/Zoo/zoo9.png)
+![zoo9](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo9.png)
 
 
 7.Now in Treat as Product, select **Yes ->** select the type of the product
@@ -79,7 +79,7 @@ Enter the required fields and Save once. After successfully saved, you can see t
 IMPORTANT: Click **Save**. Only then you can see the product related fields.
 
 
-![z0010](../../images/integrations/Zoo/zoo10.png)
+![z0010](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo10.png)
 
 
 
@@ -93,19 +93,19 @@ Save changes.
 In the backend, go to Components -> Zoo, click on the Setting Icon on
 
 
-![zoo11](../../images/integrations/Zoo/zoo11.png)
+![zoo11](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo11.png)
 
 Now edit the Blog -> Article - > your template layout-> click the Full layout
 
-![zoo12](../../images/integrations/Zoo/zoo12.png)
+![zoo12](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo12.png)
 
 
 
 Now you can see J2Store Cart in the layout list, you have to drag the J2storecart from the right to the left side in your desired area.
 
-![zoo13](../../images/integrations/Zoo/zoo13.png)
+![zoo13](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo13.png)
 
-![zoo14](../../images/integrations/Zoo/zoo14.png)
+![zoo14](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Zoo/zoo14.png)
 
 
 Save changes.
