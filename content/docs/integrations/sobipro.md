@@ -1,7 +1,7 @@
 ---
 path: "/docs/integrations/sobipro"
 updated: "2019-06-24"
-title: "sobipro"
+title: "Sobipro"
 description: ""
 author: "Kiruthigha"
 category: "Integartions"
@@ -33,37 +33,37 @@ Note:When you download the Sobipro Plugin,you will have the package named "j2sto
 
 In the backend, go to Components -> SobiPro -> Application Manager -> Here you can find an input for installing application  “Select Application” Browse to the path "application_j2store_sobipro" file located and select the package for installation.
 
-![sp01](../../images/integrations/Sobipro/sobipro_step_1.png)
-![sp02](../../images/integrations/Sobipro/sobipro_step_2.png)
-![sp03](../../images/integrations/Sobipro/sobipro_step_3.png)
+![sp01](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_1.png)
+![sp02](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_2.png)
+![sp03](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_3.png)
 
 After successful installation, you can now see the list displaying the j2store application.
 
-![sp04](../../images/integrations/Sobipro/sobipro_step_4.png)
+![sp04](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_4.png)
 
-![sp05](../../images/integrations/Sobipro/sobipro_step_5.png)
+![sp05](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_5.png)
 
 
 
 Now choose the section in which you want to enable j2store application.
-![sp06](../../images/integrations/Sobipro/sobipro_step_6.png)
+![sp06](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_6.png)
 **Enabling Application in the section**
 
 * Click on the Application Sections Tab -> Applications,   you can see the list of applications. Enable the J2Store Application.
-![sp07](../../images/integrations/Sobipro/sobipro_step_7.png)
+![sp07](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_7.png)
 
 
 * Now J2Store application is ready.
-![sp08](../../images/integrations/Sobipro/sobipro_step_8.png)
+![sp08](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_8.png)
 
 
 * You can start adding new entries and also treat them as J2Store product by enabling "Treat as product" from the J2Store Tab.
 
-![sp09](../../images/integrations/Sobipro/sobipro_step_9.png)
+![sp09](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_9.png)
 
 Fill the required fields and click "Save and exit". After saving the entry you can see the J2Store Tab having "Treat as product" Controls.
 
-![sp10](../../images/integrations/Sobipro/sobipro_step_10.png)
+![sp10](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_10.png)
 
 
 
@@ -72,13 +72,13 @@ Fill the required fields and click "Save and exit". After saving the entry you c
 Now set "Treat as Product" to 'Yes' and choose the type of the product and click "Save". If you do not see the page loading the J2Store product editing area, then click "Save and Exit" once.
 
 
-![sp11](../../images/integrations/Sobipro/sobipro_step_11.png)
+![sp11](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_11.png)
 
 
 
 Now open the Entry. You can see the J2Store Tab having all the fields. Now your product is ready and you can enter the details about the product.
 
-![sp12](../../images/integrations/Sobipro/sobipro_step_12.png)
+![sp12](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_12.png)
 
 
 
@@ -92,7 +92,7 @@ Save the changes .
 1. Go to Menus -> Main Menu -> Add New Menu Item and add a menu item. Choose SobiPro Section or Category -> Choose functionality and set other menu parameters, then save.
 2. Go to your Front end and click on the menu item you have created. You'll see a category page like this, depending on what choices you have made and what template you are using. Go to the category and click on the entries detail view. You can see the J2Store Cart.
 
-![sp13](../../images/integrations/Sobipro/sobipro_step_13.png)
+![sp13](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/Sobipro/sobipro_step_13.png)
 
 
 

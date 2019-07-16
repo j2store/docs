@@ -29,27 +29,27 @@ Follow the below step by step instructions to display the product display module
 
 Before doing this, you should enable and configure the Product Display module properly at Extensions > Modules.
 
-![Intro](../../images/integrations/sp-modj2prod.png)
+![Intro](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-modj2prod.png)
 
 Create a new page by going to SP Page Builder > Pages and click NEW.
 
 Give the title to your page and click on Add New Row.
 Now click on Add New Add-On
-![Add New Row](../../images/integrations/sp-add-new.png)
+![Add New Row](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-add-new.png)
 
 From Addons list, choose Joomla Module.
 
-![](../../images/integrations/sp-joomod.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-joomod.png)
 
 In the popup window displayed, enter Admin label and title and then move to the ADDON OPTIONS where choose Module to the type and choose mod_j2products to the Module.
 
-![](../../images/integrations/sp-prodmod.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-prodmod.png)
 
 Click Apply.
 
 **Screenshot of frontend**
 
-![](../../images/integrations/sp-prodmodfront.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-prodmodfront.png)
 
 **How to use J2Store product shortcode via SP Page Builder ?**
 
@@ -61,16 +61,16 @@ Now click on Add New Add-On
 
 In the left side menu panel of the popup window displayed, you would see J2Store. On clicking on J2Store, it would show you J2Store Add-On. Please see the screenshots below:
 
-![](../../images/integrations/sp-j2store.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-j2store.png)
 
 
-![](../../images/integrations/sp-j2addon.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-j2addon.png)
 
 Click on J2Store Addon. It would show you the general settings and style configuration in a popup screen. Give the title and scroll down you would see the dropdown option named "Product shortcode tags". Select the tag(s) and enter the Product ID (in the text box provided next to the Product short code tags) of which you want to display.
 For example: Select the tag Thumbnail image, Cart and then enter the product ID.
 
-![](../../images/integrations/sp-j2shortcode.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-j2shortcode.png)
 Click Apply.
 
 **Screenshot of frontend**
-![](../../images/integrations/sp-j2frontend.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/sp-j2frontend.png)

@@ -1,7 +1,7 @@
 ---
 path: "/docs/integrations/tz-portfolio"
 updated: "2019-06-24"
-title: "sobipro"
+title: "TZ Portfolio"
 description: ""
 author: "Kiruthigha"
 category: "Integrations"
@@ -26,7 +26,7 @@ Now J2Store integrates with TZ Portfolio Content Management System. Lets start c
 * Go to Extensions > Plugins
 * Choose the Search type Content
 * Enable ContentTzPortfolio - J2Store plugin
-![tz1](../../images/integrations/TZportfolio/tzportfolio_01.png)
+![tz1](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_01.png)
 
 **Backend (Creating Portfolio)**
 
@@ -34,10 +34,10 @@ Go to Components > TZ Portfolio
 
 Select Field groups and click on NEW button to create new field group.
 
-![tz2](../../images/integrations/TZportfolio/tzportfolio_02.png)
+![tz2](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_02.png)
 
 Enter the name, add the description and set the status to Published and save the Group Field.
-![tz3](../../images/integrations/TZportfolio/tzportfolio_03.png)
+![tz3](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_03.png)
 
 
 
@@ -46,7 +46,7 @@ Enter the name, add the description and set the status to Published and save the
 
 Open the Group Field which has just been created and go to the tab Categories Assignment and assign the group field to the category.
 
-![tz4](../../images/integrations/TZportfolio/tzportfolio_04.png)
+![tz4](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_04.png)
 
 
 If you assign the group field to the category, this group field will be applied to the articles belonging to that assigned category when you select "Inherit Category".
@@ -59,16 +59,16 @@ Now Select Articles and click on NEW button to create new articles.
 * In the article right menu pane, choose J2Store Cart.
 * Select YES to Treat as a Product and choose the product type.
 * save
-![tz05](../../images/integrations/TZportfolio/tzportfolio_05.png)
-![tz06](../../images/integrations/TZportfolio/tzportfolio_06.png)
-![tz7](../../images/integrations/TZportfolio/tzportfolio_07.png)
-![tz8](../../images/integrations/TZportfolio/tzportfolio_08.png)
+![tz05](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_05.png)
+![tz06](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_06.png)
+![tz7](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_07.png)
+![tz8](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_08.png)
 
 
 
 Once Saved, now you can able to set product price, images, options,etc.
 
-![tz09](../../images/integrations/TZportfolio/tzportfolio_09.png)
+![tz09](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_09.png)
 
 
 **Frontend**
@@ -79,16 +79,16 @@ Enter the menu title.
 
 Go to Menu Manager and add a new menu item type with TZ Portfolio > Date Articles or TZ Portfolio > Portfolio.
 
-![tz10](../../images/integrations/TZportfolio/tzportfolio_10.png)
+![tz10](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_10.png)
 
 
 Choose the category and set the status to Published and save.
 
-![tz11](../../images/integrations/TZportfolio/tzportfolio_11.png)
+![tz11](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_11.png)
 
 
 
 Now go to the site and check the menu you have created.
 
-![tz12](../../images/integrations/TZportfolio/tzportfolio_12.png)
+![tz12](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/TZportfolio/tzportfolio_12.png)
 

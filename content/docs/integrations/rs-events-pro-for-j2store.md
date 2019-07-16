@@ -1,7 +1,7 @@
 ---
 path: "/docs/integrations/rs-events-pro-for-j2store"
 updated: "2019-06-24"
-title: "RS-events-pro-for-j2store"
+title: "RS Events Pro for J2Store"
 description: ""
 author: "Kiruthigha"
 category: "Integartions"
@@ -24,13 +24,13 @@ This plugin integrates RS Events PRO with J2Store. With this plugin, you can tre
 4. Install the above mentioned package using joomla installer.
 5. Once installed the RS Events PRO component, download and install J2Store RS Events Pro integration.
 6. After installing the J2Store RS Events Pro integration, Go to Extenisons > Plugins. Choose the search type system and enable the J2Store RSEvents plugin.
-![rs1](../../images/integrations/RSevents/rs_01.png)
+![rs1](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/RSevents/rs_01.png)
 
 **Backend (Creating Events)**
 
 Go to Components > RSEvents PRO > Dashboard
 
-![RS02](../../images/integrations/RSevents/rs_02.png)
+![RS02](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/RSevents/rs_02.png)
 
 Before start creating Events, you must have to save the location and category.
 To create the Location, select Location in the dashboard.
@@ -41,9 +41,9 @@ Click NEW on top left
 Status should be set to Published. Enter the name, address and save the location. Refer the below screen
 
 
-![rs04](../../images/integrations/RSevents/rs_04.png)
+![rs04](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/RSevents/rs_04.png)
 ![rs05](/home/flycart/Desktop/j2dc/content/images/integrations/RSevents/rs_05.png)
-![rs06](../../images/integrations/RSevents/rs_06.png)
+![rs06](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/RSevents/rs_06.png)
 Now select categories from left pane and click NEW to create new category.
 ![rs07](/home/flycart/Desktop/j2dc/content/images/integrations/RSevents/rs_07.png)
 Enter the name for the category and set the status to Published and save.

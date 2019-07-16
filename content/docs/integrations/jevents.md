@@ -1,7 +1,7 @@
 ---
-path: "/docs/integrations/Jevents"
+path: "/docs/integrations/jevents"
 updated: "2019-06-24"
-title: "Jevents"
+title: "JEvents"
 description: ""
 author: "Kiruthigha"
 category: "integrations"
@@ -20,7 +20,7 @@ category: "integrations"
 2. Now download J2Store's JEvents integration plugin from our site's extension section and install it using Joomla installer.
 3. Now Go to Extensions > Plugin and choose the search type System.
 4. Find the plugin System - JEvent for J2Store and enable it.
-![event01](../../images/integrations/jevents/jevents_001.png)
+![event01](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_001.png)
 
 Use JEvents as J2Store products
 
@@ -31,13 +31,13 @@ Configure JEvents configuration settings when you install JEvents first time in 
 **Step-2:**
 
 Now Go to JEvents > Control Panel and click on Manage Events.
-![jevents](../../images/integrations/jevents/jevents_02.png)
+![jevents](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_02.png)
 
 **Step-3:**
 
 Click NEW button on top left of the Events page
 
-![event3](../../images/integrations/jevents/jevents_03.png)
+![event3](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_03.png)
 
 
 **Step-4:**
@@ -45,8 +45,8 @@ Click NEW button on top left of the Events page
 Enter the event title, choose the category, access level and set the state to Published.
 
 Now move to J2Store tab and choose YES to Treat as a product and select the product type and then click save.
-![event4](../../images/integrations/jevents/jevents_04.png)
-![event5](../../images/integrations/jevents/jevents_05.png)
+![event4](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_04.png)
+![event5](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_05.png)
 
 
 
@@ -63,18 +63,18 @@ And then navigate to pricing tab, images tab, etc to add price, image for your e
 
 Save & close the event.
 
-![](../../images/integrations/jevents/jevents_06.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_06.png)
 
 
 **Step-6:**
 
 Go to menu manager and create new menu item with menu type as JEvents > List of Events.
 
-![](../../images/integrations/jevents/jevents_07.png)
+![](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_07.png)
 
 
 
 **Frontend Demo**
 
-![event08](../../images/integrations/jevents/jevents_08.png)
-![events09](../../images/integrations/jevents/jevents_09.png)
+![event08](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_08.png)
+![events09](https://raw.githubusercontent.com/j2store/doc-images/master/integrations/jevents/jevents_09.png)
