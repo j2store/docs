@@ -1,7 +1,7 @@
 ---
 path: "/shipping-methods/how-to-set-up-a-local-store-pick-up-shipping-method"
 updated: "2019-07-12"
-title: "How to set up loacl store pick up shipping method"
+title: "How to set up local store pick up shipping method"
 description: "To display a store pickup option in the shipping method selection area"
 author: "Varsha"
 category: "Shipping methods"
