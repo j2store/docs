@@ -9,7 +9,7 @@ category: "subscriptions and memberships"
 
 The following use cases will explain you briefly about how to setup subscription product based on auto renewals payments, manual renewal, one time subscription, etc
 
-**1. Accepting recurring payments in Joomla**
+### 1. Accepting recurring payments in Joomla
 Recurring payments are transactions that occur on a repetitious basis, such as a subscription service where payments are charged for a pre-determined duration of time.
 
 For example, now we are going to create a subscription product "GlossyBox" which allows auto renewal payments for every 3rd month. Follow the instructions given below to setup the renewal subscription product:
@@ -24,10 +24,10 @@ For example, now we are going to create a subscription product "GlossyBox" which
 
 Still have doubts? Lets watch the video here:
 
-[![accepting recurring payments](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/2IU223SKWB0 "accepting recurring payments")
+<videoembed src="2IU223SKWB0"></videoembed>
 
 
-**2. Selling one-time subscriptions with manual renewals**
+### 2. Selling one-time subscriptions with manual renewals
 
 A Non Recurring Charge is a one time invoice, whether an admin manually creates it or someone registers online.
 
@@ -43,9 +43,9 @@ For example, now we are going to create a subscription product "Reward Box". The
 
 Still have doubts? Lets watch the video here:
 
-[![selling one time subscriptions](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/D7-7EOzovqM "selling one time subscriptions")
+<videoembed src="D7-7EOzovqM"></videoembed>
  
- **3. Selling subscriptions on a monthly or yearly basis in your Joomla website**
+### 3. Selling subscriptions on a monthly or yearly basis in your Joomla website
 
 Allow your customer to choose either monthly or yearly basis subscription service. This is possible by creating product with type variable subscription product.
 
@@ -61,10 +61,10 @@ For example, now we are going to create a varaible subscription product "Love an
 
 Still have doubts? Lets watch the video here:
 
-[![selling subscriptions on monthly or yearly basis](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/C9U0uePm_zs "selling subscriptions on monthly or yearly basis")
+<videoembed src="C9U0uePm_zs"></videoembed>
  
  
- **4. Selling memberships in your Joomla website**
+### 4. Selling memberships in your Joomla website
 
 Lets consider you are selling online courses. While selling online courses, you may wants users to limit their access to whole site. This can be possible by providing membership. For example, setup membership like free, professional and Gold.
 
@@ -76,17 +76,19 @@ Subscribing for the membership plan "Gold" allows customers to access all course
 
 Lets watch the video here to learn how to create membership plans:
  
- [![selling memeberships](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/s4pIDdt8InE "selling memeberships")
+ <videoembed src="s4pIDdt8InE"></videoembed>
  
  Here are more videos that could be of help while setting up a subscription product:
  
  
-[![creating 3 month subscription plan](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/RtcGiQg6PG8 "creating 3 month  susbscription plan")
+<videoembed src="RtcGiQg6PG8"></videoembed>
+
+<videoembed src="5BNGktLk_6k"></videoembed>
+
+<videoembed src="hmKYkqBQHA8"></videoembed>
+
+<videoembed src="3yahWVZ-u3c"></videoembed>
 
 
-[![creating 6 month subscription plan](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/5BNGktLk_6k "creating 6 month  susbscription plan")
-
-[![cancelling a subscription](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/hmKYkqBQHA8 "cancelling a subscription")
 
 
-[![creating single term susbscription ](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/3yahWVZ-u3c "creating a single term subscription")
