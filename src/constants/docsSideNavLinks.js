@@ -127,7 +127,7 @@ const SIDENAV_LINKS = [
         TITLE: 'Booking and Reservations',
         LINKS: [
             {URL: '/booking-and-reservations/limitations-of-the-booking-product-type', TEXTNODE:'Limitations of the booking product type' },
-            {URL: '/booking-and-reservations/how-to-restrict-multiple-booking-for-a-productperson-based-restriction', TEXTNODE:'How to restrict multiple booking for a product(person based restriction)' },
+            {URL: '/booking-and-reservations/how-to-restrict-multiple-booking-for-a-product-person-based-restriction', TEXTNODE:'How to restrict multiple booking for a product(person based restriction)' },
             {URL: '/booking-and-reservations/booking-and-reservations', TEXTNODE:'Booking and Reservations' },
             {URL: '/booking-and-reservations/requirements-and-installation', TEXTNODE:'Requirements and Installation' },
             {URL: '/booking-and-reservations/basic-settings-and-booking-management', TEXTNODE:'Basic settings and booking management' },

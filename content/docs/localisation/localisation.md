@@ -19,11 +19,11 @@ Under the localisation section of J2Store dashboard, the following options woul
 - Order statuses
 
 
-**Introduction**
+### Introduction
 
 These are basically properties that help you to configure your store to your local/regional needs. Primarily for taxation purposes. You can also add/edit countries, zones, group the countries/zones as geozones, length, weight measurements. You can also create more custom order statuses
 
-**Countries**
+### Countries
 
 A list of most of the countries in the world. You can choose one from the list. If any odd one, that is not found in the list, you can very well create that. The fields are:
 
@@ -36,12 +36,12 @@ Check the image below:
 
 ![Creating a country](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-new-country.png)
 
-**Adding a new country**
+#### Adding a new country
 The listing of countries will be like this in your J2Store.
 
 ![List of countries](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-country-list.png)
 
-**Zones**
+### Zones
 
 Zones are regions that are separated by geographical area for ease of administration purpose, with in a country. Generally, in every country, the state or province, as the case may be, is treated as a zone.
 
@@ -49,7 +49,7 @@ Just have look on the image below which displays the list of zones.
 
 ![List of zones](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-zones-list.png)
 
-**Adding new zones**
+#### Adding new zones
 Almost all the zones are loaded by default in J2Store but if you need to create one as and when the situation arises, you can very well do so, as illustrated in the image below.
 
 ![Adding a new zone](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-add-new-zone.png)
@@ -61,7 +61,7 @@ The required fields for a zone are as follows and are fairly self explanatory...
 - Country - Country to which the zone belongs to
 - Status - Whether it is enabled for use by the customer
 
-**Geozones**
+### Geozones
 
 Geozones are created based on geographical locations that have common tax profiles. Geozones are used to set up different tax practices for different countries and zones.
 
@@ -76,9 +76,10 @@ If a geozone is created and saved, then an option row will be displayed to add c
 See the image
 
 ![Geozone](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-Geozone.png)
-[![Creating a geozone](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/cogtD3Gps7w "Creating a geozone")
 
-**What is the use of Geozones?**
+<videoembed src="cogtD3Gps7w"></videoembed>
+
+#### What is the use of Geozones?
 
 Geozones are used when you are trying to set tax rates or shipping costs, it becomes necessary where the tax rate or shipping method should take effect. In that case, you will create geozones including the regions where you wish to levy tax or shipping charges and associate it with the tax rate or the shipping method.
 Geozones would also help you to set up tax or shipping for a particular zone, for example:
@@ -87,13 +88,13 @@ In this case, you could create a geozone only for california and associate it to
 You can also restrict payment methods based on geozones.
 
 
-**Tax rates**
+### Tax rates
 
 Create tax rates for your region (geozone)
 
 ![Creating a tax rate](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-creating-new-tax-rate.png)
 
-**Tax profiles**
+### Tax profiles
 
 One or more tax rates are grouped to form a tax profile.You can map the tax rates to either the customer's billing or shipping address.IMPORTANT: Make sure your taxes are mapped correctly. If you choose Billing here, then in your Configuration - Tax, the Calculate tax based on should also be set to the same address type.
 
@@ -128,7 +129,7 @@ Check the image below:
 
 ![Tax profiles](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-Tax-Profile.png)
 
-**Lengths**
+### Lengths
 
 By default, J2Store adds the most commonly used length measurements. If you require more measurement units, you can add here.
 
@@ -151,12 +152,12 @@ Refer the image below.
 
 ![Lengths list](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-length-list.png)
 
-**Adding new length units**
+#### Adding new length units
 If your desired length unit is not available on the above list, you can add new units, if you need, as illustrated below.
 
 ![Adding a new length unit](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/Localisation-adding-new-length.png)
 
-**Weights**
+### Weights
 
 By default, J2Store adds the most commonly used weight measurements. If you require more measurement units, you can add here.
 
@@ -176,12 +177,12 @@ The default value for kg is set to be 1. This should be in relativity with other
 - 
 ![Weight units list](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-weight-list.png)
 
-**Adding a new weight unit**
+#### Adding a new weight unit
 If you want to add a new measuring unit for weight, you can do it as illustrated below:
 
 ![Adding a new weight unit](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-add-new-weight.png)
 
-**Order statuses**
+### Order statuses
 
 By default, J2Store comes with the following core order statuses.
 
@@ -194,7 +195,7 @@ By default, J2Store comes with the following core order statuses.
 
 ![List of Orderstatuses](https://raw.githubusercontent.com/j2store/doc-images/master/localisation/localisation/localisation-order-status-list.png)
 
-**To add a new order status**
+#### To add a new order status
 Sometimes you might want to add new order statuses apart from the ones that are already there. For example, something like **Shipped**.
 But shipped status is not available on the default order statuses. In this case, you could create a new order status by following the below steps:
 
