@@ -51,11 +51,11 @@ Customers can purchase any number of subscriptions in the same order / transacti
 
 Send automatic emails to the customers when the subscription is created, when a renewal payment is processed or when a subscription is canceled or expired. You can customize the email messages as well using language overrides.
 
-**9. Free trials
+**9. Free trials**
 
-**Now you could offer free trials for your users with the help of the free trial option available on the subscription product type. It lets you add the duration for which you would like the users to try the free trial before the subscription is active**.**
+Now you could offer free trials for your users with the help of the free trial option available on the subscription product type. It lets you add the duration for which you would like the users to try the free trial before the subscription is active.
 
-**10. Renewal discounts
+**10. Renewal discounts**
 
 You could set up renewal discounts for the subscription products. If users apply a coupon while purchasing the product, then the same discount would be applicable while they renew the subscription as well.
 
