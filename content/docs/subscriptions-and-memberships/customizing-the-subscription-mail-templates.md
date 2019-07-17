@@ -14,7 +14,7 @@ The email templates for the Subscription app can be found at:
 
 You can customize these templates by writing a template override.
 
-Here are the instructions
+### Here are the instructions
 
 Copy the following folder
 
@@ -26,7 +26,7 @@ Copy the following folder
 
 Now you can edit the each template and add your own custom wordings and styles
 
-Example:
+#### Example:
 
 Edit 
 

@@ -7,7 +7,7 @@ author: "Varsha"
 category: "subscriptions and memberships"
 ---
 
-**How to edit subscription from backend?**
+### How to edit subscription from backend?
 
 Sometimes you may want to change renewal date or next renewal amount. To do this, you will have to edit the subscription from backend. Follow below steps to edit the subscription from backend:
 
@@ -24,11 +24,11 @@ Sometimes you may want to change renewal date or next renewal amount. To do this
 ![edit subs3](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/frequently-asked-questions/edit-subs-3.png)
 
 
-**How to cancel subscription ?**
+### How to cancel subscription ?
 
 Cancelling subscription can be done by both store admin as well as subscriber.
 
-**Cancelling subscription by subscriber**
+#### Cancelling subscription by subscriber
 
 On frontend order history page , move to subscription tab. You will see the Cancel button on last column (named "Actions") of the table.
 Clicking on Cancel button will cancel the subscription.
@@ -38,7 +38,7 @@ Clicking on Cancel button will cancel the subscription.
 
 Cancelling subscription by store owner in two ways:
 
-**First way:**
+#### First way:
 
 * Go to J2Store > Sales > Orders
 * Open / Edit your order.
@@ -48,7 +48,7 @@ Cancelling subscription by store owner in two ways:
 ![cancle susbs first way](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/frequently-asked-questions/cancel-subsc-1.png)
 
 
-**Second way:**
+#### Second way:
 
 * Go to J2Store > Apps and open Subscription Products app.
 * On top of the page, Click on Subscriptions button.

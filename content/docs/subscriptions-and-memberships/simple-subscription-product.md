@@ -54,10 +54,10 @@ Watch the video tutorial for creating simple subscription product:
 <videoembed src="mNFXMLHrdjY"></videoembed>
 
 
-**Frontend Demo**
+#### Frontend Demo
 
 ![subs prods frontend](https://raw.githubusercontent.com/j2store/doc-images/master/subscriptions-and-memberships/simple-subscription-product/simple-sub-prods.png)
-**Example**
+#### Example
 
 Consider, the hosting provider sells the domain names with 6 months subscription plan. His / Her aim is to collect $9.99 at the end of every month for 6 months.
 
