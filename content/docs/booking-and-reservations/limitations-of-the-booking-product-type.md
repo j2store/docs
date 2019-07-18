@@ -7,7 +7,7 @@ author: "Sowbagya lakshmi"
 category: "Booking and reservations"
 ---
 
-# Limitations of the booking product type
+### Limitations of the booking product type
 
 The following are the known limitations of the booking product:
 
@@ -17,7 +17,7 @@ Screenshot:
 ![Minutes-hourly-blocks-not-allowed](https://raw.githubusercontent.com/j2store/doc-images/master/booking-and-reservations/Limitations-of-the-booking-product/minutes-hours-blocks.png)
 - Though you could set up person type based booking products, it is not possible to maintain or manage inventory based on the number of persons chosen by the user on the storefront.
 
-**Instance**
+### Instance
 
 For example: Person types allowed are as follows:
  1) Adult

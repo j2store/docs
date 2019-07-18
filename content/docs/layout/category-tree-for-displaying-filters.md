@@ -9,7 +9,7 @@ category: "Layout"
 
 Sometimes you might want to display the filters in a tree structure. Or achieve a SEF URL for category filters. Here is what you can do to achieve that.
 
-**Steps to be followed:**
+### Steps to be followed:
 
 1. Create a menu with the name filters.
 2. Create menu items with the names of categories.
@@ -18,7 +18,7 @@ Sometimes you might want to display the filters in a tree structure. Or achieve 
 5. Choose the menu filters in the option "Select Menu".
 6. Set the position to "j2store-filter-right-top"(Please note that you have to type this fully at the position field).
 
-**Relevant Screenshots**
+### Relevant Screenshots
 The following screenshots will be of help:
 
 Create a menu of the name filters:

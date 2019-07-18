@@ -7,7 +7,7 @@ author: "Sowbagya lakshmi"
 category: "Tax configuration"
 ---
 
-# Recommended Tax configuration for US Stores
+
 
 This is an example setting for stores in United States. This also applies to many other countries that follow a US style of tax system. For detailed information on tax, please consult an expert.
 
@@ -17,7 +17,7 @@ This is an example setting for stores in United States. This also applies to man
 
 **NOTE:**The example given below, assumes you have a store in Texas and you charge 8.5% tax on the goods sold to customers in Texas. All customers coming from other states are NOT taxed
 
-Step 1 : Create a geozone for Texas
+### Step 1 : Create a geozone for Texas
 
 Go to Localisation -> Geozones -> New
 
@@ -27,7 +27,7 @@ Go to Localisation -> Geozones -> New
 
 **Zone :** Texas
 
-Step 2: Create a tax rate
+### Step 2: Create a tax rate
 
 Go to Localisation -> Tax Rates -> New
 
@@ -39,7 +39,7 @@ Go to Localisation -> Tax Rates -> New
 
 **Status :** Published
 
-Step 3: Create a tax profile and rules
+### Step 3: Create a tax profile and rules
 
 Go to Localisation -> Tax Profiles -> New
 
@@ -55,7 +55,7 @@ Click Add
 
 \*\*Associated Address: \*\* Shipping
 
-Step 4: Configure tax settings
+### Step 4: Configure tax settings
 
 Go to Set up -> Configuration -> Tax
 
@@ -73,7 +73,7 @@ Go to Set up -> Configuration -> Tax
 
 Save.
 
-Step 5: Create a product and choose the tax profile
+### Step 5: Create a product and choose the tax profile
 
 J2Store uses Joomla articles as products. So go to Article Manager and create a New Article / Product (If you sue any other catalog source like Zoo or Sebold, you should head there).
 
@@ -91,5 +91,5 @@ Go to J2Store Cart tab -> General tab
 
 **Video Tutorial:**
 
-[![Tax configuration for US stores](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/n1sZ5Udbm3Q "Tax configuration for US stores")
+<videoembed src="n1sZ5Udbm3Q"></videoembed>
 

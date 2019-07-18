@@ -12,7 +12,9 @@ In this guide we are going to get to know few scenarios where the booking extens
 * Book a conference hall
 * Book a service
 * Book for a boat ride
-* Book a hall
+
+
+### Book a hall
 
 **Scenario:**
 1. Renting the hall on a daily basis.
@@ -61,8 +63,10 @@ Here are the screenshots that demonstrate the workflow of the above conditions:
 
 ![usecase3](https://raw.githubusercontent.com/j2store/doc-images/master/booking-and-reservations/usecases/booking-app-usecase3.png)
 
+
+
 ![useacse4](https://raw.githubusercontent.com/j2store/doc-images/master/booking-and-reservations/usecases/booking-app-usecase4.png)
-**Service Booking**
+### Service Booking
 
 **Scenario:**
 1. Bookings will be open daily for hourly basis(say 3 hours).
@@ -103,7 +107,7 @@ The above settings will implement the following changes in the  frontend.
 
 ![usecase8](https://raw.githubusercontent.com/j2store/doc-images/master/booking-and-reservations/usecases/booking-app-usecase8.png)
 
-**Book for a boat ride**
+### Book for a boat ride
 
 **Instance**
 An owner of boat offers boat ride for daily on hourly basis. The duration of journey is 2 hours and the start times are 10:00 AM, 2:00 PM, & 6:00 PM. The booking price for Adults and Children can be vary. The maximum capacity of boat is 25.

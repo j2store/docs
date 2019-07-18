@@ -7,11 +7,11 @@ author: "Sowbagya lakshmi"
 category: "Design"
 ---
 
-# Email Templates
+###  Email Templates
 
 You can customize the email notifications sent to the customers when they place an order. The email templates offer a wide range of short codes to include dynamic data like order information, customer information in the email notification.
 
-## Customizing the template
+####  Customizing the template
 
 **Free version**
 
@@ -198,8 +198,12 @@ Make your changes and save.
 ```
 **Video tutorials**
 
-[![Email template- template file advanced](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/JgEQkyDwYjA "Editing the email notifications using advanced template file")
+<videoembed src="JgEQkyDwYjA"></videoembed>
 
-[![Make your store logo visible and Resize the product thumbnail in order email](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/XHq91Cea3TE "Adding a store logo to email notifications and resizing the product thumbnail")
+<videoembed src="XHq91Cea3TE"></videoembed>
 
-[![Styling the email template usingtemplate file advanced](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/CQhtxomct4c "Styling the email notifications using advanced template file")
+<videoembed src="CQhtxomct4c"></videoembed>
+
+
+
+

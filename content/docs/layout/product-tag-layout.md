@@ -7,7 +7,7 @@ author: "Sowbagya lakshmi"
 category: "Layout"
 ---
 
-**Introduction**
+### Introduction
 
 Starting from the J2Store version 3.2.25, we have presented a new menu item type for creating tags for products.
 
@@ -19,7 +19,7 @@ The difference between the product list layout and the product tag layout is tha
 
 Tags in Joomla! provide a flexible way of organizing content. Once an item is tagged with a specific tag, browsing to the link for that tag will give a list of all items that have been tagged with that tag.
 
-**Overview**
+### Overview
 
 - It is necessary to create a product tag before creating a menu of the type product tags.
 - Create an article and add the tag to it.
@@ -27,7 +27,7 @@ Tags in Joomla! provide a flexible way of organizing content. Once an item is ta
 
 Since there are no categories involved here, there is no option to filter the products based on categories. Hence that parameter has been removed.
 
-**Creating a tag**
+### Creating a tag
 
 To create a tag, the steps given below have to be followed:
 
@@ -40,7 +40,7 @@ The following screenshot is an example for a tag:
 
 ![Creating a tag](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/creatingatag.png)
 
-**Adding a tag to the product**
+### Adding a tag to the product
 
 Once a tag has been created, the next step will be to add it to the product.That can be done as simple as this:
 
@@ -50,7 +50,7 @@ Once a tag has been created, the next step will be to add it to the product.That
 ![Adding a tag to a product](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/addingtagtoproduct.png)
 
 
-**Creating a menu of the type product tag**
+### Creating a menu of the type product tag
 
 Post creating the tag and adding it to the product's article, the next step will be to Create a menu item of the type Product Tags. Following are the steps that have to be done:
 
@@ -76,9 +76,9 @@ You can choose the sub-tag level in case you have tags that contain parents in t
 The frontend display of the tag layout will be as below:
 
 ![Tag view frontend](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-tag-layout/producttagfrontend.png)
-**Video Tutorial:**
+### Video Tutorial:
 
 Still have doubts? Here is a direct link to the video that depicts creating and adding of the product tag layout:
 
-[![Product tag layout](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/W9rXbCrKeEg "Product tag layout")
+<videoembed src="W9rXbCrKeEg"></videoembed>
 

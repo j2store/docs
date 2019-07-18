@@ -1,149 +1,104 @@
 ---
-path: "/docs/tax-configuration/recommended-tax-configuration-for-canadian-stores"
-updated: "2019-06-27"
-title: "Recommended Tax Configuration for Canadian stores"
-description: ""
-author: "Kiruthigha"
-category: "tax-configuration"
-
+path: "/tax-configuration/recommended-tax-configuration-for-canadian-stores"
+updated: "2019-07-18"
+title: "Tax configuration"
+description: "Here is a recommended tax configuration for the Canadian stores"
+author: "Varsha"
+category: "Tax configuration"
 ---
-
-
 
 This is an example setting for stores in Canada. For detailed information on tax, please consult an expert.
 
-**NOTE:**The example given below, assumes you have a store in Canada, Saskatchewan and you charge 5% GST and 5 % Saskatchewan-PST on the goods sold to customers.
+> NOTE:The example given below, assumes you have a store in Canada, Saskatchewan and you charge 5% GST and 5 % Saskatchewan-PST on the goods sold to customers.
 
-Step 1 : Create a geozone for Texas
+### Step 1 : Create a geozone for Texas
 
 Go to Localisation -> Geozones -> New
 
-**Geozone Name:**
-Canada geozone
+Geozone Name: Canada geozone
 
-**Country :**
+Country : Canada
 
-Canada
+Zone : *
 
-**Zone :**
-
-*
-Step 2: Create a tax rate
+### Step 2: Create a tax rate
 
 Go to Localisation -> Tax Rates -> New
 
-**Name :**
- Canada-GST
+Name :  Canada-GST
 
-**Tax Percent :**
+Tax Percent : 5
 
-5
+Geozone : Canada geozone
 
-**Geozone :**
+Status : Published
 
-Canada geozone
-
-**Status :**
-
-Published
-
-Step 3: Create another tax rate for Saskatchewan-PST
+### Step 3: Create another tax rate for Saskatchewan-PST
 
 Go to Localisation -> Tax Rates -> New
 
-**Name :**
+Name :  Saskatchewan-PST
 
- Saskatchewan-PST
+Tax Percent : 5
 
-**Tax Percent :**
+Geozone : Canada geozone
 
-5
+Status : Published
 
-**Geozone :**
-
-Canada geozone
-
-**Status :**
-
-Published
-
-Step 4: Create a tax profile and rules
+### Step 4: Create a tax profile and rules
 
 Go to Localisation -> Tax Profiles -> New
 
-**Name:**
+Name: Canada Tax Class
 
-Canada Tax Class
+Enabled: Yes
 
-**Enabled:**
-
-Yes
-
-**Tax rules**
+Tax rules
 
 Click Add
 
-**Rate:**
+Rate: Canada - GST
 
-Canada - GST
-
-\*\*Associated Address: \*\* Shipping
+**Associated Address: ** Shipping
 
 Click Add
 
-**Rate:**
+Rate: Saskatchewan-PST
 
-Saskatchewan-PST
+**Associated Address: ** Shipping
 
-\*\*Associated Address: \*\* Shipping
-
-Step 5: Configure tax settings
+### Step 5: Configure tax settings
 
 Go to Set up -> Configuration -> Tax
 
-**Prices Entered with Tax:**
+Prices Entered with Tax: No, i will enter prices EXCLUSIVE of tax
 
-No, i will enter prices EXCLUSIVE of tax
+Calculate tax based on: Shipping address
 
-**Calculate tax based on:**
+Default Customer address: Store address
 
-Shipping address
+Display prices in product pages: Excluding tax
 
-**Default Customer address:**
+Display prices in cart / checkout : Excluding tax
 
-Store address
-
-**Display prices in product pages:**
-
-Excluding tax
-
-**Display prices in cart / checkout :**
-
-Excluding tax
-
-**Apply discounts :**
-
-Before tax
+Apply discounts : Before tax
 
 Save.
 
-Step 6: Create a product and choose the tax profile
+### Step 6: Create a product and choose the tax profile
 
 J2Store uses Joomla articles as products. So go to Article Manager and create a New Article / Product (If you sue any other catalog source like Zoo or Sebold, you should head there).
 
-Product creation steps are explained under the topic
-
-**Products**.
+Product creation steps are explained under the topic Products.
 
 Here let us just see how to choose the tax profile
 
 Go to J2Store Cart tab -> General tab
 
-**Tax Profile :**
+Tax Profile : Canada Tax Class
 
-Canada Tax Class
+IMPORTANT If you do not choose the tax profile, then tax will not apply in the store front.
 
-**IMPORTANT**
+### Video Tutorial:
 
-If you do not choose the tax profile, then tax will not apply in the store front.
-
+<videoembed src="bchu7-Zysb8"></videoembed>

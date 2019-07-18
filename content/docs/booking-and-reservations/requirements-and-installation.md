@@ -7,13 +7,13 @@ author: "Varsha"
 category: "booking and reservations"
 ---
 
-**Requirements**
+### Requirements
 
 Joomla 3.4.x and above
 J2Store 3.2.25 and above
 PHP 5.6.4 or higher.
 
-**Installation**
+### Installation
 
 * The app could be downloaded from our site and installed using the default Joomla installer.
 * After installing the app, go to J2Store > Apps and activate the app by clicking on enable button.

@@ -7,7 +7,7 @@ author: "Varsha"
 category: "booking and reservations"
 ---
 
-**Basic Settings**
+### Basic Settings
 
 There are no much settings that have to be done to use this app.Here are the few parameters that are essential to start off with:
 
@@ -23,7 +23,7 @@ Setting the cart expire minutes would make the items in the cart disappear after
 
 
 ![bsbkm](https://raw.githubusercontent.com/j2store/doc-images/master/booking-and-reservations/basic-settings-and-booking-management/app_bookingbasicsettings.png)
-**Manage bookings**
+### Manage bookings
 
 Clicking on the manage bookings option will allow you to manage the bookings that have been made by the users.
 

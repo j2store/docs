@@ -7,7 +7,7 @@ author: "Varsha"
 category: "partial payments"
 ---
 
-**Receiving payments in 3 installments:**
+### Receiving payments in 3 installments:
 
 Lets suppose you have a product whose cost is quite high.You might feel that you could attract many customers when the product is sold in installments.
 
@@ -15,7 +15,7 @@ Now that we re all set to receive payments in fragments, you might also want an 
 
 This can be done efficiently choosing the partial payment mode as PLANS.
 
-**Plans**
+### Plans
 
 Lets suppose that you have a couch whose price is around 2000 $ and you are planning to get the payment in 4 pieces. In that case you could create a plan with the partial payment app called 4 installments as shown in the below screenshot:
 
@@ -36,13 +36,13 @@ Here comes the order schedule that will keep you free of your worries about paym
 
 In this case when the due date approaches, the users and the store administrators would be notified.
 
-**Receiving percentage of total amount as deposit:**
+### Receiving percentage of total amount as deposit:
 
 Lets take the same instance of selling a couch to illustrate this feature as well:
 But this time we are going to get a percentage of the total amount as deposit and the remaining later.
 For this we might make use of the percentage type under partial payment type.
 
-**Percentage**
+### Percentage
 
 This  type is a simpler version of the plan type.It has all the features alike plan mode except for setting up the installment duration.
 Now we are planning to collect 25 % of the total amount as initial deposit.
@@ -53,7 +53,7 @@ Now we are planning to collect 25 % of the total amount as initial deposit.
 The remaining payment will be scheduledlike this:
 
 ![ppusecase2 order](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase2order.png)
-**Collecting a fixed amount as the initial deposit:**
+### Collecting a fixed amount as the initial deposit:
 
 In the case of selling a couch you wish you could get $500 out of $2000 as the initial payment.
 
@@ -67,7 +67,7 @@ Orders willbe scheduled for the future payment like this:
 
 ![ppusecase3 order](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase3order.png)
 
-**Exempt a product from the global settings:**
+### Exempt a product from the global settings:
 
 If you wish to configure partial payment in another way when compared to the normal global settings then that is always possible with the product level settings.
 
@@ -83,11 +83,11 @@ If your site sells furniture and you wish to establish a different setup for Cab
 
 This being the  setting, the product cabinet will have a different setting when compared with the others:
 
-**Global Settings:**
+### Global Settings:
 
 ![ppusecase4 global](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/usecases/app_partialpaymentusecase4global.png)
 
-**Product-level settings:**
+### Product-level settings:
 
 For the Product-level settings mentioned earlier this is how the product Cabinet will behave in the front end irrespective of the global app settings:
 

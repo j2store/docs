@@ -21,7 +21,7 @@ Here are the numerous features that come handy with this app:
 - Send an email to customer when scheduled order is ready for payment.
 - Notify about payment pending to customer through mail on days after payment date.
 
-**Installation**
+### Installation
 
 - This app can be downloaded from our site and installed using the default joomla installer.
 - Once installed, the app can be configured under J2Store-Apps.
