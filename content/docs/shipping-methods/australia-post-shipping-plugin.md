@@ -7,7 +7,6 @@ author: "Sowbagya lakshmi"
 category: "Shipping methods"
 ---
 
-# Australia Post Shipping Plugin
 
 This plugin integrates J2Store with Australia Post Shipping rate API.
 
@@ -17,7 +16,7 @@ Requirements
 - Joomla 2.5 or above
 - J2Store 2.7.3 or above
 
-**Installation**
+### Installation
 
 You can install this shipping plugin, using joomla installer.
 
@@ -34,7 +33,7 @@ The installation procedure is illustrated in the image below:
 
 ![Australia post methods list](https://raw.githubusercontent.com/j2store/doc-images/master/shipping-methods/AustraliaPost/aus-post-ship-method-list.png)
 
-## Parameters 
+### Parameters 
 
 **Shipping Type**
 
@@ -86,9 +85,9 @@ If you enable this option, a log file will be maintained for error debugging. Th
 
 **IMPORTANT**: Apart from the parameters set here, to use **Australia Post Shipping Plugin**, it is mandatory to set the default currency as **Australian Dollar - AUD** and the country of the store as **Australia**, in the store configuration setup. If it is not met, this plugin can not be used.
 
-## Support
+### Support
 
-If you still have questions, you can reach us in [**support@j2store.org**](<mailto:support@j2store.org>)
+If you still have questions, you can reach us via our support channel <link-text url="https://www.j2store.org/my-account/priority-ticket-system.html" target="_blank" rel="noopener">here</link-text>
 
 Thankyou for using our extension.
 

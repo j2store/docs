@@ -195,8 +195,8 @@ const SIDENAV_LINKS = [
     {
         TITLE: 'Shipping methods',
         LINKS: [
-            { URL: '/shipping-methods/how-to-set-up-a-local-store-pick-up-shipping-method', TEXTNODE: 'Australia Post Shipping Plugin' },
-            { URL: '/shipping-methods/australia-post-shipping-plugin', TEXTNODE: 'How to set up a local store pick up shipping method' },
+            { URL: '/shipping-methods/how-to-set-up-a-local-store-pick-up-shipping-method', TEXTNODE: 'How to set up a local store pick up shipping method' },
+            { URL: '/shipping-methods/australia-post-shipping-plugin', TEXTNODE: 'Australia Post Shipping Plugin' },
             { URL: '/shipping-methods/bring-shipping-plugin', TEXTNODE: 'Bring Shipping Plugin' },
             { URL: '/shipping-methods/canadapost-shipping-plugin', TEXTNODE: 'Canadapost Shipping Plugin' },
             { URL: '/shipping-methods/dhl-shipping-plugin', TEXTNODE: 'DHL Shipping Plugin' },
