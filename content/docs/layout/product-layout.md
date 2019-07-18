@@ -10,7 +10,8 @@ Product Layout is a powerful feature that enables the user to customize the disp
 
 Note: Product layout works only with Joomla articles. If you use SEBLOD / FLEXIcontent / or any other catlog systems, then you may need to configure the product layouts using their menu items.
 
-**Create a Product Layout**
+### Create a Product Layout
+
 To create a product layout, go to joomla control panel and click on the menu item **Menus -> Main Menu** as shown in the image below.
 ![Layout-menu-manager](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-layout/pro-layout-menu-manager.png)
 
@@ -25,7 +26,7 @@ To create a new item, click on the **New** button and you will get this page.
 First you need to enter the title of the item you create. For example, it is entered with **Shop**. The alias will be automatically generated based on the title.
 Then, you have several tabs in this page. Let us see one by one. First is the **Details** tab.
 
-**Details Tab**
+### Details Tab
 Here, you choose the **Menu Item Type** by clicking on the 'Select' button. You will get a pop-up window like this:
 ![Layout-menu-type](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-layout/pro-layout-menu-type.png)
 
@@ -37,7 +38,7 @@ Your menu item is selected and the link is also created automatically. click on 
 
 Now, go to next tab, **Common Options**.
 
-**Common Options Tab**
+### Common Options Tab
 
 ![.Layout-common-options-tab](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-layout/pro-layout-common-options.png)
 
@@ -48,7 +49,7 @@ Note: In Sub-Template option, you have to choose **bootstrap3** if your bootstra
 If you do not want to show product option price in front end, you can set the option to **Hide** as shown in the image below:
 ![Layout-common-options-tab-second](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-layout/pro-layout-common-options-tab-second.png)
 
-**Item View options in category listings**
+### Item View options in category listings
 
 Check the image below:
 ![Layout-item-view-in-category-listings](https://raw.githubusercontent.com/j2store/doc-images/master/layout/product-layout/pro-layout-item-view-cat-list.png)
@@ -80,7 +81,7 @@ Filters help narrow the search for a particular product. There are many filters 
 
 One or more filters can be applied as per the needs of the customer.
 
-**Item View Options Tab**
+### Item View Options Tab
 
 In this tab, you will set the configuration for what to display with the product, like price, description, image etc.
 
@@ -123,7 +124,7 @@ In this image, you can see that the new menu item created is listed in the top w
 
 In this page, you can see the product layout features. The filters are positioned in the right side as per the selected choice. You have the option to filter by price, brand, vendor etc. The regular and special prices are also displayed along with discount percentage variation.
 
-[![Creating a product layout](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://www.youtube.com/watch?v=HramUPmnTZ4 "Creating a product layout")
+<videoembed src="HramUPmnTZ4"></videoembed>
 
 Let us see how images are added in the backend and how they are displayed in frontend view.
 Consider the image below:
@@ -138,7 +139,7 @@ When you click on the product, it will be displayed with large image and additio
 
 Like this, you can set different product layouts according to your wish and needs.
 
-**Special Module Positions**
+### Special Module Positions
 
 J2store offers special module positions to place the Joomla's custom HTML module.Following are the custom module positions :
 
@@ -155,7 +156,7 @@ J2store offers special module positions to place the Joomla's custom HTML module
 11. j2store-checkout-top - Top of checkout page
 12. j2store-checkout-bottom - Bottom of checkout page
 
-**Avoid Zoom effect and open the main image in popup**
+### Avoid Zoom effect and open the main image in popup
 
 To avoid the zomm effect and to bring the image in pop up, first thing you have to do is disable the zoom effect in admin backend.<br>
 
@@ -200,7 +201,7 @@ Change this with
 &nbsp;<span class="<?php echo $class; ?>" id="j2store-item-main-image-<?php echo $this->product->j2store_product_id; ?>"><br>		 &nbsp; <?php JHTML::_('behavior.modal', 'a.modal'); ?><br>		 &nbsp;	 <a href="<?php echo $this->product->main_image;?>" class="modal"><img itemprop="image"<br>		 &nbsp;	 alt="<?php echo $this->product->product_name ;?>"<br>		 &nbsp;	 class="j2store-product-main-image j2store-img-responsive"<br>		 &nbsp;	 src="<?php echo $image_path.$main_image;?>"<br>		 &nbsp;	 width="<?php echo intval($main_image_width); ?>"<br>		 &nbsp;	 /></a><br>		 &nbsp;	 </span>
 ```
 
-**Common Problems**
+### Common Problems
 
 **Grid layout not working/columns.Why?**
 

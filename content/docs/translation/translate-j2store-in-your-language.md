@@ -6,29 +6,28 @@ description: "Know how to contribute to Transifex translations to translate J2St
 author: "Sowbagya lakshmi"
 category: "Translation"
 ---
-# Translate J2Store in your Language
 
 Translating J2Store in your language is very easy. All the language files are managed in Transifex, an effective localization platform. This guide should help you get J2Store to work in your language with a few easy steps.
 
-**Check existing translations**
+#### Check existing translations
 
-Go to [http://J2Store.org/translations.html](<http://J2Store.org/translations.html>) to check if the translation for your language is available. If you see your language listed and the progress bar indicating 100 %, then you can click on the name of your language to download the translation pack.
+Go to <link-text url="[http://J2Store.org/translations.html](<http://J2Store.org/translations.html>)" target="_blank" rel="noopener"> click here</link-text> to check if the translation for your language is available. If you see your language listed and the progress bar indicating 100 %, then you can click on the name of your language to download the translation pack.
 
 ![Transifex packages](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-packages.png)
 
 It is an installable pack. You can install it via the Joomla installer.
 
-**Translations for my language is not complete**
+#### Translations for my language is not complete
 
 If you see the translation for your language is not complete or don't see your language listed at all, you need to translate the J2Store. Don't worry. It is easy to translate J2Store to your language. Transifex makes it easy.
 
 **Step 1**
 
-Go to [http://transifex.com](<http://transifex.com>) and create an account. Its FREE.
+Go to <link-text url="[http://transifex.com](<http://transifex.com>)" target="_blank" rel="noopener"> click here</link-text> and create an account. Its FREE.
 
 **Step 2**
 
-Joomla has a group of volunteers for translation. The group works under the name of Open Translators. Its a hub project for the translation of all joomla extensions. So go to the Open Translators hub project at [https://opentranslators.transifex.com](<https://opentranslators.transifex.com>)
+Joomla has a group of volunteers for translation. The group works under the name of Open Translators. Its a hub project for the translation of all joomla extensions. So go to the Open Translators hub project at <link-text url="[https://opentranslators.transifex.com](<https://opentranslators.transifex.com>)" target="_blank" rel="noopener">click here</link-text>
 
 ![Transifex open translators](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-opentranslators.png)
 
@@ -47,7 +46,7 @@ It would take some time for the co-ordinators of the language team to approval y
 
 **Step 4**
 
-Once you joined, go to [https://opentranslators.transifex.com](<https://opentranslators.transifex.com>) and the choose J2Store from a list of child projects. Start typing a few letters in the box and you can get to see J2Store project. See the image below.
+Once you joined, go to<link-text url="[https://opentranslators.transifex.com](<https://opentranslators.transifex.com>)" target="_blank" rel="noopener"> click here </link-text> and the choose J2Store from a list of child projects. Start typing a few letters in the box and you can get to see J2Store project. See the image below.
 
 ![Transifex child products](https://raw.githubusercontent.com/j2store/doc-images/master/translation/Translate-j2store-to-your-lang/translation-transifex-child-products.png)
 
@@ -73,10 +72,10 @@ Translate all the language resources in the same fashion.
 
 **Video Tutorial:**
 
-[![Multi-lingual setup](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/lqwO0ANPURQ "Translating J2Store into your site")
+<videoembed src="lqwO0ANPURQ"></videoembed>
 
 
-Once you have translated, inform us. We will make an installable package and make it available for download at [http://J2Store.org/translations.html](<http://J2Store.org/translations.html>) immediately.
+Once you have translated, inform us. We will make an installable package and make it available for download at <link-text url="[http://J2Store.org/translations.html](<http://J2Store.org/translations.html>)" target="_blank" rel="noopener"> click here </link-text> immediately.
 
 Still have questions, contact us.
 

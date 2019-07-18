@@ -7,7 +7,7 @@ author: "Varsha"
 category: "partial payments"
 ---
 
-**Partial Payment type-Plan:**
+### Partial Payment type-Plan:
 
 Perhaps, you might wish to collect the payment from the users based on plans,then you could choose this as the option in the partial payment type.
 
@@ -27,7 +27,7 @@ Users can choose from the available plans:
 
 ![instances4](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/instances/app_partialpayment2plansfront.png)
 
-**Partial payment type-Percentage:**
+### Partial payment type-Percentage:
 
 Sometimes,there might be situations where you would like to have a percentage of the total amount as the advance amount and the rest to be paid later.
 
@@ -44,7 +44,7 @@ As the above screenshot suggests,the user would be paying half the total amount 
 
 ![instances6](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/instances/app_partialpaymentpercentagefront.png)
 
-**Partial payment-Fixed Price:**
+### Partial payment-Fixed Price:
 
 If you want to keep it as simple as that, you might select the fixed price option where the user will be charged a fixed amount as the initial deposit.
 
@@ -54,7 +54,7 @@ The cart page is depicted below:
 
 ![instances9](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/instances/app_partialpaymentcartpage.png)
 
-**Backend Orders**
+### Backend Orders
 
 In the back end, the store owner can keep track of the orders and payment dues.The following screenshot pictures how the order will be shown:
 

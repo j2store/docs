@@ -14,7 +14,7 @@ You could follow these steps to do that:
 * Download and install the German translation for J2Store from here: <link-text url= "https://www.j2store.org/translations/j2store3.html" target = "_blank" rel = "noopener"> click here </link-text>
 * Make sure you have already installed the German translation for Joomla and set it as a default.
 
-**Step by Step procedure:**
+### Step by Step procedure:
 
 * Install the German language package in your site from Extensions->Languages->Installed->Install languages.
 * Once the language is installed, you would find that language under the Content languages.
@@ -32,7 +32,7 @@ You could follow these steps to do that:
 * Create a product article and menu(For example:T shirts(Gr)).Choose the language as German in the content tab of the article and the details tab of the menu.
 
 ![langsetarticleger](https://raw.githubusercontent.com/j2store/doc-images/master/translation/setting-up-the-store-in-your-language/langsetarticleger.png)
-**Multi lingual association:**
+### Multi lingual association:
 
 * Open the English article and click on the associations tab.
 * Choose the German article's article and click on Save.
@@ -48,4 +48,4 @@ You could follow these steps to do that:
 
 Here is a video that would help you with the setting up of your store in your own language:
 
-[![setting up the store in your language](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/fKT9w8eM7S4 "setting up the store in your language")
+<videoembed src="fKT9w8eM7S4"></videoembed>

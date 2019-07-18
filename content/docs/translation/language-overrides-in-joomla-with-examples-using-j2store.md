@@ -28,11 +28,11 @@ Step 2: Click new to create a override
 ![override screen](https://raw.githubusercontent.com/j2store/doc-images/master/translation/language-override-in-joomla-with-examples/override_screen.png)
 Step 3: You can either search or directly enter the constant (if you knew already) to create the override.
 
-**Method 1: Searching**
+#### Method 1: Searching
 
 Under the Search text you want to change, enter the following text (as you see in the site): Firstname and hit search.You will get the constant: J2STORE_FIRST_NAME
 
-**Method 2: Find the constant from the language file**
+#### Method 2: Find the constant from the language file
 
 Let us take J2Store as example. All the language constants of J2Store can be found in the following file/administrator/language/en-GB/en-GB.com_j2store.ini
 
@@ -44,16 +44,16 @@ Step 6: Save.
 
 You can create as many overrides as you like in this method.
 
-**Video tutorials:**
+#### Video tutorials:
 
 **Method 1:**
 
-[![language overrides in joomla](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/q-QXbSPLiA0 "language overrides in joomla")
+<videoembed src="q-QXbSPLiA0"></videoembed>
 
 **Method 2:**
 
-[![language overrides in joomla](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/xrLXBHnFASc "language overrides in joomla")
+<videoembed src="xrLXBHnFASc"></videoembed>
 
-**How to translate product options:**
+#### How to translate product options:
 
-[![language overrides in joomla](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/snZgc3Fd_3Y "language overrides in joomla")
+<videoembed src="snZgc3Fd_3Y"></videoembed>

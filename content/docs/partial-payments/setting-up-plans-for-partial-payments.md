@@ -7,7 +7,7 @@ author: "Varsha"
 category: "partial payments"
 ---
 
-**Setting up plans for partial payments:**
+### Setting up plans for partial payments:
 
 If you like to set plan as the partial payment type,it is necessary to define one first.
 
@@ -19,11 +19,11 @@ To do so,follow the steps given below:
 * Click Save.
 * Click Back to Apps to set up partial payments.
 
-**Relevant Screenshot**
+#### Relevant Screenshot
 
 ![partial payment paln](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentplan.png)
 
-**Creating plans- an example:**
+#### Creating plans- an example:
 
 You could wish to receive payment in 2 fragments for instance,you could set it up like this:
 
@@ -33,7 +33,7 @@ Here as the screenshot explains, the payment is split into two parts,the first o
 
 Likewise,the entire liberty of splitting the payment into as many parts as you want lies in your hands.
 
-**Partial payments at product level**
+### Partial payments at product level
 
 When using partial payment at product level, you will have to disable partial payment globally at app's settings.
 
@@ -48,7 +48,7 @@ With product-level partial payment settings, you could allow the users to buy al
 * Select your partial payment type (Fixed price, percentage, plan)
 * If plan is chosen as the partial payment mode,the plan that has been created should be selected here.
 
-**Relevant Screenshot**
+#### Relevant Screenshot
 
 ![payment product](https://raw.githubusercontent.com/j2store/doc-images/master/partial-payments/setting-up-plans-for-partial-payments/app_partialpaymentproduct.png)
 

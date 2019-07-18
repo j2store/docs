@@ -7,7 +7,7 @@ author: "Varsha"
 category: "translation"
 ---
 
-**Translating product options**
+### Translating product options
 
 Do yo want to translate your product option to site's languages? Yes, it is possible in J2Store by using Joomla's default language oveerride method.
 
@@ -15,7 +15,7 @@ All you have to do is give the language string as your option name and create th
 
 Let's see below how to translate the product options.
 
-**Creating product options**
+### Creating product options
 
 1. Go to J2Store > Catalog > Options and click new
 
@@ -24,7 +24,7 @@ Let's see below how to translate the product options.
 2.Enter the name for your option and option values. Both name should be in language string. Refer below image:
 
 ![translation option2](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-2.png)
-**Creating language override**
+### Creating language override
 
 1. Go to Extensions > Languages > Overrides and set the filter to Administrator location and then click New.
 
@@ -38,13 +38,14 @@ Let's see below how to translate the product options.
 
 3. Likewise, create language override option values.
 
-**Adding options to the product**
+### Adding options to the product
 
 1. Go to Article manager and edit your product
 2. Move to J2Store Cart tab and then navigate to Options tab
 3. Search for the options and add to it and save
 
-![translate option 5](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-5.png)
+![translationoption5](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-5.png)
+
 
 4. Click on Set values to create the option values for the product and save.
 
@@ -52,4 +53,6 @@ Let's see below how to translate the product options.
 
 **Relevant screenshot of frontend:**
 
+
 ![translate option 7](https://raw.githubusercontent.com/j2store/doc-images/master/translation/translating-product-options/translate-option-7.png)
+

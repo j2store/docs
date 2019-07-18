@@ -9,14 +9,14 @@ category: "Design"
 
 You can design how your invoice looks here. You can add  a company address, logo, and some additional information in the invoice. You can also show various order information by adding the short tags. The tags will be replaced with relevant information from the order table.
 
-**Free version**
+### Free version
 NOTE: In free version, the template comes from the language file. In the language file, you can find this constant that holds the invoice template:
 
 **J2STORE_DEFAULT_INVOICE_TEMPLATE_TEXT**
 
 The constant's value has short tags and html. You can override the text by writing a language override.
 
-**Creating / Editing Invoice template in PRO version**
+### Creating / Editing Invoice template in PRO version
 
 Like email template, here too we have two settings pages to be filled up for creating an invoice template. They are
 
@@ -58,7 +58,7 @@ Check the image below for how an invoice template can be designed for our needs.
 
 Full articles can also be added to the content, from other external sources.
 
-**How to add custom fields in invoice template?**
+### How to add custom fields in invoice template?
 
 Also, you can add custom fields you have created in the editor. To add a custom field in the editor for display, you need to follow the format given below:
 
@@ -76,7 +76,7 @@ Refer the image below for more clear understanding
 
 ![custom](https://raw.githubusercontent.com/j2store/doc-images/master/design/Invoice template/guide-to-add-custom-field.png)
 
-**How to create template override for items table showing in the invoice ?**
+### How to create template override for items table showing in the invoice ?
 If you would like to customize the order item table showing in order invoice, that could be possible by creating template override. Carrying out customizations through template override will not overwrite the changes if you update it in future.
 
 **Here are the instructions to be followed:**
@@ -90,4 +90,5 @@ If you would like to customize the order item table showing in order invoice, th
 * Make your changes and save.
 
 Video Tutorial:
-[![Invoice template](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/uFyPRGBCVKo "Creating an invoice template")
+
+<videoembed src="uFyPRGBCVKo"></videoembed>

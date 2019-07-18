@@ -12,7 +12,7 @@ So, what are the uses of the new menu item Product tag view?Here is all what you
 * Assign a product to multiple categories
 * Display brand-wise products.
 
-**Assigning a product to multiple categories:**
+### Assigning a product to multiple categories:
 With the conventional list layout, it is possible to organize products based on their categories. However, there is one catch. It is not possible to assign a product to multiple categories.
 
 Overcoming this, now we have the tag layout where it is possible for a product to be assigned to multiple categories.
@@ -22,7 +22,7 @@ Overcoming this, now we have the tag layout where it is possible for a product t
 * Create a product and add the tags to the product.
 * Create menus and link the tags with the respective menus.
 
-**Scenario**
+#### Scenario
 Products like Coffee mugs should be available under two categories- Kitchen appliances and Gifts.
 
 **Steps to be done:**
@@ -47,7 +47,7 @@ The front end view is like this:
 
 ![usecase6](https://raw.githubusercontent.com/j2store/doc-images/master/layout/usecases/producttagusecase6.png)
 
-**Displaying products brand-wise**
+### Displaying products brand-wise
 If you own a multi-brand store, then this feature might help you the most.You could display your products brand-wise. All you have to do is this:
 
 * Create tags with the brand name.
@@ -55,7 +55,7 @@ If you own a multi-brand store, then this feature might help you the most.You co
 * Create menu items of the type Tag view and associate the tags with them accordingly.
 
 
-**Scenario**
+#### Scenario
 Our goal is to list the shirts in the store according to their brand.We have following brands:
 
 * Huetrap
@@ -80,8 +80,8 @@ Our goal is to list the shirts in the store according to their brand.We have fol
 
 ![usecasetwo4b](https://raw.githubusercontent.com/j2store/doc-images/master/layout/usecases/producttagusecasetwo4b.png)
 
-**Video tutorial:**
+### Video tutorial:
   
 The following video illustrates how to display products brand-wise:  
 
-[![Usecases](https://img.youtube.com/vi/51J1UkeRu3Y/0.jpg)](https://youtu.be/07tEdkEenSE "Usecases")
+<videoembed src="07tEdkEenSE"></videoembed>
