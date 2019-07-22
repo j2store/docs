@@ -1,13 +1,11 @@
 ---
-path: "/docs/apps/drop-box"
+path: "/docs/apps/dropbox"
 updated: "2019-06-24"
 title: "Drop-box"
 description: ""
 author: "Kiruthigha"
 category: "apps"
 ---
-
-
 
 
 Sell your files stored in dropbox with J2Store Joomla eCommerce platform. The app enables you to connect your dropbox and sell the files securely.
