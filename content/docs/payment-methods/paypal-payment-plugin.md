@@ -355,7 +355,7 @@ Click Profile
 Under Selling Preferences, click Payment Receiving Preferences
 Under Block Accidental Payments choose "No, allow multiple payments per invoice ID".
 Save.
-Things don't appear to be working at the moment. Please try again later
+### Things don't appear to be working at the moment. Please try again later
 Paypal has recently rolled out their cool " New Checkout! "
 
 With this Paypal also seems to impose certain new technical restrictions
