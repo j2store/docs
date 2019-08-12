@@ -6,21 +6,20 @@ description: "This is how you can update J2Store"
 author: "Sowbagya Lakshmi"
 category: "getting-started"
 ---
+
 ### How to add license key and update J2Store?
 
 #### Adding license key
 
 We provide a Download ID when you subscribe. You can find this Download ID in two places.
 
-    
-    ```
-    In the PDF invoice we have issued to you
+
+In the PDF invoice we have issued to you
 
 In our website's My Downloads section.
 
-     Direct link: <link-text url="https://www.j2store.org/my-account/my-downloads.html" target="_blank" rel="noopener">click here</link-text>
-     ```
-     
+Direct link: <link-text url="https://www.j2store.org/my-account/my-downloads.html" target="_blank" rel="noopener">click here</link-text>
+
 
 You should copy the Download ID and paste it in J2Store - Set up - Configuration - Update tab.
 

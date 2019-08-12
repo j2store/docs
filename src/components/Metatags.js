@@ -3,9 +3,9 @@ import Helmet from 'react-helmet'
 
 function Metatags(props) {
 
-    return (
+       return (
         <Helmet
-            title={props.title}
+        title={props.title}
             meta={[
                 { name: 'title', content: props.title },
                 { name: 'description', content: props.description },
@@ -68,12 +68,13 @@ function Metatags(props) {
 
                 { name: 'robots', content: 'index, follow' },
 
-                { name: 'twitter:creator', content: '@campaignrabbit' },
-                { name: 'twitter:domain', content: 'campaignrabbit.com' },
-                { property: 'og:site_name', content: 'Campaignrabbit' }
+                { name: 'twitter:creator', content: '@j2store' },
+                { name: 'twitter:domain', content: 'j2store.org' },
+                { property: 'og:site_name', content: 'j2store' }
             ]}
         >
             <html lang="en" />
+            {console.log("title is" + title)}
         </Helmet>
     )
 }
