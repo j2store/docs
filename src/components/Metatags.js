@@ -74,7 +74,6 @@ function Metatags(props) {
             ]}
         >
             <html lang="en" />
-            {console.log("title is" + title)}
         </Helmet>
     )
 }
